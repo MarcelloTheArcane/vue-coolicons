@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 import Vue from 'vue';
 // Uncomment import and local "components" registration if library is not registered globally.
 // import { VueCooliconsSample } from '@/entry.esm';

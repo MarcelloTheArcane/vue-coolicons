@@ -17958,6 +17958,8 @@ Object.entries(components).forEach(function (_ref) {
       component = _ref2[1];
 
   if (componentName !== 'default') {
-    install[componentName] = component;
+    var key = componentName;
+    var val = component;
+    install[key] = val;
   }
 });module.exports=install;
