@@ -11,11 +11,11 @@ yarn add vue-coolicons
 ```
 
 ```vue
-<script>
 <template>
   <coolicons-icon />
 </template>
 
+<script>
 import { CooliconsIcon } from 'vue-coolicons'
 
 export default {
