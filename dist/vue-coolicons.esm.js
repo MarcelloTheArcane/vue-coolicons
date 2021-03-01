@@ -1,9 +1,13 @@
-import Vue from 'vue';
-
 //
-var script$6r = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$6r = {
   name: 'AddColumnIcon'
-});
+};
 
 function normalizeComponent(template, style, script, scopeId, isFunctionalTemplate, moduleIdentifier /* server only */, shadowMode, createInjector, createInjectorSSR, createInjectorShadow) {
     if (typeof shadowMode !== 'boolean') {
@@ -132,9 +136,15 @@ const __vue_component__$6r = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6r, __vue_script__$6r, __vue_scope_id__$6r, __vue_is_functional_template__$6r, __vue_module_identifier__$6r, false, undefined, undefined, undefined);
 
 //
-var script$6q = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$6q = {
   name: 'AddRowIcon'
-});
+};
 
 /* script */
 const __vue_script__$6q = script$6q;
@@ -188,9 +198,14 @@ const __vue_component__$6q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6q, __vue_script__$6q, __vue_scope_id__$6q, __vue_is_functional_template__$6q, __vue_module_identifier__$6q, false, undefined, undefined, undefined);
 
 //
-var script$6p = Vue.extend({
+//
+//
+//
+//
+//
+var script$6p = {
   name: 'AddToQueueIcon'
-});
+};
 
 /* script */
 const __vue_script__$6p = script$6p;
@@ -239,9 +254,14 @@ const __vue_component__$6p = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6p, __vue_script__$6p, __vue_scope_id__$6p, __vue_is_functional_template__$6p, __vue_module_identifier__$6p, false, undefined, undefined, undefined);
 
 //
-var script$6o = Vue.extend({
+//
+//
+//
+//
+//
+var script$6o = {
   name: 'AdobeXdIcon'
-});
+};
 
 /* script */
 const __vue_script__$6o = script$6o;
@@ -290,9 +310,14 @@ const __vue_component__$6o = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6o, __vue_script__$6o, __vue_scope_id__$6o, __vue_is_functional_template__$6o, __vue_module_identifier__$6o, false, undefined, undefined, undefined);
 
 //
-var script$6n = Vue.extend({
+//
+//
+//
+//
+//
+var script$6n = {
   name: 'AirplayIcon'
-});
+};
 
 /* script */
 const __vue_script__$6n = script$6n;
@@ -341,9 +366,14 @@ const __vue_component__$6n = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6n, __vue_script__$6n, __vue_scope_id__$6n, __vue_is_functional_template__$6n, __vue_module_identifier__$6n, false, undefined, undefined, undefined);
 
 //
-var script$6m = Vue.extend({
+//
+//
+//
+//
+//
+var script$6m = {
   name: 'AlarmAddIcon'
-});
+};
 
 /* script */
 const __vue_script__$6m = script$6m;
@@ -392,9 +422,14 @@ const __vue_component__$6m = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6m, __vue_script__$6m, __vue_scope_id__$6m, __vue_is_functional_template__$6m, __vue_module_identifier__$6m, false, undefined, undefined, undefined);
 
 //
-var script$6l = Vue.extend({
+//
+//
+//
+//
+//
+var script$6l = {
   name: 'AlarmIcon'
-});
+};
 
 /* script */
 const __vue_script__$6l = script$6l;
@@ -443,9 +478,14 @@ const __vue_component__$6l = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6l, __vue_script__$6l, __vue_scope_id__$6l, __vue_is_functional_template__$6l, __vue_module_identifier__$6l, false, undefined, undefined, undefined);
 
 //
-var script$6k = Vue.extend({
+//
+//
+//
+//
+//
+var script$6k = {
   name: 'AppStoreIcon'
-});
+};
 
 /* script */
 const __vue_script__$6k = script$6k;
@@ -494,9 +534,14 @@ const __vue_component__$6k = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6k, __vue_script__$6k, __vue_scope_id__$6k, __vue_is_functional_template__$6k, __vue_module_identifier__$6k, false, undefined, undefined, undefined);
 
 //
-var script$6j = Vue.extend({
+//
+//
+//
+//
+//
+var script$6j = {
   name: 'AppleIcon'
-});
+};
 
 /* script */
 const __vue_script__$6j = script$6j;
@@ -545,9 +590,14 @@ const __vue_component__$6j = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6j, __vue_script__$6j, __vue_scope_id__$6j, __vue_is_functional_template__$6j, __vue_module_identifier__$6j, false, undefined, undefined, undefined);
 
 //
-var script$6i = Vue.extend({
+//
+//
+//
+//
+//
+var script$6i = {
   name: 'BarBottomIcon'
-});
+};
 
 /* script */
 const __vue_script__$6i = script$6i;
@@ -596,9 +646,14 @@ const __vue_component__$6i = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6i, __vue_script__$6i, __vue_scope_id__$6i, __vue_is_functional_template__$6i, __vue_module_identifier__$6i, false, undefined, undefined, undefined);
 
 //
-var script$6h = Vue.extend({
+//
+//
+//
+//
+//
+var script$6h = {
   name: 'BarChartAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$6h = script$6h;
@@ -647,9 +702,14 @@ const __vue_component__$6h = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6h, __vue_script__$6h, __vue_scope_id__$6h, __vue_is_functional_template__$6h, __vue_module_identifier__$6h, false, undefined, undefined, undefined);
 
 //
-var script$6g = Vue.extend({
+//
+//
+//
+//
+//
+var script$6g = {
   name: 'BarChartCircleIcon'
-});
+};
 
 /* script */
 const __vue_script__$6g = script$6g;
@@ -700,9 +760,14 @@ const __vue_component__$6g = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6g, __vue_script__$6g, __vue_scope_id__$6g, __vue_is_functional_template__$6g, __vue_module_identifier__$6g, false, undefined, undefined, undefined);
 
 //
-var script$6f = Vue.extend({
+//
+//
+//
+//
+//
+var script$6f = {
   name: 'BarChartHorizontalIcon'
-});
+};
 
 /* script */
 const __vue_script__$6f = script$6f;
@@ -751,9 +816,14 @@ const __vue_component__$6f = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6f, __vue_script__$6f, __vue_scope_id__$6f, __vue_is_functional_template__$6f, __vue_module_identifier__$6f, false, undefined, undefined, undefined);
 
 //
-var script$6e = Vue.extend({
+//
+//
+//
+//
+//
+var script$6e = {
   name: 'BarChartSquareIcon'
-});
+};
 
 /* script */
 const __vue_script__$6e = script$6e;
@@ -802,9 +872,14 @@ const __vue_component__$6e = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6e, __vue_script__$6e, __vue_scope_id__$6e, __vue_is_functional_template__$6e, __vue_module_identifier__$6e, false, undefined, undefined, undefined);
 
 //
-var script$6d = Vue.extend({
+//
+//
+//
+//
+//
+var script$6d = {
   name: 'BarChartIcon'
-});
+};
 
 /* script */
 const __vue_script__$6d = script$6d;
@@ -853,9 +928,14 @@ const __vue_component__$6d = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6d, __vue_script__$6d, __vue_scope_id__$6d, __vue_is_functional_template__$6d, __vue_module_identifier__$6d, false, undefined, undefined, undefined);
 
 //
-var script$6c = Vue.extend({
+//
+//
+//
+//
+//
+var script$6c = {
   name: 'BarLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$6c = script$6c;
@@ -904,9 +984,14 @@ const __vue_component__$6c = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6c, __vue_script__$6c, __vue_scope_id__$6c, __vue_is_functional_template__$6c, __vue_module_identifier__$6c, false, undefined, undefined, undefined);
 
 //
-var script$6b = Vue.extend({
+//
+//
+//
+//
+//
+var script$6b = {
   name: 'BarRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$6b = script$6b;
@@ -955,9 +1040,14 @@ const __vue_component__$6b = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6b, __vue_script__$6b, __vue_scope_id__$6b, __vue_is_functional_template__$6b, __vue_module_identifier__$6b, false, undefined, undefined, undefined);
 
 //
-var script$6a = Vue.extend({
+//
+//
+//
+//
+//
+var script$6a = {
   name: 'BarTopIcon'
-});
+};
 
 /* script */
 const __vue_script__$6a = script$6a;
@@ -1006,9 +1096,20 @@ const __vue_component__$6a = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6a, __vue_script__$6a, __vue_scope_id__$6a, __vue_is_functional_template__$6a, __vue_module_identifier__$6a, false, undefined, undefined, undefined);
 
 //
-var script$69 = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$69 = {
   name: 'BarcodeIcon'
-});
+};
 
 /* script */
 const __vue_script__$69 = script$69;
@@ -1087,9 +1188,14 @@ const __vue_component__$69 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$69, __vue_script__$69, __vue_scope_id__$69, __vue_is_functional_template__$69, __vue_module_identifier__$69, false, undefined, undefined, undefined);
 
 //
-var script$68 = Vue.extend({
+//
+//
+//
+//
+//
+var script$68 = {
   name: 'BehanceIcon'
-});
+};
 
 /* script */
 const __vue_script__$68 = script$68;
@@ -1138,9 +1244,18 @@ const __vue_component__$68 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$68, __vue_script__$68, __vue_scope_id__$68, __vue_is_functional_template__$68, __vue_module_identifier__$68, false, undefined, undefined, undefined);
 
 //
-var script$67 = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$67 = {
   name: 'BlackLivesMatterIcon'
-});
+};
 
 /* script */
 const __vue_script__$67 = script$67;
@@ -1209,9 +1324,14 @@ const __vue_component__$67 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$67, __vue_script__$67, __vue_scope_id__$67, __vue_is_functional_template__$67, __vue_module_identifier__$67, false, undefined, undefined, undefined);
 
 //
-var script$66 = Vue.extend({
+//
+//
+//
+//
+//
+var script$66 = {
   name: 'BoldIcon'
-});
+};
 
 /* script */
 const __vue_script__$66 = script$66;
@@ -1260,9 +1380,14 @@ const __vue_component__$66 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$66, __vue_script__$66, __vue_scope_id__$66, __vue_is_functional_template__$66, __vue_module_identifier__$66, false, undefined, undefined, undefined);
 
 //
-var script$65 = Vue.extend({
+//
+//
+//
+//
+//
+var script$65 = {
   name: 'BuildingIcon'
-});
+};
 
 /* script */
 const __vue_script__$65 = script$65;
@@ -1311,9 +1436,14 @@ const __vue_component__$65 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$65, __vue_script__$65, __vue_scope_id__$65, __vue_is_functional_template__$65, __vue_module_identifier__$65, false, undefined, undefined, undefined);
 
 //
-var script$64 = Vue.extend({
+//
+//
+//
+//
+//
+var script$64 = {
   name: 'BulbIcon'
-});
+};
 
 /* script */
 const __vue_script__$64 = script$64;
@@ -1362,9 +1492,14 @@ const __vue_component__$64 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$64, __vue_script__$64, __vue_scope_id__$64, __vue_is_functional_template__$64, __vue_module_identifier__$64, false, undefined, undefined, undefined);
 
 //
-var script$63 = Vue.extend({
+//
+//
+//
+//
+//
+var script$63 = {
   name: 'CalendarCalendarIcon'
-});
+};
 
 /* script */
 const __vue_script__$63 = script$63;
@@ -1413,9 +1548,14 @@ const __vue_component__$63 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$63, __vue_script__$63, __vue_scope_id__$63, __vue_is_functional_template__$63, __vue_module_identifier__$63, false, undefined, undefined, undefined);
 
 //
-var script$62 = Vue.extend({
+//
+//
+//
+//
+//
+var script$62 = {
   name: 'CalendarCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$62 = script$62;
@@ -1464,9 +1604,14 @@ const __vue_component__$62 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$62, __vue_script__$62, __vue_scope_id__$62, __vue_is_functional_template__$62, __vue_module_identifier__$62, false, undefined, undefined, undefined);
 
 //
-var script$61 = Vue.extend({
+//
+//
+//
+//
+//
+var script$61 = {
   name: 'CalendarEditIcon'
-});
+};
 
 /* script */
 const __vue_script__$61 = script$61;
@@ -1515,9 +1660,14 @@ const __vue_component__$61 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$61, __vue_script__$61, __vue_scope_id__$61, __vue_is_functional_template__$61, __vue_module_identifier__$61, false, undefined, undefined, undefined);
 
 //
-var script$60 = Vue.extend({
+//
+//
+//
+//
+//
+var script$60 = {
   name: 'CalendarEventIcon'
-});
+};
 
 /* script */
 const __vue_script__$60 = script$60;
@@ -1566,9 +1716,14 @@ const __vue_component__$60 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$60, __vue_script__$60, __vue_scope_id__$60, __vue_is_functional_template__$60, __vue_module_identifier__$60, false, undefined, undefined, undefined);
 
 //
-var script$5$ = Vue.extend({
+//
+//
+//
+//
+//
+var script$5$ = {
   name: 'CalendarMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$5$ = script$5$;
@@ -1617,9 +1772,14 @@ const __vue_component__$5$ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5$, __vue_script__$5$, __vue_scope_id__$5$, __vue_is_functional_template__$5$, __vue_module_identifier__$5$, false, undefined, undefined, undefined);
 
 //
-var script$5_ = Vue.extend({
+//
+//
+//
+//
+//
+var script$5_ = {
   name: 'CalendarPlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$5_ = script$5_;
@@ -1668,9 +1828,14 @@ const __vue_component__$5_ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5_, __vue_script__$5_, __vue_scope_id__$5_, __vue_is_functional_template__$5_, __vue_module_identifier__$5_, false, undefined, undefined, undefined);
 
 //
-var script$5Z = Vue.extend({
+//
+//
+//
+//
+//
+var script$5Z = {
   name: 'CalendarWeekIcon'
-});
+};
 
 /* script */
 const __vue_script__$5Z = script$5Z;
@@ -1719,9 +1884,14 @@ const __vue_component__$5Z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5Z, __vue_script__$5Z, __vue_scope_id__$5Z, __vue_is_functional_template__$5Z, __vue_module_identifier__$5Z, false, undefined, undefined, undefined);
 
 //
-var script$5Y = Vue.extend({
+//
+//
+//
+//
+//
+var script$5Y = {
   name: 'CalendarXIcon'
-});
+};
 
 /* script */
 const __vue_script__$5Y = script$5Y;
@@ -1770,9 +1940,14 @@ const __vue_component__$5Y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5Y, __vue_script__$5Y, __vue_scope_id__$5Y, __vue_is_functional_template__$5Y, __vue_module_identifier__$5Y, false, undefined, undefined, undefined);
 
 //
-var script$5X = Vue.extend({
+//
+//
+//
+//
+//
+var script$5X = {
   name: 'CalendarIcon'
-});
+};
 
 /* script */
 const __vue_script__$5X = script$5X;
@@ -1821,9 +1996,14 @@ const __vue_component__$5X = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5X, __vue_script__$5X, __vue_scope_id__$5X, __vue_is_functional_template__$5X, __vue_module_identifier__$5X, false, undefined, undefined, undefined);
 
 //
-var script$5W = Vue.extend({
+//
+//
+//
+//
+//
+var script$5W = {
   name: 'CaretDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$5W = script$5W;
@@ -1872,9 +2052,14 @@ const __vue_component__$5W = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5W, __vue_script__$5W, __vue_scope_id__$5W, __vue_is_functional_template__$5W, __vue_module_identifier__$5W, false, undefined, undefined, undefined);
 
 //
-var script$5V = Vue.extend({
+//
+//
+//
+//
+//
+var script$5V = {
   name: 'CaretLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$5V = script$5V;
@@ -1923,9 +2108,14 @@ const __vue_component__$5V = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5V, __vue_script__$5V, __vue_scope_id__$5V, __vue_is_functional_template__$5V, __vue_module_identifier__$5V, false, undefined, undefined, undefined);
 
 //
-var script$5U = Vue.extend({
+//
+//
+//
+//
+//
+var script$5U = {
   name: 'CaretRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$5U = script$5U;
@@ -1974,9 +2164,14 @@ const __vue_component__$5U = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5U, __vue_script__$5U, __vue_scope_id__$5U, __vue_is_functional_template__$5U, __vue_module_identifier__$5U, false, undefined, undefined, undefined);
 
 //
-var script$5T = Vue.extend({
+//
+//
+//
+//
+//
+var script$5T = {
   name: 'CaretUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$5T = script$5T;
@@ -2025,9 +2220,14 @@ const __vue_component__$5T = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5T, __vue_script__$5T, __vue_scope_id__$5T, __vue_is_functional_template__$5T, __vue_module_identifier__$5T, false, undefined, undefined, undefined);
 
 //
-var script$5S = Vue.extend({
+//
+//
+//
+//
+//
+var script$5S = {
   name: 'CastIcon'
-});
+};
 
 /* script */
 const __vue_script__$5S = script$5S;
@@ -2076,9 +2276,15 @@ const __vue_component__$5S = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5S, __vue_script__$5S, __vue_scope_id__$5S, __vue_is_functional_template__$5S, __vue_module_identifier__$5S, false, undefined, undefined, undefined);
 
 //
-var script$5R = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$5R = {
   name: 'ChatAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$5R = script$5R;
@@ -2132,9 +2338,15 @@ const __vue_component__$5R = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5R, __vue_script__$5R, __vue_scope_id__$5R, __vue_is_functional_template__$5R, __vue_module_identifier__$5R, false, undefined, undefined, undefined);
 
 //
-var script$5Q = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$5Q = {
   name: 'ChatIcon'
-});
+};
 
 /* script */
 const __vue_script__$5Q = script$5Q;
@@ -2188,9 +2400,14 @@ const __vue_component__$5Q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5Q, __vue_script__$5Q, __vue_scope_id__$5Q, __vue_is_functional_template__$5Q, __vue_module_identifier__$5Q, false, undefined, undefined, undefined);
 
 //
-var script$5P = Vue.extend({
+//
+//
+//
+//
+//
+var script$5P = {
   name: 'CheckAllBigIcon'
-});
+};
 
 /* script */
 const __vue_script__$5P = script$5P;
@@ -2239,9 +2456,14 @@ const __vue_component__$5P = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5P, __vue_script__$5P, __vue_scope_id__$5P, __vue_is_functional_template__$5P, __vue_module_identifier__$5P, false, undefined, undefined, undefined);
 
 //
-var script$5O = Vue.extend({
+//
+//
+//
+//
+//
+var script$5O = {
   name: 'CheckAllIcon'
-});
+};
 
 /* script */
 const __vue_script__$5O = script$5O;
@@ -2290,9 +2512,14 @@ const __vue_component__$5O = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5O, __vue_script__$5O, __vue_scope_id__$5O, __vue_is_functional_template__$5O, __vue_module_identifier__$5O, false, undefined, undefined, undefined);
 
 //
-var script$5N = Vue.extend({
+//
+//
+//
+//
+//
+var script$5N = {
   name: 'CheckBigIcon'
-});
+};
 
 /* script */
 const __vue_script__$5N = script$5N;
@@ -2341,9 +2568,14 @@ const __vue_component__$5N = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5N, __vue_script__$5N, __vue_scope_id__$5N, __vue_is_functional_template__$5N, __vue_module_identifier__$5N, false, undefined, undefined, undefined);
 
 //
-var script$5M = Vue.extend({
+//
+//
+//
+//
+//
+var script$5M = {
   name: 'CheckBoldIcon'
-});
+};
 
 /* script */
 const __vue_script__$5M = script$5M;
@@ -2392,9 +2624,14 @@ const __vue_component__$5M = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5M, __vue_script__$5M, __vue_scope_id__$5M, __vue_is_functional_template__$5M, __vue_module_identifier__$5M, false, undefined, undefined, undefined);
 
 //
-var script$5L = Vue.extend({
+//
+//
+//
+//
+//
+var script$5L = {
   name: 'CheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$5L = script$5L;
@@ -2443,9 +2680,14 @@ const __vue_component__$5L = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5L, __vue_script__$5L, __vue_scope_id__$5L, __vue_is_functional_template__$5L, __vue_module_identifier__$5L, false, undefined, undefined, undefined);
 
 //
-var script$5K = Vue.extend({
+//
+//
+//
+//
+//
+var script$5K = {
   name: 'CheckboxCheckedIcon'
-});
+};
 
 /* script */
 const __vue_script__$5K = script$5K;
@@ -2494,9 +2736,14 @@ const __vue_component__$5K = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5K, __vue_script__$5K, __vue_scope_id__$5K, __vue_is_functional_template__$5K, __vue_module_identifier__$5K, false, undefined, undefined, undefined);
 
 //
-var script$5J = Vue.extend({
+//
+//
+//
+//
+//
+var script$5J = {
   name: 'CheckboxSquareIcon'
-});
+};
 
 /* script */
 const __vue_script__$5J = script$5J;
@@ -2545,9 +2792,14 @@ const __vue_component__$5J = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5J, __vue_script__$5J, __vue_scope_id__$5J, __vue_is_functional_template__$5J, __vue_module_identifier__$5J, false, undefined, undefined, undefined);
 
 //
-var script$5I = Vue.extend({
+//
+//
+//
+//
+//
+var script$5I = {
   name: 'CheckboxIcon'
-});
+};
 
 /* script */
 const __vue_script__$5I = script$5I;
@@ -2596,9 +2848,14 @@ const __vue_component__$5I = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5I, __vue_script__$5I, __vue_scope_id__$5I, __vue_is_functional_template__$5I, __vue_module_identifier__$5I, false, undefined, undefined, undefined);
 
 //
-var script$5H = Vue.extend({
+//
+//
+//
+//
+//
+var script$5H = {
   name: 'ChevronBigDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$5H = script$5H;
@@ -2647,9 +2904,14 @@ const __vue_component__$5H = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5H, __vue_script__$5H, __vue_scope_id__$5H, __vue_is_functional_template__$5H, __vue_module_identifier__$5H, false, undefined, undefined, undefined);
 
 //
-var script$5G = Vue.extend({
+//
+//
+//
+//
+//
+var script$5G = {
   name: 'ChevronBigLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$5G = script$5G;
@@ -2698,9 +2960,14 @@ const __vue_component__$5G = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5G, __vue_script__$5G, __vue_scope_id__$5G, __vue_is_functional_template__$5G, __vue_module_identifier__$5G, false, undefined, undefined, undefined);
 
 //
-var script$5F = Vue.extend({
+//
+//
+//
+//
+//
+var script$5F = {
   name: 'ChevronBigRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$5F = script$5F;
@@ -2749,9 +3016,14 @@ const __vue_component__$5F = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5F, __vue_script__$5F, __vue_scope_id__$5F, __vue_is_functional_template__$5F, __vue_module_identifier__$5F, false, undefined, undefined, undefined);
 
 //
-var script$5E = Vue.extend({
+//
+//
+//
+//
+//
+var script$5E = {
   name: 'ChevronBigUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$5E = script$5E;
@@ -2800,9 +3072,14 @@ const __vue_component__$5E = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5E, __vue_script__$5E, __vue_scope_id__$5E, __vue_is_functional_template__$5E, __vue_module_identifier__$5E, false, undefined, undefined, undefined);
 
 //
-var script$5D = Vue.extend({
+//
+//
+//
+//
+//
+var script$5D = {
   name: 'ChevronDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$5D = script$5D;
@@ -2851,9 +3128,14 @@ const __vue_component__$5D = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5D, __vue_script__$5D, __vue_scope_id__$5D, __vue_is_functional_template__$5D, __vue_module_identifier__$5D, false, undefined, undefined, undefined);
 
 //
-var script$5C = Vue.extend({
+//
+//
+//
+//
+//
+var script$5C = {
   name: 'ChevronDuoDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$5C = script$5C;
@@ -2902,9 +3184,14 @@ const __vue_component__$5C = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5C, __vue_script__$5C, __vue_scope_id__$5C, __vue_is_functional_template__$5C, __vue_module_identifier__$5C, false, undefined, undefined, undefined);
 
 //
-var script$5B = Vue.extend({
+//
+//
+//
+//
+//
+var script$5B = {
   name: 'ChevronDuoLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$5B = script$5B;
@@ -2953,9 +3240,14 @@ const __vue_component__$5B = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5B, __vue_script__$5B, __vue_scope_id__$5B, __vue_is_functional_template__$5B, __vue_module_identifier__$5B, false, undefined, undefined, undefined);
 
 //
-var script$5A = Vue.extend({
+//
+//
+//
+//
+//
+var script$5A = {
   name: 'ChevronDuoRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$5A = script$5A;
@@ -3004,9 +3296,14 @@ const __vue_component__$5A = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5A, __vue_script__$5A, __vue_scope_id__$5A, __vue_is_functional_template__$5A, __vue_module_identifier__$5A, false, undefined, undefined, undefined);
 
 //
-var script$5z = Vue.extend({
+//
+//
+//
+//
+//
+var script$5z = {
   name: 'ChevronDuoUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$5z = script$5z;
@@ -3055,9 +3352,14 @@ const __vue_component__$5z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5z, __vue_script__$5z, __vue_scope_id__$5z, __vue_is_functional_template__$5z, __vue_module_identifier__$5z, false, undefined, undefined, undefined);
 
 //
-var script$5y = Vue.extend({
+//
+//
+//
+//
+//
+var script$5y = {
   name: 'ChevronLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$5y = script$5y;
@@ -3106,9 +3408,14 @@ const __vue_component__$5y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5y, __vue_script__$5y, __vue_scope_id__$5y, __vue_is_functional_template__$5y, __vue_module_identifier__$5y, false, undefined, undefined, undefined);
 
 //
-var script$5x = Vue.extend({
+//
+//
+//
+//
+//
+var script$5x = {
   name: 'ChevronRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$5x = script$5x;
@@ -3157,9 +3464,14 @@ const __vue_component__$5x = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5x, __vue_script__$5x, __vue_scope_id__$5x, __vue_is_functional_template__$5x, __vue_module_identifier__$5x, false, undefined, undefined, undefined);
 
 //
-var script$5w = Vue.extend({
+//
+//
+//
+//
+//
+var script$5w = {
   name: 'ChevronUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$5w = script$5w;
@@ -3208,9 +3520,14 @@ const __vue_component__$5w = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5w, __vue_script__$5w, __vue_scope_id__$5w, __vue_is_functional_template__$5w, __vue_module_identifier__$5w, false, undefined, undefined, undefined);
 
 //
-var script$5v = Vue.extend({
+//
+//
+//
+//
+//
+var script$5v = {
   name: 'CircleCheckOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$5v = script$5v;
@@ -3259,9 +3576,14 @@ const __vue_component__$5v = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5v, __vue_script__$5v, __vue_scope_id__$5v, __vue_is_functional_template__$5v, __vue_module_identifier__$5v, false, undefined, undefined, undefined);
 
 //
-var script$5u = Vue.extend({
+//
+//
+//
+//
+//
+var script$5u = {
   name: 'CircleCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$5u = script$5u;
@@ -3310,9 +3632,14 @@ const __vue_component__$5u = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5u, __vue_script__$5u, __vue_scope_id__$5u, __vue_is_functional_template__$5u, __vue_module_identifier__$5u, false, undefined, undefined, undefined);
 
 //
-var script$5t = Vue.extend({
+//
+//
+//
+//
+//
+var script$5t = {
   name: 'CircleChevronDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$5t = script$5t;
@@ -3361,9 +3688,14 @@ const __vue_component__$5t = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5t, __vue_script__$5t, __vue_scope_id__$5t, __vue_is_functional_template__$5t, __vue_module_identifier__$5t, false, undefined, undefined, undefined);
 
 //
-var script$5s = Vue.extend({
+//
+//
+//
+//
+//
+var script$5s = {
   name: 'CircleChevronLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$5s = script$5s;
@@ -3412,9 +3744,14 @@ const __vue_component__$5s = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5s, __vue_script__$5s, __vue_scope_id__$5s, __vue_is_functional_template__$5s, __vue_module_identifier__$5s, false, undefined, undefined, undefined);
 
 //
-var script$5r = Vue.extend({
+//
+//
+//
+//
+//
+var script$5r = {
   name: 'CircleChevronRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$5r = script$5r;
@@ -3463,9 +3800,14 @@ const __vue_component__$5r = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5r, __vue_script__$5r, __vue_scope_id__$5r, __vue_is_functional_template__$5r, __vue_module_identifier__$5r, false, undefined, undefined, undefined);
 
 //
-var script$5q = Vue.extend({
+//
+//
+//
+//
+//
+var script$5q = {
   name: 'CircleChevronUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$5q = script$5q;
@@ -3514,9 +3856,14 @@ const __vue_component__$5q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5q, __vue_script__$5q, __vue_scope_id__$5q, __vue_is_functional_template__$5q, __vue_module_identifier__$5q, false, undefined, undefined, undefined);
 
 //
-var script$5p = Vue.extend({
+//
+//
+//
+//
+//
+var script$5p = {
   name: 'CircleDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$5p = script$5p;
@@ -3565,9 +3912,14 @@ const __vue_component__$5p = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5p, __vue_script__$5p, __vue_scope_id__$5p, __vue_is_functional_template__$5p, __vue_module_identifier__$5p, false, undefined, undefined, undefined);
 
 //
-var script$5o = Vue.extend({
+//
+//
+//
+//
+//
+var script$5o = {
   name: 'CircleLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$5o = script$5o;
@@ -3616,9 +3968,14 @@ const __vue_component__$5o = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5o, __vue_script__$5o, __vue_scope_id__$5o, __vue_is_functional_template__$5o, __vue_module_identifier__$5o, false, undefined, undefined, undefined);
 
 //
-var script$5n = Vue.extend({
+//
+//
+//
+//
+//
+var script$5n = {
   name: 'CircleRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$5n = script$5n;
@@ -3667,9 +4024,14 @@ const __vue_component__$5n = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5n, __vue_script__$5n, __vue_scope_id__$5n, __vue_is_functional_template__$5n, __vue_module_identifier__$5n, false, undefined, undefined, undefined);
 
 //
-var script$5m = Vue.extend({
+//
+//
+//
+//
+//
+var script$5m = {
   name: 'CircleUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$5m = script$5m;
@@ -3718,9 +4080,14 @@ const __vue_component__$5m = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5m, __vue_script__$5m, __vue_scope_id__$5m, __vue_is_functional_template__$5m, __vue_module_identifier__$5m, false, undefined, undefined, undefined);
 
 //
-var script$5l = Vue.extend({
+//
+//
+//
+//
+//
+var script$5l = {
   name: 'ClockIcon'
-});
+};
 
 /* script */
 const __vue_script__$5l = script$5l;
@@ -3769,9 +4136,14 @@ const __vue_component__$5l = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5l, __vue_script__$5l, __vue_scope_id__$5l, __vue_is_functional_template__$5l, __vue_module_identifier__$5l, false, undefined, undefined, undefined);
 
 //
-var script$5k = Vue.extend({
+//
+//
+//
+//
+//
+var script$5k = {
   name: 'CloseBigIcon'
-});
+};
 
 /* script */
 const __vue_script__$5k = script$5k;
@@ -3820,9 +4192,14 @@ const __vue_component__$5k = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5k, __vue_script__$5k, __vue_scope_id__$5k, __vue_is_functional_template__$5k, __vue_module_identifier__$5k, false, undefined, undefined, undefined);
 
 //
-var script$5j = Vue.extend({
+//
+//
+//
+//
+//
+var script$5j = {
   name: 'CloseSmallIcon'
-});
+};
 
 /* script */
 const __vue_script__$5j = script$5j;
@@ -3871,9 +4248,21 @@ const __vue_component__$5j = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5j, __vue_script__$5j, __vue_scope_id__$5j, __vue_is_functional_template__$5j, __vue_module_identifier__$5j, false, undefined, undefined, undefined);
 
 //
-var script$5i = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5i = {
   name: 'CloudCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$5i = script$5i;
@@ -3936,9 +4325,21 @@ const __vue_component__$5i = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5i, __vue_script__$5i, __vue_scope_id__$5i, __vue_is_functional_template__$5i, __vue_module_identifier__$5i, false, undefined, undefined, undefined);
 
 //
-var script$5h = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5h = {
   name: 'CloudCloseIcon'
-});
+};
 
 /* script */
 const __vue_script__$5h = script$5h;
@@ -4001,9 +4402,21 @@ const __vue_component__$5h = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5h, __vue_script__$5h, __vue_scope_id__$5h, __vue_is_functional_template__$5h, __vue_module_identifier__$5h, false, undefined, undefined, undefined);
 
 //
-var script$5g = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5g = {
   name: 'CloudDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$5g = script$5g;
@@ -4066,9 +4479,21 @@ const __vue_component__$5g = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5g, __vue_script__$5g, __vue_scope_id__$5g, __vue_is_functional_template__$5g, __vue_module_identifier__$5g, false, undefined, undefined, undefined);
 
 //
-var script$5f = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5f = {
   name: 'CloudOffIcon'
-});
+};
 
 /* script */
 const __vue_script__$5f = script$5f;
@@ -4131,9 +4556,21 @@ const __vue_component__$5f = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5f, __vue_script__$5f, __vue_scope_id__$5f, __vue_is_functional_template__$5f, __vue_module_identifier__$5f, false, undefined, undefined, undefined);
 
 //
-var script$5e = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5e = {
   name: 'CloudOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$5e = script$5e;
@@ -4196,9 +4633,21 @@ const __vue_component__$5e = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5e, __vue_script__$5e, __vue_scope_id__$5e, __vue_is_functional_template__$5e, __vue_module_identifier__$5e, false, undefined, undefined, undefined);
 
 //
-var script$5d = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5d = {
   name: 'CloudUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$5d = script$5d;
@@ -4261,9 +4710,21 @@ const __vue_component__$5d = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5d, __vue_script__$5d, __vue_scope_id__$5d, __vue_is_functional_template__$5d, __vue_module_identifier__$5d, false, undefined, undefined, undefined);
 
 //
-var script$5c = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5c = {
   name: 'CloudIcon'
-});
+};
 
 /* script */
 const __vue_script__$5c = script$5c;
@@ -4326,9 +4787,14 @@ const __vue_component__$5c = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5c, __vue_script__$5c, __vue_scope_id__$5c, __vue_is_functional_template__$5c, __vue_module_identifier__$5c, false, undefined, undefined, undefined);
 
 //
-var script$5b = Vue.extend({
+//
+//
+//
+//
+//
+var script$5b = {
   name: 'CodeIcon'
-});
+};
 
 /* script */
 const __vue_script__$5b = script$5b;
@@ -4377,9 +4843,14 @@ const __vue_component__$5b = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5b, __vue_script__$5b, __vue_scope_id__$5b, __vue_is_functional_template__$5b, __vue_module_identifier__$5b, false, undefined, undefined, undefined);
 
 //
-var script$5a = Vue.extend({
+//
+//
+//
+//
+//
+var script$5a = {
   name: 'CoffeeTogoIcon'
-});
+};
 
 /* script */
 const __vue_script__$5a = script$5a;
@@ -4428,9 +4899,14 @@ const __vue_component__$5a = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5a, __vue_script__$5a, __vue_scope_id__$5a, __vue_is_functional_template__$5a, __vue_module_identifier__$5a, false, undefined, undefined, undefined);
 
 //
-var script$59 = Vue.extend({
+//
+//
+//
+//
+//
+var script$59 = {
   name: 'ColorIcon'
-});
+};
 
 /* script */
 const __vue_script__$59 = script$59;
@@ -4479,9 +4955,17 @@ const __vue_component__$59 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$59, __vue_script__$59, __vue_scope_id__$59, __vue_is_functional_template__$59, __vue_module_identifier__$59, false, undefined, undefined, undefined);
 
 //
-var script$58 = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$58 = {
   name: 'CombineCellsIcon'
-});
+};
 
 /* script */
 const __vue_script__$58 = script$58;
@@ -4545,9 +5029,14 @@ const __vue_component__$58 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$58, __vue_script__$58, __vue_scope_id__$58, __vue_is_functional_template__$58, __vue_module_identifier__$58, false, undefined, undefined, undefined);
 
 //
-var script$57 = Vue.extend({
+//
+//
+//
+//
+//
+var script$57 = {
   name: 'CommandIcon'
-});
+};
 
 /* script */
 const __vue_script__$57 = script$57;
@@ -4596,9 +5085,14 @@ const __vue_component__$57 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$57, __vue_script__$57, __vue_scope_id__$57, __vue_is_functional_template__$57, __vue_module_identifier__$57, false, undefined, undefined, undefined);
 
 //
-var script$56 = Vue.extend({
+//
+//
+//
+//
+//
+var script$56 = {
   name: 'ConfusedIcon'
-});
+};
 
 /* script */
 const __vue_script__$56 = script$56;
@@ -4647,9 +5141,14 @@ const __vue_component__$56 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$56, __vue_script__$56, __vue_scope_id__$56, __vue_is_functional_template__$56, __vue_module_identifier__$56, false, undefined, undefined, undefined);
 
 //
-var script$55 = Vue.extend({
+//
+//
+//
+//
+//
+var script$55 = {
   name: 'CookieIcon'
-});
+};
 
 /* script */
 const __vue_script__$55 = script$55;
@@ -4698,9 +5197,14 @@ const __vue_component__$55 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$55, __vue_script__$55, __vue_scope_id__$55, __vue_is_functional_template__$55, __vue_module_identifier__$55, false, undefined, undefined, undefined);
 
 //
-var script$54 = Vue.extend({
+//
+//
+//
+//
+//
+var script$54 = {
   name: 'CooliconsIcon'
-});
+};
 
 /* script */
 const __vue_script__$54 = script$54;
@@ -4749,9 +5253,14 @@ const __vue_component__$54 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$54, __vue_script__$54, __vue_scope_id__$54, __vue_is_functional_template__$54, __vue_module_identifier__$54, false, undefined, undefined, undefined);
 
 //
-var script$53 = Vue.extend({
+//
+//
+//
+//
+//
+var script$53 = {
   name: 'CopyIcon'
-});
+};
 
 /* script */
 const __vue_script__$53 = script$53;
@@ -4800,9 +5309,14 @@ const __vue_component__$53 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$53, __vue_script__$53, __vue_scope_id__$53, __vue_is_functional_template__$53, __vue_module_identifier__$53, false, undefined, undefined, undefined);
 
 //
-var script$52 = Vue.extend({
+//
+//
+//
+//
+//
+var script$52 = {
   name: 'CreditCardAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$52 = script$52;
@@ -4851,9 +5365,14 @@ const __vue_component__$52 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$52, __vue_script__$52, __vue_scope_id__$52, __vue_is_functional_template__$52, __vue_module_identifier__$52, false, undefined, undefined, undefined);
 
 //
-var script$51 = Vue.extend({
+//
+//
+//
+//
+//
+var script$51 = {
   name: 'CreditCardIcon'
-});
+};
 
 /* script */
 const __vue_script__$51 = script$51;
@@ -4902,9 +5421,14 @@ const __vue_component__$51 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$51, __vue_script__$51, __vue_scope_id__$51, __vue_is_functional_template__$51, __vue_module_identifier__$51, false, undefined, undefined, undefined);
 
 //
-var script$50 = Vue.extend({
+//
+//
+//
+//
+//
+var script$50 = {
   name: 'Css3Icon'
-});
+};
 
 /* script */
 const __vue_script__$50 = script$50;
@@ -4953,9 +5477,14 @@ const __vue_component__$50 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$50, __vue_script__$50, __vue_scope_id__$50, __vue_is_functional_template__$50, __vue_module_identifier__$50, false, undefined, undefined, undefined);
 
 //
-var script$4$ = Vue.extend({
+//
+//
+//
+//
+//
+var script$4$ = {
   name: 'CupcakeIcon'
-});
+};
 
 /* script */
 const __vue_script__$4$ = script$4$;
@@ -5004,9 +5533,14 @@ const __vue_component__$4$ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4$, __vue_script__$4$, __vue_scope_id__$4$, __vue_is_functional_template__$4$, __vue_module_identifier__$4$, false, undefined, undefined, undefined);
 
 //
-var script$4_ = Vue.extend({
+//
+//
+//
+//
+//
+var script$4_ = {
   name: 'CylinderIcon'
-});
+};
 
 /* script */
 const __vue_script__$4_ = script$4_;
@@ -5055,9 +5589,14 @@ const __vue_component__$4_ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4_, __vue_script__$4_, __vue_scope_id__$4_, __vue_is_functional_template__$4_, __vue_module_identifier__$4_, false, undefined, undefined, undefined);
 
 //
-var script$4Z = Vue.extend({
+//
+//
+//
+//
+//
+var script$4Z = {
   name: 'Dashboard02Icon'
-});
+};
 
 /* script */
 const __vue_script__$4Z = script$4Z;
@@ -5106,9 +5645,14 @@ const __vue_component__$4Z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4Z, __vue_script__$4Z, __vue_scope_id__$4Z, __vue_is_functional_template__$4Z, __vue_module_identifier__$4Z, false, undefined, undefined, undefined);
 
 //
-var script$4Y = Vue.extend({
+//
+//
+//
+//
+//
+var script$4Y = {
   name: 'DashboardIcon'
-});
+};
 
 /* script */
 const __vue_script__$4Y = script$4Y;
@@ -5157,9 +5701,14 @@ const __vue_component__$4Y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4Y, __vue_script__$4Y, __vue_scope_id__$4Y, __vue_is_functional_template__$4Y, __vue_module_identifier__$4Y, false, undefined, undefined, undefined);
 
 //
-var script$4X = Vue.extend({
+//
+//
+//
+//
+//
+var script$4X = {
   name: 'DataIcon'
-});
+};
 
 /* script */
 const __vue_script__$4X = script$4X;
@@ -5208,9 +5757,15 @@ const __vue_component__$4X = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4X, __vue_script__$4X, __vue_scope_id__$4X, __vue_is_functional_template__$4X, __vue_module_identifier__$4X, false, undefined, undefined, undefined);
 
 //
-var script$4W = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$4W = {
   name: 'DeleteColumnIcon'
-});
+};
 
 /* script */
 const __vue_script__$4W = script$4W;
@@ -5264,9 +5819,15 @@ const __vue_component__$4W = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4W, __vue_script__$4W, __vue_scope_id__$4W, __vue_is_functional_template__$4W, __vue_module_identifier__$4W, false, undefined, undefined, undefined);
 
 //
-var script$4V = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$4V = {
   name: 'DeleteRowIcon'
-});
+};
 
 /* script */
 const __vue_script__$4V = script$4V;
@@ -5320,9 +5881,14 @@ const __vue_component__$4V = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4V, __vue_script__$4V, __vue_scope_id__$4V, __vue_is_functional_template__$4V, __vue_module_identifier__$4V, false, undefined, undefined, undefined);
 
 //
-var script$4U = Vue.extend({
+//
+//
+//
+//
+//
+var script$4U = {
   name: 'DevicesIcon'
-});
+};
 
 /* script */
 const __vue_script__$4U = script$4U;
@@ -5371,9 +5937,14 @@ const __vue_component__$4U = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4U, __vue_script__$4U, __vue_scope_id__$4U, __vue_is_functional_template__$4U, __vue_module_identifier__$4U, false, undefined, undefined, undefined);
 
 //
-var script$4T = Vue.extend({
+//
+//
+//
+//
+//
+var script$4T = {
   name: 'DiscordIcon'
-});
+};
 
 /* script */
 const __vue_script__$4T = script$4T;
@@ -5422,9 +5993,14 @@ const __vue_component__$4T = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4T, __vue_script__$4T, __vue_scope_id__$4T, __vue_is_functional_template__$4T, __vue_module_identifier__$4T, false, undefined, undefined, undefined);
 
 //
-var script$4S = Vue.extend({
+//
+//
+//
+//
+//
+var script$4S = {
   name: 'Dot01XsIcon'
-});
+};
 
 /* script */
 const __vue_script__$4S = script$4S;
@@ -5473,9 +6049,14 @@ const __vue_component__$4S = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4S, __vue_script__$4S, __vue_scope_id__$4S, __vue_is_functional_template__$4S, __vue_module_identifier__$4S, false, undefined, undefined, undefined);
 
 //
-var script$4R = Vue.extend({
+//
+//
+//
+//
+//
+var script$4R = {
   name: 'Dot02SIcon'
-});
+};
 
 /* script */
 const __vue_script__$4R = script$4R;
@@ -5524,9 +6105,14 @@ const __vue_component__$4R = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4R, __vue_script__$4R, __vue_scope_id__$4R, __vue_is_functional_template__$4R, __vue_module_identifier__$4R, false, undefined, undefined, undefined);
 
 //
-var script$4Q = Vue.extend({
+//
+//
+//
+//
+//
+var script$4Q = {
   name: 'Dot03MIcon'
-});
+};
 
 /* script */
 const __vue_script__$4Q = script$4Q;
@@ -5575,9 +6161,14 @@ const __vue_component__$4Q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4Q, __vue_script__$4Q, __vue_scope_id__$4Q, __vue_is_functional_template__$4Q, __vue_module_identifier__$4Q, false, undefined, undefined, undefined);
 
 //
-var script$4P = Vue.extend({
+//
+//
+//
+//
+//
+var script$4P = {
   name: 'Dot04LIcon'
-});
+};
 
 /* script */
 const __vue_script__$4P = script$4P;
@@ -5626,9 +6217,14 @@ const __vue_component__$4P = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4P, __vue_script__$4P, __vue_scope_id__$4P, __vue_is_functional_template__$4P, __vue_module_identifier__$4P, false, undefined, undefined, undefined);
 
 //
-var script$4O = Vue.extend({
+//
+//
+//
+//
+//
+var script$4O = {
   name: 'Dot05XlIcon'
-});
+};
 
 /* script */
 const __vue_script__$4O = script$4O;
@@ -5677,9 +6273,15 @@ const __vue_component__$4O = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4O, __vue_script__$4O, __vue_scope_id__$4O, __vue_is_functional_template__$4O, __vue_module_identifier__$4O, false, undefined, undefined, undefined);
 
 //
-var script$4N = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$4N = {
   name: 'DoubleQuotesLIcon'
-});
+};
 
 /* script */
 const __vue_script__$4N = script$4N;
@@ -5733,9 +6335,15 @@ const __vue_component__$4N = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4N, __vue_script__$4N, __vue_scope_id__$4N, __vue_is_functional_template__$4N, __vue_module_identifier__$4N, false, undefined, undefined, undefined);
 
 //
-var script$4M = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$4M = {
   name: 'DoubleQuotesRIcon'
-});
+};
 
 /* script */
 const __vue_script__$4M = script$4M;
@@ -5789,9 +6397,14 @@ const __vue_component__$4M = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4M, __vue_script__$4M, __vue_scope_id__$4M, __vue_is_functional_template__$4M, __vue_module_identifier__$4M, false, undefined, undefined, undefined);
 
 //
-var script$4L = Vue.extend({
+//
+//
+//
+//
+//
+var script$4L = {
   name: 'DoughnutChartIcon'
-});
+};
 
 /* script */
 const __vue_script__$4L = script$4L;
@@ -5840,9 +6453,14 @@ const __vue_component__$4L = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4L, __vue_script__$4L, __vue_scope_id__$4L, __vue_is_functional_template__$4L, __vue_module_identifier__$4L, false, undefined, undefined, undefined);
 
 //
-var script$4K = Vue.extend({
+//
+//
+//
+//
+//
+var script$4K = {
   name: 'DownloadDoneIcon'
-});
+};
 
 /* script */
 const __vue_script__$4K = script$4K;
@@ -5891,9 +6509,14 @@ const __vue_component__$4K = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4K, __vue_script__$4K, __vue_scope_id__$4K, __vue_is_functional_template__$4K, __vue_module_identifier__$4K, false, undefined, undefined, undefined);
 
 //
-var script$4J = Vue.extend({
+//
+//
+//
+//
+//
+var script$4J = {
   name: 'DownloadIcon'
-});
+};
 
 /* script */
 const __vue_script__$4J = script$4J;
@@ -5942,9 +6565,14 @@ const __vue_component__$4J = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4J, __vue_script__$4J, __vue_scope_id__$4J, __vue_is_functional_template__$4J, __vue_module_identifier__$4J, false, undefined, undefined, undefined);
 
 //
-var script$4I = Vue.extend({
+//
+//
+//
+//
+//
+var script$4I = {
   name: 'DribbbleIcon'
-});
+};
 
 /* script */
 const __vue_script__$4I = script$4I;
@@ -5993,9 +6621,14 @@ const __vue_component__$4I = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4I, __vue_script__$4I, __vue_scope_id__$4I, __vue_is_functional_template__$4I, __vue_module_identifier__$4I, false, undefined, undefined, undefined);
 
 //
-var script$4H = Vue.extend({
+//
+//
+//
+//
+//
+var script$4H = {
   name: 'DropboxIcon'
-});
+};
 
 /* script */
 const __vue_script__$4H = script$4H;
@@ -6044,9 +6677,14 @@ const __vue_component__$4H = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4H, __vue_script__$4H, __vue_scope_id__$4H, __vue_is_functional_template__$4H, __vue_module_identifier__$4H, false, undefined, undefined, undefined);
 
 //
-var script$4G = Vue.extend({
+//
+//
+//
+//
+//
+var script$4G = {
   name: 'EditIcon'
-});
+};
 
 /* script */
 const __vue_script__$4G = script$4G;
@@ -6095,9 +6733,14 @@ const __vue_component__$4G = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4G, __vue_script__$4G, __vue_scope_id__$4G, __vue_is_functional_template__$4G, __vue_module_identifier__$4G, false, undefined, undefined, undefined);
 
 //
-var script$4F = Vue.extend({
+//
+//
+//
+//
+//
+var script$4F = {
   name: 'ErrorOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$4F = script$4F;
@@ -6146,9 +6789,14 @@ const __vue_component__$4F = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4F, __vue_script__$4F, __vue_scope_id__$4F, __vue_is_functional_template__$4F, __vue_module_identifier__$4F, false, undefined, undefined, undefined);
 
 //
-var script$4E = Vue.extend({
+//
+//
+//
+//
+//
+var script$4E = {
   name: 'ErrorIcon'
-});
+};
 
 /* script */
 const __vue_script__$4E = script$4E;
@@ -6197,9 +6845,14 @@ const __vue_component__$4E = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4E, __vue_script__$4E, __vue_scope_id__$4E, __vue_is_functional_template__$4E, __vue_module_identifier__$4E, false, undefined, undefined, undefined);
 
 //
-var script$4D = Vue.extend({
+//
+//
+//
+//
+//
+var script$4D = {
   name: 'ExitIcon'
-});
+};
 
 /* script */
 const __vue_script__$4D = script$4D;
@@ -6248,9 +6901,14 @@ const __vue_component__$4D = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4D, __vue_script__$4D, __vue_scope_id__$4D, __vue_is_functional_template__$4D, __vue_module_identifier__$4D, false, undefined, undefined, undefined);
 
 //
-var script$4C = Vue.extend({
+//
+//
+//
+//
+//
+var script$4C = {
   name: 'ExpandIcon'
-});
+};
 
 /* script */
 const __vue_script__$4C = script$4C;
@@ -6299,9 +6957,14 @@ const __vue_component__$4C = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4C, __vue_script__$4C, __vue_scope_id__$4C, __vue_is_functional_template__$4C, __vue_module_identifier__$4C, false, undefined, undefined, undefined);
 
 //
-var script$4B = Vue.extend({
+//
+//
+//
+//
+//
+var script$4B = {
   name: 'ExternalLinkIcon'
-});
+};
 
 /* script */
 const __vue_script__$4B = script$4B;
@@ -6350,9 +7013,14 @@ const __vue_component__$4B = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4B, __vue_script__$4B, __vue_scope_id__$4B, __vue_is_functional_template__$4B, __vue_module_identifier__$4B, false, undefined, undefined, undefined);
 
 //
-var script$4A = Vue.extend({
+//
+//
+//
+//
+//
+var script$4A = {
   name: 'FacebookIcon'
-});
+};
 
 /* script */
 const __vue_script__$4A = script$4A;
@@ -6401,9 +7069,14 @@ const __vue_component__$4A = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4A, __vue_script__$4A, __vue_scope_id__$4A, __vue_is_functional_template__$4A, __vue_module_identifier__$4A, false, undefined, undefined, undefined);
 
 //
-var script$4z = Vue.extend({
+//
+//
+//
+//
+//
+var script$4z = {
   name: 'FastForwardIcon'
-});
+};
 
 /* script */
 const __vue_script__$4z = script$4z;
@@ -6452,9 +7125,14 @@ const __vue_component__$4z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4z, __vue_script__$4z, __vue_scope_id__$4z, __vue_is_functional_template__$4z, __vue_module_identifier__$4z, false, undefined, undefined, undefined);
 
 //
-var script$4y = Vue.extend({
+//
+//
+//
+//
+//
+var script$4y = {
   name: 'FastRewindIcon'
-});
+};
 
 /* script */
 const __vue_script__$4y = script$4y;
@@ -6503,9 +7181,14 @@ const __vue_component__$4y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4y, __vue_script__$4y, __vue_scope_id__$4y, __vue_is_functional_template__$4y, __vue_module_identifier__$4y, false, undefined, undefined, undefined);
 
 //
-var script$4x = Vue.extend({
+//
+//
+//
+//
+//
+var script$4x = {
   name: 'FigmaIcon'
-});
+};
 
 /* script */
 const __vue_script__$4x = script$4x;
@@ -6554,9 +7237,14 @@ const __vue_component__$4x = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4x, __vue_script__$4x, __vue_scope_id__$4x, __vue_is_functional_template__$4x, __vue_module_identifier__$4x, false, undefined, undefined, undefined);
 
 //
-var script$4w = Vue.extend({
+//
+//
+//
+//
+//
+var script$4w = {
   name: 'FileArchiveIcon'
-});
+};
 
 /* script */
 const __vue_script__$4w = script$4w;
@@ -6605,9 +7293,14 @@ const __vue_component__$4w = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4w, __vue_script__$4w, __vue_scope_id__$4w, __vue_is_functional_template__$4w, __vue_module_identifier__$4w, false, undefined, undefined, undefined);
 
 //
-var script$4v = Vue.extend({
+//
+//
+//
+//
+//
+var script$4v = {
   name: 'FileBlankFillIcon'
-});
+};
 
 /* script */
 const __vue_script__$4v = script$4v;
@@ -6656,9 +7349,14 @@ const __vue_component__$4v = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4v, __vue_script__$4v, __vue_scope_id__$4v, __vue_is_functional_template__$4v, __vue_module_identifier__$4v, false, undefined, undefined, undefined);
 
 //
-var script$4u = Vue.extend({
+//
+//
+//
+//
+//
+var script$4u = {
   name: 'FileBlankOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$4u = script$4u;
@@ -6707,9 +7405,14 @@ const __vue_component__$4u = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4u, __vue_script__$4u, __vue_scope_id__$4u, __vue_is_functional_template__$4u, __vue_module_identifier__$4u, false, undefined, undefined, undefined);
 
 //
-var script$4t = Vue.extend({
+//
+//
+//
+//
+//
+var script$4t = {
   name: 'FileCssIcon'
-});
+};
 
 /* script */
 const __vue_script__$4t = script$4t;
@@ -6758,9 +7461,14 @@ const __vue_component__$4t = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4t, __vue_script__$4t, __vue_scope_id__$4t, __vue_is_functional_template__$4t, __vue_module_identifier__$4t, false, undefined, undefined, undefined);
 
 //
-var script$4s = Vue.extend({
+//
+//
+//
+//
+//
+var script$4s = {
   name: 'FileFindIcon'
-});
+};
 
 /* script */
 const __vue_script__$4s = script$4s;
@@ -6809,9 +7517,14 @@ const __vue_component__$4s = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4s, __vue_script__$4s, __vue_scope_id__$4s, __vue_is_functional_template__$4s, __vue_module_identifier__$4s, false, undefined, undefined, undefined);
 
 //
-var script$4r = Vue.extend({
+//
+//
+//
+//
+//
+var script$4r = {
   name: 'FileHtmlIcon'
-});
+};
 
 /* script */
 const __vue_script__$4r = script$4r;
@@ -6860,9 +7573,14 @@ const __vue_component__$4r = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4r, __vue_script__$4r, __vue_scope_id__$4r, __vue_is_functional_template__$4r, __vue_module_identifier__$4r, false, undefined, undefined, undefined);
 
 //
-var script$4q = Vue.extend({
+//
+//
+//
+//
+//
+var script$4q = {
   name: 'FileImageIcon'
-});
+};
 
 /* script */
 const __vue_script__$4q = script$4q;
@@ -6911,9 +7629,14 @@ const __vue_component__$4q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4q, __vue_script__$4q, __vue_scope_id__$4q, __vue_is_functional_template__$4q, __vue_module_identifier__$4q, false, undefined, undefined, undefined);
 
 //
-var script$4p = Vue.extend({
+//
+//
+//
+//
+//
+var script$4p = {
   name: 'FileJpgIcon'
-});
+};
 
 /* script */
 const __vue_script__$4p = script$4p;
@@ -6962,9 +7685,14 @@ const __vue_component__$4p = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4p, __vue_script__$4p, __vue_scope_id__$4p, __vue_is_functional_template__$4p, __vue_module_identifier__$4p, false, undefined, undefined, undefined);
 
 //
-var script$4o = Vue.extend({
+//
+//
+//
+//
+//
+var script$4o = {
   name: 'FileJsIcon'
-});
+};
 
 /* script */
 const __vue_script__$4o = script$4o;
@@ -7013,9 +7741,14 @@ const __vue_component__$4o = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4o, __vue_script__$4o, __vue_scope_id__$4o, __vue_is_functional_template__$4o, __vue_module_identifier__$4o, false, undefined, undefined, undefined);
 
 //
-var script$4n = Vue.extend({
+//
+//
+//
+//
+//
+var script$4n = {
   name: 'FileMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$4n = script$4n;
@@ -7064,9 +7797,14 @@ const __vue_component__$4n = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4n, __vue_script__$4n, __vue_scope_id__$4n, __vue_is_functional_template__$4n, __vue_module_identifier__$4n, false, undefined, undefined, undefined);
 
 //
-var script$4m = Vue.extend({
+//
+//
+//
+//
+//
+var script$4m = {
   name: 'FileNewIcon'
-});
+};
 
 /* script */
 const __vue_script__$4m = script$4m;
@@ -7115,9 +7853,14 @@ const __vue_component__$4m = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4m, __vue_script__$4m, __vue_scope_id__$4m, __vue_is_functional_template__$4m, __vue_module_identifier__$4m, false, undefined, undefined, undefined);
 
 //
-var script$4l = Vue.extend({
+//
+//
+//
+//
+//
+var script$4l = {
   name: 'FilePdfIcon'
-});
+};
 
 /* script */
 const __vue_script__$4l = script$4l;
@@ -7166,9 +7909,14 @@ const __vue_component__$4l = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4l, __vue_script__$4l, __vue_scope_id__$4l, __vue_is_functional_template__$4l, __vue_module_identifier__$4l, false, undefined, undefined, undefined);
 
 //
-var script$4k = Vue.extend({
+//
+//
+//
+//
+//
+var script$4k = {
   name: 'FilePngIcon'
-});
+};
 
 /* script */
 const __vue_script__$4k = script$4k;
@@ -7217,9 +7965,14 @@ const __vue_component__$4k = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4k, __vue_script__$4k, __vue_scope_id__$4k, __vue_is_functional_template__$4k, __vue_module_identifier__$4k, false, undefined, undefined, undefined);
 
 //
-var script$4j = Vue.extend({
+//
+//
+//
+//
+//
+var script$4j = {
   name: 'FileSvgIcon'
-});
+};
 
 /* script */
 const __vue_script__$4j = script$4j;
@@ -7268,9 +8021,15 @@ const __vue_component__$4j = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4j, __vue_script__$4j, __vue_scope_id__$4j, __vue_is_functional_template__$4j, __vue_module_identifier__$4j, false, undefined, undefined, undefined);
 
 //
-var script$4i = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$4i = {
   name: 'FilterOffOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$4i = script$4i;
@@ -7324,9 +8083,15 @@ const __vue_component__$4i = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4i, __vue_script__$4i, __vue_scope_id__$4i, __vue_is_functional_template__$4i, __vue_module_identifier__$4i, false, undefined, undefined, undefined);
 
 //
-var script$4h = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$4h = {
   name: 'FilterOffIcon'
-});
+};
 
 /* script */
 const __vue_script__$4h = script$4h;
@@ -7380,9 +8145,14 @@ const __vue_component__$4h = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4h, __vue_script__$4h, __vue_scope_id__$4h, __vue_is_functional_template__$4h, __vue_module_identifier__$4h, false, undefined, undefined, undefined);
 
 //
-var script$4g = Vue.extend({
+//
+//
+//
+//
+//
+var script$4g = {
   name: 'FilterOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$4g = script$4g;
@@ -7431,9 +8201,14 @@ const __vue_component__$4g = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4g, __vue_script__$4g, __vue_scope_id__$4g, __vue_is_functional_template__$4g, __vue_module_identifier__$4g, false, undefined, undefined, undefined);
 
 //
-var script$4f = Vue.extend({
+//
+//
+//
+//
+//
+var script$4f = {
   name: 'FilterIcon'
-});
+};
 
 /* script */
 const __vue_script__$4f = script$4f;
@@ -7482,9 +8257,14 @@ const __vue_component__$4f = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4f, __vue_script__$4f, __vue_scope_id__$4f, __vue_is_functional_template__$4f, __vue_module_identifier__$4f, false, undefined, undefined, undefined);
 
 //
-var script$4e = Vue.extend({
+//
+//
+//
+//
+//
+var script$4e = {
   name: 'FirstPageIcon'
-});
+};
 
 /* script */
 const __vue_script__$4e = script$4e;
@@ -7533,9 +8313,14 @@ const __vue_component__$4e = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4e, __vue_script__$4e, __vue_scope_id__$4e, __vue_is_functional_template__$4e, __vue_module_identifier__$4e, false, undefined, undefined, undefined);
 
 //
-var script$4d = Vue.extend({
+//
+//
+//
+//
+//
+var script$4d = {
   name: 'FlagFillIcon'
-});
+};
 
 /* script */
 const __vue_script__$4d = script$4d;
@@ -7584,9 +8369,14 @@ const __vue_component__$4d = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4d, __vue_script__$4d, __vue_scope_id__$4d, __vue_is_functional_template__$4d, __vue_module_identifier__$4d, false, undefined, undefined, undefined);
 
 //
-var script$4c = Vue.extend({
+//
+//
+//
+//
+//
+var script$4c = {
   name: 'FlagOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$4c = script$4c;
@@ -7635,9 +8425,14 @@ const __vue_component__$4c = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4c, __vue_script__$4c, __vue_scope_id__$4c, __vue_is_functional_template__$4c, __vue_module_identifier__$4c, false, undefined, undefined, undefined);
 
 //
-var script$4b = Vue.extend({
+//
+//
+//
+//
+//
+var script$4b = {
   name: 'FolderMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$4b = script$4b;
@@ -7686,9 +8481,14 @@ const __vue_component__$4b = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4b, __vue_script__$4b, __vue_scope_id__$4b, __vue_is_functional_template__$4b, __vue_module_identifier__$4b, false, undefined, undefined, undefined);
 
 //
-var script$4a = Vue.extend({
+//
+//
+//
+//
+//
+var script$4a = {
   name: 'FolderOpenIcon'
-});
+};
 
 /* script */
 const __vue_script__$4a = script$4a;
@@ -7737,9 +8537,14 @@ const __vue_component__$4a = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4a, __vue_script__$4a, __vue_scope_id__$4a, __vue_is_functional_template__$4a, __vue_module_identifier__$4a, false, undefined, undefined, undefined);
 
 //
-var script$49 = Vue.extend({
+//
+//
+//
+//
+//
+var script$49 = {
   name: 'FolderPlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$49 = script$49;
@@ -7788,9 +8593,14 @@ const __vue_component__$49 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$49, __vue_script__$49, __vue_scope_id__$49, __vue_is_functional_template__$49, __vue_module_identifier__$49, false, undefined, undefined, undefined);
 
 //
-var script$48 = Vue.extend({
+//
+//
+//
+//
+//
+var script$48 = {
   name: 'FolderIcon'
-});
+};
 
 /* script */
 const __vue_script__$48 = script$48;
@@ -7839,9 +8649,14 @@ const __vue_component__$48 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$48, __vue_script__$48, __vue_scope_id__$48, __vue_is_functional_template__$48, __vue_module_identifier__$48, false, undefined, undefined, undefined);
 
 //
-var script$47 = Vue.extend({
+//
+//
+//
+//
+//
+var script$47 = {
   name: 'GithubIcon'
-});
+};
 
 /* script */
 const __vue_script__$47 = script$47;
@@ -7890,9 +8705,14 @@ const __vue_component__$47 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$47, __vue_script__$47, __vue_scope_id__$47, __vue_is_functional_template__$47, __vue_module_identifier__$47, false, undefined, undefined, undefined);
 
 //
-var script$46 = Vue.extend({
+//
+//
+//
+//
+//
+var script$46 = {
   name: 'GoogleIcon'
-});
+};
 
 /* script */
 const __vue_script__$46 = script$46;
@@ -7941,9 +8761,14 @@ const __vue_component__$46 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$46, __vue_script__$46, __vue_scope_id__$46, __vue_is_functional_template__$46, __vue_module_identifier__$46, false, undefined, undefined, undefined);
 
 //
-var script$45 = Vue.extend({
+//
+//
+//
+//
+//
+var script$45 = {
   name: 'GridBigRoundIcon'
-});
+};
 
 /* script */
 const __vue_script__$45 = script$45;
@@ -7992,9 +8817,14 @@ const __vue_component__$45 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$45, __vue_script__$45, __vue_scope_id__$45, __vue_is_functional_template__$45, __vue_module_identifier__$45, false, undefined, undefined, undefined);
 
 //
-var script$44 = Vue.extend({
+//
+//
+//
+//
+//
+var script$44 = {
   name: 'GridBigIcon'
-});
+};
 
 /* script */
 const __vue_script__$44 = script$44;
@@ -8043,9 +8873,14 @@ const __vue_component__$44 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$44, __vue_script__$44, __vue_scope_id__$44, __vue_is_functional_template__$44, __vue_module_identifier__$44, false, undefined, undefined, undefined);
 
 //
-var script$43 = Vue.extend({
+//
+//
+//
+//
+//
+var script$43 = {
   name: 'GridHorizontalRoundIcon'
-});
+};
 
 /* script */
 const __vue_script__$43 = script$43;
@@ -8094,9 +8929,14 @@ const __vue_component__$43 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$43, __vue_script__$43, __vue_scope_id__$43, __vue_is_functional_template__$43, __vue_module_identifier__$43, false, undefined, undefined, undefined);
 
 //
-var script$42 = Vue.extend({
+//
+//
+//
+//
+//
+var script$42 = {
   name: 'GridHorizontalIcon'
-});
+};
 
 /* script */
 const __vue_script__$42 = script$42;
@@ -8145,9 +8985,14 @@ const __vue_component__$42 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$42, __vue_script__$42, __vue_scope_id__$42, __vue_is_functional_template__$42, __vue_module_identifier__$42, false, undefined, undefined, undefined);
 
 //
-var script$41 = Vue.extend({
+//
+//
+//
+//
+//
+var script$41 = {
   name: 'GridRoundIcon'
-});
+};
 
 /* script */
 const __vue_script__$41 = script$41;
@@ -8196,9 +9041,14 @@ const __vue_component__$41 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$41, __vue_script__$41, __vue_scope_id__$41, __vue_is_functional_template__$41, __vue_module_identifier__$41, false, undefined, undefined, undefined);
 
 //
-var script$40 = Vue.extend({
+//
+//
+//
+//
+//
+var script$40 = {
   name: 'GridSmallRoundIcon'
-});
+};
 
 /* script */
 const __vue_script__$40 = script$40;
@@ -8247,9 +9097,14 @@ const __vue_component__$40 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$40, __vue_script__$40, __vue_scope_id__$40, __vue_is_functional_template__$40, __vue_module_identifier__$40, false, undefined, undefined, undefined);
 
 //
-var script$3$ = Vue.extend({
+//
+//
+//
+//
+//
+var script$3$ = {
   name: 'GridSmallIcon'
-});
+};
 
 /* script */
 const __vue_script__$3$ = script$3$;
@@ -8298,9 +9153,14 @@ const __vue_component__$3$ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3$, __vue_script__$3$, __vue_scope_id__$3$, __vue_is_functional_template__$3$, __vue_module_identifier__$3$, false, undefined, undefined, undefined);
 
 //
-var script$3_ = Vue.extend({
+//
+//
+//
+//
+//
+var script$3_ = {
   name: 'GridVerticalRoundIcon'
-});
+};
 
 /* script */
 const __vue_script__$3_ = script$3_;
@@ -8349,9 +9209,14 @@ const __vue_component__$3_ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3_, __vue_script__$3_, __vue_scope_id__$3_, __vue_is_functional_template__$3_, __vue_module_identifier__$3_, false, undefined, undefined, undefined);
 
 //
-var script$3Z = Vue.extend({
+//
+//
+//
+//
+//
+var script$3Z = {
   name: 'GridVerticalIcon'
-});
+};
 
 /* script */
 const __vue_script__$3Z = script$3Z;
@@ -8400,9 +9265,14 @@ const __vue_component__$3Z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3Z, __vue_script__$3Z, __vue_scope_id__$3Z, __vue_is_functional_template__$3Z, __vue_module_identifier__$3Z, false, undefined, undefined, undefined);
 
 //
-var script$3Y = Vue.extend({
+//
+//
+//
+//
+//
+var script$3Y = {
   name: 'GridIcon'
-});
+};
 
 /* script */
 const __vue_script__$3Y = script$3Y;
@@ -8451,9 +9321,17 @@ const __vue_component__$3Y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3Y, __vue_script__$3Y, __vue_scope_id__$3Y, __vue_is_functional_template__$3Y, __vue_module_identifier__$3Y, false, undefined, undefined, undefined);
 
 //
-var script$3X = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$3X = {
   name: 'GroupAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$3X = script$3X;
@@ -8517,9 +9395,17 @@ const __vue_component__$3X = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3X, __vue_script__$3X, __vue_scope_id__$3X, __vue_is_functional_template__$3X, __vue_module_identifier__$3X, false, undefined, undefined, undefined);
 
 //
-var script$3W = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$3W = {
   name: 'GroupIcon'
-});
+};
 
 /* script */
 const __vue_script__$3W = script$3W;
@@ -8583,9 +9469,14 @@ const __vue_component__$3W = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3W, __vue_script__$3W, __vue_scope_id__$3W, __vue_is_functional_template__$3W, __vue_module_identifier__$3W, false, undefined, undefined, undefined);
 
 //
-var script$3V = Vue.extend({
+//
+//
+//
+//
+//
+var script$3V = {
   name: 'HamburgerIcon'
-});
+};
 
 /* script */
 const __vue_script__$3V = script$3V;
@@ -8634,9 +9525,14 @@ const __vue_component__$3V = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3V, __vue_script__$3V, __vue_scope_id__$3V, __vue_is_functional_template__$3V, __vue_module_identifier__$3V, false, undefined, undefined, undefined);
 
 //
-var script$3U = Vue.extend({
+//
+//
+//
+//
+//
+var script$3U = {
   name: 'HappyIcon'
-});
+};
 
 /* script */
 const __vue_script__$3U = script$3U;
@@ -8685,9 +9581,15 @@ const __vue_component__$3U = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3U, __vue_script__$3U, __vue_scope_id__$3U, __vue_is_functional_template__$3U, __vue_module_identifier__$3U, false, undefined, undefined, undefined);
 
 //
-var script$3T = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$3T = {
   name: 'HeadingH1Icon'
-});
+};
 
 /* script */
 const __vue_script__$3T = script$3T;
@@ -8741,9 +9643,15 @@ const __vue_component__$3T = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3T, __vue_script__$3T, __vue_scope_id__$3T, __vue_is_functional_template__$3T, __vue_module_identifier__$3T, false, undefined, undefined, undefined);
 
 //
-var script$3S = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$3S = {
   name: 'HeadingH2Icon'
-});
+};
 
 /* script */
 const __vue_script__$3S = script$3S;
@@ -8797,9 +9705,15 @@ const __vue_component__$3S = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3S, __vue_script__$3S, __vue_scope_id__$3S, __vue_is_functional_template__$3S, __vue_module_identifier__$3S, false, undefined, undefined, undefined);
 
 //
-var script$3R = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$3R = {
   name: 'HeadingH3Icon'
-});
+};
 
 /* script */
 const __vue_script__$3R = script$3R;
@@ -8853,9 +9767,15 @@ const __vue_component__$3R = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3R, __vue_script__$3R, __vue_scope_id__$3R, __vue_is_functional_template__$3R, __vue_module_identifier__$3R, false, undefined, undefined, undefined);
 
 //
-var script$3Q = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$3Q = {
   name: 'HeadingH4Icon'
-});
+};
 
 /* script */
 const __vue_script__$3Q = script$3Q;
@@ -8909,9 +9829,15 @@ const __vue_component__$3Q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3Q, __vue_script__$3Q, __vue_scope_id__$3Q, __vue_is_functional_template__$3Q, __vue_module_identifier__$3Q, false, undefined, undefined, undefined);
 
 //
-var script$3P = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$3P = {
   name: 'HeadingH5Icon'
-});
+};
 
 /* script */
 const __vue_script__$3P = script$3P;
@@ -8965,9 +9891,15 @@ const __vue_component__$3P = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3P, __vue_script__$3P, __vue_scope_id__$3P, __vue_is_functional_template__$3P, __vue_module_identifier__$3P, false, undefined, undefined, undefined);
 
 //
-var script$3O = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$3O = {
   name: 'HeadingH6Icon'
-});
+};
 
 /* script */
 const __vue_script__$3O = script$3O;
@@ -9021,9 +9953,14 @@ const __vue_component__$3O = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3O, __vue_script__$3O, __vue_scope_id__$3O, __vue_is_functional_template__$3O, __vue_module_identifier__$3O, false, undefined, undefined, undefined);
 
 //
-var script$3N = Vue.extend({
+//
+//
+//
+//
+//
+var script$3N = {
   name: 'HeadingIcon'
-});
+};
 
 /* script */
 const __vue_script__$3N = script$3N;
@@ -9072,9 +10009,14 @@ const __vue_component__$3N = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3N, __vue_script__$3N, __vue_scope_id__$3N, __vue_is_functional_template__$3N, __vue_module_identifier__$3N, false, undefined, undefined, undefined);
 
 //
-var script$3M = Vue.extend({
+//
+//
+//
+//
+//
+var script$3M = {
   name: 'HeartFillIcon'
-});
+};
 
 /* script */
 const __vue_script__$3M = script$3M;
@@ -9123,9 +10065,14 @@ const __vue_component__$3M = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3M, __vue_script__$3M, __vue_scope_id__$3M, __vue_is_functional_template__$3M, __vue_module_identifier__$3M, false, undefined, undefined, undefined);
 
 //
-var script$3L = Vue.extend({
+//
+//
+//
+//
+//
+var script$3L = {
   name: 'HeartOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$3L = script$3L;
@@ -9174,9 +10121,14 @@ const __vue_component__$3L = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3L, __vue_script__$3L, __vue_scope_id__$3L, __vue_is_functional_template__$3L, __vue_module_identifier__$3L, false, undefined, undefined, undefined);
 
 //
-var script$3K = Vue.extend({
+//
+//
+//
+//
+//
+var script$3K = {
   name: 'HelpCircleOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$3K = script$3K;
@@ -9225,9 +10177,14 @@ const __vue_component__$3K = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3K, __vue_script__$3K, __vue_scope_id__$3K, __vue_is_functional_template__$3K, __vue_module_identifier__$3K, false, undefined, undefined, undefined);
 
 //
-var script$3J = Vue.extend({
+//
+//
+//
+//
+//
+var script$3J = {
   name: 'HelpCircleIcon'
-});
+};
 
 /* script */
 const __vue_script__$3J = script$3J;
@@ -9276,9 +10233,14 @@ const __vue_component__$3J = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3J, __vue_script__$3J, __vue_scope_id__$3J, __vue_is_functional_template__$3J, __vue_module_identifier__$3J, false, undefined, undefined, undefined);
 
 //
-var script$3I = Vue.extend({
+//
+//
+//
+//
+//
+var script$3I = {
   name: 'HelpQuestionmarkIcon'
-});
+};
 
 /* script */
 const __vue_script__$3I = script$3I;
@@ -9327,9 +10289,14 @@ const __vue_component__$3I = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3I, __vue_script__$3I, __vue_scope_id__$3I, __vue_is_functional_template__$3I, __vue_module_identifier__$3I, false, undefined, undefined, undefined);
 
 //
-var script$3H = Vue.extend({
+//
+//
+//
+//
+//
+var script$3H = {
   name: 'HideIcon'
-});
+};
 
 /* script */
 const __vue_script__$3H = script$3H;
@@ -9378,9 +10345,14 @@ const __vue_component__$3H = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3H, __vue_script__$3H, __vue_scope_id__$3H, __vue_is_functional_template__$3H, __vue_module_identifier__$3H, false, undefined, undefined, undefined);
 
 //
-var script$3G = Vue.extend({
+//
+//
+//
+//
+//
+var script$3G = {
   name: 'HomeAltCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$3G = script$3G;
@@ -9429,9 +10401,14 @@ const __vue_component__$3G = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3G, __vue_script__$3G, __vue_scope_id__$3G, __vue_is_functional_template__$3G, __vue_module_identifier__$3G, false, undefined, undefined, undefined);
 
 //
-var script$3F = Vue.extend({
+//
+//
+//
+//
+//
+var script$3F = {
   name: 'HomeAltFillIcon'
-});
+};
 
 /* script */
 const __vue_script__$3F = script$3F;
@@ -9480,9 +10457,14 @@ const __vue_component__$3F = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3F, __vue_script__$3F, __vue_scope_id__$3F, __vue_is_functional_template__$3F, __vue_module_identifier__$3F, false, undefined, undefined, undefined);
 
 //
-var script$3E = Vue.extend({
+//
+//
+//
+//
+//
+var script$3E = {
   name: 'HomeAltMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$3E = script$3E;
@@ -9531,9 +10513,14 @@ const __vue_component__$3E = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3E, __vue_script__$3E, __vue_scope_id__$3E, __vue_is_functional_template__$3E, __vue_module_identifier__$3E, false, undefined, undefined, undefined);
 
 //
-var script$3D = Vue.extend({
+//
+//
+//
+//
+//
+var script$3D = {
   name: 'HomeAltOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$3D = script$3D;
@@ -9582,9 +10569,14 @@ const __vue_component__$3D = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3D, __vue_script__$3D, __vue_scope_id__$3D, __vue_is_functional_template__$3D, __vue_module_identifier__$3D, false, undefined, undefined, undefined);
 
 //
-var script$3C = Vue.extend({
+//
+//
+//
+//
+//
+var script$3C = {
   name: 'HomeAltPlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$3C = script$3C;
@@ -9633,9 +10625,14 @@ const __vue_component__$3C = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3C, __vue_script__$3C, __vue_scope_id__$3C, __vue_is_functional_template__$3C, __vue_module_identifier__$3C, false, undefined, undefined, undefined);
 
 //
-var script$3B = Vue.extend({
+//
+//
+//
+//
+//
+var script$3B = {
   name: 'HomeAltXIcon'
-});
+};
 
 /* script */
 const __vue_script__$3B = script$3B;
@@ -9684,9 +10681,14 @@ const __vue_component__$3B = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3B, __vue_script__$3B, __vue_scope_id__$3B, __vue_is_functional_template__$3B, __vue_module_identifier__$3B, false, undefined, undefined, undefined);
 
 //
-var script$3A = Vue.extend({
+//
+//
+//
+//
+//
+var script$3A = {
   name: 'HomeCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$3A = script$3A;
@@ -9735,9 +10737,14 @@ const __vue_component__$3A = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3A, __vue_script__$3A, __vue_scope_id__$3A, __vue_is_functional_template__$3A, __vue_module_identifier__$3A, false, undefined, undefined, undefined);
 
 //
-var script$3z = Vue.extend({
+//
+//
+//
+//
+//
+var script$3z = {
   name: 'HomeFillIcon'
-});
+};
 
 /* script */
 const __vue_script__$3z = script$3z;
@@ -9786,9 +10793,14 @@ const __vue_component__$3z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3z, __vue_script__$3z, __vue_scope_id__$3z, __vue_is_functional_template__$3z, __vue_module_identifier__$3z, false, undefined, undefined, undefined);
 
 //
-var script$3y = Vue.extend({
+//
+//
+//
+//
+//
+var script$3y = {
   name: 'HomeHeart1Icon'
-});
+};
 
 /* script */
 const __vue_script__$3y = script$3y;
@@ -9837,9 +10849,14 @@ const __vue_component__$3y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3y, __vue_script__$3y, __vue_scope_id__$3y, __vue_is_functional_template__$3y, __vue_module_identifier__$3y, false, undefined, undefined, undefined);
 
 //
-var script$3x = Vue.extend({
+//
+//
+//
+//
+//
+var script$3x = {
   name: 'HomeHeartIcon'
-});
+};
 
 /* script */
 const __vue_script__$3x = script$3x;
@@ -9888,9 +10905,14 @@ const __vue_component__$3x = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3x, __vue_script__$3x, __vue_scope_id__$3x, __vue_is_functional_template__$3x, __vue_module_identifier__$3x, false, undefined, undefined, undefined);
 
 //
-var script$3w = Vue.extend({
+//
+//
+//
+//
+//
+var script$3w = {
   name: 'HomeMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$3w = script$3w;
@@ -9939,9 +10961,14 @@ const __vue_component__$3w = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3w, __vue_script__$3w, __vue_scope_id__$3w, __vue_is_functional_template__$3w, __vue_module_identifier__$3w, false, undefined, undefined, undefined);
 
 //
-var script$3v = Vue.extend({
+//
+//
+//
+//
+//
+var script$3v = {
   name: 'HomeOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$3v = script$3v;
@@ -9990,9 +11017,14 @@ const __vue_component__$3v = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3v, __vue_script__$3v, __vue_scope_id__$3v, __vue_is_functional_template__$3v, __vue_module_identifier__$3v, false, undefined, undefined, undefined);
 
 //
-var script$3u = Vue.extend({
+//
+//
+//
+//
+//
+var script$3u = {
   name: 'HomePlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$3u = script$3u;
@@ -10041,9 +11073,14 @@ const __vue_component__$3u = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3u, __vue_script__$3u, __vue_scope_id__$3u, __vue_is_functional_template__$3u, __vue_module_identifier__$3u, false, undefined, undefined, undefined);
 
 //
-var script$3t = Vue.extend({
+//
+//
+//
+//
+//
+var script$3t = {
   name: 'HomeXIcon'
-});
+};
 
 /* script */
 const __vue_script__$3t = script$3t;
@@ -10092,9 +11129,14 @@ const __vue_component__$3t = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3t, __vue_script__$3t, __vue_scope_id__$3t, __vue_is_functional_template__$3t, __vue_module_identifier__$3t, false, undefined, undefined, undefined);
 
 //
-var script$3s = Vue.extend({
+//
+//
+//
+//
+//
+var script$3s = {
   name: 'Html5Icon'
-});
+};
 
 /* script */
 const __vue_script__$3s = script$3s;
@@ -10143,9 +11185,14 @@ const __vue_component__$3s = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3s, __vue_script__$3s, __vue_scope_id__$3s, __vue_is_functional_template__$3s, __vue_module_identifier__$3s, false, undefined, undefined, undefined);
 
 //
-var script$3r = Vue.extend({
+//
+//
+//
+//
+//
+var script$3r = {
   name: 'IdCardIcon'
-});
+};
 
 /* script */
 const __vue_script__$3r = script$3r;
@@ -10194,9 +11241,17 @@ const __vue_component__$3r = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3r, __vue_script__$3r, __vue_scope_id__$3r, __vue_is_functional_template__$3r, __vue_module_identifier__$3r, false, undefined, undefined, undefined);
 
 //
-var script$3q = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$3q = {
   name: 'ImageAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$3q = script$3q;
@@ -10260,9 +11315,14 @@ const __vue_component__$3q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3q, __vue_script__$3q, __vue_scope_id__$3q, __vue_is_functional_template__$3q, __vue_module_identifier__$3q, false, undefined, undefined, undefined);
 
 //
-var script$3p = Vue.extend({
+//
+//
+//
+//
+//
+var script$3p = {
   name: 'ImageIcon'
-});
+};
 
 /* script */
 const __vue_script__$3p = script$3p;
@@ -10311,9 +11371,14 @@ const __vue_component__$3p = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3p, __vue_script__$3p, __vue_scope_id__$3p, __vue_is_functional_template__$3p, __vue_module_identifier__$3p, false, undefined, undefined, undefined);
 
 //
-var script$3o = Vue.extend({
+//
+//
+//
+//
+//
+var script$3o = {
   name: 'InfoCircleOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$3o = script$3o;
@@ -10362,9 +11427,14 @@ const __vue_component__$3o = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3o, __vue_script__$3o, __vue_scope_id__$3o, __vue_is_functional_template__$3o, __vue_module_identifier__$3o, false, undefined, undefined, undefined);
 
 //
-var script$3n = Vue.extend({
+//
+//
+//
+//
+//
+var script$3n = {
   name: 'InfoCircleIcon'
-});
+};
 
 /* script */
 const __vue_script__$3n = script$3n;
@@ -10413,9 +11483,14 @@ const __vue_component__$3n = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3n, __vue_script__$3n, __vue_scope_id__$3n, __vue_is_functional_template__$3n, __vue_module_identifier__$3n, false, undefined, undefined, undefined);
 
 //
-var script$3m = Vue.extend({
+//
+//
+//
+//
+//
+var script$3m = {
   name: 'InfoSquareOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$3m = script$3m;
@@ -10464,9 +11539,14 @@ const __vue_component__$3m = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3m, __vue_script__$3m, __vue_scope_id__$3m, __vue_is_functional_template__$3m, __vue_module_identifier__$3m, false, undefined, undefined, undefined);
 
 //
-var script$3l = Vue.extend({
+//
+//
+//
+//
+//
+var script$3l = {
   name: 'InfoSquareIcon'
-});
+};
 
 /* script */
 const __vue_script__$3l = script$3l;
@@ -10515,9 +11595,14 @@ const __vue_component__$3l = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3l, __vue_script__$3l, __vue_scope_id__$3l, __vue_is_functional_template__$3l, __vue_module_identifier__$3l, false, undefined, undefined, undefined);
 
 //
-var script$3k = Vue.extend({
+//
+//
+//
+//
+//
+var script$3k = {
   name: 'InstagramIcon'
-});
+};
 
 /* script */
 const __vue_script__$3k = script$3k;
@@ -10566,9 +11651,14 @@ const __vue_component__$3k = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3k, __vue_script__$3k, __vue_scope_id__$3k, __vue_is_functional_template__$3k, __vue_module_identifier__$3k, false, undefined, undefined, undefined);
 
 //
-var script$3j = Vue.extend({
+//
+//
+//
+//
+//
+var script$3j = {
   name: 'InvisionIcon'
-});
+};
 
 /* script */
 const __vue_script__$3j = script$3j;
@@ -10617,9 +11707,14 @@ const __vue_component__$3j = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3j, __vue_script__$3j, __vue_scope_id__$3j, __vue_is_functional_template__$3j, __vue_module_identifier__$3j, false, undefined, undefined, undefined);
 
 //
-var script$3i = Vue.extend({
+//
+//
+//
+//
+//
+var script$3i = {
   name: 'ItalicIcon'
-});
+};
 
 /* script */
 const __vue_script__$3i = script$3i;
@@ -10668,9 +11763,14 @@ const __vue_component__$3i = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3i, __vue_script__$3i, __vue_scope_id__$3i, __vue_is_functional_template__$3i, __vue_module_identifier__$3i, false, undefined, undefined, undefined);
 
 //
-var script$3h = Vue.extend({
+//
+//
+//
+//
+//
+var script$3h = {
   name: 'JavascriptIcon'
-});
+};
 
 /* script */
 const __vue_script__$3h = script$3h;
@@ -10719,9 +11819,14 @@ const __vue_component__$3h = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3h, __vue_script__$3h, __vue_scope_id__$3h, __vue_is_functional_template__$3h, __vue_module_identifier__$3h, false, undefined, undefined, undefined);
 
 //
-var script$3g = Vue.extend({
+//
+//
+//
+//
+//
+var script$3g = {
   name: 'LabelIcon'
-});
+};
 
 /* script */
 const __vue_script__$3g = script$3g;
@@ -10770,9 +11875,14 @@ const __vue_component__$3g = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3g, __vue_script__$3g, __vue_scope_id__$3g, __vue_is_functional_template__$3g, __vue_module_identifier__$3g, false, undefined, undefined, undefined);
 
 //
-var script$3f = Vue.extend({
+//
+//
+//
+//
+//
+var script$3f = {
   name: 'LaptopIcon'
-});
+};
 
 /* script */
 const __vue_script__$3f = script$3f;
@@ -10821,9 +11931,14 @@ const __vue_component__$3f = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3f, __vue_script__$3f, __vue_scope_id__$3f, __vue_is_functional_template__$3f, __vue_module_identifier__$3f, false, undefined, undefined, undefined);
 
 //
-var script$3e = Vue.extend({
+//
+//
+//
+//
+//
+var script$3e = {
   name: 'LastPageIcon'
-});
+};
 
 /* script */
 const __vue_script__$3e = script$3e;
@@ -10872,9 +11987,14 @@ const __vue_component__$3e = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3e, __vue_script__$3e, __vue_scope_id__$3e, __vue_is_functional_template__$3e, __vue_module_identifier__$3e, false, undefined, undefined, undefined);
 
 //
-var script$3d = Vue.extend({
+//
+//
+//
+//
+//
+var script$3d = {
   name: 'LayersAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$3d = script$3d;
@@ -10923,9 +12043,14 @@ const __vue_component__$3d = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3d, __vue_script__$3d, __vue_scope_id__$3d, __vue_is_functional_template__$3d, __vue_module_identifier__$3d, false, undefined, undefined, undefined);
 
 //
-var script$3c = Vue.extend({
+//
+//
+//
+//
+//
+var script$3c = {
   name: 'LayersIcon'
-});
+};
 
 /* script */
 const __vue_script__$3c = script$3c;
@@ -10974,9 +12099,14 @@ const __vue_component__$3c = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3c, __vue_script__$3c, __vue_scope_id__$3c, __vue_is_functional_template__$3c, __vue_module_identifier__$3c, false, undefined, undefined, undefined);
 
 //
-var script$3b = Vue.extend({
+//
+//
+//
+//
+//
+var script$3b = {
   name: 'LineBreakIcon'
-});
+};
 
 /* script */
 const __vue_script__$3b = script$3b;
@@ -11025,9 +12155,14 @@ const __vue_component__$3b = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3b, __vue_script__$3b, __vue_scope_id__$3b, __vue_is_functional_template__$3b, __vue_module_identifier__$3b, false, undefined, undefined, undefined);
 
 //
-var script$3a = Vue.extend({
+//
+//
+//
+//
+//
+var script$3a = {
   name: 'LineChartDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$3a = script$3a;
@@ -11076,9 +12211,14 @@ const __vue_component__$3a = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3a, __vue_script__$3a, __vue_scope_id__$3a, __vue_is_functional_template__$3a, __vue_module_identifier__$3a, false, undefined, undefined, undefined);
 
 //
-var script$39 = Vue.extend({
+//
+//
+//
+//
+//
+var script$39 = {
   name: 'LineChartUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$39 = script$39;
@@ -11127,9 +12267,14 @@ const __vue_component__$39 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$39, __vue_script__$39, __vue_scope_id__$39, __vue_is_functional_template__$39, __vue_module_identifier__$39, false, undefined, undefined, undefined);
 
 //
-var script$38 = Vue.extend({
+//
+//
+//
+//
+//
+var script$38 = {
   name: 'LineLIcon'
-});
+};
 
 /* script */
 const __vue_script__$38 = script$38;
@@ -11178,9 +12323,14 @@ const __vue_component__$38 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$38, __vue_script__$38, __vue_scope_id__$38, __vue_is_functional_template__$38, __vue_module_identifier__$38, false, undefined, undefined, undefined);
 
 //
-var script$37 = Vue.extend({
+//
+//
+//
+//
+//
+var script$37 = {
   name: 'LineMIcon'
-});
+};
 
 /* script */
 const __vue_script__$37 = script$37;
@@ -11229,9 +12379,14 @@ const __vue_component__$37 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$37, __vue_script__$37, __vue_scope_id__$37, __vue_is_functional_template__$37, __vue_module_identifier__$37, false, undefined, undefined, undefined);
 
 //
-var script$36 = Vue.extend({
+//
+//
+//
+//
+//
+var script$36 = {
   name: 'LineSIcon'
-});
+};
 
 /* script */
 const __vue_script__$36 = script$36;
@@ -11280,9 +12435,14 @@ const __vue_component__$36 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$36, __vue_script__$36, __vue_scope_id__$36, __vue_is_functional_template__$36, __vue_module_identifier__$36, false, undefined, undefined, undefined);
 
 //
-var script$35 = Vue.extend({
+//
+//
+//
+//
+//
+var script$35 = {
   name: 'LineSxIcon'
-});
+};
 
 /* script */
 const __vue_script__$35 = script$35;
@@ -11331,9 +12491,14 @@ const __vue_component__$35 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$35, __vue_script__$35, __vue_scope_id__$35, __vue_is_functional_template__$35, __vue_module_identifier__$35, false, undefined, undefined, undefined);
 
 //
-var script$34 = Vue.extend({
+//
+//
+//
+//
+//
+var script$34 = {
   name: 'LineXlIcon'
-});
+};
 
 /* script */
 const __vue_script__$34 = script$34;
@@ -11382,9 +12547,14 @@ const __vue_component__$34 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$34, __vue_script__$34, __vue_scope_id__$34, __vue_is_functional_template__$34, __vue_module_identifier__$34, false, undefined, undefined, undefined);
 
 //
-var script$33 = Vue.extend({
+//
+//
+//
+//
+//
+var script$33 = {
   name: 'Link02Icon'
-});
+};
 
 /* script */
 const __vue_script__$33 = script$33;
@@ -11433,9 +12603,14 @@ const __vue_component__$33 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$33, __vue_script__$33, __vue_scope_id__$33, __vue_is_functional_template__$33, __vue_module_identifier__$33, false, undefined, undefined, undefined);
 
 //
-var script$32 = Vue.extend({
+//
+//
+//
+//
+//
+var script$32 = {
   name: 'LinkIcon'
-});
+};
 
 /* script */
 const __vue_script__$32 = script$32;
@@ -11484,9 +12659,14 @@ const __vue_component__$32 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$32, __vue_script__$32, __vue_scope_id__$32, __vue_is_functional_template__$32, __vue_module_identifier__$32, false, undefined, undefined, undefined);
 
 //
-var script$31 = Vue.extend({
+//
+//
+//
+//
+//
+var script$31 = {
   name: 'LinkedinIcon'
-});
+};
 
 /* script */
 const __vue_script__$31 = script$31;
@@ -11535,9 +12715,14 @@ const __vue_component__$31 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$31, __vue_script__$31, __vue_scope_id__$31, __vue_is_functional_template__$31, __vue_module_identifier__$31, false, undefined, undefined, undefined);
 
 //
-var script$30 = Vue.extend({
+//
+//
+//
+//
+//
+var script$30 = {
   name: 'LinkpathIcon'
-});
+};
 
 /* script */
 const __vue_script__$30 = script$30;
@@ -11586,9 +12771,14 @@ const __vue_component__$30 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$30, __vue_script__$30, __vue_scope_id__$30, __vue_is_functional_template__$30, __vue_module_identifier__$30, false, undefined, undefined, undefined);
 
 //
-var script$2$ = Vue.extend({
+//
+//
+//
+//
+//
+var script$2$ = {
   name: 'ListCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$2$ = script$2$;
@@ -11637,9 +12827,14 @@ const __vue_component__$2$ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2$, __vue_script__$2$, __vue_scope_id__$2$, __vue_is_functional_template__$2$, __vue_module_identifier__$2$, false, undefined, undefined, undefined);
 
 //
-var script$2_ = Vue.extend({
+//
+//
+//
+//
+//
+var script$2_ = {
   name: 'ListChecklistAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$2_ = script$2_;
@@ -11688,9 +12883,14 @@ const __vue_component__$2_ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2_, __vue_script__$2_, __vue_scope_id__$2_, __vue_is_functional_template__$2_, __vue_module_identifier__$2_, false, undefined, undefined, undefined);
 
 //
-var script$2Z = Vue.extend({
+//
+//
+//
+//
+//
+var script$2Z = {
   name: 'ListChecklistIcon'
-});
+};
 
 /* script */
 const __vue_script__$2Z = script$2Z;
@@ -11739,9 +12939,14 @@ const __vue_component__$2Z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2Z, __vue_script__$2Z, __vue_scope_id__$2Z, __vue_is_functional_template__$2Z, __vue_module_identifier__$2Z, false, undefined, undefined, undefined);
 
 //
-var script$2Y = Vue.extend({
+//
+//
+//
+//
+//
+var script$2Y = {
   name: 'ListMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$2Y = script$2Y;
@@ -11790,9 +12995,14 @@ const __vue_component__$2Y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2Y, __vue_script__$2Y, __vue_scope_id__$2Y, __vue_is_functional_template__$2Y, __vue_module_identifier__$2Y, false, undefined, undefined, undefined);
 
 //
-var script$2X = Vue.extend({
+//
+//
+//
+//
+//
+var script$2X = {
   name: 'ListOlIcon'
-});
+};
 
 /* script */
 const __vue_script__$2X = script$2X;
@@ -11841,9 +13051,14 @@ const __vue_component__$2X = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2X, __vue_script__$2X, __vue_scope_id__$2X, __vue_is_functional_template__$2X, __vue_module_identifier__$2X, false, undefined, undefined, undefined);
 
 //
-var script$2W = Vue.extend({
+//
+//
+//
+//
+//
+var script$2W = {
   name: 'ListPlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$2W = script$2W;
@@ -11892,9 +13107,14 @@ const __vue_component__$2W = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2W, __vue_script__$2W, __vue_scope_id__$2W, __vue_is_functional_template__$2W, __vue_module_identifier__$2W, false, undefined, undefined, undefined);
 
 //
-var script$2V = Vue.extend({
+//
+//
+//
+//
+//
+var script$2V = {
   name: 'ListUlIcon'
-});
+};
 
 /* script */
 const __vue_script__$2V = script$2V;
@@ -11943,9 +13163,14 @@ const __vue_component__$2V = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2V, __vue_script__$2V, __vue_scope_id__$2V, __vue_is_functional_template__$2V, __vue_module_identifier__$2V, false, undefined, undefined, undefined);
 
 //
-var script$2U = Vue.extend({
+//
+//
+//
+//
+//
+var script$2U = {
   name: 'LoadingIcon'
-});
+};
 
 /* script */
 const __vue_script__$2U = script$2U;
@@ -11994,9 +13219,14 @@ const __vue_component__$2U = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2U, __vue_script__$2U, __vue_scope_id__$2U, __vue_is_functional_template__$2U, __vue_module_identifier__$2U, false, undefined, undefined, undefined);
 
 //
-var script$2T = Vue.extend({
+//
+//
+//
+//
+//
+var script$2T = {
   name: 'LocationOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$2T = script$2T;
@@ -12045,9 +13275,14 @@ const __vue_component__$2T = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2T, __vue_script__$2T, __vue_scope_id__$2T, __vue_is_functional_template__$2T, __vue_module_identifier__$2T, false, undefined, undefined, undefined);
 
 //
-var script$2S = Vue.extend({
+//
+//
+//
+//
+//
+var script$2S = {
   name: 'LocationIcon'
-});
+};
 
 /* script */
 const __vue_script__$2S = script$2S;
@@ -12096,9 +13331,14 @@ const __vue_component__$2S = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2S, __vue_script__$2S, __vue_scope_id__$2S, __vue_is_functional_template__$2S, __vue_module_identifier__$2S, false, undefined, undefined, undefined);
 
 //
-var script$2R = Vue.extend({
+//
+//
+//
+//
+//
+var script$2R = {
   name: 'LogOutIcon'
-});
+};
 
 /* script */
 const __vue_script__$2R = script$2R;
@@ -12147,9 +13387,14 @@ const __vue_component__$2R = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2R, __vue_script__$2R, __vue_scope_id__$2R, __vue_is_functional_template__$2R, __vue_module_identifier__$2R, false, undefined, undefined, undefined);
 
 //
-var script$2Q = Vue.extend({
+//
+//
+//
+//
+//
+var script$2Q = {
   name: 'LongBottomDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$2Q = script$2Q;
@@ -12198,9 +13443,14 @@ const __vue_component__$2Q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2Q, __vue_script__$2Q, __vue_scope_id__$2Q, __vue_is_functional_template__$2Q, __vue_module_identifier__$2Q, false, undefined, undefined, undefined);
 
 //
-var script$2P = Vue.extend({
+//
+//
+//
+//
+//
+var script$2P = {
   name: 'LongBottomUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$2P = script$2P;
@@ -12249,9 +13499,14 @@ const __vue_component__$2P = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2P, __vue_script__$2P, __vue_scope_id__$2P, __vue_is_functional_template__$2P, __vue_module_identifier__$2P, false, undefined, undefined, undefined);
 
 //
-var script$2O = Vue.extend({
+//
+//
+//
+//
+//
+var script$2O = {
   name: 'LongDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$2O = script$2O;
@@ -12300,9 +13555,14 @@ const __vue_component__$2O = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2O, __vue_script__$2O, __vue_scope_id__$2O, __vue_is_functional_template__$2O, __vue_module_identifier__$2O, false, undefined, undefined, undefined);
 
 //
-var script$2N = Vue.extend({
+//
+//
+//
+//
+//
+var script$2N = {
   name: 'LongLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$2N = script$2N;
@@ -12351,9 +13611,14 @@ const __vue_component__$2N = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2N, __vue_script__$2N, __vue_scope_id__$2N, __vue_is_functional_template__$2N, __vue_module_identifier__$2N, false, undefined, undefined, undefined);
 
 //
-var script$2M = Vue.extend({
+//
+//
+//
+//
+//
+var script$2M = {
   name: 'LongRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$2M = script$2M;
@@ -12402,9 +13667,14 @@ const __vue_component__$2M = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2M, __vue_script__$2M, __vue_scope_id__$2M, __vue_is_functional_template__$2M, __vue_module_identifier__$2M, false, undefined, undefined, undefined);
 
 //
-var script$2L = Vue.extend({
+//
+//
+//
+//
+//
+var script$2L = {
   name: 'LongUpLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$2L = script$2L;
@@ -12453,9 +13723,14 @@ const __vue_component__$2L = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2L, __vue_script__$2L, __vue_scope_id__$2L, __vue_is_functional_template__$2L, __vue_module_identifier__$2L, false, undefined, undefined, undefined);
 
 //
-var script$2K = Vue.extend({
+//
+//
+//
+//
+//
+var script$2K = {
   name: 'LongUpRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$2K = script$2K;
@@ -12504,9 +13779,14 @@ const __vue_component__$2K = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2K, __vue_script__$2K, __vue_scope_id__$2K, __vue_is_functional_template__$2K, __vue_module_identifier__$2K, false, undefined, undefined, undefined);
 
 //
-var script$2J = Vue.extend({
+//
+//
+//
+//
+//
+var script$2J = {
   name: 'LongUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$2J = script$2J;
@@ -12555,9 +13835,14 @@ const __vue_component__$2J = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2J, __vue_script__$2J, __vue_scope_id__$2J, __vue_is_functional_template__$2J, __vue_module_identifier__$2J, false, undefined, undefined, undefined);
 
 //
-var script$2I = Vue.extend({
+//
+//
+//
+//
+//
+var script$2I = {
   name: 'MailOpenIcon'
-});
+};
 
 /* script */
 const __vue_script__$2I = script$2I;
@@ -12606,9 +13891,14 @@ const __vue_component__$2I = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2I, __vue_script__$2I, __vue_scope_id__$2I, __vue_is_functional_template__$2I, __vue_module_identifier__$2I, false, undefined, undefined, undefined);
 
 //
-var script$2H = Vue.extend({
+//
+//
+//
+//
+//
+var script$2H = {
   name: 'MailIcon'
-});
+};
 
 /* script */
 const __vue_script__$2H = script$2H;
@@ -12657,9 +13947,14 @@ const __vue_component__$2H = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2H, __vue_script__$2H, __vue_scope_id__$2H, __vue_is_functional_template__$2H, __vue_module_identifier__$2H, false, undefined, undefined, undefined);
 
 //
-var script$2G = Vue.extend({
+//
+//
+//
+//
+//
+var script$2G = {
   name: 'MapIcon'
-});
+};
 
 /* script */
 const __vue_script__$2G = script$2G;
@@ -12708,9 +14003,14 @@ const __vue_component__$2G = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2G, __vue_script__$2G, __vue_scope_id__$2G, __vue_is_functional_template__$2G, __vue_module_identifier__$2G, false, undefined, undefined, undefined);
 
 //
-var script$2F = Vue.extend({
+//
+//
+//
+//
+//
+var script$2F = {
   name: 'MentionIcon'
-});
+};
 
 /* script */
 const __vue_script__$2F = script$2F;
@@ -12759,9 +14059,14 @@ const __vue_component__$2F = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2F, __vue_script__$2F, __vue_scope_id__$2F, __vue_is_functional_template__$2F, __vue_module_identifier__$2F, false, undefined, undefined, undefined);
 
 //
-var script$2E = Vue.extend({
+//
+//
+//
+//
+//
+var script$2E = {
   name: 'MenuAlt01Icon'
-});
+};
 
 /* script */
 const __vue_script__$2E = script$2E;
@@ -12810,9 +14115,14 @@ const __vue_component__$2E = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2E, __vue_script__$2E, __vue_scope_id__$2E, __vue_is_functional_template__$2E, __vue_module_identifier__$2E, false, undefined, undefined, undefined);
 
 //
-var script$2D = Vue.extend({
+//
+//
+//
+//
+//
+var script$2D = {
   name: 'MenuAlt02Icon'
-});
+};
 
 /* script */
 const __vue_script__$2D = script$2D;
@@ -12861,9 +14171,14 @@ const __vue_component__$2D = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2D, __vue_script__$2D, __vue_scope_id__$2D, __vue_is_functional_template__$2D, __vue_module_identifier__$2D, false, undefined, undefined, undefined);
 
 //
-var script$2C = Vue.extend({
+//
+//
+//
+//
+//
+var script$2C = {
   name: 'MenuAlt03Icon'
-});
+};
 
 /* script */
 const __vue_script__$2C = script$2C;
@@ -12912,9 +14227,14 @@ const __vue_component__$2C = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2C, __vue_script__$2C, __vue_scope_id__$2C, __vue_is_functional_template__$2C, __vue_module_identifier__$2C, false, undefined, undefined, undefined);
 
 //
-var script$2B = Vue.extend({
+//
+//
+//
+//
+//
+var script$2B = {
   name: 'MenuAlt04Icon'
-});
+};
 
 /* script */
 const __vue_script__$2B = script$2B;
@@ -12963,9 +14283,14 @@ const __vue_component__$2B = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2B, __vue_script__$2B, __vue_scope_id__$2B, __vue_is_functional_template__$2B, __vue_module_identifier__$2B, false, undefined, undefined, undefined);
 
 //
-var script$2A = Vue.extend({
+//
+//
+//
+//
+//
+var script$2A = {
   name: 'MenuAlt05Icon'
-});
+};
 
 /* script */
 const __vue_script__$2A = script$2A;
@@ -13014,9 +14339,14 @@ const __vue_component__$2A = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2A, __vue_script__$2A, __vue_scope_id__$2A, __vue_is_functional_template__$2A, __vue_module_identifier__$2A, false, undefined, undefined, undefined);
 
 //
-var script$2z = Vue.extend({
+//
+//
+//
+//
+//
+var script$2z = {
   name: 'MenuDuoIcon'
-});
+};
 
 /* script */
 const __vue_script__$2z = script$2z;
@@ -13065,9 +14395,14 @@ const __vue_component__$2z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2z, __vue_script__$2z, __vue_scope_id__$2z, __vue_is_functional_template__$2z, __vue_module_identifier__$2z, false, undefined, undefined, undefined);
 
 //
-var script$2y = Vue.extend({
+//
+//
+//
+//
+//
+var script$2y = {
   name: 'MessageCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$2y = script$2y;
@@ -13116,9 +14451,14 @@ const __vue_component__$2y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2y, __vue_script__$2y, __vue_scope_id__$2y, __vue_is_functional_template__$2y, __vue_module_identifier__$2y, false, undefined, undefined, undefined);
 
 //
-var script$2x = Vue.extend({
+//
+//
+//
+//
+//
+var script$2x = {
   name: 'MessageCircleIcon'
-});
+};
 
 /* script */
 const __vue_script__$2x = script$2x;
@@ -13167,9 +14507,15 @@ const __vue_component__$2x = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2x, __vue_script__$2x, __vue_scope_id__$2x, __vue_is_functional_template__$2x, __vue_module_identifier__$2x, false, undefined, undefined, undefined);
 
 //
-var script$2w = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$2w = {
   name: 'MessageCloseIcon'
-});
+};
 
 /* script */
 const __vue_script__$2w = script$2w;
@@ -13223,9 +14569,14 @@ const __vue_component__$2w = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2w, __vue_script__$2w, __vue_scope_id__$2w, __vue_is_functional_template__$2w, __vue_module_identifier__$2w, false, undefined, undefined, undefined);
 
 //
-var script$2v = Vue.extend({
+//
+//
+//
+//
+//
+var script$2v = {
   name: 'MessageMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$2v = script$2v;
@@ -13274,9 +14625,15 @@ const __vue_component__$2v = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2v, __vue_script__$2v, __vue_scope_id__$2v, __vue_is_functional_template__$2v, __vue_module_identifier__$2v, false, undefined, undefined, undefined);
 
 //
-var script$2u = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$2u = {
   name: 'MessagePlusAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$2u = script$2u;
@@ -13330,9 +14687,14 @@ const __vue_component__$2u = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2u, __vue_script__$2u, __vue_scope_id__$2u, __vue_is_functional_template__$2u, __vue_module_identifier__$2u, false, undefined, undefined, undefined);
 
 //
-var script$2t = Vue.extend({
+//
+//
+//
+//
+//
+var script$2t = {
   name: 'MessagePlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$2t = script$2t;
@@ -13381,9 +14743,14 @@ const __vue_component__$2t = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2t, __vue_script__$2t, __vue_scope_id__$2t, __vue_is_functional_template__$2t, __vue_module_identifier__$2t, false, undefined, undefined, undefined);
 
 //
-var script$2s = Vue.extend({
+//
+//
+//
+//
+//
+var script$2s = {
   name: 'MessageRoundIcon'
-});
+};
 
 /* script */
 const __vue_script__$2s = script$2s;
@@ -13432,9 +14799,17 @@ const __vue_component__$2s = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2s, __vue_script__$2s, __vue_scope_id__$2s, __vue_is_functional_template__$2s, __vue_module_identifier__$2s, false, undefined, undefined, undefined);
 
 //
-var script$2r = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$2r = {
   name: 'MessageWritingIcon'
-});
+};
 
 /* script */
 const __vue_script__$2r = script$2r;
@@ -13498,9 +14873,14 @@ const __vue_component__$2r = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2r, __vue_script__$2r, __vue_scope_id__$2r, __vue_is_functional_template__$2r, __vue_module_identifier__$2r, false, undefined, undefined, undefined);
 
 //
-var script$2q = Vue.extend({
+//
+//
+//
+//
+//
+var script$2q = {
   name: 'MessageIcon'
-});
+};
 
 /* script */
 const __vue_script__$2q = script$2q;
@@ -13549,9 +14929,14 @@ const __vue_component__$2q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2q, __vue_script__$2q, __vue_scope_id__$2q, __vue_is_functional_template__$2q, __vue_module_identifier__$2q, false, undefined, undefined, undefined);
 
 //
-var script$2p = Vue.extend({
+//
+//
+//
+//
+//
+var script$2p = {
   name: 'MessengerIcon'
-});
+};
 
 /* script */
 const __vue_script__$2p = script$2p;
@@ -13600,9 +14985,14 @@ const __vue_component__$2p = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2p, __vue_script__$2p, __vue_scope_id__$2p, __vue_is_functional_template__$2p, __vue_module_identifier__$2p, false, undefined, undefined, undefined);
 
 //
-var script$2o = Vue.extend({
+//
+//
+//
+//
+//
+var script$2o = {
   name: 'MinusCircleOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$2o = script$2o;
@@ -13651,9 +15041,14 @@ const __vue_component__$2o = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2o, __vue_script__$2o, __vue_scope_id__$2o, __vue_is_functional_template__$2o, __vue_module_identifier__$2o, false, undefined, undefined, undefined);
 
 //
-var script$2n = Vue.extend({
+//
+//
+//
+//
+//
+var script$2n = {
   name: 'MinusCircleIcon'
-});
+};
 
 /* script */
 const __vue_script__$2n = script$2n;
@@ -13702,9 +15097,14 @@ const __vue_component__$2n = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2n, __vue_script__$2n, __vue_scope_id__$2n, __vue_is_functional_template__$2n, __vue_module_identifier__$2n, false, undefined, undefined, undefined);
 
 //
-var script$2m = Vue.extend({
+//
+//
+//
+//
+//
+var script$2m = {
   name: 'MinusSquareIcon'
-});
+};
 
 /* script */
 const __vue_script__$2m = script$2m;
@@ -13753,9 +15153,14 @@ const __vue_component__$2m = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2m, __vue_script__$2m, __vue_scope_id__$2m, __vue_is_functional_template__$2m, __vue_module_identifier__$2m, false, undefined, undefined, undefined);
 
 //
-var script$2l = Vue.extend({
+//
+//
+//
+//
+//
+var script$2l = {
   name: 'MinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$2l = script$2l;
@@ -13804,9 +15209,14 @@ const __vue_component__$2l = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2l, __vue_script__$2l, __vue_scope_id__$2l, __vue_is_functional_template__$2l, __vue_module_identifier__$2l, false, undefined, undefined, undefined);
 
 //
-var script$2k = Vue.extend({
+//
+//
+//
+//
+//
+var script$2k = {
   name: 'MobileAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$2k = script$2k;
@@ -13855,9 +15265,14 @@ const __vue_component__$2k = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2k, __vue_script__$2k, __vue_scope_id__$2k, __vue_is_functional_template__$2k, __vue_module_identifier__$2k, false, undefined, undefined, undefined);
 
 //
-var script$2j = Vue.extend({
+//
+//
+//
+//
+//
+var script$2j = {
   name: 'MobileIcon'
-});
+};
 
 /* script */
 const __vue_script__$2j = script$2j;
@@ -13906,9 +15321,14 @@ const __vue_component__$2j = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2j, __vue_script__$2j, __vue_scope_id__$2j, __vue_is_functional_template__$2j, __vue_module_identifier__$2j, false, undefined, undefined, undefined);
 
 //
-var script$2i = Vue.extend({
+//
+//
+//
+//
+//
+var script$2i = {
   name: 'MonitorIcon'
-});
+};
 
 /* script */
 const __vue_script__$2i = script$2i;
@@ -13957,9 +15377,14 @@ const __vue_component__$2i = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2i, __vue_script__$2i, __vue_scope_id__$2i, __vue_is_functional_template__$2i, __vue_module_identifier__$2i, false, undefined, undefined, undefined);
 
 //
-var script$2h = Vue.extend({
+//
+//
+//
+//
+//
+var script$2h = {
   name: 'MoonIcon'
-});
+};
 
 /* script */
 const __vue_script__$2h = script$2h;
@@ -14010,9 +15435,14 @@ const __vue_component__$2h = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2h, __vue_script__$2h, __vue_scope_id__$2h, __vue_is_functional_template__$2h, __vue_module_identifier__$2h, false, undefined, undefined, undefined);
 
 //
-var script$2g = Vue.extend({
+//
+//
+//
+//
+//
+var script$2g = {
   name: 'MoreHorizontalIcon'
-});
+};
 
 /* script */
 const __vue_script__$2g = script$2g;
@@ -14061,9 +15491,14 @@ const __vue_component__$2g = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2g, __vue_script__$2g, __vue_scope_id__$2g, __vue_is_functional_template__$2g, __vue_module_identifier__$2g, false, undefined, undefined, undefined);
 
 //
-var script$2f = Vue.extend({
+//
+//
+//
+//
+//
+var script$2f = {
   name: 'MoreVerticalIcon'
-});
+};
 
 /* script */
 const __vue_script__$2f = script$2f;
@@ -14112,9 +15547,14 @@ const __vue_component__$2f = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2f, __vue_script__$2f, __vue_scope_id__$2f, __vue_is_functional_template__$2f, __vue_module_identifier__$2f, false, undefined, undefined, undefined);
 
 //
-var script$2e = Vue.extend({
+//
+//
+//
+//
+//
+var script$2e = {
   name: 'MoveHorizontalIcon'
-});
+};
 
 /* script */
 const __vue_script__$2e = script$2e;
@@ -14163,9 +15603,14 @@ const __vue_component__$2e = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2e, __vue_script__$2e, __vue_scope_id__$2e, __vue_is_functional_template__$2e, __vue_module_identifier__$2e, false, undefined, undefined, undefined);
 
 //
-var script$2d = Vue.extend({
+//
+//
+//
+//
+//
+var script$2d = {
   name: 'MoveVerticalIcon'
-});
+};
 
 /* script */
 const __vue_script__$2d = script$2d;
@@ -14214,9 +15659,14 @@ const __vue_component__$2d = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2d, __vue_script__$2d, __vue_scope_id__$2d, __vue_is_functional_template__$2d, __vue_module_identifier__$2d, false, undefined, undefined, undefined);
 
 //
-var script$2c = Vue.extend({
+//
+//
+//
+//
+//
+var script$2c = {
   name: 'MoveIcon'
-});
+};
 
 /* script */
 const __vue_script__$2c = script$2c;
@@ -14265,9 +15715,14 @@ const __vue_component__$2c = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2c, __vue_script__$2c, __vue_scope_id__$2c, __vue_is_functional_template__$2c, __vue_module_identifier__$2c, false, undefined, undefined, undefined);
 
 //
-var script$2b = Vue.extend({
+//
+//
+//
+//
+//
+var script$2b = {
   name: 'NoteIcon'
-});
+};
 
 /* script */
 const __vue_script__$2b = script$2b;
@@ -14316,9 +15771,14 @@ const __vue_component__$2b = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2b, __vue_script__$2b, __vue_scope_id__$2b, __vue_is_functional_template__$2b, __vue_module_identifier__$2b, false, undefined, undefined, undefined);
 
 //
-var script$2a = Vue.extend({
+//
+//
+//
+//
+//
+var script$2a = {
   name: 'NotificationActiveIcon'
-});
+};
 
 /* script */
 const __vue_script__$2a = script$2a;
@@ -14367,9 +15827,14 @@ const __vue_component__$2a = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2a, __vue_script__$2a, __vue_scope_id__$2a, __vue_is_functional_template__$2a, __vue_module_identifier__$2a, false, undefined, undefined, undefined);
 
 //
-var script$29 = Vue.extend({
+//
+//
+//
+//
+//
+var script$29 = {
   name: 'NotificationDeactivatedIcon'
-});
+};
 
 /* script */
 const __vue_script__$29 = script$29;
@@ -14418,9 +15883,14 @@ const __vue_component__$29 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$29, __vue_script__$29, __vue_scope_id__$29, __vue_is_functional_template__$29, __vue_module_identifier__$29, false, undefined, undefined, undefined);
 
 //
-var script$28 = Vue.extend({
+//
+//
+//
+//
+//
+var script$28 = {
   name: 'NotificationDotIcon'
-});
+};
 
 /* script */
 const __vue_script__$28 = script$28;
@@ -14469,9 +15939,14 @@ const __vue_component__$28 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$28, __vue_script__$28, __vue_scope_id__$28, __vue_is_functional_template__$28, __vue_module_identifier__$28, false, undefined, undefined, undefined);
 
 //
-var script$27 = Vue.extend({
+//
+//
+//
+//
+//
+var script$27 = {
   name: 'NotificationMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$27 = script$27;
@@ -14520,9 +15995,14 @@ const __vue_component__$27 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$27, __vue_script__$27, __vue_scope_id__$27, __vue_is_functional_template__$27, __vue_module_identifier__$27, false, undefined, undefined, undefined);
 
 //
-var script$26 = Vue.extend({
+//
+//
+//
+//
+//
+var script$26 = {
   name: 'NotificationOutlineDotIcon'
-});
+};
 
 /* script */
 const __vue_script__$26 = script$26;
@@ -14571,9 +16051,14 @@ const __vue_component__$26 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$26, __vue_script__$26, __vue_scope_id__$26, __vue_is_functional_template__$26, __vue_module_identifier__$26, false, undefined, undefined, undefined);
 
 //
-var script$25 = Vue.extend({
+//
+//
+//
+//
+//
+var script$25 = {
   name: 'NotificationOutlineMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$25 = script$25;
@@ -14622,9 +16107,14 @@ const __vue_component__$25 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$25, __vue_script__$25, __vue_scope_id__$25, __vue_is_functional_template__$25, __vue_module_identifier__$25, false, undefined, undefined, undefined);
 
 //
-var script$24 = Vue.extend({
+//
+//
+//
+//
+//
+var script$24 = {
   name: 'NotificationOutlinePlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$24 = script$24;
@@ -14673,9 +16163,14 @@ const __vue_component__$24 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$24, __vue_script__$24, __vue_scope_id__$24, __vue_is_functional_template__$24, __vue_module_identifier__$24, false, undefined, undefined, undefined);
 
 //
-var script$23 = Vue.extend({
+//
+//
+//
+//
+//
+var script$23 = {
   name: 'NotificationOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$23 = script$23;
@@ -14724,9 +16219,14 @@ const __vue_component__$23 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$23, __vue_script__$23, __vue_scope_id__$23, __vue_is_functional_template__$23, __vue_module_identifier__$23, false, undefined, undefined, undefined);
 
 //
-var script$22 = Vue.extend({
+//
+//
+//
+//
+//
+var script$22 = {
   name: 'NotificationPlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$22 = script$22;
@@ -14775,9 +16275,14 @@ const __vue_component__$22 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$22, __vue_script__$22, __vue_scope_id__$22, __vue_is_functional_template__$22, __vue_module_identifier__$22, false, undefined, undefined, undefined);
 
 //
-var script$21 = Vue.extend({
+//
+//
+//
+//
+//
+var script$21 = {
   name: 'NotificationIcon'
-});
+};
 
 /* script */
 const __vue_script__$21 = script$21;
@@ -14826,9 +16331,14 @@ const __vue_component__$21 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$21, __vue_script__$21, __vue_scope_id__$21, __vue_is_functional_template__$21, __vue_module_identifier__$21, false, undefined, undefined, undefined);
 
 //
-var script$20 = Vue.extend({
+//
+//
+//
+//
+//
+var script$20 = {
   name: 'OffCloseIcon'
-});
+};
 
 /* script */
 const __vue_script__$20 = script$20;
@@ -14877,9 +16387,14 @@ const __vue_component__$20 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$20, __vue_script__$20, __vue_scope_id__$20, __vue_is_functional_template__$20, __vue_module_identifier__$20, false, undefined, undefined, undefined);
 
 //
-var script$1$ = Vue.extend({
+//
+//
+//
+//
+//
+var script$1$ = {
   name: 'OffOutlineCloseIcon'
-});
+};
 
 /* script */
 const __vue_script__$1$ = script$1$;
@@ -14928,9 +16443,14 @@ const __vue_component__$1$ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1$, __vue_script__$1$, __vue_scope_id__$1$, __vue_is_functional_template__$1$, __vue_module_identifier__$1$, false, undefined, undefined, undefined);
 
 //
-var script$1_ = Vue.extend({
+//
+//
+//
+//
+//
+var script$1_ = {
   name: 'ParagraphIcon'
-});
+};
 
 /* script */
 const __vue_script__$1_ = script$1_;
@@ -14979,9 +16499,14 @@ const __vue_component__$1_ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1_, __vue_script__$1_, __vue_scope_id__$1_, __vue_is_functional_template__$1_, __vue_module_identifier__$1_, false, undefined, undefined, undefined);
 
 //
-var script$1Z = Vue.extend({
+//
+//
+//
+//
+//
+var script$1Z = {
   name: 'PathIcon'
-});
+};
 
 /* script */
 const __vue_script__$1Z = script$1Z;
@@ -15030,9 +16555,14 @@ const __vue_component__$1Z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1Z, __vue_script__$1Z, __vue_scope_id__$1Z, __vue_is_functional_template__$1Z, __vue_module_identifier__$1Z, false, undefined, undefined, undefined);
 
 //
-var script$1Y = Vue.extend({
+//
+//
+//
+//
+//
+var script$1Y = {
   name: 'PauseCircleFilledIcon'
-});
+};
 
 /* script */
 const __vue_script__$1Y = script$1Y;
@@ -15081,9 +16611,14 @@ const __vue_component__$1Y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1Y, __vue_script__$1Y, __vue_scope_id__$1Y, __vue_is_functional_template__$1Y, __vue_module_identifier__$1Y, false, undefined, undefined, undefined);
 
 //
-var script$1X = Vue.extend({
+//
+//
+//
+//
+//
+var script$1X = {
   name: 'PauseCircleOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$1X = script$1X;
@@ -15132,9 +16667,14 @@ const __vue_component__$1X = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1X, __vue_script__$1X, __vue_scope_id__$1X, __vue_is_functional_template__$1X, __vue_module_identifier__$1X, false, undefined, undefined, undefined);
 
 //
-var script$1W = Vue.extend({
+//
+//
+//
+//
+//
+var script$1W = {
   name: 'PaypalIcon'
-});
+};
 
 /* script */
 const __vue_script__$1W = script$1W;
@@ -15183,9 +16723,14 @@ const __vue_component__$1W = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1W, __vue_script__$1W, __vue_scope_id__$1W, __vue_is_functional_template__$1W, __vue_module_identifier__$1W, false, undefined, undefined, undefined);
 
 //
-var script$1V = Vue.extend({
+//
+//
+//
+//
+//
+var script$1V = {
   name: 'PhoneOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$1V = script$1V;
@@ -15234,9 +16779,14 @@ const __vue_component__$1V = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1V, __vue_script__$1V, __vue_scope_id__$1V, __vue_is_functional_template__$1V, __vue_module_identifier__$1V, false, undefined, undefined, undefined);
 
 //
-var script$1U = Vue.extend({
+//
+//
+//
+//
+//
+var script$1U = {
   name: 'PhoneIcon'
-});
+};
 
 /* script */
 const __vue_script__$1U = script$1U;
@@ -15285,9 +16835,14 @@ const __vue_component__$1U = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1U, __vue_script__$1U, __vue_scope_id__$1U, __vue_is_functional_template__$1U, __vue_module_identifier__$1U, false, undefined, undefined, undefined);
 
 //
-var script$1T = Vue.extend({
+//
+//
+//
+//
+//
+var script$1T = {
   name: 'PieChart25Icon'
-});
+};
 
 /* script */
 const __vue_script__$1T = script$1T;
@@ -15336,9 +16891,14 @@ const __vue_component__$1T = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1T, __vue_script__$1T, __vue_scope_id__$1T, __vue_is_functional_template__$1T, __vue_module_identifier__$1T, false, undefined, undefined, undefined);
 
 //
-var script$1S = Vue.extend({
+//
+//
+//
+//
+//
+var script$1S = {
   name: 'PieChart50Icon'
-});
+};
 
 /* script */
 const __vue_script__$1S = script$1S;
@@ -15387,9 +16947,14 @@ const __vue_component__$1S = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1S, __vue_script__$1S, __vue_scope_id__$1S, __vue_is_functional_template__$1S, __vue_module_identifier__$1S, false, undefined, undefined, undefined);
 
 //
-var script$1R = Vue.extend({
+//
+//
+//
+//
+//
+var script$1R = {
   name: 'PieChart75Icon'
-});
+};
 
 /* script */
 const __vue_script__$1R = script$1R;
@@ -15438,9 +17003,14 @@ const __vue_component__$1R = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1R, __vue_script__$1R, __vue_scope_id__$1R, __vue_is_functional_template__$1R, __vue_module_identifier__$1R, false, undefined, undefined, undefined);
 
 //
-var script$1Q = Vue.extend({
+//
+//
+//
+//
+//
+var script$1Q = {
   name: 'PieChartOutline25Icon'
-});
+};
 
 /* script */
 const __vue_script__$1Q = script$1Q;
@@ -15489,9 +17059,14 @@ const __vue_component__$1Q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1Q, __vue_script__$1Q, __vue_scope_id__$1Q, __vue_is_functional_template__$1Q, __vue_module_identifier__$1Q, false, undefined, undefined, undefined);
 
 //
-var script$1P = Vue.extend({
+//
+//
+//
+//
+//
+var script$1P = {
   name: 'PieChartOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$1P = script$1P;
@@ -15540,9 +17115,14 @@ const __vue_component__$1P = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1P, __vue_script__$1P, __vue_scope_id__$1P, __vue_is_functional_template__$1P, __vue_module_identifier__$1P, false, undefined, undefined, undefined);
 
 //
-var script$1O = Vue.extend({
+//
+//
+//
+//
+//
+var script$1O = {
   name: 'PlayArrowIcon'
-});
+};
 
 /* script */
 const __vue_script__$1O = script$1O;
@@ -15591,9 +17171,14 @@ const __vue_component__$1O = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1O, __vue_script__$1O, __vue_scope_id__$1O, __vue_is_functional_template__$1O, __vue_module_identifier__$1O, false, undefined, undefined, undefined);
 
 //
-var script$1N = Vue.extend({
+//
+//
+//
+//
+//
+var script$1N = {
   name: 'PlayCircleFilledIcon'
-});
+};
 
 /* script */
 const __vue_script__$1N = script$1N;
@@ -15642,9 +17227,14 @@ const __vue_component__$1N = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1N, __vue_script__$1N, __vue_scope_id__$1N, __vue_is_functional_template__$1N, __vue_module_identifier__$1N, false, undefined, undefined, undefined);
 
 //
-var script$1M = Vue.extend({
+//
+//
+//
+//
+//
+var script$1M = {
   name: 'PlayCircleOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$1M = script$1M;
@@ -15693,9 +17283,14 @@ const __vue_component__$1M = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1M, __vue_script__$1M, __vue_scope_id__$1M, __vue_is_functional_template__$1M, __vue_module_identifier__$1M, false, undefined, undefined, undefined);
 
 //
-var script$1L = Vue.extend({
+//
+//
+//
+//
+//
+var script$1L = {
   name: 'PlayStoreIcon'
-});
+};
 
 /* script */
 const __vue_script__$1L = script$1L;
@@ -15744,9 +17339,14 @@ const __vue_component__$1L = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1L, __vue_script__$1L, __vue_scope_id__$1L, __vue_is_functional_template__$1L, __vue_module_identifier__$1L, false, undefined, undefined, undefined);
 
 //
-var script$1K = Vue.extend({
+//
+//
+//
+//
+//
+var script$1K = {
   name: 'PlusCircleOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$1K = script$1K;
@@ -15795,9 +17395,14 @@ const __vue_component__$1K = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1K, __vue_script__$1K, __vue_scope_id__$1K, __vue_is_functional_template__$1K, __vue_module_identifier__$1K, false, undefined, undefined, undefined);
 
 //
-var script$1J = Vue.extend({
+//
+//
+//
+//
+//
+var script$1J = {
   name: 'PlusCircleIcon'
-});
+};
 
 /* script */
 const __vue_script__$1J = script$1J;
@@ -15846,9 +17451,14 @@ const __vue_component__$1J = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1J, __vue_script__$1J, __vue_scope_id__$1J, __vue_is_functional_template__$1J, __vue_module_identifier__$1J, false, undefined, undefined, undefined);
 
 //
-var script$1I = Vue.extend({
+//
+//
+//
+//
+//
+var script$1I = {
   name: 'PlusSquareIcon'
-});
+};
 
 /* script */
 const __vue_script__$1I = script$1I;
@@ -15897,9 +17507,14 @@ const __vue_component__$1I = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1I, __vue_script__$1I, __vue_scope_id__$1I, __vue_is_functional_template__$1I, __vue_module_identifier__$1I, false, undefined, undefined, undefined);
 
 //
-var script$1H = Vue.extend({
+//
+//
+//
+//
+//
+var script$1H = {
   name: 'PlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$1H = script$1H;
@@ -15948,9 +17563,17 @@ const __vue_component__$1H = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1H, __vue_script__$1H, __vue_scope_id__$1H, __vue_is_functional_template__$1H, __vue_module_identifier__$1H, false, undefined, undefined, undefined);
 
 //
-var script$1G = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$1G = {
   name: 'QrCode1Icon'
-});
+};
 
 /* script */
 const __vue_script__$1G = script$1G;
@@ -16014,9 +17637,21 @@ const __vue_component__$1G = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1G, __vue_script__$1G, __vue_scope_id__$1G, __vue_is_functional_template__$1G, __vue_module_identifier__$1G, false, undefined, undefined, undefined);
 
 //
-var script$1F = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$1F = {
   name: 'QrCodeIcon'
-});
+};
 
 /* script */
 const __vue_script__$1F = script$1F;
@@ -16100,9 +17735,14 @@ const __vue_component__$1F = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1F, __vue_script__$1F, __vue_scope_id__$1F, __vue_is_functional_template__$1F, __vue_module_identifier__$1F, false, undefined, undefined, undefined);
 
 //
-var script$1E = Vue.extend({
+//
+//
+//
+//
+//
+var script$1E = {
   name: 'RadioFilledIcon'
-});
+};
 
 /* script */
 const __vue_script__$1E = script$1E;
@@ -16151,9 +17791,14 @@ const __vue_component__$1E = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1E, __vue_script__$1E, __vue_scope_id__$1E, __vue_is_functional_template__$1E, __vue_module_identifier__$1E, false, undefined, undefined, undefined);
 
 //
-var script$1D = Vue.extend({
+//
+//
+//
+//
+//
+var script$1D = {
   name: 'RadioIcon'
-});
+};
 
 /* script */
 const __vue_script__$1D = script$1D;
@@ -16202,9 +17847,14 @@ const __vue_component__$1D = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1D, __vue_script__$1D, __vue_scope_id__$1D, __vue_is_functional_template__$1D, __vue_module_identifier__$1D, false, undefined, undefined, undefined);
 
 //
-var script$1C = Vue.extend({
+//
+//
+//
+//
+//
+var script$1C = {
   name: 'RedditIcon'
-});
+};
 
 /* script */
 const __vue_script__$1C = script$1C;
@@ -16253,9 +17903,14 @@ const __vue_component__$1C = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1C, __vue_script__$1C, __vue_scope_id__$1C, __vue_is_functional_template__$1C, __vue_module_identifier__$1C, false, undefined, undefined, undefined);
 
 //
-var script$1B = Vue.extend({
+//
+//
+//
+//
+//
+var script$1B = {
   name: 'RedoIcon'
-});
+};
 
 /* script */
 const __vue_script__$1B = script$1B;
@@ -16304,9 +17959,14 @@ const __vue_component__$1B = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1B, __vue_script__$1B, __vue_scope_id__$1B, __vue_is_functional_template__$1B, __vue_module_identifier__$1B, false, undefined, undefined, undefined);
 
 //
-var script$1A = Vue.extend({
+//
+//
+//
+//
+//
+var script$1A = {
   name: 'Refresh02Icon'
-});
+};
 
 /* script */
 const __vue_script__$1A = script$1A;
@@ -16355,9 +18015,14 @@ const __vue_component__$1A = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1A, __vue_script__$1A, __vue_scope_id__$1A, __vue_is_functional_template__$1A, __vue_module_identifier__$1A, false, undefined, undefined, undefined);
 
 //
-var script$1z = Vue.extend({
+//
+//
+//
+//
+//
+var script$1z = {
   name: 'RefreshIcon'
-});
+};
 
 /* script */
 const __vue_script__$1z = script$1z;
@@ -16406,9 +18071,14 @@ const __vue_component__$1z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1z, __vue_script__$1z, __vue_scope_id__$1z, __vue_is_functional_template__$1z, __vue_module_identifier__$1z, false, undefined, undefined, undefined);
 
 //
-var script$1y = Vue.extend({
+//
+//
+//
+//
+//
+var script$1y = {
   name: 'RepeatIcon'
-});
+};
 
 /* script */
 const __vue_script__$1y = script$1y;
@@ -16457,9 +18127,14 @@ const __vue_component__$1y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1y, __vue_script__$1y, __vue_scope_id__$1y, __vue_is_functional_template__$1y, __vue_module_identifier__$1y, false, undefined, undefined, undefined);
 
 //
-var script$1x = Vue.extend({
+//
+//
+//
+//
+//
+var script$1x = {
   name: 'SadIcon'
-});
+};
 
 /* script */
 const __vue_script__$1x = script$1x;
@@ -16508,9 +18183,14 @@ const __vue_component__$1x = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1x, __vue_script__$1x, __vue_scope_id__$1x, __vue_is_functional_template__$1x, __vue_module_identifier__$1x, false, undefined, undefined, undefined);
 
 //
-var script$1w = Vue.extend({
+//
+//
+//
+//
+//
+var script$1w = {
   name: 'SearchSmallMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$1w = script$1w;
@@ -16559,9 +18239,14 @@ const __vue_component__$1w = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1w, __vue_script__$1w, __vue_scope_id__$1w, __vue_is_functional_template__$1w, __vue_module_identifier__$1w, false, undefined, undefined, undefined);
 
 //
-var script$1v = Vue.extend({
+//
+//
+//
+//
+//
+var script$1v = {
   name: 'SearchSmallPlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$1v = script$1v;
@@ -16610,9 +18295,14 @@ const __vue_component__$1v = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1v, __vue_script__$1v, __vue_scope_id__$1v, __vue_is_functional_template__$1v, __vue_module_identifier__$1v, false, undefined, undefined, undefined);
 
 //
-var script$1u = Vue.extend({
+//
+//
+//
+//
+//
+var script$1u = {
   name: 'SearchSmallIcon'
-});
+};
 
 /* script */
 const __vue_script__$1u = script$1u;
@@ -16661,9 +18351,14 @@ const __vue_component__$1u = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1u, __vue_script__$1u, __vue_scope_id__$1u, __vue_is_functional_template__$1u, __vue_module_identifier__$1u, false, undefined, undefined, undefined);
 
 //
-var script$1t = Vue.extend({
+//
+//
+//
+//
+//
+var script$1t = {
   name: 'SearchIcon'
-});
+};
 
 /* script */
 const __vue_script__$1t = script$1t;
@@ -16712,9 +18407,14 @@ const __vue_component__$1t = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1t, __vue_script__$1t, __vue_scope_id__$1t, __vue_is_functional_template__$1t, __vue_module_identifier__$1t, false, undefined, undefined, undefined);
 
 //
-var script$1s = Vue.extend({
+//
+//
+//
+//
+//
+var script$1s = {
   name: 'SelectMultipleIcon'
-});
+};
 
 /* script */
 const __vue_script__$1s = script$1s;
@@ -16763,9 +18463,14 @@ const __vue_component__$1s = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1s, __vue_script__$1s, __vue_scope_id__$1s, __vue_is_functional_template__$1s, __vue_module_identifier__$1s, false, undefined, undefined, undefined);
 
 //
-var script$1r = Vue.extend({
+//
+//
+//
+//
+//
+var script$1r = {
   name: 'SettingsFilledIcon'
-});
+};
 
 /* script */
 const __vue_script__$1r = script$1r;
@@ -16814,9 +18519,14 @@ const __vue_component__$1r = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1r, __vue_script__$1r, __vue_scope_id__$1r, __vue_is_functional_template__$1r, __vue_module_identifier__$1r, false, undefined, undefined, undefined);
 
 //
-var script$1q = Vue.extend({
+//
+//
+//
+//
+//
+var script$1q = {
   name: 'SettingsFutureIcon'
-});
+};
 
 /* script */
 const __vue_script__$1q = script$1q;
@@ -16865,9 +18575,14 @@ const __vue_component__$1q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1q, __vue_script__$1q, __vue_scope_id__$1q, __vue_is_functional_template__$1q, __vue_module_identifier__$1q, false, undefined, undefined, undefined);
 
 //
-var script$1p = Vue.extend({
+//
+//
+//
+//
+//
+var script$1p = {
   name: 'SettingsIcon'
-});
+};
 
 /* script */
 const __vue_script__$1p = script$1p;
@@ -16916,9 +18631,14 @@ const __vue_component__$1p = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1p, __vue_script__$1p, __vue_scope_id__$1p, __vue_is_functional_template__$1p, __vue_module_identifier__$1p, false, undefined, undefined, undefined);
 
 //
-var script$1o = Vue.extend({
+//
+//
+//
+//
+//
+var script$1o = {
   name: 'ShareOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$1o = script$1o;
@@ -16967,9 +18687,14 @@ const __vue_component__$1o = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1o, __vue_script__$1o, __vue_scope_id__$1o, __vue_is_functional_template__$1o, __vue_module_identifier__$1o, false, undefined, undefined, undefined);
 
 //
-var script$1n = Vue.extend({
+//
+//
+//
+//
+//
+var script$1n = {
   name: 'ShareIcon'
-});
+};
 
 /* script */
 const __vue_script__$1n = script$1n;
@@ -17018,9 +18743,14 @@ const __vue_component__$1n = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1n, __vue_script__$1n, __vue_scope_id__$1n, __vue_is_functional_template__$1n, __vue_module_identifier__$1n, false, undefined, undefined, undefined);
 
 //
-var script$1m = Vue.extend({
+//
+//
+//
+//
+//
+var script$1m = {
   name: 'ShortDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$1m = script$1m;
@@ -17069,9 +18799,14 @@ const __vue_component__$1m = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1m, __vue_script__$1m, __vue_scope_id__$1m, __vue_is_functional_template__$1m, __vue_module_identifier__$1m, false, undefined, undefined, undefined);
 
 //
-var script$1l = Vue.extend({
+//
+//
+//
+//
+//
+var script$1l = {
   name: 'ShortLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$1l = script$1l;
@@ -17120,9 +18855,14 @@ const __vue_component__$1l = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1l, __vue_script__$1l, __vue_scope_id__$1l, __vue_is_functional_template__$1l, __vue_module_identifier__$1l, false, undefined, undefined, undefined);
 
 //
-var script$1k = Vue.extend({
+//
+//
+//
+//
+//
+var script$1k = {
   name: 'ShortRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$1k = script$1k;
@@ -17171,9 +18911,14 @@ const __vue_component__$1k = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1k, __vue_script__$1k, __vue_scope_id__$1k, __vue_is_functional_template__$1k, __vue_module_identifier__$1k, false, undefined, undefined, undefined);
 
 //
-var script$1j = Vue.extend({
+//
+//
+//
+//
+//
+var script$1j = {
   name: 'ShortUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$1j = script$1j;
@@ -17222,9 +18967,14 @@ const __vue_component__$1j = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1j, __vue_script__$1j, __vue_scope_id__$1j, __vue_is_functional_template__$1j, __vue_module_identifier__$1j, false, undefined, undefined, undefined);
 
 //
-var script$1i = Vue.extend({
+//
+//
+//
+//
+//
+var script$1i = {
   name: 'ShowIcon'
-});
+};
 
 /* script */
 const __vue_script__$1i = script$1i;
@@ -17273,9 +19023,14 @@ const __vue_component__$1i = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1i, __vue_script__$1i, __vue_scope_id__$1i, __vue_is_functional_template__$1i, __vue_module_identifier__$1i, false, undefined, undefined, undefined);
 
 //
-var script$1h = Vue.extend({
+//
+//
+//
+//
+//
+var script$1h = {
   name: 'ShrinkIcon'
-});
+};
 
 /* script */
 const __vue_script__$1h = script$1h;
@@ -17324,9 +19079,14 @@ const __vue_component__$1h = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1h, __vue_script__$1h, __vue_scope_id__$1h, __vue_is_functional_template__$1h, __vue_module_identifier__$1h, false, undefined, undefined, undefined);
 
 //
-var script$1g = Vue.extend({
+//
+//
+//
+//
+//
+var script$1g = {
   name: 'ShuffleIcon'
-});
+};
 
 /* script */
 const __vue_script__$1g = script$1g;
@@ -17375,9 +19135,14 @@ const __vue_component__$1g = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1g, __vue_script__$1g, __vue_scope_id__$1g, __vue_is_functional_template__$1g, __vue_module_identifier__$1g, false, undefined, undefined, undefined);
 
 //
-var script$1f = Vue.extend({
+//
+//
+//
+//
+//
+var script$1f = {
   name: 'SingleQuotesLIcon'
-});
+};
 
 /* script */
 const __vue_script__$1f = script$1f;
@@ -17426,9 +19191,14 @@ const __vue_component__$1f = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1f, __vue_script__$1f, __vue_scope_id__$1f, __vue_is_functional_template__$1f, __vue_module_identifier__$1f, false, undefined, undefined, undefined);
 
 //
-var script$1e = Vue.extend({
+//
+//
+//
+//
+//
+var script$1e = {
   name: 'SingleQuotesRIcon'
-});
+};
 
 /* script */
 const __vue_script__$1e = script$1e;
@@ -17477,9 +19247,14 @@ const __vue_component__$1e = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1e, __vue_script__$1e, __vue_scope_id__$1e, __vue_is_functional_template__$1e, __vue_module_identifier__$1e, false, undefined, undefined, undefined);
 
 //
-var script$1d = Vue.extend({
+//
+//
+//
+//
+//
+var script$1d = {
   name: 'SketchIcon'
-});
+};
 
 /* script */
 const __vue_script__$1d = script$1d;
@@ -17528,9 +19303,14 @@ const __vue_component__$1d = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1d, __vue_script__$1d, __vue_scope_id__$1d, __vue_is_functional_template__$1d, __vue_module_identifier__$1d, false, undefined, undefined, undefined);
 
 //
-var script$1c = Vue.extend({
+//
+//
+//
+//
+//
+var script$1c = {
   name: 'SkipNextIcon'
-});
+};
 
 /* script */
 const __vue_script__$1c = script$1c;
@@ -17579,9 +19359,14 @@ const __vue_component__$1c = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1c, __vue_script__$1c, __vue_scope_id__$1c, __vue_is_functional_template__$1c, __vue_module_identifier__$1c, false, undefined, undefined, undefined);
 
 //
-var script$1b = Vue.extend({
+//
+//
+//
+//
+//
+var script$1b = {
   name: 'SkipPreviousIcon'
-});
+};
 
 /* script */
 const __vue_script__$1b = script$1b;
@@ -17630,9 +19415,14 @@ const __vue_component__$1b = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1b, __vue_script__$1b, __vue_scope_id__$1b, __vue_is_functional_template__$1b, __vue_module_identifier__$1b, false, undefined, undefined, undefined);
 
 //
-var script$1a = Vue.extend({
+//
+//
+//
+//
+//
+var script$1a = {
   name: 'SlackIcon'
-});
+};
 
 /* script */
 const __vue_script__$1a = script$1a;
@@ -17681,9 +19471,14 @@ const __vue_component__$1a = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1a, __vue_script__$1a, __vue_scope_id__$1a, __vue_is_functional_template__$1a, __vue_module_identifier__$1a, false, undefined, undefined, undefined);
 
 //
-var script$19 = Vue.extend({
+//
+//
+//
+//
+//
+var script$19 = {
   name: 'Slider01Icon'
-});
+};
 
 /* script */
 const __vue_script__$19 = script$19;
@@ -17732,9 +19527,14 @@ const __vue_component__$19 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$19, __vue_script__$19, __vue_scope_id__$19, __vue_is_functional_template__$19, __vue_module_identifier__$19, false, undefined, undefined, undefined);
 
 //
-var script$18 = Vue.extend({
+//
+//
+//
+//
+//
+var script$18 = {
   name: 'Slider02Icon'
-});
+};
 
 /* script */
 const __vue_script__$18 = script$18;
@@ -17783,9 +19583,14 @@ const __vue_component__$18 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$18, __vue_script__$18, __vue_scope_id__$18, __vue_is_functional_template__$18, __vue_module_identifier__$18, false, undefined, undefined, undefined);
 
 //
-var script$17 = Vue.extend({
+//
+//
+//
+//
+//
+var script$17 = {
   name: 'Slider03Icon'
-});
+};
 
 /* script */
 const __vue_script__$17 = script$17;
@@ -17834,9 +19639,14 @@ const __vue_component__$17 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$17, __vue_script__$17, __vue_scope_id__$17, __vue_is_functional_template__$17, __vue_module_identifier__$17, false, undefined, undefined, undefined);
 
 //
-var script$16 = Vue.extend({
+//
+//
+//
+//
+//
+var script$16 = {
   name: 'SmallLongDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$16 = script$16;
@@ -17885,9 +19695,14 @@ const __vue_component__$16 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$16, __vue_script__$16, __vue_scope_id__$16, __vue_is_functional_template__$16, __vue_module_identifier__$16, false, undefined, undefined, undefined);
 
 //
-var script$15 = Vue.extend({
+//
+//
+//
+//
+//
+var script$15 = {
   name: 'SmallLongLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$15 = script$15;
@@ -17936,9 +19751,14 @@ const __vue_component__$15 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$15, __vue_script__$15, __vue_scope_id__$15, __vue_is_functional_template__$15, __vue_module_identifier__$15, false, undefined, undefined, undefined);
 
 //
-var script$14 = Vue.extend({
+//
+//
+//
+//
+//
+var script$14 = {
   name: 'SmallLongRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$14 = script$14;
@@ -17987,9 +19807,14 @@ const __vue_component__$14 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$14, __vue_script__$14, __vue_scope_id__$14, __vue_is_functional_template__$14, __vue_module_identifier__$14, false, undefined, undefined, undefined);
 
 //
-var script$13 = Vue.extend({
+//
+//
+//
+//
+//
+var script$13 = {
   name: 'SmallLongUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$13 = script$13;
@@ -18038,9 +19863,14 @@ const __vue_component__$13 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$13, __vue_script__$13, __vue_scope_id__$13, __vue_is_functional_template__$13, __vue_module_identifier__$13, false, undefined, undefined, undefined);
 
 //
-var script$12 = Vue.extend({
+//
+//
+//
+//
+//
+var script$12 = {
   name: 'SnapchatIcon'
-});
+};
 
 /* script */
 const __vue_script__$12 = script$12;
@@ -18089,9 +19919,14 @@ const __vue_component__$12 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$12, __vue_script__$12, __vue_scope_id__$12, __vue_is_functional_template__$12, __vue_module_identifier__$12, false, undefined, undefined, undefined);
 
 //
-var script$11 = Vue.extend({
+//
+//
+//
+//
+//
+var script$11 = {
   name: 'SpectrumIcon'
-});
+};
 
 /* script */
 const __vue_script__$11 = script$11;
@@ -18140,9 +19975,14 @@ const __vue_component__$11 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$11, __vue_script__$11, __vue_scope_id__$11, __vue_is_functional_template__$11, __vue_module_identifier__$11, false, undefined, undefined, undefined);
 
 //
-var script$10 = Vue.extend({
+//
+//
+//
+//
+//
+var script$10 = {
   name: 'SpotifyIcon'
-});
+};
 
 /* script */
 const __vue_script__$10 = script$10;
@@ -18191,9 +20031,14 @@ const __vue_component__$10 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$10, __vue_script__$10, __vue_scope_id__$10, __vue_is_functional_template__$10, __vue_module_identifier__$10, false, undefined, undefined, undefined);
 
 //
-var script$$ = Vue.extend({
+//
+//
+//
+//
+//
+var script$$ = {
   name: 'StackOverflowIcon'
-});
+};
 
 /* script */
 const __vue_script__$$ = script$$;
@@ -18242,9 +20087,14 @@ const __vue_component__$$ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$$, __vue_script__$$, __vue_scope_id__$$, __vue_is_functional_template__$$, __vue_module_identifier__$$, false, undefined, undefined, undefined);
 
 //
-var script$_ = Vue.extend({
+//
+//
+//
+//
+//
+var script$_ = {
   name: 'StopwatchIcon'
-});
+};
 
 /* script */
 const __vue_script__$_ = script$_;
@@ -18293,9 +20143,15 @@ const __vue_component__$_ = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$_, __vue_script__$_, __vue_scope_id__$_, __vue_is_functional_template__$_, __vue_module_identifier__$_, false, undefined, undefined, undefined);
 
 //
-var script$Z = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$Z = {
   name: 'StrikethroughIcon'
-});
+};
 
 /* script */
 const __vue_script__$Z = script$Z;
@@ -18349,9 +20205,14 @@ const __vue_component__$Z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$Z, __vue_script__$Z, __vue_scope_id__$Z, __vue_is_functional_template__$Z, __vue_module_identifier__$Z, false, undefined, undefined, undefined);
 
 //
-var script$Y = Vue.extend({
+//
+//
+//
+//
+//
+var script$Y = {
   name: 'SubLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$Y = script$Y;
@@ -18400,9 +20261,14 @@ const __vue_component__$Y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$Y, __vue_script__$Y, __vue_scope_id__$Y, __vue_is_functional_template__$Y, __vue_module_identifier__$Y, false, undefined, undefined, undefined);
 
 //
-var script$X = Vue.extend({
+//
+//
+//
+//
+//
+var script$X = {
   name: 'SubRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$X = script$X;
@@ -18451,9 +20317,14 @@ const __vue_component__$X = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$X, __vue_script__$X, __vue_scope_id__$X, __vue_is_functional_template__$X, __vue_module_identifier__$X, false, undefined, undefined, undefined);
 
 //
-var script$W = Vue.extend({
+//
+//
+//
+//
+//
+var script$W = {
   name: 'SunIcon'
-});
+};
 
 /* script */
 const __vue_script__$W = script$W;
@@ -18502,9 +20373,15 @@ const __vue_component__$W = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$W, __vue_script__$W, __vue_scope_id__$W, __vue_is_functional_template__$W, __vue_module_identifier__$W, false, undefined, undefined, undefined);
 
 //
-var script$V = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$V = {
   name: 'TableAddIcon'
-});
+};
 
 /* script */
 const __vue_script__$V = script$V;
@@ -18558,9 +20435,15 @@ const __vue_component__$V = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$V, __vue_script__$V, __vue_scope_id__$V, __vue_is_functional_template__$V, __vue_module_identifier__$V, false, undefined, undefined, undefined);
 
 //
-var script$U = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$U = {
   name: 'TableDeleteIcon'
-});
+};
 
 /* script */
 const __vue_script__$U = script$U;
@@ -18614,9 +20497,14 @@ const __vue_component__$U = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$U, __vue_script__$U, __vue_scope_id__$U, __vue_is_functional_template__$U, __vue_module_identifier__$U, false, undefined, undefined, undefined);
 
 //
-var script$T = Vue.extend({
+//
+//
+//
+//
+//
+var script$T = {
   name: 'TableIcon'
-});
+};
 
 /* script */
 const __vue_script__$T = script$T;
@@ -18665,9 +20553,14 @@ const __vue_component__$T = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$T, __vue_script__$T, __vue_scope_id__$T, __vue_is_functional_template__$T, __vue_module_identifier__$T, false, undefined, undefined, undefined);
 
 //
-var script$S = Vue.extend({
+//
+//
+//
+//
+//
+var script$S = {
   name: 'TabletIcon'
-});
+};
 
 /* script */
 const __vue_script__$S = script$S;
@@ -18716,9 +20609,14 @@ const __vue_component__$S = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$S, __vue_script__$S, __vue_scope_id__$S, __vue_is_functional_template__$S, __vue_module_identifier__$S, false, undefined, undefined, undefined);
 
 //
-var script$R = Vue.extend({
+//
+//
+//
+//
+//
+var script$R = {
   name: 'TagOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$R = script$R;
@@ -18767,9 +20665,14 @@ const __vue_component__$R = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$R, __vue_script__$R, __vue_scope_id__$R, __vue_is_functional_template__$R, __vue_module_identifier__$R, false, undefined, undefined, undefined);
 
 //
-var script$Q = Vue.extend({
+//
+//
+//
+//
+//
+var script$Q = {
   name: 'TagIcon'
-});
+};
 
 /* script */
 const __vue_script__$Q = script$Q;
@@ -18818,9 +20721,15 @@ const __vue_component__$Q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$Q, __vue_script__$Q, __vue_scope_id__$Q, __vue_is_functional_template__$Q, __vue_module_identifier__$Q, false, undefined, undefined, undefined);
 
 //
-var script$P = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$P = {
   name: 'TennisMatchAltIcon'
-});
+};
 
 /* script */
 const __vue_script__$P = script$P;
@@ -18874,9 +20783,15 @@ const __vue_component__$P = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$P, __vue_script__$P, __vue_scope_id__$P, __vue_is_functional_template__$P, __vue_module_identifier__$P, false, undefined, undefined, undefined);
 
 //
-var script$O = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$O = {
   name: 'TennisMatchIcon'
-});
+};
 
 /* script */
 const __vue_script__$O = script$O;
@@ -18930,9 +20845,14 @@ const __vue_component__$O = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$O, __vue_script__$O, __vue_scope_id__$O, __vue_is_functional_template__$O, __vue_module_identifier__$O, false, undefined, undefined, undefined);
 
 //
-var script$N = Vue.extend({
+//
+//
+//
+//
+//
+var script$N = {
   name: 'TennisIcon'
-});
+};
 
 /* script */
 const __vue_script__$N = script$N;
@@ -18981,9 +20901,14 @@ const __vue_component__$N = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$N, __vue_script__$N, __vue_scope_id__$N, __vue_is_functional_template__$N, __vue_module_identifier__$N, false, undefined, undefined, undefined);
 
 //
-var script$M = Vue.extend({
+//
+//
+//
+//
+//
+var script$M = {
   name: 'TerminalIcon'
-});
+};
 
 /* script */
 const __vue_script__$M = script$M;
@@ -19032,9 +20957,14 @@ const __vue_component__$M = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$M, __vue_script__$M, __vue_scope_id__$M, __vue_is_functional_template__$M, __vue_module_identifier__$M, false, undefined, undefined, undefined);
 
 //
-var script$L = Vue.extend({
+//
+//
+//
+//
+//
+var script$L = {
   name: 'TextAlignCenterIcon'
-});
+};
 
 /* script */
 const __vue_script__$L = script$L;
@@ -19083,9 +21013,14 @@ const __vue_component__$L = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$L, __vue_script__$L, __vue_scope_id__$L, __vue_is_functional_template__$L, __vue_module_identifier__$L, false, undefined, undefined, undefined);
 
 //
-var script$K = Vue.extend({
+//
+//
+//
+//
+//
+var script$K = {
   name: 'TextAlignJustifyIcon'
-});
+};
 
 /* script */
 const __vue_script__$K = script$K;
@@ -19134,9 +21069,14 @@ const __vue_component__$K = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$K, __vue_script__$K, __vue_scope_id__$K, __vue_is_functional_template__$K, __vue_module_identifier__$K, false, undefined, undefined, undefined);
 
 //
-var script$J = Vue.extend({
+//
+//
+//
+//
+//
+var script$J = {
   name: 'TextAlignLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$J = script$J;
@@ -19185,9 +21125,14 @@ const __vue_component__$J = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$J, __vue_script__$J, __vue_scope_id__$J, __vue_is_functional_template__$J, __vue_module_identifier__$J, false, undefined, undefined, undefined);
 
 //
-var script$I = Vue.extend({
+//
+//
+//
+//
+//
+var script$I = {
   name: 'TextAlignRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$I = script$I;
@@ -19236,9 +21181,14 @@ const __vue_component__$I = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$I, __vue_script__$I, __vue_scope_id__$I, __vue_is_functional_template__$I, __vue_module_identifier__$I, false, undefined, undefined, undefined);
 
 //
-var script$H = Vue.extend({
+//
+//
+//
+//
+//
+var script$H = {
   name: 'ThinBigDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$H = script$H;
@@ -19287,9 +21237,14 @@ const __vue_component__$H = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$H, __vue_script__$H, __vue_scope_id__$H, __vue_is_functional_template__$H, __vue_module_identifier__$H, false, undefined, undefined, undefined);
 
 //
-var script$G = Vue.extend({
+//
+//
+//
+//
+//
+var script$G = {
   name: 'ThinBigLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$G = script$G;
@@ -19338,9 +21293,14 @@ const __vue_component__$G = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$G, __vue_script__$G, __vue_scope_id__$G, __vue_is_functional_template__$G, __vue_module_identifier__$G, false, undefined, undefined, undefined);
 
 //
-var script$F = Vue.extend({
+//
+//
+//
+//
+//
+var script$F = {
   name: 'ThinBigRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$F = script$F;
@@ -19389,9 +21349,21 @@ const __vue_component__$F = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$F, __vue_script__$F, __vue_scope_id__$F, __vue_is_functional_template__$F, __vue_module_identifier__$F, false, undefined, undefined, undefined);
 
 //
-var script$E = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$E = {
   name: 'ThinBigUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$E = script$E;
@@ -19454,9 +21426,14 @@ const __vue_component__$E = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$E, __vue_script__$E, __vue_scope_id__$E, __vue_is_functional_template__$E, __vue_module_identifier__$E, false, undefined, undefined, undefined);
 
 //
-var script$D = Vue.extend({
+//
+//
+//
+//
+//
+var script$D = {
   name: 'ThinLong02DownIcon'
-});
+};
 
 /* script */
 const __vue_script__$D = script$D;
@@ -19505,9 +21482,14 @@ const __vue_component__$D = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$D, __vue_script__$D, __vue_scope_id__$D, __vue_is_functional_template__$D, __vue_module_identifier__$D, false, undefined, undefined, undefined);
 
 //
-var script$C = Vue.extend({
+//
+//
+//
+//
+//
+var script$C = {
   name: 'ThinLong02LeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$C = script$C;
@@ -19556,9 +21538,14 @@ const __vue_component__$C = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$C, __vue_script__$C, __vue_scope_id__$C, __vue_is_functional_template__$C, __vue_module_identifier__$C, false, undefined, undefined, undefined);
 
 //
-var script$B = Vue.extend({
+//
+//
+//
+//
+//
+var script$B = {
   name: 'ThinLong02RightIcon'
-});
+};
 
 /* script */
 const __vue_script__$B = script$B;
@@ -19607,9 +21594,14 @@ const __vue_component__$B = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$B, __vue_script__$B, __vue_scope_id__$B, __vue_is_functional_template__$B, __vue_module_identifier__$B, false, undefined, undefined, undefined);
 
 //
-var script$A = Vue.extend({
+//
+//
+//
+//
+//
+var script$A = {
   name: 'ThinLong02UpIcon'
-});
+};
 
 /* script */
 const __vue_script__$A = script$A;
@@ -19658,9 +21650,14 @@ const __vue_component__$A = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$A, __vue_script__$A, __vue_scope_id__$A, __vue_is_functional_template__$A, __vue_module_identifier__$A, false, undefined, undefined, undefined);
 
 //
-var script$z = Vue.extend({
+//
+//
+//
+//
+//
+var script$z = {
   name: 'ThinLongDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$z = script$z;
@@ -19709,9 +21706,14 @@ const __vue_component__$z = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$z, __vue_script__$z, __vue_scope_id__$z, __vue_is_functional_template__$z, __vue_module_identifier__$z, false, undefined, undefined, undefined);
 
 //
-var script$y = Vue.extend({
+//
+//
+//
+//
+//
+var script$y = {
   name: 'ThinLongLeftIcon'
-});
+};
 
 /* script */
 const __vue_script__$y = script$y;
@@ -19760,9 +21762,14 @@ const __vue_component__$y = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$y, __vue_script__$y, __vue_scope_id__$y, __vue_is_functional_template__$y, __vue_module_identifier__$y, false, undefined, undefined, undefined);
 
 //
-var script$x = Vue.extend({
+//
+//
+//
+//
+//
+var script$x = {
   name: 'ThinLongRightIcon'
-});
+};
 
 /* script */
 const __vue_script__$x = script$x;
@@ -19811,9 +21818,14 @@ const __vue_component__$x = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$x, __vue_script__$x, __vue_scope_id__$x, __vue_is_functional_template__$x, __vue_module_identifier__$x, false, undefined, undefined, undefined);
 
 //
-var script$w = Vue.extend({
+//
+//
+//
+//
+//
+var script$w = {
   name: 'ThinLongUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$w = script$w;
@@ -19862,9 +21874,14 @@ const __vue_component__$w = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$w, __vue_script__$w, __vue_scope_id__$w, __vue_is_functional_template__$w, __vue_module_identifier__$w, false, undefined, undefined, undefined);
 
 //
-var script$v = Vue.extend({
+//
+//
+//
+//
+//
+var script$v = {
   name: 'TransferIcon'
-});
+};
 
 /* script */
 const __vue_script__$v = script$v;
@@ -19913,9 +21930,14 @@ const __vue_component__$v = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$v, __vue_script__$v, __vue_scope_id__$v, __vue_is_functional_template__$v, __vue_module_identifier__$v, false, undefined, undefined, undefined);
 
 //
-var script$u = Vue.extend({
+//
+//
+//
+//
+//
+var script$u = {
   name: 'TrashEmptyIcon'
-});
+};
 
 /* script */
 const __vue_script__$u = script$u;
@@ -19964,9 +21986,14 @@ const __vue_component__$u = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$u, __vue_script__$u, __vue_scope_id__$u, __vue_is_functional_template__$u, __vue_module_identifier__$u, false, undefined, undefined, undefined);
 
 //
-var script$t = Vue.extend({
+//
+//
+//
+//
+//
+var script$t = {
   name: 'TrashFullIcon'
-});
+};
 
 /* script */
 const __vue_script__$t = script$t;
@@ -20015,9 +22042,14 @@ const __vue_component__$t = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$t, __vue_script__$t, __vue_scope_id__$t, __vue_is_functional_template__$t, __vue_module_identifier__$t, false, undefined, undefined, undefined);
 
 //
-var script$s = Vue.extend({
+//
+//
+//
+//
+//
+var script$s = {
   name: 'TrelloIcon'
-});
+};
 
 /* script */
 const __vue_script__$s = script$s;
@@ -20066,9 +22098,14 @@ const __vue_component__$s = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$s, __vue_script__$s, __vue_scope_id__$s, __vue_is_functional_template__$s, __vue_module_identifier__$s, false, undefined, undefined, undefined);
 
 //
-var script$r = Vue.extend({
+//
+//
+//
+//
+//
+var script$r = {
   name: 'TrendingDownIcon'
-});
+};
 
 /* script */
 const __vue_script__$r = script$r;
@@ -20117,9 +22154,14 @@ const __vue_component__$r = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$r, __vue_script__$r, __vue_scope_id__$r, __vue_is_functional_template__$r, __vue_module_identifier__$r, false, undefined, undefined, undefined);
 
 //
-var script$q = Vue.extend({
+//
+//
+//
+//
+//
+var script$q = {
   name: 'TrendingUpIcon'
-});
+};
 
 /* script */
 const __vue_script__$q = script$q;
@@ -20168,9 +22210,14 @@ const __vue_component__$q = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$q, __vue_script__$q, __vue_scope_id__$q, __vue_is_functional_template__$q, __vue_module_identifier__$q, false, undefined, undefined, undefined);
 
 //
-var script$p = Vue.extend({
+//
+//
+//
+//
+//
+var script$p = {
   name: 'TwitterIcon'
-});
+};
 
 /* script */
 const __vue_script__$p = script$p;
@@ -20219,9 +22266,15 @@ const __vue_component__$p = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$p, __vue_script__$p, __vue_scope_id__$p, __vue_is_functional_template__$p, __vue_module_identifier__$p, false, undefined, undefined, undefined);
 
 //
-var script$o = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$o = {
   name: 'UnderlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$o = script$o;
@@ -20275,9 +22328,14 @@ const __vue_component__$o = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$o, __vue_script__$o, __vue_scope_id__$o, __vue_is_functional_template__$o, __vue_module_identifier__$o, false, undefined, undefined, undefined);
 
 //
-var script$n = Vue.extend({
+//
+//
+//
+//
+//
+var script$n = {
   name: 'UndoIcon'
-});
+};
 
 /* script */
 const __vue_script__$n = script$n;
@@ -20326,9 +22384,14 @@ const __vue_component__$n = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$n, __vue_script__$n, __vue_scope_id__$n, __vue_is_functional_template__$n, __vue_module_identifier__$n, false, undefined, undefined, undefined);
 
 //
-var script$m = Vue.extend({
+//
+//
+//
+//
+//
+var script$m = {
   name: 'UnfoldLessIcon'
-});
+};
 
 /* script */
 const __vue_script__$m = script$m;
@@ -20377,9 +22440,14 @@ const __vue_component__$m = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$m, __vue_script__$m, __vue_scope_id__$m, __vue_is_functional_template__$m, __vue_module_identifier__$m, false, undefined, undefined, undefined);
 
 //
-var script$l = Vue.extend({
+//
+//
+//
+//
+//
+var script$l = {
   name: 'UnfoldMoreIcon'
-});
+};
 
 /* script */
 const __vue_script__$l = script$l;
@@ -20428,9 +22496,14 @@ const __vue_component__$l = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$l, __vue_script__$l, __vue_scope_id__$l, __vue_is_functional_template__$l, __vue_module_identifier__$l, false, undefined, undefined, undefined);
 
 //
-var script$k = Vue.extend({
+//
+//
+//
+//
+//
+var script$k = {
   name: 'UnlinkIcon'
-});
+};
 
 /* script */
 const __vue_script__$k = script$k;
@@ -20479,9 +22552,14 @@ const __vue_component__$k = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$k, __vue_script__$k, __vue_scope_id__$k, __vue_is_functional_template__$k, __vue_module_identifier__$k, false, undefined, undefined, undefined);
 
 //
-var script$j = Vue.extend({
+//
+//
+//
+//
+//
+var script$j = {
   name: 'UnsplashIcon'
-});
+};
 
 /* script */
 const __vue_script__$j = script$j;
@@ -20530,9 +22608,14 @@ const __vue_component__$j = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$j, __vue_script__$j, __vue_scope_id__$j, __vue_is_functional_template__$j, __vue_module_identifier__$j, false, undefined, undefined, undefined);
 
 //
-var script$i = Vue.extend({
+//
+//
+//
+//
+//
+var script$i = {
   name: 'UserCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$i = script$i;
@@ -20581,9 +22664,14 @@ const __vue_component__$i = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$i, __vue_script__$i, __vue_scope_id__$i, __vue_is_functional_template__$i, __vue_module_identifier__$i, false, undefined, undefined, undefined);
 
 //
-var script$h = Vue.extend({
+//
+//
+//
+//
+//
+var script$h = {
   name: 'UserCircleIcon'
-});
+};
 
 /* script */
 const __vue_script__$h = script$h;
@@ -20632,9 +22720,14 @@ const __vue_component__$h = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$h, __vue_script__$h, __vue_scope_id__$h, __vue_is_functional_template__$h, __vue_module_identifier__$h, false, undefined, undefined, undefined);
 
 //
-var script$g = Vue.extend({
+//
+//
+//
+//
+//
+var script$g = {
   name: 'UserCloseIcon'
-});
+};
 
 /* script */
 const __vue_script__$g = script$g;
@@ -20683,9 +22776,16 @@ const __vue_component__$g = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$g, __vue_script__$g, __vue_scope_id__$g, __vue_is_functional_template__$g, __vue_module_identifier__$g, false, undefined, undefined, undefined);
 
 //
-var script$f = Vue.extend({
+//
+//
+//
+//
+//
+//
+//
+var script$f = {
   name: 'UserHeartIcon'
-});
+};
 
 /* script */
 const __vue_script__$f = script$f;
@@ -20744,9 +22844,14 @@ const __vue_component__$f = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$f, __vue_script__$f, __vue_scope_id__$f, __vue_is_functional_template__$f, __vue_module_identifier__$f, false, undefined, undefined, undefined);
 
 //
-var script$e = Vue.extend({
+//
+//
+//
+//
+//
+var script$e = {
   name: 'UserMinusIcon'
-});
+};
 
 /* script */
 const __vue_script__$e = script$e;
@@ -20795,9 +22900,14 @@ const __vue_component__$e = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$e, __vue_script__$e, __vue_scope_id__$e, __vue_is_functional_template__$e, __vue_module_identifier__$e, false, undefined, undefined, undefined);
 
 //
-var script$d = Vue.extend({
+//
+//
+//
+//
+//
+var script$d = {
   name: 'UserPinIcon'
-});
+};
 
 /* script */
 const __vue_script__$d = script$d;
@@ -20846,9 +22956,14 @@ const __vue_component__$d = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$d, __vue_script__$d, __vue_scope_id__$d, __vue_is_functional_template__$d, __vue_module_identifier__$d, false, undefined, undefined, undefined);
 
 //
-var script$c = Vue.extend({
+//
+//
+//
+//
+//
+var script$c = {
   name: 'UserPlusIcon'
-});
+};
 
 /* script */
 const __vue_script__$c = script$c;
@@ -20897,9 +23012,15 @@ const __vue_component__$c = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$c, __vue_script__$c, __vue_scope_id__$c, __vue_is_functional_template__$c, __vue_module_identifier__$c, false, undefined, undefined, undefined);
 
 //
-var script$b = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$b = {
   name: 'UserSquareIcon'
-});
+};
 
 /* script */
 const __vue_script__$b = script$b;
@@ -20953,9 +23074,14 @@ const __vue_component__$b = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$b, __vue_script__$b, __vue_scope_id__$b, __vue_is_functional_template__$b, __vue_module_identifier__$b, false, undefined, undefined, undefined);
 
 //
-var script$a = Vue.extend({
+//
+//
+//
+//
+//
+var script$a = {
   name: 'UserVoiceIcon'
-});
+};
 
 /* script */
 const __vue_script__$a = script$a;
@@ -21004,9 +23130,15 @@ const __vue_component__$a = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$a, __vue_script__$a, __vue_scope_id__$a, __vue_is_functional_template__$a, __vue_module_identifier__$a, false, undefined, undefined, undefined);
 
 //
-var script$9 = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$9 = {
   name: 'UserIcon'
-});
+};
 
 /* script */
 const __vue_script__$9 = script$9;
@@ -21060,9 +23192,15 @@ const __vue_component__$9 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$9, __vue_script__$9, __vue_scope_id__$9, __vue_is_functional_template__$9, __vue_module_identifier__$9, false, undefined, undefined, undefined);
 
 //
-var script$8 = Vue.extend({
+//
+//
+//
+//
+//
+//
+var script$8 = {
   name: 'WarningOutlineIcon'
-});
+};
 
 /* script */
 const __vue_script__$8 = script$8;
@@ -21116,9 +23254,14 @@ const __vue_component__$8 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$8, __vue_script__$8, __vue_scope_id__$8, __vue_is_functional_template__$8, __vue_module_identifier__$8, false, undefined, undefined, undefined);
 
 //
-var script$7 = Vue.extend({
+//
+//
+//
+//
+//
+var script$7 = {
   name: 'WarningIcon'
-});
+};
 
 /* script */
 const __vue_script__$7 = script$7;
@@ -21167,9 +23310,14 @@ const __vue_component__$7 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$7, __vue_script__$7, __vue_scope_id__$7, __vue_is_functional_template__$7, __vue_module_identifier__$7, false, undefined, undefined, undefined);
 
 //
-var script$6 = Vue.extend({
+//
+//
+//
+//
+//
+var script$6 = {
   name: 'WindowCheckIcon'
-});
+};
 
 /* script */
 const __vue_script__$6 = script$6;
@@ -21218,9 +23366,14 @@ const __vue_component__$6 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$6, __vue_script__$6, __vue_scope_id__$6, __vue_is_functional_template__$6, __vue_module_identifier__$6, false, undefined, undefined, undefined);
 
 //
-var script$5 = Vue.extend({
+//
+//
+//
+//
+//
+var script$5 = {
   name: 'WindowCloseIcon'
-});
+};
 
 /* script */
 const __vue_script__$5 = script$5;
@@ -21269,9 +23422,14 @@ const __vue_component__$5 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$5, __vue_script__$5, __vue_scope_id__$5, __vue_is_functional_template__$5, __vue_module_identifier__$5, false, undefined, undefined, undefined);
 
 //
-var script$4 = Vue.extend({
+//
+//
+//
+//
+//
+var script$4 = {
   name: 'WindowCodeBlockIcon'
-});
+};
 
 /* script */
 const __vue_script__$4 = script$4;
@@ -21320,9 +23478,14 @@ const __vue_component__$4 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$4, __vue_script__$4, __vue_scope_id__$4, __vue_is_functional_template__$4, __vue_module_identifier__$4, false, undefined, undefined, undefined);
 
 //
-var script$3 = Vue.extend({
+//
+//
+//
+//
+//
+var script$3 = {
   name: 'WindowSidebarIcon'
-});
+};
 
 /* script */
 const __vue_script__$3 = script$3;
@@ -21371,9 +23534,14 @@ const __vue_component__$3 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$3, __vue_script__$3, __vue_scope_id__$3, __vue_is_functional_template__$3, __vue_module_identifier__$3, false, undefined, undefined, undefined);
 
 //
-var script$2 = Vue.extend({
+//
+//
+//
+//
+//
+var script$2 = {
   name: 'WindowTerminalIcon'
-});
+};
 
 /* script */
 const __vue_script__$2 = script$2;
@@ -21422,9 +23590,14 @@ const __vue_component__$2 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$2, __vue_script__$2, __vue_scope_id__$2, __vue_is_functional_template__$2, __vue_module_identifier__$2, false, undefined, undefined, undefined);
 
 //
-var script$1 = Vue.extend({
+//
+//
+//
+//
+//
+var script$1 = {
   name: 'WindowIcon'
-});
+};
 
 /* script */
 const __vue_script__$1 = script$1;
@@ -21473,9 +23646,14 @@ const __vue_component__$1 = /*#__PURE__*/normalizeComponent({
 }, __vue_inject_styles__$1, __vue_script__$1, __vue_scope_id__$1, __vue_is_functional_template__$1, __vue_module_identifier__$1, false, undefined, undefined, undefined);
 
 //
-var script = Vue.extend({
+//
+//
+//
+//
+//
+var script = {
   name: 'YoutubeIcon'
-});
+};
 
 /* script */
 const __vue_script__ = script;
@@ -21522,6 +23700,8 @@ const __vue_component__ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__,
   staticRenderFns: __vue_staticRenderFns__
 }, __vue_inject_styles__, __vue_script__, __vue_scope_id__, __vue_is_functional_template__, __vue_module_identifier__, false, undefined, undefined, undefined);
+
+/* eslint-disable import/prefer-default-export */
 
 var components = /*#__PURE__*/Object.freeze({
   __proto__: null,

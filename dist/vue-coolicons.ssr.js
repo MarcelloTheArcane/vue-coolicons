@@ -1,4 +1,4 @@
-'use strict';var Vue=require('vue');function _interopDefaultLegacy(e){return e&&typeof e==='object'&&'default'in e?e:{'default':e}}var Vue__default=/*#__PURE__*/_interopDefaultLegacy(Vue);function _slicedToArray(arr, i) {
+'use strict';function _slicedToArray(arr, i) {
   return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest();
 }
 
@@ -53,9 +53,15 @@ function _arrayLikeToArray(arr, len) {
 function _nonIterableRest() {
   throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
 }//
-var script$6r = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$6r = {
   name: 'AddColumnIcon'
-});function normalizeComponent(template, style, script, scopeId, isFunctionalTemplate, moduleIdentifier /* server only */, shadowMode, createInjector, createInjectorSSR, createInjectorShadow) {
+};function normalizeComponent(template, style, script, scopeId, isFunctionalTemplate, moduleIdentifier /* server only */, shadowMode, createInjector, createInjectorSSR, createInjectorShadow) {
     if (typeof shadowMode !== 'boolean') {
         createInjectorSSR = createInjector;
         createInjector = shadowMode;
@@ -154,7 +160,7 @@ var __vue_inject_styles__$6r = undefined;
 var __vue_scope_id__$6r = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6r = "data-v-b3da04d4";
+var __vue_module_identifier__$6r = "data-v-54ca3230";
 /* functional template */
 
 var __vue_is_functional_template__$6r = true;
@@ -168,9 +174,15 @@ var __vue_component__$6r = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6r,
   staticRenderFns: __vue_staticRenderFns__$6r
 }, __vue_inject_styles__$6r, __vue_script__$6r, __vue_scope_id__$6r, __vue_is_functional_template__$6r, __vue_module_identifier__$6r, false, undefined, undefined, undefined);//
-var script$6q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$6q = {
   name: 'AddRowIcon'
-});/* script */
+};/* script */
 var __vue_script__$6q = script$6q;
 /* template */
 
@@ -196,7 +208,7 @@ var __vue_inject_styles__$6q = undefined;
 var __vue_scope_id__$6q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6q = "data-v-45fcde88";
+var __vue_module_identifier__$6q = "data-v-77d4a078";
 /* functional template */
 
 var __vue_is_functional_template__$6q = true;
@@ -210,9 +222,14 @@ var __vue_component__$6q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6q,
   staticRenderFns: __vue_staticRenderFns__$6q
 }, __vue_inject_styles__$6q, __vue_script__$6q, __vue_scope_id__$6q, __vue_is_functional_template__$6q, __vue_module_identifier__$6q, false, undefined, undefined, undefined);//
-var script$6p = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6p = {
   name: 'AddToQueueIcon'
-});/* script */
+};/* script */
 var __vue_script__$6p = script$6p;
 /* template */
 
@@ -238,7 +255,7 @@ var __vue_inject_styles__$6p = undefined;
 var __vue_scope_id__$6p = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6p = "data-v-03b2eee2";
+var __vue_module_identifier__$6p = "data-v-0c357c9d";
 /* functional template */
 
 var __vue_is_functional_template__$6p = true;
@@ -252,9 +269,14 @@ var __vue_component__$6p = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6p,
   staticRenderFns: __vue_staticRenderFns__$6p
 }, __vue_inject_styles__$6p, __vue_script__$6p, __vue_scope_id__$6p, __vue_is_functional_template__$6p, __vue_module_identifier__$6p, false, undefined, undefined, undefined);//
-var script$6o = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6o = {
   name: 'AdobeXdIcon'
-});/* script */
+};/* script */
 var __vue_script__$6o = script$6o;
 /* template */
 
@@ -280,7 +302,7 @@ var __vue_inject_styles__$6o = undefined;
 var __vue_scope_id__$6o = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6o = "data-v-4acb6aba";
+var __vue_module_identifier__$6o = "data-v-641a6e3b";
 /* functional template */
 
 var __vue_is_functional_template__$6o = true;
@@ -294,9 +316,14 @@ var __vue_component__$6o = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6o,
   staticRenderFns: __vue_staticRenderFns__$6o
 }, __vue_inject_styles__$6o, __vue_script__$6o, __vue_scope_id__$6o, __vue_is_functional_template__$6o, __vue_module_identifier__$6o, false, undefined, undefined, undefined);//
-var script$6n = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6n = {
   name: 'AirplayIcon'
-});/* script */
+};/* script */
 var __vue_script__$6n = script$6n;
 /* template */
 
@@ -322,7 +349,7 @@ var __vue_inject_styles__$6n = undefined;
 var __vue_scope_id__$6n = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6n = "data-v-4269e400";
+var __vue_module_identifier__$6n = "data-v-5330ab3e";
 /* functional template */
 
 var __vue_is_functional_template__$6n = true;
@@ -336,9 +363,14 @@ var __vue_component__$6n = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6n,
   staticRenderFns: __vue_staticRenderFns__$6n
 }, __vue_inject_styles__$6n, __vue_script__$6n, __vue_scope_id__$6n, __vue_is_functional_template__$6n, __vue_module_identifier__$6n, false, undefined, undefined, undefined);//
-var script$6m = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6m = {
   name: 'AlarmAddIcon'
-});/* script */
+};/* script */
 var __vue_script__$6m = script$6m;
 /* template */
 
@@ -364,7 +396,7 @@ var __vue_inject_styles__$6m = undefined;
 var __vue_scope_id__$6m = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6m = "data-v-b2576e48";
+var __vue_module_identifier__$6m = "data-v-c3515320";
 /* functional template */
 
 var __vue_is_functional_template__$6m = true;
@@ -378,9 +410,14 @@ var __vue_component__$6m = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6m,
   staticRenderFns: __vue_staticRenderFns__$6m
 }, __vue_inject_styles__$6m, __vue_script__$6m, __vue_scope_id__$6m, __vue_is_functional_template__$6m, __vue_module_identifier__$6m, false, undefined, undefined, undefined);//
-var script$6l = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6l = {
   name: 'AlarmIcon'
-});/* script */
+};/* script */
 var __vue_script__$6l = script$6l;
 /* template */
 
@@ -406,7 +443,7 @@ var __vue_inject_styles__$6l = undefined;
 var __vue_scope_id__$6l = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6l = "data-v-37a08462";
+var __vue_module_identifier__$6l = "data-v-ad6cdcc8";
 /* functional template */
 
 var __vue_is_functional_template__$6l = true;
@@ -420,9 +457,14 @@ var __vue_component__$6l = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6l,
   staticRenderFns: __vue_staticRenderFns__$6l
 }, __vue_inject_styles__$6l, __vue_script__$6l, __vue_scope_id__$6l, __vue_is_functional_template__$6l, __vue_module_identifier__$6l, false, undefined, undefined, undefined);//
-var script$6k = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6k = {
   name: 'AppStoreIcon'
-});/* script */
+};/* script */
 var __vue_script__$6k = script$6k;
 /* template */
 
@@ -448,7 +490,7 @@ var __vue_inject_styles__$6k = undefined;
 var __vue_scope_id__$6k = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6k = "data-v-695f1fca";
+var __vue_module_identifier__$6k = "data-v-0788b0de";
 /* functional template */
 
 var __vue_is_functional_template__$6k = true;
@@ -462,9 +504,14 @@ var __vue_component__$6k = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6k,
   staticRenderFns: __vue_staticRenderFns__$6k
 }, __vue_inject_styles__$6k, __vue_script__$6k, __vue_scope_id__$6k, __vue_is_functional_template__$6k, __vue_module_identifier__$6k, false, undefined, undefined, undefined);//
-var script$6j = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6j = {
   name: 'AppleIcon'
-});/* script */
+};/* script */
 var __vue_script__$6j = script$6j;
 /* template */
 
@@ -490,7 +537,7 @@ var __vue_inject_styles__$6j = undefined;
 var __vue_scope_id__$6j = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6j = "data-v-434e4cf5";
+var __vue_module_identifier__$6j = "data-v-765f88ae";
 /* functional template */
 
 var __vue_is_functional_template__$6j = true;
@@ -504,9 +551,14 @@ var __vue_component__$6j = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6j,
   staticRenderFns: __vue_staticRenderFns__$6j
 }, __vue_inject_styles__$6j, __vue_script__$6j, __vue_scope_id__$6j, __vue_is_functional_template__$6j, __vue_module_identifier__$6j, false, undefined, undefined, undefined);//
-var script$6i = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6i = {
   name: 'BarBottomIcon'
-});/* script */
+};/* script */
 var __vue_script__$6i = script$6i;
 /* template */
 
@@ -532,7 +584,7 @@ var __vue_inject_styles__$6i = undefined;
 var __vue_scope_id__$6i = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6i = "data-v-7bde9079";
+var __vue_module_identifier__$6i = "data-v-3b9c8db6";
 /* functional template */
 
 var __vue_is_functional_template__$6i = true;
@@ -546,9 +598,14 @@ var __vue_component__$6i = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6i,
   staticRenderFns: __vue_staticRenderFns__$6i
 }, __vue_inject_styles__$6i, __vue_script__$6i, __vue_scope_id__$6i, __vue_is_functional_template__$6i, __vue_module_identifier__$6i, false, undefined, undefined, undefined);//
-var script$6h = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6h = {
   name: 'BarChartAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$6h = script$6h;
 /* template */
 
@@ -574,7 +631,7 @@ var __vue_inject_styles__$6h = undefined;
 var __vue_scope_id__$6h = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6h = "data-v-5ed5bdce";
+var __vue_module_identifier__$6h = "data-v-1f4dc376";
 /* functional template */
 
 var __vue_is_functional_template__$6h = true;
@@ -588,9 +645,14 @@ var __vue_component__$6h = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6h,
   staticRenderFns: __vue_staticRenderFns__$6h
 }, __vue_inject_styles__$6h, __vue_script__$6h, __vue_scope_id__$6h, __vue_is_functional_template__$6h, __vue_module_identifier__$6h, false, undefined, undefined, undefined);//
-var script$6g = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6g = {
   name: 'BarChartCircleIcon'
-});/* script */
+};/* script */
 var __vue_script__$6g = script$6g;
 /* template */
 
@@ -616,7 +678,7 @@ var __vue_inject_styles__$6g = undefined;
 var __vue_scope_id__$6g = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6g = "data-v-42e1ba7a";
+var __vue_module_identifier__$6g = "data-v-07716992";
 /* functional template */
 
 var __vue_is_functional_template__$6g = true;
@@ -630,9 +692,14 @@ var __vue_component__$6g = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6g,
   staticRenderFns: __vue_staticRenderFns__$6g
 }, __vue_inject_styles__$6g, __vue_script__$6g, __vue_scope_id__$6g, __vue_is_functional_template__$6g, __vue_module_identifier__$6g, false, undefined, undefined, undefined);//
-var script$6f = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6f = {
   name: 'BarChartHorizontalIcon'
-});/* script */
+};/* script */
 var __vue_script__$6f = script$6f;
 /* template */
 
@@ -658,7 +725,7 @@ var __vue_inject_styles__$6f = undefined;
 var __vue_scope_id__$6f = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6f = "data-v-34c28409";
+var __vue_module_identifier__$6f = "data-v-a63c243a";
 /* functional template */
 
 var __vue_is_functional_template__$6f = true;
@@ -672,9 +739,14 @@ var __vue_component__$6f = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6f,
   staticRenderFns: __vue_staticRenderFns__$6f
 }, __vue_inject_styles__$6f, __vue_script__$6f, __vue_scope_id__$6f, __vue_is_functional_template__$6f, __vue_module_identifier__$6f, false, undefined, undefined, undefined);//
-var script$6e = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6e = {
   name: 'BarChartSquareIcon'
-});/* script */
+};/* script */
 var __vue_script__$6e = script$6e;
 /* template */
 
@@ -700,7 +772,7 @@ var __vue_inject_styles__$6e = undefined;
 var __vue_scope_id__$6e = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6e = "data-v-6e7bd3dc";
+var __vue_module_identifier__$6e = "data-v-c5247fa0";
 /* functional template */
 
 var __vue_is_functional_template__$6e = true;
@@ -714,9 +786,14 @@ var __vue_component__$6e = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6e,
   staticRenderFns: __vue_staticRenderFns__$6e
 }, __vue_inject_styles__$6e, __vue_script__$6e, __vue_scope_id__$6e, __vue_is_functional_template__$6e, __vue_module_identifier__$6e, false, undefined, undefined, undefined);//
-var script$6d = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6d = {
   name: 'BarChartIcon'
-});/* script */
+};/* script */
 var __vue_script__$6d = script$6d;
 /* template */
 
@@ -742,7 +819,7 @@ var __vue_inject_styles__$6d = undefined;
 var __vue_scope_id__$6d = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6d = "data-v-c72be892";
+var __vue_module_identifier__$6d = "data-v-4fd16296";
 /* functional template */
 
 var __vue_is_functional_template__$6d = true;
@@ -756,9 +833,14 @@ var __vue_component__$6d = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6d,
   staticRenderFns: __vue_staticRenderFns__$6d
 }, __vue_inject_styles__$6d, __vue_script__$6d, __vue_scope_id__$6d, __vue_is_functional_template__$6d, __vue_module_identifier__$6d, false, undefined, undefined, undefined);//
-var script$6c = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6c = {
   name: 'BarLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$6c = script$6c;
 /* template */
 
@@ -784,7 +866,7 @@ var __vue_inject_styles__$6c = undefined;
 var __vue_scope_id__$6c = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6c = "data-v-4f02cdce";
+var __vue_module_identifier__$6c = "data-v-32772730";
 /* functional template */
 
 var __vue_is_functional_template__$6c = true;
@@ -798,9 +880,14 @@ var __vue_component__$6c = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6c,
   staticRenderFns: __vue_staticRenderFns__$6c
 }, __vue_inject_styles__$6c, __vue_script__$6c, __vue_scope_id__$6c, __vue_is_functional_template__$6c, __vue_module_identifier__$6c, false, undefined, undefined, undefined);//
-var script$6b = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6b = {
   name: 'BarRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$6b = script$6b;
 /* template */
 
@@ -826,7 +913,7 @@ var __vue_inject_styles__$6b = undefined;
 var __vue_scope_id__$6b = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6b = "data-v-81bb0142";
+var __vue_module_identifier__$6b = "data-v-3857e6e6";
 /* functional template */
 
 var __vue_is_functional_template__$6b = true;
@@ -840,9 +927,14 @@ var __vue_component__$6b = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6b,
   staticRenderFns: __vue_staticRenderFns__$6b
 }, __vue_inject_styles__$6b, __vue_script__$6b, __vue_scope_id__$6b, __vue_is_functional_template__$6b, __vue_module_identifier__$6b, false, undefined, undefined, undefined);//
-var script$6a = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6a = {
   name: 'BarTopIcon'
-});/* script */
+};/* script */
 var __vue_script__$6a = script$6a;
 /* template */
 
@@ -868,7 +960,7 @@ var __vue_inject_styles__$6a = undefined;
 var __vue_scope_id__$6a = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6a = "data-v-8986deac";
+var __vue_module_identifier__$6a = "data-v-ccd2f2bc";
 /* functional template */
 
 var __vue_is_functional_template__$6a = true;
@@ -882,9 +974,20 @@ var __vue_component__$6a = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6a,
   staticRenderFns: __vue_staticRenderFns__$6a
 }, __vue_inject_styles__$6a, __vue_script__$6a, __vue_scope_id__$6a, __vue_is_functional_template__$6a, __vue_module_identifier__$6a, false, undefined, undefined, undefined);//
-var script$69 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$69 = {
   name: 'BarcodeIcon'
-});/* script */
+};/* script */
 var __vue_script__$69 = script$69;
 /* template */
 
@@ -910,7 +1013,7 @@ var __vue_inject_styles__$69 = undefined;
 var __vue_scope_id__$69 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$69 = "data-v-444f4634";
+var __vue_module_identifier__$69 = "data-v-64e621ec";
 /* functional template */
 
 var __vue_is_functional_template__$69 = true;
@@ -924,9 +1027,14 @@ var __vue_component__$69 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$69,
   staticRenderFns: __vue_staticRenderFns__$69
 }, __vue_inject_styles__$69, __vue_script__$69, __vue_scope_id__$69, __vue_is_functional_template__$69, __vue_module_identifier__$69, false, undefined, undefined, undefined);//
-var script$68 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$68 = {
   name: 'BehanceIcon'
-});/* script */
+};/* script */
 var __vue_script__$68 = script$68;
 /* template */
 
@@ -952,7 +1060,7 @@ var __vue_inject_styles__$68 = undefined;
 var __vue_scope_id__$68 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$68 = "data-v-2d68bf85";
+var __vue_module_identifier__$68 = "data-v-2fb0a659";
 /* functional template */
 
 var __vue_is_functional_template__$68 = true;
@@ -966,9 +1074,18 @@ var __vue_component__$68 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$68,
   staticRenderFns: __vue_staticRenderFns__$68
 }, __vue_inject_styles__$68, __vue_script__$68, __vue_scope_id__$68, __vue_is_functional_template__$68, __vue_module_identifier__$68, false, undefined, undefined, undefined);//
-var script$67 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$67 = {
   name: 'BlackLivesMatterIcon'
-});/* script */
+};/* script */
 var __vue_script__$67 = script$67;
 /* template */
 
@@ -994,7 +1111,7 @@ var __vue_inject_styles__$67 = undefined;
 var __vue_scope_id__$67 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$67 = "data-v-0f99fe68";
+var __vue_module_identifier__$67 = "data-v-9f4b1180";
 /* functional template */
 
 var __vue_is_functional_template__$67 = true;
@@ -1008,9 +1125,14 @@ var __vue_component__$67 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$67,
   staticRenderFns: __vue_staticRenderFns__$67
 }, __vue_inject_styles__$67, __vue_script__$67, __vue_scope_id__$67, __vue_is_functional_template__$67, __vue_module_identifier__$67, false, undefined, undefined, undefined);//
-var script$66 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$66 = {
   name: 'BoldIcon'
-});/* script */
+};/* script */
 var __vue_script__$66 = script$66;
 /* template */
 
@@ -1036,7 +1158,7 @@ var __vue_inject_styles__$66 = undefined;
 var __vue_scope_id__$66 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$66 = "data-v-d5106bdc";
+var __vue_module_identifier__$66 = "data-v-3fa2418c";
 /* functional template */
 
 var __vue_is_functional_template__$66 = true;
@@ -1050,9 +1172,14 @@ var __vue_component__$66 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$66,
   staticRenderFns: __vue_staticRenderFns__$66
 }, __vue_inject_styles__$66, __vue_script__$66, __vue_scope_id__$66, __vue_is_functional_template__$66, __vue_module_identifier__$66, false, undefined, undefined, undefined);//
-var script$65 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$65 = {
   name: 'BuildingIcon'
-});/* script */
+};/* script */
 var __vue_script__$65 = script$65;
 /* template */
 
@@ -1078,7 +1205,7 @@ var __vue_inject_styles__$65 = undefined;
 var __vue_scope_id__$65 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$65 = "data-v-853f4c28";
+var __vue_module_identifier__$65 = "data-v-9bf4d340";
 /* functional template */
 
 var __vue_is_functional_template__$65 = true;
@@ -1092,9 +1219,14 @@ var __vue_component__$65 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$65,
   staticRenderFns: __vue_staticRenderFns__$65
 }, __vue_inject_styles__$65, __vue_script__$65, __vue_scope_id__$65, __vue_is_functional_template__$65, __vue_module_identifier__$65, false, undefined, undefined, undefined);//
-var script$64 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$64 = {
   name: 'BulbIcon'
-});/* script */
+};/* script */
 var __vue_script__$64 = script$64;
 /* template */
 
@@ -1120,7 +1252,7 @@ var __vue_inject_styles__$64 = undefined;
 var __vue_scope_id__$64 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$64 = "data-v-3acdab14";
+var __vue_module_identifier__$64 = "data-v-42537710";
 /* functional template */
 
 var __vue_is_functional_template__$64 = true;
@@ -1134,9 +1266,14 @@ var __vue_component__$64 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$64,
   staticRenderFns: __vue_staticRenderFns__$64
 }, __vue_inject_styles__$64, __vue_script__$64, __vue_scope_id__$64, __vue_is_functional_template__$64, __vue_module_identifier__$64, false, undefined, undefined, undefined);//
-var script$63 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$63 = {
   name: 'CalendarCalendarIcon'
-});/* script */
+};/* script */
 var __vue_script__$63 = script$63;
 /* template */
 
@@ -1162,7 +1299,7 @@ var __vue_inject_styles__$63 = undefined;
 var __vue_scope_id__$63 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$63 = "data-v-443a566a";
+var __vue_module_identifier__$63 = "data-v-7301e2e1";
 /* functional template */
 
 var __vue_is_functional_template__$63 = true;
@@ -1176,9 +1313,14 @@ var __vue_component__$63 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$63,
   staticRenderFns: __vue_staticRenderFns__$63
 }, __vue_inject_styles__$63, __vue_script__$63, __vue_scope_id__$63, __vue_is_functional_template__$63, __vue_module_identifier__$63, false, undefined, undefined, undefined);//
-var script$62 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$62 = {
   name: 'CalendarCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$62 = script$62;
 /* template */
 
@@ -1204,7 +1346,7 @@ var __vue_inject_styles__$62 = undefined;
 var __vue_scope_id__$62 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$62 = "data-v-25bf4e14";
+var __vue_module_identifier__$62 = "data-v-6e6f3648";
 /* functional template */
 
 var __vue_is_functional_template__$62 = true;
@@ -1218,9 +1360,14 @@ var __vue_component__$62 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$62,
   staticRenderFns: __vue_staticRenderFns__$62
 }, __vue_inject_styles__$62, __vue_script__$62, __vue_scope_id__$62, __vue_is_functional_template__$62, __vue_module_identifier__$62, false, undefined, undefined, undefined);//
-var script$61 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$61 = {
   name: 'CalendarEditIcon'
-});/* script */
+};/* script */
 var __vue_script__$61 = script$61;
 /* template */
 
@@ -1246,7 +1393,7 @@ var __vue_inject_styles__$61 = undefined;
 var __vue_scope_id__$61 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$61 = "data-v-2f1d314c";
+var __vue_module_identifier__$61 = "data-v-068fab00";
 /* functional template */
 
 var __vue_is_functional_template__$61 = true;
@@ -1260,9 +1407,14 @@ var __vue_component__$61 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$61,
   staticRenderFns: __vue_staticRenderFns__$61
 }, __vue_inject_styles__$61, __vue_script__$61, __vue_scope_id__$61, __vue_is_functional_template__$61, __vue_module_identifier__$61, false, undefined, undefined, undefined);//
-var script$60 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$60 = {
   name: 'CalendarEventIcon'
-});/* script */
+};/* script */
 var __vue_script__$60 = script$60;
 /* template */
 
@@ -1288,7 +1440,7 @@ var __vue_inject_styles__$60 = undefined;
 var __vue_scope_id__$60 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$60 = "data-v-03e82ad0";
+var __vue_module_identifier__$60 = "data-v-2c5aeb66";
 /* functional template */
 
 var __vue_is_functional_template__$60 = true;
@@ -1302,9 +1454,14 @@ var __vue_component__$60 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$60,
   staticRenderFns: __vue_staticRenderFns__$60
 }, __vue_inject_styles__$60, __vue_script__$60, __vue_scope_id__$60, __vue_is_functional_template__$60, __vue_module_identifier__$60, false, undefined, undefined, undefined);//
-var script$5$ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5$ = {
   name: 'CalendarMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$5$ = script$5$;
 /* template */
 
@@ -1330,7 +1487,7 @@ var __vue_inject_styles__$5$ = undefined;
 var __vue_scope_id__$5$ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5$ = "data-v-1af43bac";
+var __vue_module_identifier__$5$ = "data-v-6e470d52";
 /* functional template */
 
 var __vue_is_functional_template__$5$ = true;
@@ -1344,9 +1501,14 @@ var __vue_component__$5$ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5$,
   staticRenderFns: __vue_staticRenderFns__$5$
 }, __vue_inject_styles__$5$, __vue_script__$5$, __vue_scope_id__$5$, __vue_is_functional_template__$5$, __vue_module_identifier__$5$, false, undefined, undefined, undefined);//
-var script$5_ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5_ = {
   name: 'CalendarPlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$5_ = script$5_;
 /* template */
 
@@ -1372,7 +1534,7 @@ var __vue_inject_styles__$5_ = undefined;
 var __vue_scope_id__$5_ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5_ = "data-v-16cf289c";
+var __vue_module_identifier__$5_ = "data-v-0c4f7dda";
 /* functional template */
 
 var __vue_is_functional_template__$5_ = true;
@@ -1386,9 +1548,14 @@ var __vue_component__$5_ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5_,
   staticRenderFns: __vue_staticRenderFns__$5_
 }, __vue_inject_styles__$5_, __vue_script__$5_, __vue_scope_id__$5_, __vue_is_functional_template__$5_, __vue_module_identifier__$5_, false, undefined, undefined, undefined);//
-var script$5Z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5Z = {
   name: 'CalendarWeekIcon'
-});/* script */
+};/* script */
 var __vue_script__$5Z = script$5Z;
 /* template */
 
@@ -1414,7 +1581,7 @@ var __vue_inject_styles__$5Z = undefined;
 var __vue_scope_id__$5Z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5Z = "data-v-a0bd8110";
+var __vue_module_identifier__$5Z = "data-v-68870154";
 /* functional template */
 
 var __vue_is_functional_template__$5Z = true;
@@ -1428,9 +1595,14 @@ var __vue_component__$5Z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5Z,
   staticRenderFns: __vue_staticRenderFns__$5Z
 }, __vue_inject_styles__$5Z, __vue_script__$5Z, __vue_scope_id__$5Z, __vue_is_functional_template__$5Z, __vue_module_identifier__$5Z, false, undefined, undefined, undefined);//
-var script$5Y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5Y = {
   name: 'CalendarXIcon'
-});/* script */
+};/* script */
 var __vue_script__$5Y = script$5Y;
 /* template */
 
@@ -1456,7 +1628,7 @@ var __vue_inject_styles__$5Y = undefined;
 var __vue_scope_id__$5Y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5Y = "data-v-2b0baeee";
+var __vue_module_identifier__$5Y = "data-v-c545a7d6";
 /* functional template */
 
 var __vue_is_functional_template__$5Y = true;
@@ -1470,9 +1642,14 @@ var __vue_component__$5Y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5Y,
   staticRenderFns: __vue_staticRenderFns__$5Y
 }, __vue_inject_styles__$5Y, __vue_script__$5Y, __vue_scope_id__$5Y, __vue_is_functional_template__$5Y, __vue_module_identifier__$5Y, false, undefined, undefined, undefined);//
-var script$5X = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5X = {
   name: 'CalendarIcon'
-});/* script */
+};/* script */
 var __vue_script__$5X = script$5X;
 /* template */
 
@@ -1498,7 +1675,7 @@ var __vue_inject_styles__$5X = undefined;
 var __vue_scope_id__$5X = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5X = "data-v-086cefe5";
+var __vue_module_identifier__$5X = "data-v-a21db6f2";
 /* functional template */
 
 var __vue_is_functional_template__$5X = true;
@@ -1512,9 +1689,14 @@ var __vue_component__$5X = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5X,
   staticRenderFns: __vue_staticRenderFns__$5X
 }, __vue_inject_styles__$5X, __vue_script__$5X, __vue_scope_id__$5X, __vue_is_functional_template__$5X, __vue_module_identifier__$5X, false, undefined, undefined, undefined);//
-var script$5W = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5W = {
   name: 'CaretDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$5W = script$5W;
 /* template */
 
@@ -1540,7 +1722,7 @@ var __vue_inject_styles__$5W = undefined;
 var __vue_scope_id__$5W = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5W = "data-v-76256a2e";
+var __vue_module_identifier__$5W = "data-v-a8d47460";
 /* functional template */
 
 var __vue_is_functional_template__$5W = true;
@@ -1554,9 +1736,14 @@ var __vue_component__$5W = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5W,
   staticRenderFns: __vue_staticRenderFns__$5W
 }, __vue_inject_styles__$5W, __vue_script__$5W, __vue_scope_id__$5W, __vue_is_functional_template__$5W, __vue_module_identifier__$5W, false, undefined, undefined, undefined);//
-var script$5V = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5V = {
   name: 'CaretLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$5V = script$5V;
 /* template */
 
@@ -1582,7 +1769,7 @@ var __vue_inject_styles__$5V = undefined;
 var __vue_scope_id__$5V = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5V = "data-v-d2995228";
+var __vue_module_identifier__$5V = "data-v-579b9edc";
 /* functional template */
 
 var __vue_is_functional_template__$5V = true;
@@ -1596,9 +1783,14 @@ var __vue_component__$5V = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5V,
   staticRenderFns: __vue_staticRenderFns__$5V
 }, __vue_inject_styles__$5V, __vue_script__$5V, __vue_scope_id__$5V, __vue_is_functional_template__$5V, __vue_module_identifier__$5V, false, undefined, undefined, undefined);//
-var script$5U = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5U = {
   name: 'CaretRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$5U = script$5U;
 /* template */
 
@@ -1624,7 +1816,7 @@ var __vue_inject_styles__$5U = undefined;
 var __vue_scope_id__$5U = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5U = "data-v-10dad580";
+var __vue_module_identifier__$5U = "data-v-6c7dff68";
 /* functional template */
 
 var __vue_is_functional_template__$5U = true;
@@ -1638,9 +1830,14 @@ var __vue_component__$5U = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5U,
   staticRenderFns: __vue_staticRenderFns__$5U
 }, __vue_inject_styles__$5U, __vue_script__$5U, __vue_scope_id__$5U, __vue_is_functional_template__$5U, __vue_module_identifier__$5U, false, undefined, undefined, undefined);//
-var script$5T = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5T = {
   name: 'CaretUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$5T = script$5T;
 /* template */
 
@@ -1666,7 +1863,7 @@ var __vue_inject_styles__$5T = undefined;
 var __vue_scope_id__$5T = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5T = "data-v-5b1adb8a";
+var __vue_module_identifier__$5T = "data-v-1c21b1f4";
 /* functional template */
 
 var __vue_is_functional_template__$5T = true;
@@ -1680,9 +1877,14 @@ var __vue_component__$5T = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5T,
   staticRenderFns: __vue_staticRenderFns__$5T
 }, __vue_inject_styles__$5T, __vue_script__$5T, __vue_scope_id__$5T, __vue_is_functional_template__$5T, __vue_module_identifier__$5T, false, undefined, undefined, undefined);//
-var script$5S = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5S = {
   name: 'CastIcon'
-});/* script */
+};/* script */
 var __vue_script__$5S = script$5S;
 /* template */
 
@@ -1708,7 +1910,7 @@ var __vue_inject_styles__$5S = undefined;
 var __vue_scope_id__$5S = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5S = "data-v-cb583d86";
+var __vue_module_identifier__$5S = "data-v-363d756f";
 /* functional template */
 
 var __vue_is_functional_template__$5S = true;
@@ -1722,9 +1924,15 @@ var __vue_component__$5S = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5S,
   staticRenderFns: __vue_staticRenderFns__$5S
 }, __vue_inject_styles__$5S, __vue_script__$5S, __vue_scope_id__$5S, __vue_is_functional_template__$5S, __vue_module_identifier__$5S, false, undefined, undefined, undefined);//
-var script$5R = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$5R = {
   name: 'ChatAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$5R = script$5R;
 /* template */
 
@@ -1750,7 +1958,7 @@ var __vue_inject_styles__$5R = undefined;
 var __vue_scope_id__$5R = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5R = "data-v-143b2990";
+var __vue_module_identifier__$5R = "data-v-c211e774";
 /* functional template */
 
 var __vue_is_functional_template__$5R = true;
@@ -1764,9 +1972,15 @@ var __vue_component__$5R = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5R,
   staticRenderFns: __vue_staticRenderFns__$5R
 }, __vue_inject_styles__$5R, __vue_script__$5R, __vue_scope_id__$5R, __vue_is_functional_template__$5R, __vue_module_identifier__$5R, false, undefined, undefined, undefined);//
-var script$5Q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$5Q = {
   name: 'ChatIcon'
-});/* script */
+};/* script */
 var __vue_script__$5Q = script$5Q;
 /* template */
 
@@ -1792,7 +2006,7 @@ var __vue_inject_styles__$5Q = undefined;
 var __vue_scope_id__$5Q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5Q = "data-v-8e662200";
+var __vue_module_identifier__$5Q = "data-v-5769e44c";
 /* functional template */
 
 var __vue_is_functional_template__$5Q = true;
@@ -1806,9 +2020,14 @@ var __vue_component__$5Q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5Q,
   staticRenderFns: __vue_staticRenderFns__$5Q
 }, __vue_inject_styles__$5Q, __vue_script__$5Q, __vue_scope_id__$5Q, __vue_is_functional_template__$5Q, __vue_module_identifier__$5Q, false, undefined, undefined, undefined);//
-var script$5P = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5P = {
   name: 'CheckAllBigIcon'
-});/* script */
+};/* script */
 var __vue_script__$5P = script$5P;
 /* template */
 
@@ -1834,7 +2053,7 @@ var __vue_inject_styles__$5P = undefined;
 var __vue_scope_id__$5P = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5P = "data-v-ee42076c";
+var __vue_module_identifier__$5P = "data-v-57260a74";
 /* functional template */
 
 var __vue_is_functional_template__$5P = true;
@@ -1848,9 +2067,14 @@ var __vue_component__$5P = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5P,
   staticRenderFns: __vue_staticRenderFns__$5P
 }, __vue_inject_styles__$5P, __vue_script__$5P, __vue_scope_id__$5P, __vue_is_functional_template__$5P, __vue_module_identifier__$5P, false, undefined, undefined, undefined);//
-var script$5O = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5O = {
   name: 'CheckAllIcon'
-});/* script */
+};/* script */
 var __vue_script__$5O = script$5O;
 /* template */
 
@@ -1876,7 +2100,7 @@ var __vue_inject_styles__$5O = undefined;
 var __vue_scope_id__$5O = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5O = "data-v-67718fa8";
+var __vue_module_identifier__$5O = "data-v-9fab2240";
 /* functional template */
 
 var __vue_is_functional_template__$5O = true;
@@ -1890,9 +2114,14 @@ var __vue_component__$5O = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5O,
   staticRenderFns: __vue_staticRenderFns__$5O
 }, __vue_inject_styles__$5O, __vue_script__$5O, __vue_scope_id__$5O, __vue_is_functional_template__$5O, __vue_module_identifier__$5O, false, undefined, undefined, undefined);//
-var script$5N = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5N = {
   name: 'CheckBigIcon'
-});/* script */
+};/* script */
 var __vue_script__$5N = script$5N;
 /* template */
 
@@ -1918,7 +2147,7 @@ var __vue_inject_styles__$5N = undefined;
 var __vue_scope_id__$5N = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5N = "data-v-6da842ba";
+var __vue_module_identifier__$5N = "data-v-2e464f52";
 /* functional template */
 
 var __vue_is_functional_template__$5N = true;
@@ -1932,9 +2161,14 @@ var __vue_component__$5N = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5N,
   staticRenderFns: __vue_staticRenderFns__$5N
 }, __vue_inject_styles__$5N, __vue_script__$5N, __vue_scope_id__$5N, __vue_is_functional_template__$5N, __vue_module_identifier__$5N, false, undefined, undefined, undefined);//
-var script$5M = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5M = {
   name: 'CheckBoldIcon'
-});/* script */
+};/* script */
 var __vue_script__$5M = script$5M;
 /* template */
 
@@ -1960,7 +2194,7 @@ var __vue_inject_styles__$5M = undefined;
 var __vue_scope_id__$5M = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5M = "data-v-67519d0e";
+var __vue_module_identifier__$5M = "data-v-0bcad736";
 /* functional template */
 
 var __vue_is_functional_template__$5M = true;
@@ -1974,9 +2208,14 @@ var __vue_component__$5M = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5M,
   staticRenderFns: __vue_staticRenderFns__$5M
 }, __vue_inject_styles__$5M, __vue_script__$5M, __vue_scope_id__$5M, __vue_is_functional_template__$5M, __vue_module_identifier__$5M, false, undefined, undefined, undefined);//
-var script$5L = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5L = {
   name: 'CheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$5L = script$5L;
 /* template */
 
@@ -2002,7 +2241,7 @@ var __vue_inject_styles__$5L = undefined;
 var __vue_scope_id__$5L = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5L = "data-v-fcc1a398";
+var __vue_module_identifier__$5L = "data-v-7371d34a";
 /* functional template */
 
 var __vue_is_functional_template__$5L = true;
@@ -2016,9 +2255,14 @@ var __vue_component__$5L = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5L,
   staticRenderFns: __vue_staticRenderFns__$5L
 }, __vue_inject_styles__$5L, __vue_script__$5L, __vue_scope_id__$5L, __vue_is_functional_template__$5L, __vue_module_identifier__$5L, false, undefined, undefined, undefined);//
-var script$5K = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5K = {
   name: 'CheckboxCheckedIcon'
-});/* script */
+};/* script */
 var __vue_script__$5K = script$5K;
 /* template */
 
@@ -2044,7 +2288,7 @@ var __vue_inject_styles__$5K = undefined;
 var __vue_scope_id__$5K = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5K = "data-v-908e293a";
+var __vue_module_identifier__$5K = "data-v-0edd3b8a";
 /* functional template */
 
 var __vue_is_functional_template__$5K = true;
@@ -2058,9 +2302,14 @@ var __vue_component__$5K = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5K,
   staticRenderFns: __vue_staticRenderFns__$5K
 }, __vue_inject_styles__$5K, __vue_script__$5K, __vue_scope_id__$5K, __vue_is_functional_template__$5K, __vue_module_identifier__$5K, false, undefined, undefined, undefined);//
-var script$5J = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5J = {
   name: 'CheckboxSquareIcon'
-});/* script */
+};/* script */
 var __vue_script__$5J = script$5J;
 /* template */
 
@@ -2086,7 +2335,7 @@ var __vue_inject_styles__$5J = undefined;
 var __vue_scope_id__$5J = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5J = "data-v-541b3d1d";
+var __vue_module_identifier__$5J = "data-v-32f6748f";
 /* functional template */
 
 var __vue_is_functional_template__$5J = true;
@@ -2100,9 +2349,14 @@ var __vue_component__$5J = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5J,
   staticRenderFns: __vue_staticRenderFns__$5J
 }, __vue_inject_styles__$5J, __vue_script__$5J, __vue_scope_id__$5J, __vue_is_functional_template__$5J, __vue_module_identifier__$5J, false, undefined, undefined, undefined);//
-var script$5I = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5I = {
   name: 'CheckboxIcon'
-});/* script */
+};/* script */
 var __vue_script__$5I = script$5I;
 /* template */
 
@@ -2128,7 +2382,7 @@ var __vue_inject_styles__$5I = undefined;
 var __vue_scope_id__$5I = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5I = "data-v-ff1e1794";
+var __vue_module_identifier__$5I = "data-v-69590496";
 /* functional template */
 
 var __vue_is_functional_template__$5I = true;
@@ -2142,9 +2396,14 @@ var __vue_component__$5I = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5I,
   staticRenderFns: __vue_staticRenderFns__$5I
 }, __vue_inject_styles__$5I, __vue_script__$5I, __vue_scope_id__$5I, __vue_is_functional_template__$5I, __vue_module_identifier__$5I, false, undefined, undefined, undefined);//
-var script$5H = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5H = {
   name: 'ChevronBigDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$5H = script$5H;
 /* template */
 
@@ -2170,7 +2429,7 @@ var __vue_inject_styles__$5H = undefined;
 var __vue_scope_id__$5H = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5H = "data-v-b6b5efe4";
+var __vue_module_identifier__$5H = "data-v-2918217e";
 /* functional template */
 
 var __vue_is_functional_template__$5H = true;
@@ -2184,9 +2443,14 @@ var __vue_component__$5H = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5H,
   staticRenderFns: __vue_staticRenderFns__$5H
 }, __vue_inject_styles__$5H, __vue_script__$5H, __vue_scope_id__$5H, __vue_is_functional_template__$5H, __vue_module_identifier__$5H, false, undefined, undefined, undefined);//
-var script$5G = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5G = {
   name: 'ChevronBigLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$5G = script$5G;
 /* template */
 
@@ -2212,7 +2476,7 @@ var __vue_inject_styles__$5G = undefined;
 var __vue_scope_id__$5G = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5G = "data-v-53e0e8e9";
+var __vue_module_identifier__$5G = "data-v-43342143";
 /* functional template */
 
 var __vue_is_functional_template__$5G = true;
@@ -2226,9 +2490,14 @@ var __vue_component__$5G = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5G,
   staticRenderFns: __vue_staticRenderFns__$5G
 }, __vue_inject_styles__$5G, __vue_script__$5G, __vue_scope_id__$5G, __vue_is_functional_template__$5G, __vue_module_identifier__$5G, false, undefined, undefined, undefined);//
-var script$5F = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5F = {
   name: 'ChevronBigRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$5F = script$5F;
 /* template */
 
@@ -2254,7 +2523,7 @@ var __vue_inject_styles__$5F = undefined;
 var __vue_scope_id__$5F = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5F = "data-v-6bd1d9c8";
+var __vue_module_identifier__$5F = "data-v-4c3f9c62";
 /* functional template */
 
 var __vue_is_functional_template__$5F = true;
@@ -2268,9 +2537,14 @@ var __vue_component__$5F = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5F,
   staticRenderFns: __vue_staticRenderFns__$5F
 }, __vue_inject_styles__$5F, __vue_script__$5F, __vue_scope_id__$5F, __vue_is_functional_template__$5F, __vue_module_identifier__$5F, false, undefined, undefined, undefined);//
-var script$5E = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5E = {
   name: 'ChevronBigUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$5E = script$5E;
 /* template */
 
@@ -2296,7 +2570,7 @@ var __vue_inject_styles__$5E = undefined;
 var __vue_scope_id__$5E = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5E = "data-v-6ec95d89";
+var __vue_module_identifier__$5E = "data-v-4275f53a";
 /* functional template */
 
 var __vue_is_functional_template__$5E = true;
@@ -2310,9 +2584,14 @@ var __vue_component__$5E = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5E,
   staticRenderFns: __vue_staticRenderFns__$5E
 }, __vue_inject_styles__$5E, __vue_script__$5E, __vue_scope_id__$5E, __vue_is_functional_template__$5E, __vue_module_identifier__$5E, false, undefined, undefined, undefined);//
-var script$5D = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5D = {
   name: 'ChevronDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$5D = script$5D;
 /* template */
 
@@ -2338,7 +2617,7 @@ var __vue_inject_styles__$5D = undefined;
 var __vue_scope_id__$5D = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5D = "data-v-730bac29";
+var __vue_module_identifier__$5D = "data-v-dbb6d516";
 /* functional template */
 
 var __vue_is_functional_template__$5D = true;
@@ -2352,9 +2631,14 @@ var __vue_component__$5D = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5D,
   staticRenderFns: __vue_staticRenderFns__$5D
 }, __vue_inject_styles__$5D, __vue_script__$5D, __vue_scope_id__$5D, __vue_is_functional_template__$5D, __vue_module_identifier__$5D, false, undefined, undefined, undefined);//
-var script$5C = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5C = {
   name: 'ChevronDuoDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$5C = script$5C;
 /* template */
 
@@ -2380,7 +2664,7 @@ var __vue_inject_styles__$5C = undefined;
 var __vue_scope_id__$5C = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5C = "data-v-702d8695";
+var __vue_module_identifier__$5C = "data-v-45232cd7";
 /* functional template */
 
 var __vue_is_functional_template__$5C = true;
@@ -2394,9 +2678,14 @@ var __vue_component__$5C = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5C,
   staticRenderFns: __vue_staticRenderFns__$5C
 }, __vue_inject_styles__$5C, __vue_script__$5C, __vue_scope_id__$5C, __vue_is_functional_template__$5C, __vue_module_identifier__$5C, false, undefined, undefined, undefined);//
-var script$5B = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5B = {
   name: 'ChevronDuoLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$5B = script$5B;
 /* template */
 
@@ -2422,7 +2711,7 @@ var __vue_inject_styles__$5B = undefined;
 var __vue_scope_id__$5B = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5B = "data-v-66ab5bb4";
+var __vue_module_identifier__$5B = "data-v-153f2ed8";
 /* functional template */
 
 var __vue_is_functional_template__$5B = true;
@@ -2436,9 +2725,14 @@ var __vue_component__$5B = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5B,
   staticRenderFns: __vue_staticRenderFns__$5B
 }, __vue_inject_styles__$5B, __vue_script__$5B, __vue_scope_id__$5B, __vue_is_functional_template__$5B, __vue_module_identifier__$5B, false, undefined, undefined, undefined);//
-var script$5A = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5A = {
   name: 'ChevronDuoRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$5A = script$5A;
 /* template */
 
@@ -2464,7 +2758,7 @@ var __vue_inject_styles__$5A = undefined;
 var __vue_scope_id__$5A = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5A = "data-v-e316ffea";
+var __vue_module_identifier__$5A = "data-v-5b4dfd5a";
 /* functional template */
 
 var __vue_is_functional_template__$5A = true;
@@ -2478,9 +2772,14 @@ var __vue_component__$5A = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5A,
   staticRenderFns: __vue_staticRenderFns__$5A
 }, __vue_inject_styles__$5A, __vue_script__$5A, __vue_scope_id__$5A, __vue_is_functional_template__$5A, __vue_module_identifier__$5A, false, undefined, undefined, undefined);//
-var script$5z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5z = {
   name: 'ChevronDuoUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$5z = script$5z;
 /* template */
 
@@ -2506,7 +2805,7 @@ var __vue_inject_styles__$5z = undefined;
 var __vue_scope_id__$5z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5z = "data-v-63e32c90";
+var __vue_module_identifier__$5z = "data-v-044e9f88";
 /* functional template */
 
 var __vue_is_functional_template__$5z = true;
@@ -2520,9 +2819,14 @@ var __vue_component__$5z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5z,
   staticRenderFns: __vue_staticRenderFns__$5z
 }, __vue_inject_styles__$5z, __vue_script__$5z, __vue_scope_id__$5z, __vue_is_functional_template__$5z, __vue_module_identifier__$5z, false, undefined, undefined, undefined);//
-var script$5y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5y = {
   name: 'ChevronLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$5y = script$5y;
 /* template */
 
@@ -2548,7 +2852,7 @@ var __vue_inject_styles__$5y = undefined;
 var __vue_scope_id__$5y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5y = "data-v-0e8c2a5f";
+var __vue_module_identifier__$5y = "data-v-67f67c82";
 /* functional template */
 
 var __vue_is_functional_template__$5y = true;
@@ -2562,9 +2866,14 @@ var __vue_component__$5y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5y,
   staticRenderFns: __vue_staticRenderFns__$5y
 }, __vue_inject_styles__$5y, __vue_script__$5y, __vue_scope_id__$5y, __vue_is_functional_template__$5y, __vue_module_identifier__$5y, false, undefined, undefined, undefined);//
-var script$5x = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5x = {
   name: 'ChevronRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$5x = script$5x;
 /* template */
 
@@ -2590,7 +2899,7 @@ var __vue_inject_styles__$5x = undefined;
 var __vue_scope_id__$5x = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5x = "data-v-e063d216";
+var __vue_module_identifier__$5x = "data-v-56a39b37";
 /* functional template */
 
 var __vue_is_functional_template__$5x = true;
@@ -2604,9 +2913,14 @@ var __vue_component__$5x = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5x,
   staticRenderFns: __vue_staticRenderFns__$5x
 }, __vue_inject_styles__$5x, __vue_script__$5x, __vue_scope_id__$5x, __vue_is_functional_template__$5x, __vue_module_identifier__$5x, false, undefined, undefined, undefined);//
-var script$5w = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5w = {
   name: 'ChevronUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$5w = script$5w;
 /* template */
 
@@ -2632,7 +2946,7 @@ var __vue_inject_styles__$5w = undefined;
 var __vue_scope_id__$5w = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5w = "data-v-7bba540c";
+var __vue_module_identifier__$5w = "data-v-43d5fd78";
 /* functional template */
 
 var __vue_is_functional_template__$5w = true;
@@ -2646,9 +2960,14 @@ var __vue_component__$5w = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5w,
   staticRenderFns: __vue_staticRenderFns__$5w
 }, __vue_inject_styles__$5w, __vue_script__$5w, __vue_scope_id__$5w, __vue_is_functional_template__$5w, __vue_module_identifier__$5w, false, undefined, undefined, undefined);//
-var script$5v = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5v = {
   name: 'CircleCheckOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$5v = script$5v;
 /* template */
 
@@ -2674,7 +2993,7 @@ var __vue_inject_styles__$5v = undefined;
 var __vue_scope_id__$5v = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5v = "data-v-51713a79";
+var __vue_module_identifier__$5v = "data-v-42ac0eb3";
 /* functional template */
 
 var __vue_is_functional_template__$5v = true;
@@ -2688,9 +3007,14 @@ var __vue_component__$5v = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5v,
   staticRenderFns: __vue_staticRenderFns__$5v
 }, __vue_inject_styles__$5v, __vue_script__$5v, __vue_scope_id__$5v, __vue_is_functional_template__$5v, __vue_module_identifier__$5v, false, undefined, undefined, undefined);//
-var script$5u = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5u = {
   name: 'CircleCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$5u = script$5u;
 /* template */
 
@@ -2716,7 +3040,7 @@ var __vue_inject_styles__$5u = undefined;
 var __vue_scope_id__$5u = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5u = "data-v-db08a236";
+var __vue_module_identifier__$5u = "data-v-5d82d50e";
 /* functional template */
 
 var __vue_is_functional_template__$5u = true;
@@ -2730,9 +3054,14 @@ var __vue_component__$5u = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5u,
   staticRenderFns: __vue_staticRenderFns__$5u
 }, __vue_inject_styles__$5u, __vue_script__$5u, __vue_scope_id__$5u, __vue_is_functional_template__$5u, __vue_module_identifier__$5u, false, undefined, undefined, undefined);//
-var script$5t = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5t = {
   name: 'CircleChevronDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$5t = script$5t;
 /* template */
 
@@ -2758,7 +3087,7 @@ var __vue_inject_styles__$5t = undefined;
 var __vue_scope_id__$5t = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5t = "data-v-38cfe68f";
+var __vue_module_identifier__$5t = "data-v-a27f03e2";
 /* functional template */
 
 var __vue_is_functional_template__$5t = true;
@@ -2772,9 +3101,14 @@ var __vue_component__$5t = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5t,
   staticRenderFns: __vue_staticRenderFns__$5t
 }, __vue_inject_styles__$5t, __vue_script__$5t, __vue_scope_id__$5t, __vue_is_functional_template__$5t, __vue_module_identifier__$5t, false, undefined, undefined, undefined);//
-var script$5s = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5s = {
   name: 'CircleChevronLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$5s = script$5s;
 /* template */
 
@@ -2800,7 +3134,7 @@ var __vue_inject_styles__$5s = undefined;
 var __vue_scope_id__$5s = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5s = "data-v-26d6f4ae";
+var __vue_module_identifier__$5s = "data-v-5e3c31e0";
 /* functional template */
 
 var __vue_is_functional_template__$5s = true;
@@ -2814,9 +3148,14 @@ var __vue_component__$5s = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5s,
   staticRenderFns: __vue_staticRenderFns__$5s
 }, __vue_inject_styles__$5s, __vue_script__$5s, __vue_scope_id__$5s, __vue_is_functional_template__$5s, __vue_module_identifier__$5s, false, undefined, undefined, undefined);//
-var script$5r = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5r = {
   name: 'CircleChevronRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$5r = script$5r;
 /* template */
 
@@ -2842,7 +3181,7 @@ var __vue_inject_styles__$5r = undefined;
 var __vue_scope_id__$5r = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5r = "data-v-a64626b0";
+var __vue_module_identifier__$5r = "data-v-01394524";
 /* functional template */
 
 var __vue_is_functional_template__$5r = true;
@@ -2856,9 +3195,14 @@ var __vue_component__$5r = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5r,
   staticRenderFns: __vue_staticRenderFns__$5r
 }, __vue_inject_styles__$5r, __vue_script__$5r, __vue_scope_id__$5r, __vue_is_functional_template__$5r, __vue_module_identifier__$5r, false, undefined, undefined, undefined);//
-var script$5q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5q = {
   name: 'CircleChevronUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$5q = script$5q;
 /* template */
 
@@ -2884,7 +3228,7 @@ var __vue_inject_styles__$5q = undefined;
 var __vue_scope_id__$5q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5q = "data-v-7d37a8b0";
+var __vue_module_identifier__$5q = "data-v-5b630396";
 /* functional template */
 
 var __vue_is_functional_template__$5q = true;
@@ -2898,9 +3242,14 @@ var __vue_component__$5q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5q,
   staticRenderFns: __vue_staticRenderFns__$5q
 }, __vue_inject_styles__$5q, __vue_script__$5q, __vue_scope_id__$5q, __vue_is_functional_template__$5q, __vue_module_identifier__$5q, false, undefined, undefined, undefined);//
-var script$5p = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5p = {
   name: 'CircleDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$5p = script$5p;
 /* template */
 
@@ -2926,7 +3275,7 @@ var __vue_inject_styles__$5p = undefined;
 var __vue_scope_id__$5p = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5p = "data-v-855eb7f2";
+var __vue_module_identifier__$5p = "data-v-c638a636";
 /* functional template */
 
 var __vue_is_functional_template__$5p = true;
@@ -2940,9 +3289,14 @@ var __vue_component__$5p = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5p,
   staticRenderFns: __vue_staticRenderFns__$5p
 }, __vue_inject_styles__$5p, __vue_script__$5p, __vue_scope_id__$5p, __vue_is_functional_template__$5p, __vue_module_identifier__$5p, false, undefined, undefined, undefined);//
-var script$5o = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5o = {
   name: 'CircleLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$5o = script$5o;
 /* template */
 
@@ -2968,7 +3322,7 @@ var __vue_inject_styles__$5o = undefined;
 var __vue_scope_id__$5o = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5o = "data-v-1533d129";
+var __vue_module_identifier__$5o = "data-v-5bf67c7a";
 /* functional template */
 
 var __vue_is_functional_template__$5o = true;
@@ -2982,9 +3336,14 @@ var __vue_component__$5o = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5o,
   staticRenderFns: __vue_staticRenderFns__$5o
 }, __vue_inject_styles__$5o, __vue_script__$5o, __vue_scope_id__$5o, __vue_is_functional_template__$5o, __vue_module_identifier__$5o, false, undefined, undefined, undefined);//
-var script$5n = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5n = {
   name: 'CircleRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$5n = script$5n;
 /* template */
 
@@ -3010,7 +3369,7 @@ var __vue_inject_styles__$5n = undefined;
 var __vue_scope_id__$5n = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5n = "data-v-76c688ab";
+var __vue_module_identifier__$5n = "data-v-09e5a473";
 /* functional template */
 
 var __vue_is_functional_template__$5n = true;
@@ -3024,9 +3383,14 @@ var __vue_component__$5n = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5n,
   staticRenderFns: __vue_staticRenderFns__$5n
 }, __vue_inject_styles__$5n, __vue_script__$5n, __vue_scope_id__$5n, __vue_is_functional_template__$5n, __vue_module_identifier__$5n, false, undefined, undefined, undefined);//
-var script$5m = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5m = {
   name: 'CircleUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$5m = script$5m;
 /* template */
 
@@ -3052,7 +3416,7 @@ var __vue_inject_styles__$5m = undefined;
 var __vue_scope_id__$5m = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5m = "data-v-1579a11c";
+var __vue_module_identifier__$5m = "data-v-e34c3120";
 /* functional template */
 
 var __vue_is_functional_template__$5m = true;
@@ -3066,9 +3430,14 @@ var __vue_component__$5m = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5m,
   staticRenderFns: __vue_staticRenderFns__$5m
 }, __vue_inject_styles__$5m, __vue_script__$5m, __vue_scope_id__$5m, __vue_is_functional_template__$5m, __vue_module_identifier__$5m, false, undefined, undefined, undefined);//
-var script$5l = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5l = {
   name: 'ClockIcon'
-});/* script */
+};/* script */
 var __vue_script__$5l = script$5l;
 /* template */
 
@@ -3094,7 +3463,7 @@ var __vue_inject_styles__$5l = undefined;
 var __vue_scope_id__$5l = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5l = "data-v-dcbbdc2a";
+var __vue_module_identifier__$5l = "data-v-37bbf51a";
 /* functional template */
 
 var __vue_is_functional_template__$5l = true;
@@ -3108,9 +3477,14 @@ var __vue_component__$5l = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5l,
   staticRenderFns: __vue_staticRenderFns__$5l
 }, __vue_inject_styles__$5l, __vue_script__$5l, __vue_scope_id__$5l, __vue_is_functional_template__$5l, __vue_module_identifier__$5l, false, undefined, undefined, undefined);//
-var script$5k = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5k = {
   name: 'CloseBigIcon'
-});/* script */
+};/* script */
 var __vue_script__$5k = script$5k;
 /* template */
 
@@ -3136,7 +3510,7 @@ var __vue_inject_styles__$5k = undefined;
 var __vue_scope_id__$5k = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5k = "data-v-01f49346";
+var __vue_module_identifier__$5k = "data-v-18973646";
 /* functional template */
 
 var __vue_is_functional_template__$5k = true;
@@ -3150,9 +3524,14 @@ var __vue_component__$5k = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5k,
   staticRenderFns: __vue_staticRenderFns__$5k
 }, __vue_inject_styles__$5k, __vue_script__$5k, __vue_scope_id__$5k, __vue_is_functional_template__$5k, __vue_module_identifier__$5k, false, undefined, undefined, undefined);//
-var script$5j = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5j = {
   name: 'CloseSmallIcon'
-});/* script */
+};/* script */
 var __vue_script__$5j = script$5j;
 /* template */
 
@@ -3178,7 +3557,7 @@ var __vue_inject_styles__$5j = undefined;
 var __vue_scope_id__$5j = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5j = "data-v-762b00c4";
+var __vue_module_identifier__$5j = "data-v-090f73f0";
 /* functional template */
 
 var __vue_is_functional_template__$5j = true;
@@ -3192,9 +3571,21 @@ var __vue_component__$5j = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5j,
   staticRenderFns: __vue_staticRenderFns__$5j
 }, __vue_inject_styles__$5j, __vue_script__$5j, __vue_scope_id__$5j, __vue_is_functional_template__$5j, __vue_module_identifier__$5j, false, undefined, undefined, undefined);//
-var script$5i = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5i = {
   name: 'CloudCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$5i = script$5i;
 /* template */
 
@@ -3220,7 +3611,7 @@ var __vue_inject_styles__$5i = undefined;
 var __vue_scope_id__$5i = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5i = "data-v-1fb10c98";
+var __vue_module_identifier__$5i = "data-v-7afdba18";
 /* functional template */
 
 var __vue_is_functional_template__$5i = true;
@@ -3234,9 +3625,21 @@ var __vue_component__$5i = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5i,
   staticRenderFns: __vue_staticRenderFns__$5i
 }, __vue_inject_styles__$5i, __vue_script__$5i, __vue_scope_id__$5i, __vue_is_functional_template__$5i, __vue_module_identifier__$5i, false, undefined, undefined, undefined);//
-var script$5h = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5h = {
   name: 'CloudCloseIcon'
-});/* script */
+};/* script */
 var __vue_script__$5h = script$5h;
 /* template */
 
@@ -3262,7 +3665,7 @@ var __vue_inject_styles__$5h = undefined;
 var __vue_scope_id__$5h = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5h = "data-v-0cf78986";
+var __vue_module_identifier__$5h = "data-v-15bdf0f4";
 /* functional template */
 
 var __vue_is_functional_template__$5h = true;
@@ -3276,9 +3679,21 @@ var __vue_component__$5h = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5h,
   staticRenderFns: __vue_staticRenderFns__$5h
 }, __vue_inject_styles__$5h, __vue_script__$5h, __vue_scope_id__$5h, __vue_is_functional_template__$5h, __vue_module_identifier__$5h, false, undefined, undefined, undefined);//
-var script$5g = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5g = {
   name: 'CloudDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$5g = script$5g;
 /* template */
 
@@ -3304,7 +3719,7 @@ var __vue_inject_styles__$5g = undefined;
 var __vue_scope_id__$5g = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5g = "data-v-1e5946c3";
+var __vue_module_identifier__$5g = "data-v-4c3a38db";
 /* functional template */
 
 var __vue_is_functional_template__$5g = true;
@@ -3318,9 +3733,21 @@ var __vue_component__$5g = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5g,
   staticRenderFns: __vue_staticRenderFns__$5g
 }, __vue_inject_styles__$5g, __vue_script__$5g, __vue_scope_id__$5g, __vue_is_functional_template__$5g, __vue_module_identifier__$5g, false, undefined, undefined, undefined);//
-var script$5f = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5f = {
   name: 'CloudOffIcon'
-});/* script */
+};/* script */
 var __vue_script__$5f = script$5f;
 /* template */
 
@@ -3346,7 +3773,7 @@ var __vue_inject_styles__$5f = undefined;
 var __vue_scope_id__$5f = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5f = "data-v-691c950e";
+var __vue_module_identifier__$5f = "data-v-7da064fe";
 /* functional template */
 
 var __vue_is_functional_template__$5f = true;
@@ -3360,9 +3787,21 @@ var __vue_component__$5f = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5f,
   staticRenderFns: __vue_staticRenderFns__$5f
 }, __vue_inject_styles__$5f, __vue_script__$5f, __vue_scope_id__$5f, __vue_is_functional_template__$5f, __vue_module_identifier__$5f, false, undefined, undefined, undefined);//
-var script$5e = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5e = {
   name: 'CloudOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$5e = script$5e;
 /* template */
 
@@ -3388,7 +3827,7 @@ var __vue_inject_styles__$5e = undefined;
 var __vue_scope_id__$5e = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5e = "data-v-72578732";
+var __vue_module_identifier__$5e = "data-v-0b61bd1a";
 /* functional template */
 
 var __vue_is_functional_template__$5e = true;
@@ -3402,9 +3841,21 @@ var __vue_component__$5e = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5e,
   staticRenderFns: __vue_staticRenderFns__$5e
 }, __vue_inject_styles__$5e, __vue_script__$5e, __vue_scope_id__$5e, __vue_is_functional_template__$5e, __vue_module_identifier__$5e, false, undefined, undefined, undefined);//
-var script$5d = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5d = {
   name: 'CloudUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$5d = script$5d;
 /* template */
 
@@ -3430,7 +3881,7 @@ var __vue_inject_styles__$5d = undefined;
 var __vue_scope_id__$5d = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5d = "data-v-2fabd85b";
+var __vue_module_identifier__$5d = "data-v-41103e43";
 /* functional template */
 
 var __vue_is_functional_template__$5d = true;
@@ -3444,9 +3895,21 @@ var __vue_component__$5d = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5d,
   staticRenderFns: __vue_staticRenderFns__$5d
 }, __vue_inject_styles__$5d, __vue_script__$5d, __vue_scope_id__$5d, __vue_is_functional_template__$5d, __vue_module_identifier__$5d, false, undefined, undefined, undefined);//
-var script$5c = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$5c = {
   name: 'CloudIcon'
-});/* script */
+};/* script */
 var __vue_script__$5c = script$5c;
 /* template */
 
@@ -3472,7 +3935,7 @@ var __vue_inject_styles__$5c = undefined;
 var __vue_scope_id__$5c = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5c = "data-v-74ee5aec";
+var __vue_module_identifier__$5c = "data-v-bfde935c";
 /* functional template */
 
 var __vue_is_functional_template__$5c = true;
@@ -3486,9 +3949,14 @@ var __vue_component__$5c = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5c,
   staticRenderFns: __vue_staticRenderFns__$5c
 }, __vue_inject_styles__$5c, __vue_script__$5c, __vue_scope_id__$5c, __vue_is_functional_template__$5c, __vue_module_identifier__$5c, false, undefined, undefined, undefined);//
-var script$5b = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5b = {
   name: 'CodeIcon'
-});/* script */
+};/* script */
 var __vue_script__$5b = script$5b;
 /* template */
 
@@ -3514,7 +3982,7 @@ var __vue_inject_styles__$5b = undefined;
 var __vue_scope_id__$5b = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5b = "data-v-86d17de0";
+var __vue_module_identifier__$5b = "data-v-3f89a6fc";
 /* functional template */
 
 var __vue_is_functional_template__$5b = true;
@@ -3528,9 +3996,14 @@ var __vue_component__$5b = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5b,
   staticRenderFns: __vue_staticRenderFns__$5b
 }, __vue_inject_styles__$5b, __vue_script__$5b, __vue_scope_id__$5b, __vue_is_functional_template__$5b, __vue_module_identifier__$5b, false, undefined, undefined, undefined);//
-var script$5a = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5a = {
   name: 'CoffeeTogoIcon'
-});/* script */
+};/* script */
 var __vue_script__$5a = script$5a;
 /* template */
 
@@ -3556,7 +4029,7 @@ var __vue_inject_styles__$5a = undefined;
 var __vue_scope_id__$5a = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5a = "data-v-0483bed7";
+var __vue_module_identifier__$5a = "data-v-776e7656";
 /* functional template */
 
 var __vue_is_functional_template__$5a = true;
@@ -3570,9 +4043,14 @@ var __vue_component__$5a = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5a,
   staticRenderFns: __vue_staticRenderFns__$5a
 }, __vue_inject_styles__$5a, __vue_script__$5a, __vue_scope_id__$5a, __vue_is_functional_template__$5a, __vue_module_identifier__$5a, false, undefined, undefined, undefined);//
-var script$59 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$59 = {
   name: 'ColorIcon'
-});/* script */
+};/* script */
 var __vue_script__$59 = script$59;
 /* template */
 
@@ -3598,7 +4076,7 @@ var __vue_inject_styles__$59 = undefined;
 var __vue_scope_id__$59 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$59 = "data-v-40585fcb";
+var __vue_module_identifier__$59 = "data-v-851b235a";
 /* functional template */
 
 var __vue_is_functional_template__$59 = true;
@@ -3612,9 +4090,17 @@ var __vue_component__$59 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$59,
   staticRenderFns: __vue_staticRenderFns__$59
 }, __vue_inject_styles__$59, __vue_script__$59, __vue_scope_id__$59, __vue_is_functional_template__$59, __vue_module_identifier__$59, false, undefined, undefined, undefined);//
-var script$58 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$58 = {
   name: 'CombineCellsIcon'
-});/* script */
+};/* script */
 var __vue_script__$58 = script$58;
 /* template */
 
@@ -3640,7 +4126,7 @@ var __vue_inject_styles__$58 = undefined;
 var __vue_scope_id__$58 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$58 = "data-v-2da34c55";
+var __vue_module_identifier__$58 = "data-v-27aa14d2";
 /* functional template */
 
 var __vue_is_functional_template__$58 = true;
@@ -3654,9 +4140,14 @@ var __vue_component__$58 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$58,
   staticRenderFns: __vue_staticRenderFns__$58
 }, __vue_inject_styles__$58, __vue_script__$58, __vue_scope_id__$58, __vue_is_functional_template__$58, __vue_module_identifier__$58, false, undefined, undefined, undefined);//
-var script$57 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$57 = {
   name: 'CommandIcon'
-});/* script */
+};/* script */
 var __vue_script__$57 = script$57;
 /* template */
 
@@ -3682,7 +4173,7 @@ var __vue_inject_styles__$57 = undefined;
 var __vue_scope_id__$57 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$57 = "data-v-72d9c32f";
+var __vue_module_identifier__$57 = "data-v-168eed2f";
 /* functional template */
 
 var __vue_is_functional_template__$57 = true;
@@ -3696,9 +4187,14 @@ var __vue_component__$57 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$57,
   staticRenderFns: __vue_staticRenderFns__$57
 }, __vue_inject_styles__$57, __vue_script__$57, __vue_scope_id__$57, __vue_is_functional_template__$57, __vue_module_identifier__$57, false, undefined, undefined, undefined);//
-var script$56 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$56 = {
   name: 'ConfusedIcon'
-});/* script */
+};/* script */
 var __vue_script__$56 = script$56;
 /* template */
 
@@ -3724,7 +4220,7 @@ var __vue_inject_styles__$56 = undefined;
 var __vue_scope_id__$56 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$56 = "data-v-d3971790";
+var __vue_module_identifier__$56 = "data-v-3f0c0454";
 /* functional template */
 
 var __vue_is_functional_template__$56 = true;
@@ -3738,9 +4234,14 @@ var __vue_component__$56 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$56,
   staticRenderFns: __vue_staticRenderFns__$56
 }, __vue_inject_styles__$56, __vue_script__$56, __vue_scope_id__$56, __vue_is_functional_template__$56, __vue_module_identifier__$56, false, undefined, undefined, undefined);//
-var script$55 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$55 = {
   name: 'CookieIcon'
-});/* script */
+};/* script */
 var __vue_script__$55 = script$55;
 /* template */
 
@@ -3766,7 +4267,7 @@ var __vue_inject_styles__$55 = undefined;
 var __vue_scope_id__$55 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$55 = "data-v-db05e878";
+var __vue_module_identifier__$55 = "data-v-d138fd70";
 /* functional template */
 
 var __vue_is_functional_template__$55 = true;
@@ -3780,9 +4281,14 @@ var __vue_component__$55 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$55,
   staticRenderFns: __vue_staticRenderFns__$55
 }, __vue_inject_styles__$55, __vue_script__$55, __vue_scope_id__$55, __vue_is_functional_template__$55, __vue_module_identifier__$55, false, undefined, undefined, undefined);//
-var script$54 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$54 = {
   name: 'CooliconsIcon'
-});/* script */
+};/* script */
 var __vue_script__$54 = script$54;
 /* template */
 
@@ -3808,7 +4314,7 @@ var __vue_inject_styles__$54 = undefined;
 var __vue_scope_id__$54 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$54 = "data-v-66205072";
+var __vue_module_identifier__$54 = "data-v-017729e8";
 /* functional template */
 
 var __vue_is_functional_template__$54 = true;
@@ -3822,9 +4328,14 @@ var __vue_component__$54 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$54,
   staticRenderFns: __vue_staticRenderFns__$54
 }, __vue_inject_styles__$54, __vue_script__$54, __vue_scope_id__$54, __vue_is_functional_template__$54, __vue_module_identifier__$54, false, undefined, undefined, undefined);//
-var script$53 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$53 = {
   name: 'CopyIcon'
-});/* script */
+};/* script */
 var __vue_script__$53 = script$53;
 /* template */
 
@@ -3850,7 +4361,7 @@ var __vue_inject_styles__$53 = undefined;
 var __vue_scope_id__$53 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$53 = "data-v-a5239c82";
+var __vue_module_identifier__$53 = "data-v-4aa9aead";
 /* functional template */
 
 var __vue_is_functional_template__$53 = true;
@@ -3864,9 +4375,14 @@ var __vue_component__$53 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$53,
   staticRenderFns: __vue_staticRenderFns__$53
 }, __vue_inject_styles__$53, __vue_script__$53, __vue_scope_id__$53, __vue_is_functional_template__$53, __vue_module_identifier__$53, false, undefined, undefined, undefined);//
-var script$52 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$52 = {
   name: 'CreditCardAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$52 = script$52;
 /* template */
 
@@ -3892,7 +4408,7 @@ var __vue_inject_styles__$52 = undefined;
 var __vue_scope_id__$52 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$52 = "data-v-7dda3251";
+var __vue_module_identifier__$52 = "data-v-bedd1d66";
 /* functional template */
 
 var __vue_is_functional_template__$52 = true;
@@ -3906,9 +4422,14 @@ var __vue_component__$52 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$52,
   staticRenderFns: __vue_staticRenderFns__$52
 }, __vue_inject_styles__$52, __vue_script__$52, __vue_scope_id__$52, __vue_is_functional_template__$52, __vue_module_identifier__$52, false, undefined, undefined, undefined);//
-var script$51 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$51 = {
   name: 'CreditCardIcon'
-});/* script */
+};/* script */
 var __vue_script__$51 = script$51;
 /* template */
 
@@ -3934,7 +4455,7 @@ var __vue_inject_styles__$51 = undefined;
 var __vue_scope_id__$51 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$51 = "data-v-bfa65678";
+var __vue_module_identifier__$51 = "data-v-a80ef8f0";
 /* functional template */
 
 var __vue_is_functional_template__$51 = true;
@@ -3948,9 +4469,14 @@ var __vue_component__$51 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$51,
   staticRenderFns: __vue_staticRenderFns__$51
 }, __vue_inject_styles__$51, __vue_script__$51, __vue_scope_id__$51, __vue_is_functional_template__$51, __vue_module_identifier__$51, false, undefined, undefined, undefined);//
-var script$50 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$50 = {
   name: 'Css3Icon'
-});/* script */
+};/* script */
 var __vue_script__$50 = script$50;
 /* template */
 
@@ -3976,7 +4502,7 @@ var __vue_inject_styles__$50 = undefined;
 var __vue_scope_id__$50 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$50 = "data-v-5d35a6c4";
+var __vue_module_identifier__$50 = "data-v-4cfb0508";
 /* functional template */
 
 var __vue_is_functional_template__$50 = true;
@@ -3990,9 +4516,14 @@ var __vue_component__$50 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$50,
   staticRenderFns: __vue_staticRenderFns__$50
 }, __vue_inject_styles__$50, __vue_script__$50, __vue_scope_id__$50, __vue_is_functional_template__$50, __vue_module_identifier__$50, false, undefined, undefined, undefined);//
-var script$4$ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4$ = {
   name: 'CupcakeIcon'
-});/* script */
+};/* script */
 var __vue_script__$4$ = script$4$;
 /* template */
 
@@ -4018,7 +4549,7 @@ var __vue_inject_styles__$4$ = undefined;
 var __vue_scope_id__$4$ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4$ = "data-v-3c3e7f44";
+var __vue_module_identifier__$4$ = "data-v-15a1cfa0";
 /* functional template */
 
 var __vue_is_functional_template__$4$ = true;
@@ -4032,9 +4563,14 @@ var __vue_component__$4$ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4$,
   staticRenderFns: __vue_staticRenderFns__$4$
 }, __vue_inject_styles__$4$, __vue_script__$4$, __vue_scope_id__$4$, __vue_is_functional_template__$4$, __vue_module_identifier__$4$, false, undefined, undefined, undefined);//
-var script$4_ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4_ = {
   name: 'CylinderIcon'
-});/* script */
+};/* script */
 var __vue_script__$4_ = script$4_;
 /* template */
 
@@ -4060,7 +4596,7 @@ var __vue_inject_styles__$4_ = undefined;
 var __vue_scope_id__$4_ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4_ = "data-v-e0f776ba";
+var __vue_module_identifier__$4_ = "data-v-763d9a89";
 /* functional template */
 
 var __vue_is_functional_template__$4_ = true;
@@ -4074,9 +4610,14 @@ var __vue_component__$4_ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4_,
   staticRenderFns: __vue_staticRenderFns__$4_
 }, __vue_inject_styles__$4_, __vue_script__$4_, __vue_scope_id__$4_, __vue_is_functional_template__$4_, __vue_module_identifier__$4_, false, undefined, undefined, undefined);//
-var script$4Z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4Z = {
   name: 'Dashboard02Icon'
-});/* script */
+};/* script */
 var __vue_script__$4Z = script$4Z;
 /* template */
 
@@ -4102,7 +4643,7 @@ var __vue_inject_styles__$4Z = undefined;
 var __vue_scope_id__$4Z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4Z = "data-v-6085e636";
+var __vue_module_identifier__$4Z = "data-v-118dd00e";
 /* functional template */
 
 var __vue_is_functional_template__$4Z = true;
@@ -4116,9 +4657,14 @@ var __vue_component__$4Z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4Z,
   staticRenderFns: __vue_staticRenderFns__$4Z
 }, __vue_inject_styles__$4Z, __vue_script__$4Z, __vue_scope_id__$4Z, __vue_is_functional_template__$4Z, __vue_module_identifier__$4Z, false, undefined, undefined, undefined);//
-var script$4Y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4Y = {
   name: 'DashboardIcon'
-});/* script */
+};/* script */
 var __vue_script__$4Y = script$4Y;
 /* template */
 
@@ -4144,7 +4690,7 @@ var __vue_inject_styles__$4Y = undefined;
 var __vue_scope_id__$4Y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4Y = "data-v-1bc7dd80";
+var __vue_module_identifier__$4Y = "data-v-49a73004";
 /* functional template */
 
 var __vue_is_functional_template__$4Y = true;
@@ -4158,9 +4704,14 @@ var __vue_component__$4Y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4Y,
   staticRenderFns: __vue_staticRenderFns__$4Y
 }, __vue_inject_styles__$4Y, __vue_script__$4Y, __vue_scope_id__$4Y, __vue_is_functional_template__$4Y, __vue_module_identifier__$4Y, false, undefined, undefined, undefined);//
-var script$4X = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4X = {
   name: 'DataIcon'
-});/* script */
+};/* script */
 var __vue_script__$4X = script$4X;
 /* template */
 
@@ -4186,7 +4737,7 @@ var __vue_inject_styles__$4X = undefined;
 var __vue_scope_id__$4X = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4X = "data-v-c4b76aee";
+var __vue_module_identifier__$4X = "data-v-1c24363a";
 /* functional template */
 
 var __vue_is_functional_template__$4X = true;
@@ -4200,9 +4751,15 @@ var __vue_component__$4X = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4X,
   staticRenderFns: __vue_staticRenderFns__$4X
 }, __vue_inject_styles__$4X, __vue_script__$4X, __vue_scope_id__$4X, __vue_is_functional_template__$4X, __vue_module_identifier__$4X, false, undefined, undefined, undefined);//
-var script$4W = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$4W = {
   name: 'DeleteColumnIcon'
-});/* script */
+};/* script */
 var __vue_script__$4W = script$4W;
 /* template */
 
@@ -4228,7 +4785,7 @@ var __vue_inject_styles__$4W = undefined;
 var __vue_scope_id__$4W = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4W = "data-v-47f328ef";
+var __vue_module_identifier__$4W = "data-v-7de23906";
 /* functional template */
 
 var __vue_is_functional_template__$4W = true;
@@ -4242,9 +4799,15 @@ var __vue_component__$4W = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4W,
   staticRenderFns: __vue_staticRenderFns__$4W
 }, __vue_inject_styles__$4W, __vue_script__$4W, __vue_scope_id__$4W, __vue_is_functional_template__$4W, __vue_module_identifier__$4W, false, undefined, undefined, undefined);//
-var script$4V = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$4V = {
   name: 'DeleteRowIcon'
-});/* script */
+};/* script */
 var __vue_script__$4V = script$4V;
 /* template */
 
@@ -4270,7 +4833,7 @@ var __vue_inject_styles__$4V = undefined;
 var __vue_scope_id__$4V = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4V = "data-v-401de278";
+var __vue_module_identifier__$4V = "data-v-c2c4b30c";
 /* functional template */
 
 var __vue_is_functional_template__$4V = true;
@@ -4284,9 +4847,14 @@ var __vue_component__$4V = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4V,
   staticRenderFns: __vue_staticRenderFns__$4V
 }, __vue_inject_styles__$4V, __vue_script__$4V, __vue_scope_id__$4V, __vue_is_functional_template__$4V, __vue_module_identifier__$4V, false, undefined, undefined, undefined);//
-var script$4U = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4U = {
   name: 'DevicesIcon'
-});/* script */
+};/* script */
 var __vue_script__$4U = script$4U;
 /* template */
 
@@ -4312,7 +4880,7 @@ var __vue_inject_styles__$4U = undefined;
 var __vue_scope_id__$4U = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4U = "data-v-09508a1f";
+var __vue_module_identifier__$4U = "data-v-084867bf";
 /* functional template */
 
 var __vue_is_functional_template__$4U = true;
@@ -4326,9 +4894,14 @@ var __vue_component__$4U = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4U,
   staticRenderFns: __vue_staticRenderFns__$4U
 }, __vue_inject_styles__$4U, __vue_script__$4U, __vue_scope_id__$4U, __vue_is_functional_template__$4U, __vue_module_identifier__$4U, false, undefined, undefined, undefined);//
-var script$4T = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4T = {
   name: 'DiscordIcon'
-});/* script */
+};/* script */
 var __vue_script__$4T = script$4T;
 /* template */
 
@@ -4354,7 +4927,7 @@ var __vue_inject_styles__$4T = undefined;
 var __vue_scope_id__$4T = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4T = "data-v-6f266e4e";
+var __vue_module_identifier__$4T = "data-v-e96b8ba0";
 /* functional template */
 
 var __vue_is_functional_template__$4T = true;
@@ -4368,9 +4941,14 @@ var __vue_component__$4T = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4T,
   staticRenderFns: __vue_staticRenderFns__$4T
 }, __vue_inject_styles__$4T, __vue_script__$4T, __vue_scope_id__$4T, __vue_is_functional_template__$4T, __vue_module_identifier__$4T, false, undefined, undefined, undefined);//
-var script$4S = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4S = {
   name: 'Dot01XsIcon'
-});/* script */
+};/* script */
 var __vue_script__$4S = script$4S;
 /* template */
 
@@ -4396,7 +4974,7 @@ var __vue_inject_styles__$4S = undefined;
 var __vue_scope_id__$4S = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4S = "data-v-d756e088";
+var __vue_module_identifier__$4S = "data-v-696b2942";
 /* functional template */
 
 var __vue_is_functional_template__$4S = true;
@@ -4410,9 +4988,14 @@ var __vue_component__$4S = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4S,
   staticRenderFns: __vue_staticRenderFns__$4S
 }, __vue_inject_styles__$4S, __vue_script__$4S, __vue_scope_id__$4S, __vue_is_functional_template__$4S, __vue_module_identifier__$4S, false, undefined, undefined, undefined);//
-var script$4R = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4R = {
   name: 'Dot02SIcon'
-});/* script */
+};/* script */
 var __vue_script__$4R = script$4R;
 /* template */
 
@@ -4438,7 +5021,7 @@ var __vue_inject_styles__$4R = undefined;
 var __vue_scope_id__$4R = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4R = "data-v-a88010ea";
+var __vue_module_identifier__$4R = "data-v-79a195e1";
 /* functional template */
 
 var __vue_is_functional_template__$4R = true;
@@ -4452,9 +5035,14 @@ var __vue_component__$4R = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4R,
   staticRenderFns: __vue_staticRenderFns__$4R
 }, __vue_inject_styles__$4R, __vue_script__$4R, __vue_scope_id__$4R, __vue_is_functional_template__$4R, __vue_module_identifier__$4R, false, undefined, undefined, undefined);//
-var script$4Q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4Q = {
   name: 'Dot03MIcon'
-});/* script */
+};/* script */
 var __vue_script__$4Q = script$4Q;
 /* template */
 
@@ -4480,7 +5068,7 @@ var __vue_inject_styles__$4Q = undefined;
 var __vue_scope_id__$4Q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4Q = "data-v-62740a8c";
+var __vue_module_identifier__$4Q = "data-v-23c1c040";
 /* functional template */
 
 var __vue_is_functional_template__$4Q = true;
@@ -4494,9 +5082,14 @@ var __vue_component__$4Q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4Q,
   staticRenderFns: __vue_staticRenderFns__$4Q
 }, __vue_inject_styles__$4Q, __vue_script__$4Q, __vue_scope_id__$4Q, __vue_is_functional_template__$4Q, __vue_module_identifier__$4Q, false, undefined, undefined, undefined);//
-var script$4P = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4P = {
   name: 'Dot04LIcon'
-});/* script */
+};/* script */
 var __vue_script__$4P = script$4P;
 /* template */
 
@@ -4522,7 +5115,7 @@ var __vue_inject_styles__$4P = undefined;
 var __vue_scope_id__$4P = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4P = "data-v-6fccf37c";
+var __vue_module_identifier__$4P = "data-v-47aab5d0";
 /* functional template */
 
 var __vue_is_functional_template__$4P = true;
@@ -4536,9 +5129,14 @@ var __vue_component__$4P = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4P,
   staticRenderFns: __vue_staticRenderFns__$4P
 }, __vue_inject_styles__$4P, __vue_script__$4P, __vue_scope_id__$4P, __vue_is_functional_template__$4P, __vue_module_identifier__$4P, false, undefined, undefined, undefined);//
-var script$4O = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4O = {
   name: 'Dot05XlIcon'
-});/* script */
+};/* script */
 var __vue_script__$4O = script$4O;
 /* template */
 
@@ -4564,7 +5162,7 @@ var __vue_inject_styles__$4O = undefined;
 var __vue_scope_id__$4O = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4O = "data-v-e1d47784";
+var __vue_module_identifier__$4O = "data-v-09d3e680";
 /* functional template */
 
 var __vue_is_functional_template__$4O = true;
@@ -4578,9 +5176,15 @@ var __vue_component__$4O = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4O,
   staticRenderFns: __vue_staticRenderFns__$4O
 }, __vue_inject_styles__$4O, __vue_script__$4O, __vue_scope_id__$4O, __vue_is_functional_template__$4O, __vue_module_identifier__$4O, false, undefined, undefined, undefined);//
-var script$4N = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$4N = {
   name: 'DoubleQuotesLIcon'
-});/* script */
+};/* script */
 var __vue_script__$4N = script$4N;
 /* template */
 
@@ -4606,7 +5210,7 @@ var __vue_inject_styles__$4N = undefined;
 var __vue_scope_id__$4N = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4N = "data-v-4e5ccdf0";
+var __vue_module_identifier__$4N = "data-v-e2e42e14";
 /* functional template */
 
 var __vue_is_functional_template__$4N = true;
@@ -4620,9 +5224,15 @@ var __vue_component__$4N = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4N,
   staticRenderFns: __vue_staticRenderFns__$4N
 }, __vue_inject_styles__$4N, __vue_script__$4N, __vue_scope_id__$4N, __vue_is_functional_template__$4N, __vue_module_identifier__$4N, false, undefined, undefined, undefined);//
-var script$4M = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$4M = {
   name: 'DoubleQuotesRIcon'
-});/* script */
+};/* script */
 var __vue_script__$4M = script$4M;
 /* template */
 
@@ -4648,7 +5258,7 @@ var __vue_inject_styles__$4M = undefined;
 var __vue_scope_id__$4M = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4M = "data-v-3ffc4c2e";
+var __vue_module_identifier__$4M = "data-v-21a8de10";
 /* functional template */
 
 var __vue_is_functional_template__$4M = true;
@@ -4662,9 +5272,14 @@ var __vue_component__$4M = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4M,
   staticRenderFns: __vue_staticRenderFns__$4M
 }, __vue_inject_styles__$4M, __vue_script__$4M, __vue_scope_id__$4M, __vue_is_functional_template__$4M, __vue_module_identifier__$4M, false, undefined, undefined, undefined);//
-var script$4L = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4L = {
   name: 'DoughnutChartIcon'
-});/* script */
+};/* script */
 var __vue_script__$4L = script$4L;
 /* template */
 
@@ -4690,7 +5305,7 @@ var __vue_inject_styles__$4L = undefined;
 var __vue_scope_id__$4L = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4L = "data-v-173296e6";
+var __vue_module_identifier__$4L = "data-v-77411991";
 /* functional template */
 
 var __vue_is_functional_template__$4L = true;
@@ -4704,9 +5319,14 @@ var __vue_component__$4L = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4L,
   staticRenderFns: __vue_staticRenderFns__$4L
 }, __vue_inject_styles__$4L, __vue_script__$4L, __vue_scope_id__$4L, __vue_is_functional_template__$4L, __vue_module_identifier__$4L, false, undefined, undefined, undefined);//
-var script$4K = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4K = {
   name: 'DownloadDoneIcon'
-});/* script */
+};/* script */
 var __vue_script__$4K = script$4K;
 /* template */
 
@@ -4732,7 +5352,7 @@ var __vue_inject_styles__$4K = undefined;
 var __vue_scope_id__$4K = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4K = "data-v-51ef24de";
+var __vue_module_identifier__$4K = "data-v-876b10a4";
 /* functional template */
 
 var __vue_is_functional_template__$4K = true;
@@ -4746,9 +5366,14 @@ var __vue_component__$4K = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4K,
   staticRenderFns: __vue_staticRenderFns__$4K
 }, __vue_inject_styles__$4K, __vue_script__$4K, __vue_scope_id__$4K, __vue_is_functional_template__$4K, __vue_module_identifier__$4K, false, undefined, undefined, undefined);//
-var script$4J = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4J = {
   name: 'DownloadIcon'
-});/* script */
+};/* script */
 var __vue_script__$4J = script$4J;
 /* template */
 
@@ -4774,7 +5399,7 @@ var __vue_inject_styles__$4J = undefined;
 var __vue_scope_id__$4J = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4J = "data-v-766f767b";
+var __vue_module_identifier__$4J = "data-v-34e3299e";
 /* functional template */
 
 var __vue_is_functional_template__$4J = true;
@@ -4788,9 +5413,14 @@ var __vue_component__$4J = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4J,
   staticRenderFns: __vue_staticRenderFns__$4J
 }, __vue_inject_styles__$4J, __vue_script__$4J, __vue_scope_id__$4J, __vue_is_functional_template__$4J, __vue_module_identifier__$4J, false, undefined, undefined, undefined);//
-var script$4I = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4I = {
   name: 'DribbbleIcon'
-});/* script */
+};/* script */
 var __vue_script__$4I = script$4I;
 /* template */
 
@@ -4816,7 +5446,7 @@ var __vue_inject_styles__$4I = undefined;
 var __vue_scope_id__$4I = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4I = "data-v-7dd7e2b6";
+var __vue_module_identifier__$4I = "data-v-39349572";
 /* functional template */
 
 var __vue_is_functional_template__$4I = true;
@@ -4830,9 +5460,14 @@ var __vue_component__$4I = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4I,
   staticRenderFns: __vue_staticRenderFns__$4I
 }, __vue_inject_styles__$4I, __vue_script__$4I, __vue_scope_id__$4I, __vue_is_functional_template__$4I, __vue_module_identifier__$4I, false, undefined, undefined, undefined);//
-var script$4H = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4H = {
   name: 'DropboxIcon'
-});/* script */
+};/* script */
 var __vue_script__$4H = script$4H;
 /* template */
 
@@ -4858,7 +5493,7 @@ var __vue_inject_styles__$4H = undefined;
 var __vue_scope_id__$4H = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4H = "data-v-6dc23632";
+var __vue_module_identifier__$4H = "data-v-5d8c8e68";
 /* functional template */
 
 var __vue_is_functional_template__$4H = true;
@@ -4872,9 +5507,14 @@ var __vue_component__$4H = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4H,
   staticRenderFns: __vue_staticRenderFns__$4H
 }, __vue_inject_styles__$4H, __vue_script__$4H, __vue_scope_id__$4H, __vue_is_functional_template__$4H, __vue_module_identifier__$4H, false, undefined, undefined, undefined);//
-var script$4G = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4G = {
   name: 'EditIcon'
-});/* script */
+};/* script */
 var __vue_script__$4G = script$4G;
 /* template */
 
@@ -4900,7 +5540,7 @@ var __vue_inject_styles__$4G = undefined;
 var __vue_scope_id__$4G = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4G = "data-v-5c563f16";
+var __vue_module_identifier__$4G = "data-v-06617776";
 /* functional template */
 
 var __vue_is_functional_template__$4G = true;
@@ -4914,9 +5554,14 @@ var __vue_component__$4G = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4G,
   staticRenderFns: __vue_staticRenderFns__$4G
 }, __vue_inject_styles__$4G, __vue_script__$4G, __vue_scope_id__$4G, __vue_is_functional_template__$4G, __vue_module_identifier__$4G, false, undefined, undefined, undefined);//
-var script$4F = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4F = {
   name: 'ErrorOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$4F = script$4F;
 /* template */
 
@@ -4942,7 +5587,7 @@ var __vue_inject_styles__$4F = undefined;
 var __vue_scope_id__$4F = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4F = "data-v-0acf1e98";
+var __vue_module_identifier__$4F = "data-v-05aad0d0";
 /* functional template */
 
 var __vue_is_functional_template__$4F = true;
@@ -4956,9 +5601,14 @@ var __vue_component__$4F = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4F,
   staticRenderFns: __vue_staticRenderFns__$4F
 }, __vue_inject_styles__$4F, __vue_script__$4F, __vue_scope_id__$4F, __vue_is_functional_template__$4F, __vue_module_identifier__$4F, false, undefined, undefined, undefined);//
-var script$4E = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4E = {
   name: 'ErrorIcon'
-});/* script */
+};/* script */
 var __vue_script__$4E = script$4E;
 /* template */
 
@@ -4984,7 +5634,7 @@ var __vue_inject_styles__$4E = undefined;
 var __vue_scope_id__$4E = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4E = "data-v-ba59d660";
+var __vue_module_identifier__$4E = "data-v-7676222e";
 /* functional template */
 
 var __vue_is_functional_template__$4E = true;
@@ -4998,9 +5648,14 @@ var __vue_component__$4E = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4E,
   staticRenderFns: __vue_staticRenderFns__$4E
 }, __vue_inject_styles__$4E, __vue_script__$4E, __vue_scope_id__$4E, __vue_is_functional_template__$4E, __vue_module_identifier__$4E, false, undefined, undefined, undefined);//
-var script$4D = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4D = {
   name: 'ExitIcon'
-});/* script */
+};/* script */
 var __vue_script__$4D = script$4D;
 /* template */
 
@@ -5026,7 +5681,7 @@ var __vue_inject_styles__$4D = undefined;
 var __vue_scope_id__$4D = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4D = "data-v-531fbb66";
+var __vue_module_identifier__$4D = "data-v-5ad152c2";
 /* functional template */
 
 var __vue_is_functional_template__$4D = true;
@@ -5040,9 +5695,14 @@ var __vue_component__$4D = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4D,
   staticRenderFns: __vue_staticRenderFns__$4D
 }, __vue_inject_styles__$4D, __vue_script__$4D, __vue_scope_id__$4D, __vue_is_functional_template__$4D, __vue_module_identifier__$4D, false, undefined, undefined, undefined);//
-var script$4C = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4C = {
   name: 'ExpandIcon'
-});/* script */
+};/* script */
 var __vue_script__$4C = script$4C;
 /* template */
 
@@ -5068,7 +5728,7 @@ var __vue_inject_styles__$4C = undefined;
 var __vue_scope_id__$4C = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4C = "data-v-cc4e070c";
+var __vue_module_identifier__$4C = "data-v-a535525c";
 /* functional template */
 
 var __vue_is_functional_template__$4C = true;
@@ -5082,9 +5742,14 @@ var __vue_component__$4C = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4C,
   staticRenderFns: __vue_staticRenderFns__$4C
 }, __vue_inject_styles__$4C, __vue_script__$4C, __vue_scope_id__$4C, __vue_is_functional_template__$4C, __vue_module_identifier__$4C, false, undefined, undefined, undefined);//
-var script$4B = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4B = {
   name: 'ExternalLinkIcon'
-});/* script */
+};/* script */
 var __vue_script__$4B = script$4B;
 /* template */
 
@@ -5110,7 +5775,7 @@ var __vue_inject_styles__$4B = undefined;
 var __vue_scope_id__$4B = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4B = "data-v-21283e81";
+var __vue_module_identifier__$4B = "data-v-618e43aa";
 /* functional template */
 
 var __vue_is_functional_template__$4B = true;
@@ -5124,9 +5789,14 @@ var __vue_component__$4B = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4B,
   staticRenderFns: __vue_staticRenderFns__$4B
 }, __vue_inject_styles__$4B, __vue_script__$4B, __vue_scope_id__$4B, __vue_is_functional_template__$4B, __vue_module_identifier__$4B, false, undefined, undefined, undefined);//
-var script$4A = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4A = {
   name: 'FacebookIcon'
-});/* script */
+};/* script */
 var __vue_script__$4A = script$4A;
 /* template */
 
@@ -5152,7 +5822,7 @@ var __vue_inject_styles__$4A = undefined;
 var __vue_scope_id__$4A = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4A = "data-v-53e76407";
+var __vue_module_identifier__$4A = "data-v-2527ecb6";
 /* functional template */
 
 var __vue_is_functional_template__$4A = true;
@@ -5166,9 +5836,14 @@ var __vue_component__$4A = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4A,
   staticRenderFns: __vue_staticRenderFns__$4A
 }, __vue_inject_styles__$4A, __vue_script__$4A, __vue_scope_id__$4A, __vue_is_functional_template__$4A, __vue_module_identifier__$4A, false, undefined, undefined, undefined);//
-var script$4z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4z = {
   name: 'FastForwardIcon'
-});/* script */
+};/* script */
 var __vue_script__$4z = script$4z;
 /* template */
 
@@ -5194,7 +5869,7 @@ var __vue_inject_styles__$4z = undefined;
 var __vue_scope_id__$4z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4z = "data-v-feaabbc8";
+var __vue_module_identifier__$4z = "data-v-fe55853c";
 /* functional template */
 
 var __vue_is_functional_template__$4z = true;
@@ -5208,9 +5883,14 @@ var __vue_component__$4z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4z,
   staticRenderFns: __vue_staticRenderFns__$4z
 }, __vue_inject_styles__$4z, __vue_script__$4z, __vue_scope_id__$4z, __vue_is_functional_template__$4z, __vue_module_identifier__$4z, false, undefined, undefined, undefined);//
-var script$4y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4y = {
   name: 'FastRewindIcon'
-});/* script */
+};/* script */
 var __vue_script__$4y = script$4y;
 /* template */
 
@@ -5236,7 +5916,7 @@ var __vue_inject_styles__$4y = undefined;
 var __vue_scope_id__$4y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4y = "data-v-17280fac";
+var __vue_module_identifier__$4y = "data-v-65fe4e62";
 /* functional template */
 
 var __vue_is_functional_template__$4y = true;
@@ -5250,9 +5930,14 @@ var __vue_component__$4y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4y,
   staticRenderFns: __vue_staticRenderFns__$4y
 }, __vue_inject_styles__$4y, __vue_script__$4y, __vue_scope_id__$4y, __vue_is_functional_template__$4y, __vue_module_identifier__$4y, false, undefined, undefined, undefined);//
-var script$4x = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4x = {
   name: 'FigmaIcon'
-});/* script */
+};/* script */
 var __vue_script__$4x = script$4x;
 /* template */
 
@@ -5278,7 +5963,7 @@ var __vue_inject_styles__$4x = undefined;
 var __vue_scope_id__$4x = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4x = "data-v-7468da4b";
+var __vue_module_identifier__$4x = "data-v-076cf693";
 /* functional template */
 
 var __vue_is_functional_template__$4x = true;
@@ -5292,9 +5977,14 @@ var __vue_component__$4x = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4x,
   staticRenderFns: __vue_staticRenderFns__$4x
 }, __vue_inject_styles__$4x, __vue_script__$4x, __vue_scope_id__$4x, __vue_is_functional_template__$4x, __vue_module_identifier__$4x, false, undefined, undefined, undefined);//
-var script$4w = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4w = {
   name: 'FileArchiveIcon'
-});/* script */
+};/* script */
 var __vue_script__$4w = script$4w;
 /* template */
 
@@ -5320,7 +6010,7 @@ var __vue_inject_styles__$4w = undefined;
 var __vue_scope_id__$4w = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4w = "data-v-5bf32592";
+var __vue_module_identifier__$4w = "data-v-1e87c632";
 /* functional template */
 
 var __vue_is_functional_template__$4w = true;
@@ -5334,9 +6024,14 @@ var __vue_component__$4w = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4w,
   staticRenderFns: __vue_staticRenderFns__$4w
 }, __vue_inject_styles__$4w, __vue_script__$4w, __vue_scope_id__$4w, __vue_is_functional_template__$4w, __vue_module_identifier__$4w, false, undefined, undefined, undefined);//
-var script$4v = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4v = {
   name: 'FileBlankFillIcon'
-});/* script */
+};/* script */
 var __vue_script__$4v = script$4v;
 /* template */
 
@@ -5362,7 +6057,7 @@ var __vue_inject_styles__$4v = undefined;
 var __vue_scope_id__$4v = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4v = "data-v-3bf5fa08";
+var __vue_module_identifier__$4v = "data-v-24d845c2";
 /* functional template */
 
 var __vue_is_functional_template__$4v = true;
@@ -5376,9 +6071,14 @@ var __vue_component__$4v = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4v,
   staticRenderFns: __vue_staticRenderFns__$4v
 }, __vue_inject_styles__$4v, __vue_script__$4v, __vue_scope_id__$4v, __vue_is_functional_template__$4v, __vue_module_identifier__$4v, false, undefined, undefined, undefined);//
-var script$4u = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4u = {
   name: 'FileBlankOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$4u = script$4u;
 /* template */
 
@@ -5404,7 +6104,7 @@ var __vue_inject_styles__$4u = undefined;
 var __vue_scope_id__$4u = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4u = "data-v-75bacd8b";
+var __vue_module_identifier__$4u = "data-v-547762be";
 /* functional template */
 
 var __vue_is_functional_template__$4u = true;
@@ -5418,9 +6118,14 @@ var __vue_component__$4u = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4u,
   staticRenderFns: __vue_staticRenderFns__$4u
 }, __vue_inject_styles__$4u, __vue_script__$4u, __vue_scope_id__$4u, __vue_is_functional_template__$4u, __vue_module_identifier__$4u, false, undefined, undefined, undefined);//
-var script$4t = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4t = {
   name: 'FileCssIcon'
-});/* script */
+};/* script */
 var __vue_script__$4t = script$4t;
 /* template */
 
@@ -5446,7 +6151,7 @@ var __vue_inject_styles__$4t = undefined;
 var __vue_scope_id__$4t = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4t = "data-v-ba16ae3a";
+var __vue_module_identifier__$4t = "data-v-39ed660a";
 /* functional template */
 
 var __vue_is_functional_template__$4t = true;
@@ -5460,9 +6165,14 @@ var __vue_component__$4t = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4t,
   staticRenderFns: __vue_staticRenderFns__$4t
 }, __vue_inject_styles__$4t, __vue_script__$4t, __vue_scope_id__$4t, __vue_is_functional_template__$4t, __vue_module_identifier__$4t, false, undefined, undefined, undefined);//
-var script$4s = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4s = {
   name: 'FileFindIcon'
-});/* script */
+};/* script */
 var __vue_script__$4s = script$4s;
 /* template */
 
@@ -5488,7 +6198,7 @@ var __vue_inject_styles__$4s = undefined;
 var __vue_scope_id__$4s = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4s = "data-v-24574f0a";
+var __vue_module_identifier__$4s = "data-v-5bfc541e";
 /* functional template */
 
 var __vue_is_functional_template__$4s = true;
@@ -5502,9 +6212,14 @@ var __vue_component__$4s = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4s,
   staticRenderFns: __vue_staticRenderFns__$4s
 }, __vue_inject_styles__$4s, __vue_script__$4s, __vue_scope_id__$4s, __vue_is_functional_template__$4s, __vue_module_identifier__$4s, false, undefined, undefined, undefined);//
-var script$4r = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4r = {
   name: 'FileHtmlIcon'
-});/* script */
+};/* script */
 var __vue_script__$4r = script$4r;
 /* template */
 
@@ -5530,7 +6245,7 @@ var __vue_inject_styles__$4r = undefined;
 var __vue_scope_id__$4r = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4r = "data-v-72a0b054";
+var __vue_module_identifier__$4r = "data-v-1a8c93f6";
 /* functional template */
 
 var __vue_is_functional_template__$4r = true;
@@ -5544,9 +6259,14 @@ var __vue_component__$4r = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4r,
   staticRenderFns: __vue_staticRenderFns__$4r
 }, __vue_inject_styles__$4r, __vue_script__$4r, __vue_scope_id__$4r, __vue_is_functional_template__$4r, __vue_module_identifier__$4r, false, undefined, undefined, undefined);//
-var script$4q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4q = {
   name: 'FileImageIcon'
-});/* script */
+};/* script */
 var __vue_script__$4q = script$4q;
 /* template */
 
@@ -5572,7 +6292,7 @@ var __vue_inject_styles__$4q = undefined;
 var __vue_scope_id__$4q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4q = "data-v-42d808b9";
+var __vue_module_identifier__$4q = "data-v-2c5bbeb6";
 /* functional template */
 
 var __vue_is_functional_template__$4q = true;
@@ -5586,9 +6306,14 @@ var __vue_component__$4q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4q,
   staticRenderFns: __vue_staticRenderFns__$4q
 }, __vue_inject_styles__$4q, __vue_script__$4q, __vue_scope_id__$4q, __vue_is_functional_template__$4q, __vue_module_identifier__$4q, false, undefined, undefined, undefined);//
-var script$4p = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4p = {
   name: 'FileJpgIcon'
-});/* script */
+};/* script */
 var __vue_script__$4p = script$4p;
 /* template */
 
@@ -5614,7 +6339,7 @@ var __vue_inject_styles__$4p = undefined;
 var __vue_scope_id__$4p = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4p = "data-v-cd1a5ea6";
+var __vue_module_identifier__$4p = "data-v-72dfa9f1";
 /* functional template */
 
 var __vue_is_functional_template__$4p = true;
@@ -5628,9 +6353,14 @@ var __vue_component__$4p = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4p,
   staticRenderFns: __vue_staticRenderFns__$4p
 }, __vue_inject_styles__$4p, __vue_script__$4p, __vue_scope_id__$4p, __vue_is_functional_template__$4p, __vue_module_identifier__$4p, false, undefined, undefined, undefined);//
-var script$4o = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4o = {
   name: 'FileJsIcon'
-});/* script */
+};/* script */
 var __vue_script__$4o = script$4o;
 /* template */
 
@@ -5656,7 +6386,7 @@ var __vue_inject_styles__$4o = undefined;
 var __vue_scope_id__$4o = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4o = "data-v-11ce1729";
+var __vue_module_identifier__$4o = "data-v-6917787a";
 /* functional template */
 
 var __vue_is_functional_template__$4o = true;
@@ -5670,9 +6400,14 @@ var __vue_component__$4o = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4o,
   staticRenderFns: __vue_staticRenderFns__$4o
 }, __vue_inject_styles__$4o, __vue_script__$4o, __vue_scope_id__$4o, __vue_is_functional_template__$4o, __vue_module_identifier__$4o, false, undefined, undefined, undefined);//
-var script$4n = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4n = {
   name: 'FileMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$4n = script$4n;
 /* template */
 
@@ -5698,7 +6433,7 @@ var __vue_inject_styles__$4n = undefined;
 var __vue_scope_id__$4n = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4n = "data-v-e5586ab0";
+var __vue_module_identifier__$4n = "data-v-99208854";
 /* functional template */
 
 var __vue_is_functional_template__$4n = true;
@@ -5712,9 +6447,14 @@ var __vue_component__$4n = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4n,
   staticRenderFns: __vue_staticRenderFns__$4n
 }, __vue_inject_styles__$4n, __vue_script__$4n, __vue_scope_id__$4n, __vue_is_functional_template__$4n, __vue_module_identifier__$4n, false, undefined, undefined, undefined);//
-var script$4m = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4m = {
   name: 'FileNewIcon'
-});/* script */
+};/* script */
 var __vue_script__$4m = script$4m;
 /* template */
 
@@ -5740,7 +6480,7 @@ var __vue_inject_styles__$4m = undefined;
 var __vue_scope_id__$4m = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4m = "data-v-6fb3cdc2";
+var __vue_module_identifier__$4m = "data-v-6e5f8eff";
 /* functional template */
 
 var __vue_is_functional_template__$4m = true;
@@ -5754,9 +6494,14 @@ var __vue_component__$4m = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4m,
   staticRenderFns: __vue_staticRenderFns__$4m
 }, __vue_inject_styles__$4m, __vue_script__$4m, __vue_scope_id__$4m, __vue_is_functional_template__$4m, __vue_module_identifier__$4m, false, undefined, undefined, undefined);//
-var script$4l = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4l = {
   name: 'FilePdfIcon'
-});/* script */
+};/* script */
 var __vue_script__$4l = script$4l;
 /* template */
 
@@ -5782,7 +6527,7 @@ var __vue_inject_styles__$4l = undefined;
 var __vue_scope_id__$4l = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4l = "data-v-9f13ffd8";
+var __vue_module_identifier__$4l = "data-v-2b332baa";
 /* functional template */
 
 var __vue_is_functional_template__$4l = true;
@@ -5796,9 +6541,14 @@ var __vue_component__$4l = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4l,
   staticRenderFns: __vue_staticRenderFns__$4l
 }, __vue_inject_styles__$4l, __vue_script__$4l, __vue_scope_id__$4l, __vue_is_functional_template__$4l, __vue_module_identifier__$4l, false, undefined, undefined, undefined);//
-var script$4k = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4k = {
   name: 'FilePngIcon'
-});/* script */
+};/* script */
 var __vue_script__$4k = script$4k;
 /* template */
 
@@ -5824,7 +6574,7 @@ var __vue_inject_styles__$4k = undefined;
 var __vue_scope_id__$4k = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4k = "data-v-799d795c";
+var __vue_module_identifier__$4k = "data-v-223edb6c";
 /* functional template */
 
 var __vue_is_functional_template__$4k = true;
@@ -5838,9 +6588,14 @@ var __vue_component__$4k = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4k,
   staticRenderFns: __vue_staticRenderFns__$4k
 }, __vue_inject_styles__$4k, __vue_script__$4k, __vue_scope_id__$4k, __vue_is_functional_template__$4k, __vue_module_identifier__$4k, false, undefined, undefined, undefined);//
-var script$4j = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4j = {
   name: 'FileSvgIcon'
-});/* script */
+};/* script */
 var __vue_script__$4j = script$4j;
 /* template */
 
@@ -5866,7 +6621,7 @@ var __vue_inject_styles__$4j = undefined;
 var __vue_scope_id__$4j = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4j = "data-v-072fa753";
+var __vue_module_identifier__$4j = "data-v-503fcc4b";
 /* functional template */
 
 var __vue_is_functional_template__$4j = true;
@@ -5880,9 +6635,15 @@ var __vue_component__$4j = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4j,
   staticRenderFns: __vue_staticRenderFns__$4j
 }, __vue_inject_styles__$4j, __vue_script__$4j, __vue_scope_id__$4j, __vue_is_functional_template__$4j, __vue_module_identifier__$4j, false, undefined, undefined, undefined);//
-var script$4i = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$4i = {
   name: 'FilterOffOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$4i = script$4i;
 /* template */
 
@@ -5908,7 +6669,7 @@ var __vue_inject_styles__$4i = undefined;
 var __vue_scope_id__$4i = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4i = "data-v-145f925b";
+var __vue_module_identifier__$4i = "data-v-238adb91";
 /* functional template */
 
 var __vue_is_functional_template__$4i = true;
@@ -5922,9 +6683,15 @@ var __vue_component__$4i = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4i,
   staticRenderFns: __vue_staticRenderFns__$4i
 }, __vue_inject_styles__$4i, __vue_script__$4i, __vue_scope_id__$4i, __vue_is_functional_template__$4i, __vue_module_identifier__$4i, false, undefined, undefined, undefined);//
-var script$4h = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$4h = {
   name: 'FilterOffIcon'
-});/* script */
+};/* script */
 var __vue_script__$4h = script$4h;
 /* template */
 
@@ -5950,7 +6717,7 @@ var __vue_inject_styles__$4h = undefined;
 var __vue_scope_id__$4h = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4h = "data-v-102e5af3";
+var __vue_module_identifier__$4h = "data-v-1b6bbaab";
 /* functional template */
 
 var __vue_is_functional_template__$4h = true;
@@ -5964,9 +6731,14 @@ var __vue_component__$4h = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4h,
   staticRenderFns: __vue_staticRenderFns__$4h
 }, __vue_inject_styles__$4h, __vue_script__$4h, __vue_scope_id__$4h, __vue_is_functional_template__$4h, __vue_module_identifier__$4h, false, undefined, undefined, undefined);//
-var script$4g = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4g = {
   name: 'FilterOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$4g = script$4g;
 /* template */
 
@@ -5992,7 +6764,7 @@ var __vue_inject_styles__$4g = undefined;
 var __vue_scope_id__$4g = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4g = "data-v-c8c88cea";
+var __vue_module_identifier__$4g = "data-v-779641d3";
 /* functional template */
 
 var __vue_is_functional_template__$4g = true;
@@ -6006,9 +6778,14 @@ var __vue_component__$4g = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4g,
   staticRenderFns: __vue_staticRenderFns__$4g
 }, __vue_inject_styles__$4g, __vue_script__$4g, __vue_scope_id__$4g, __vue_is_functional_template__$4g, __vue_module_identifier__$4g, false, undefined, undefined, undefined);//
-var script$4f = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4f = {
   name: 'FilterIcon'
-});/* script */
+};/* script */
 var __vue_script__$4f = script$4f;
 /* template */
 
@@ -6034,7 +6811,7 @@ var __vue_inject_styles__$4f = undefined;
 var __vue_scope_id__$4f = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4f = "data-v-549e2bce";
+var __vue_module_identifier__$4f = "data-v-5126807e";
 /* functional template */
 
 var __vue_is_functional_template__$4f = true;
@@ -6048,9 +6825,14 @@ var __vue_component__$4f = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4f,
   staticRenderFns: __vue_staticRenderFns__$4f
 }, __vue_inject_styles__$4f, __vue_script__$4f, __vue_scope_id__$4f, __vue_is_functional_template__$4f, __vue_module_identifier__$4f, false, undefined, undefined, undefined);//
-var script$4e = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4e = {
   name: 'FirstPageIcon'
-});/* script */
+};/* script */
 var __vue_script__$4e = script$4e;
 /* template */
 
@@ -6076,7 +6858,7 @@ var __vue_inject_styles__$4e = undefined;
 var __vue_scope_id__$4e = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4e = "data-v-061974d8";
+var __vue_module_identifier__$4e = "data-v-00b9d5aa";
 /* functional template */
 
 var __vue_is_functional_template__$4e = true;
@@ -6090,9 +6872,14 @@ var __vue_component__$4e = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4e,
   staticRenderFns: __vue_staticRenderFns__$4e
 }, __vue_inject_styles__$4e, __vue_script__$4e, __vue_scope_id__$4e, __vue_is_functional_template__$4e, __vue_module_identifier__$4e, false, undefined, undefined, undefined);//
-var script$4d = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4d = {
   name: 'FlagFillIcon'
-});/* script */
+};/* script */
 var __vue_script__$4d = script$4d;
 /* template */
 
@@ -6118,7 +6905,7 @@ var __vue_inject_styles__$4d = undefined;
 var __vue_scope_id__$4d = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4d = "data-v-51dcbf49";
+var __vue_module_identifier__$4d = "data-v-380feb63";
 /* functional template */
 
 var __vue_is_functional_template__$4d = true;
@@ -6132,9 +6919,14 @@ var __vue_component__$4d = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4d,
   staticRenderFns: __vue_staticRenderFns__$4d
 }, __vue_inject_styles__$4d, __vue_script__$4d, __vue_scope_id__$4d, __vue_is_functional_template__$4d, __vue_module_identifier__$4d, false, undefined, undefined, undefined);//
-var script$4c = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4c = {
   name: 'FlagOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$4c = script$4c;
 /* template */
 
@@ -6160,7 +6952,7 @@ var __vue_inject_styles__$4c = undefined;
 var __vue_scope_id__$4c = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4c = "data-v-74eab3c6";
+var __vue_module_identifier__$4c = "data-v-958dfc7e";
 /* functional template */
 
 var __vue_is_functional_template__$4c = true;
@@ -6174,9 +6966,14 @@ var __vue_component__$4c = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4c,
   staticRenderFns: __vue_staticRenderFns__$4c
 }, __vue_inject_styles__$4c, __vue_script__$4c, __vue_scope_id__$4c, __vue_is_functional_template__$4c, __vue_module_identifier__$4c, false, undefined, undefined, undefined);//
-var script$4b = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4b = {
   name: 'FolderMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$4b = script$4b;
 /* template */
 
@@ -6202,7 +6999,7 @@ var __vue_inject_styles__$4b = undefined;
 var __vue_scope_id__$4b = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4b = "data-v-eb5576e0";
+var __vue_module_identifier__$4b = "data-v-16fe6da4";
 /* functional template */
 
 var __vue_is_functional_template__$4b = true;
@@ -6216,9 +7013,14 @@ var __vue_component__$4b = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4b,
   staticRenderFns: __vue_staticRenderFns__$4b
 }, __vue_inject_styles__$4b, __vue_script__$4b, __vue_scope_id__$4b, __vue_is_functional_template__$4b, __vue_module_identifier__$4b, false, undefined, undefined, undefined);//
-var script$4a = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4a = {
   name: 'FolderOpenIcon'
-});/* script */
+};/* script */
 var __vue_script__$4a = script$4a;
 /* template */
 
@@ -6244,7 +7046,7 @@ var __vue_inject_styles__$4a = undefined;
 var __vue_scope_id__$4a = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4a = "data-v-1fcf689a";
+var __vue_module_identifier__$4a = "data-v-7018689c";
 /* functional template */
 
 var __vue_is_functional_template__$4a = true;
@@ -6258,9 +7060,14 @@ var __vue_component__$4a = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4a,
   staticRenderFns: __vue_staticRenderFns__$4a
 }, __vue_inject_styles__$4a, __vue_script__$4a, __vue_scope_id__$4a, __vue_is_functional_template__$4a, __vue_module_identifier__$4a, false, undefined, undefined, undefined);//
-var script$49 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$49 = {
   name: 'FolderPlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$49 = script$49;
 /* template */
 
@@ -6286,7 +7093,7 @@ var __vue_inject_styles__$49 = undefined;
 var __vue_scope_id__$49 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$49 = "data-v-25888d5d";
+var __vue_module_identifier__$49 = "data-v-7b7d75cf";
 /* functional template */
 
 var __vue_is_functional_template__$49 = true;
@@ -6300,9 +7107,14 @@ var __vue_component__$49 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$49,
   staticRenderFns: __vue_staticRenderFns__$49
 }, __vue_inject_styles__$49, __vue_script__$49, __vue_scope_id__$49, __vue_is_functional_template__$49, __vue_module_identifier__$49, false, undefined, undefined, undefined);//
-var script$48 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$48 = {
   name: 'FolderIcon'
-});/* script */
+};/* script */
 var __vue_script__$48 = script$48;
 /* template */
 
@@ -6328,7 +7140,7 @@ var __vue_inject_styles__$48 = undefined;
 var __vue_scope_id__$48 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$48 = "data-v-c8b125c8";
+var __vue_module_identifier__$48 = "data-v-ba0a0720";
 /* functional template */
 
 var __vue_is_functional_template__$48 = true;
@@ -6342,9 +7154,14 @@ var __vue_component__$48 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$48,
   staticRenderFns: __vue_staticRenderFns__$48
 }, __vue_inject_styles__$48, __vue_script__$48, __vue_scope_id__$48, __vue_is_functional_template__$48, __vue_module_identifier__$48, false, undefined, undefined, undefined);//
-var script$47 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$47 = {
   name: 'GithubIcon'
-});/* script */
+};/* script */
 var __vue_script__$47 = script$47;
 /* template */
 
@@ -6370,7 +7187,7 @@ var __vue_inject_styles__$47 = undefined;
 var __vue_scope_id__$47 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$47 = "data-v-29d3ca28";
+var __vue_module_identifier__$47 = "data-v-1ab9c360";
 /* functional template */
 
 var __vue_is_functional_template__$47 = true;
@@ -6384,9 +7201,14 @@ var __vue_component__$47 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$47,
   staticRenderFns: __vue_staticRenderFns__$47
 }, __vue_inject_styles__$47, __vue_script__$47, __vue_scope_id__$47, __vue_is_functional_template__$47, __vue_module_identifier__$47, false, undefined, undefined, undefined);//
-var script$46 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$46 = {
   name: 'GoogleIcon'
-});/* script */
+};/* script */
 var __vue_script__$46 = script$46;
 /* template */
 
@@ -6412,7 +7234,7 @@ var __vue_inject_styles__$46 = undefined;
 var __vue_scope_id__$46 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$46 = "data-v-7b683a76";
+var __vue_module_identifier__$46 = "data-v-4ac978a7";
 /* functional template */
 
 var __vue_is_functional_template__$46 = true;
@@ -6426,9 +7248,14 @@ var __vue_component__$46 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$46,
   staticRenderFns: __vue_staticRenderFns__$46
 }, __vue_inject_styles__$46, __vue_script__$46, __vue_scope_id__$46, __vue_is_functional_template__$46, __vue_module_identifier__$46, false, undefined, undefined, undefined);//
-var script$45 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$45 = {
   name: 'GridBigRoundIcon'
-});/* script */
+};/* script */
 var __vue_script__$45 = script$45;
 /* template */
 
@@ -6454,7 +7281,7 @@ var __vue_inject_styles__$45 = undefined;
 var __vue_scope_id__$45 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$45 = "data-v-065f556f";
+var __vue_module_identifier__$45 = "data-v-4cdb8a3d";
 /* functional template */
 
 var __vue_is_functional_template__$45 = true;
@@ -6468,9 +7295,14 @@ var __vue_component__$45 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$45,
   staticRenderFns: __vue_staticRenderFns__$45
 }, __vue_inject_styles__$45, __vue_script__$45, __vue_scope_id__$45, __vue_is_functional_template__$45, __vue_module_identifier__$45, false, undefined, undefined, undefined);//
-var script$44 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$44 = {
   name: 'GridBigIcon'
-});/* script */
+};/* script */
 var __vue_script__$44 = script$44;
 /* template */
 
@@ -6496,7 +7328,7 @@ var __vue_inject_styles__$44 = undefined;
 var __vue_scope_id__$44 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$44 = "data-v-b1204d38";
+var __vue_module_identifier__$44 = "data-v-51ed935a";
 /* functional template */
 
 var __vue_is_functional_template__$44 = true;
@@ -6510,9 +7342,14 @@ var __vue_component__$44 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$44,
   staticRenderFns: __vue_staticRenderFns__$44
 }, __vue_inject_styles__$44, __vue_script__$44, __vue_scope_id__$44, __vue_is_functional_template__$44, __vue_module_identifier__$44, false, undefined, undefined, undefined);//
-var script$43 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$43 = {
   name: 'GridHorizontalRoundIcon'
-});/* script */
+};/* script */
 var __vue_script__$43 = script$43;
 /* template */
 
@@ -6538,7 +7375,7 @@ var __vue_inject_styles__$43 = undefined;
 var __vue_scope_id__$43 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$43 = "data-v-845102fa";
+var __vue_module_identifier__$43 = "data-v-0300269b";
 /* functional template */
 
 var __vue_is_functional_template__$43 = true;
@@ -6552,9 +7389,14 @@ var __vue_component__$43 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$43,
   staticRenderFns: __vue_staticRenderFns__$43
 }, __vue_inject_styles__$43, __vue_script__$43, __vue_scope_id__$43, __vue_is_functional_template__$43, __vue_module_identifier__$43, false, undefined, undefined, undefined);//
-var script$42 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$42 = {
   name: 'GridHorizontalIcon'
-});/* script */
+};/* script */
 var __vue_script__$42 = script$42;
 /* template */
 
@@ -6580,7 +7422,7 @@ var __vue_inject_styles__$42 = undefined;
 var __vue_scope_id__$42 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$42 = "data-v-60d15c91";
+var __vue_module_identifier__$42 = "data-v-e999f1ca";
 /* functional template */
 
 var __vue_is_functional_template__$42 = true;
@@ -6594,9 +7436,14 @@ var __vue_component__$42 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$42,
   staticRenderFns: __vue_staticRenderFns__$42
 }, __vue_inject_styles__$42, __vue_script__$42, __vue_scope_id__$42, __vue_is_functional_template__$42, __vue_module_identifier__$42, false, undefined, undefined, undefined);//
-var script$41 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$41 = {
   name: 'GridRoundIcon'
-});/* script */
+};/* script */
 var __vue_script__$41 = script$41;
 /* template */
 
@@ -6622,7 +7469,7 @@ var __vue_inject_styles__$41 = undefined;
 var __vue_scope_id__$41 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$41 = "data-v-0b634aa2";
+var __vue_module_identifier__$41 = "data-v-16a3c02f";
 /* functional template */
 
 var __vue_is_functional_template__$41 = true;
@@ -6636,9 +7483,14 @@ var __vue_component__$41 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$41,
   staticRenderFns: __vue_staticRenderFns__$41
 }, __vue_inject_styles__$41, __vue_script__$41, __vue_scope_id__$41, __vue_is_functional_template__$41, __vue_module_identifier__$41, false, undefined, undefined, undefined);//
-var script$40 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$40 = {
   name: 'GridSmallRoundIcon'
-});/* script */
+};/* script */
 var __vue_script__$40 = script$40;
 /* template */
 
@@ -6664,7 +7516,7 @@ var __vue_inject_styles__$40 = undefined;
 var __vue_scope_id__$40 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$40 = "data-v-7a6c8638";
+var __vue_module_identifier__$40 = "data-v-c8aa6a30";
 /* functional template */
 
 var __vue_is_functional_template__$40 = true;
@@ -6678,9 +7530,14 @@ var __vue_component__$40 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$40,
   staticRenderFns: __vue_staticRenderFns__$40
 }, __vue_inject_styles__$40, __vue_script__$40, __vue_scope_id__$40, __vue_is_functional_template__$40, __vue_module_identifier__$40, false, undefined, undefined, undefined);//
-var script$3$ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3$ = {
   name: 'GridSmallIcon'
-});/* script */
+};/* script */
 var __vue_script__$3$ = script$3$;
 /* template */
 
@@ -6706,7 +7563,7 @@ var __vue_inject_styles__$3$ = undefined;
 var __vue_scope_id__$3$ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3$ = "data-v-622cd692";
+var __vue_module_identifier__$3$ = "data-v-3ab9c628";
 /* functional template */
 
 var __vue_is_functional_template__$3$ = true;
@@ -6720,9 +7577,14 @@ var __vue_component__$3$ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3$,
   staticRenderFns: __vue_staticRenderFns__$3$
 }, __vue_inject_styles__$3$, __vue_script__$3$, __vue_scope_id__$3$, __vue_is_functional_template__$3$, __vue_module_identifier__$3$, false, undefined, undefined, undefined);//
-var script$3_ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3_ = {
   name: 'GridVerticalRoundIcon'
-});/* script */
+};/* script */
 var __vue_script__$3_ = script$3_;
 /* template */
 
@@ -6748,7 +7610,7 @@ var __vue_inject_styles__$3_ = undefined;
 var __vue_scope_id__$3_ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3_ = "data-v-7c524718";
+var __vue_module_identifier__$3_ = "data-v-3a87e50a";
 /* functional template */
 
 var __vue_is_functional_template__$3_ = true;
@@ -6762,9 +7624,14 @@ var __vue_component__$3_ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3_,
   staticRenderFns: __vue_staticRenderFns__$3_
 }, __vue_inject_styles__$3_, __vue_script__$3_, __vue_scope_id__$3_, __vue_is_functional_template__$3_, __vue_module_identifier__$3_, false, undefined, undefined, undefined);//
-var script$3Z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3Z = {
   name: 'GridVerticalIcon'
-});/* script */
+};/* script */
 var __vue_script__$3Z = script$3Z;
 /* template */
 
@@ -6790,7 +7657,7 @@ var __vue_inject_styles__$3Z = undefined;
 var __vue_scope_id__$3Z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3Z = "data-v-96ded982";
+var __vue_module_identifier__$3Z = "data-v-1d759c6d";
 /* functional template */
 
 var __vue_is_functional_template__$3Z = true;
@@ -6804,9 +7671,14 @@ var __vue_component__$3Z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3Z,
   staticRenderFns: __vue_staticRenderFns__$3Z
 }, __vue_inject_styles__$3Z, __vue_script__$3Z, __vue_scope_id__$3Z, __vue_is_functional_template__$3Z, __vue_module_identifier__$3Z, false, undefined, undefined, undefined);//
-var script$3Y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3Y = {
   name: 'GridIcon'
-});/* script */
+};/* script */
 var __vue_script__$3Y = script$3Y;
 /* template */
 
@@ -6832,7 +7704,7 @@ var __vue_inject_styles__$3Y = undefined;
 var __vue_scope_id__$3Y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3Y = "data-v-0e5ec549";
+var __vue_module_identifier__$3Y = "data-v-72887b23";
 /* functional template */
 
 var __vue_is_functional_template__$3Y = true;
@@ -6846,9 +7718,17 @@ var __vue_component__$3Y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3Y,
   staticRenderFns: __vue_staticRenderFns__$3Y
 }, __vue_inject_styles__$3Y, __vue_script__$3Y, __vue_scope_id__$3Y, __vue_is_functional_template__$3Y, __vue_module_identifier__$3Y, false, undefined, undefined, undefined);//
-var script$3X = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$3X = {
   name: 'GroupAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$3X = script$3X;
 /* template */
 
@@ -6874,7 +7754,7 @@ var __vue_inject_styles__$3X = undefined;
 var __vue_scope_id__$3X = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3X = "data-v-2a202273";
+var __vue_module_identifier__$3X = "data-v-fd45cc8e";
 /* functional template */
 
 var __vue_is_functional_template__$3X = true;
@@ -6888,9 +7768,17 @@ var __vue_component__$3X = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3X,
   staticRenderFns: __vue_staticRenderFns__$3X
 }, __vue_inject_styles__$3X, __vue_script__$3X, __vue_scope_id__$3X, __vue_is_functional_template__$3X, __vue_module_identifier__$3X, false, undefined, undefined, undefined);//
-var script$3W = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$3W = {
   name: 'GroupIcon'
-});/* script */
+};/* script */
 var __vue_script__$3W = script$3W;
 /* template */
 
@@ -6916,7 +7804,7 @@ var __vue_inject_styles__$3W = undefined;
 var __vue_scope_id__$3W = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3W = "data-v-65f22826";
+var __vue_module_identifier__$3W = "data-v-4a29531e";
 /* functional template */
 
 var __vue_is_functional_template__$3W = true;
@@ -6930,9 +7818,14 @@ var __vue_component__$3W = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3W,
   staticRenderFns: __vue_staticRenderFns__$3W
 }, __vue_inject_styles__$3W, __vue_script__$3W, __vue_scope_id__$3W, __vue_is_functional_template__$3W, __vue_module_identifier__$3W, false, undefined, undefined, undefined);//
-var script$3V = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3V = {
   name: 'HamburgerIcon'
-});/* script */
+};/* script */
 var __vue_script__$3V = script$3V;
 /* template */
 
@@ -6958,7 +7851,7 @@ var __vue_inject_styles__$3V = undefined;
 var __vue_scope_id__$3V = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3V = "data-v-8cef0bc6";
+var __vue_module_identifier__$3V = "data-v-451c0741";
 /* functional template */
 
 var __vue_is_functional_template__$3V = true;
@@ -6972,9 +7865,14 @@ var __vue_component__$3V = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3V,
   staticRenderFns: __vue_staticRenderFns__$3V
 }, __vue_inject_styles__$3V, __vue_script__$3V, __vue_scope_id__$3V, __vue_is_functional_template__$3V, __vue_module_identifier__$3V, false, undefined, undefined, undefined);//
-var script$3U = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3U = {
   name: 'HappyIcon'
-});/* script */
+};/* script */
 var __vue_script__$3U = script$3U;
 /* template */
 
@@ -7000,7 +7898,7 @@ var __vue_inject_styles__$3U = undefined;
 var __vue_scope_id__$3U = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3U = "data-v-61700bd7";
+var __vue_module_identifier__$3U = "data-v-ef8562f2";
 /* functional template */
 
 var __vue_is_functional_template__$3U = true;
@@ -7014,9 +7912,15 @@ var __vue_component__$3U = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3U,
   staticRenderFns: __vue_staticRenderFns__$3U
 }, __vue_inject_styles__$3U, __vue_script__$3U, __vue_scope_id__$3U, __vue_is_functional_template__$3U, __vue_module_identifier__$3U, false, undefined, undefined, undefined);//
-var script$3T = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$3T = {
   name: 'HeadingH1Icon'
-});/* script */
+};/* script */
 var __vue_script__$3T = script$3T;
 /* template */
 
@@ -7042,7 +7946,7 @@ var __vue_inject_styles__$3T = undefined;
 var __vue_scope_id__$3T = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3T = "data-v-326804cc";
+var __vue_module_identifier__$3T = "data-v-2f86b064";
 /* functional template */
 
 var __vue_is_functional_template__$3T = true;
@@ -7056,9 +7960,15 @@ var __vue_component__$3T = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3T,
   staticRenderFns: __vue_staticRenderFns__$3T
 }, __vue_inject_styles__$3T, __vue_script__$3T, __vue_scope_id__$3T, __vue_is_functional_template__$3T, __vue_module_identifier__$3T, false, undefined, undefined, undefined);//
-var script$3S = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$3S = {
   name: 'HeadingH2Icon'
-});/* script */
+};/* script */
 var __vue_script__$3S = script$3S;
 /* template */
 
@@ -7084,7 +7994,7 @@ var __vue_inject_styles__$3S = undefined;
 var __vue_scope_id__$3S = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3S = "data-v-9f24c980";
+var __vue_module_identifier__$3S = "data-v-dc08e784";
 /* functional template */
 
 var __vue_is_functional_template__$3S = true;
@@ -7098,9 +8008,15 @@ var __vue_component__$3S = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3S,
   staticRenderFns: __vue_staticRenderFns__$3S
 }, __vue_inject_styles__$3S, __vue_script__$3S, __vue_scope_id__$3S, __vue_is_functional_template__$3S, __vue_module_identifier__$3S, false, undefined, undefined, undefined);//
-var script$3R = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$3R = {
   name: 'HeadingH3Icon'
-});/* script */
+};/* script */
 var __vue_script__$3R = script$3R;
 /* template */
 
@@ -7126,7 +8042,7 @@ var __vue_inject_styles__$3R = undefined;
 var __vue_scope_id__$3R = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3R = "data-v-6b7dda6c";
+var __vue_module_identifier__$3R = "data-v-d45be75c";
 /* functional template */
 
 var __vue_is_functional_template__$3R = true;
@@ -7140,9 +8056,15 @@ var __vue_component__$3R = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3R,
   staticRenderFns: __vue_staticRenderFns__$3R
 }, __vue_inject_styles__$3R, __vue_script__$3R, __vue_scope_id__$3R, __vue_is_functional_template__$3R, __vue_module_identifier__$3R, false, undefined, undefined, undefined);//
-var script$3Q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$3Q = {
   name: 'HeadingH4Icon'
-});/* script */
+};/* script */
 var __vue_script__$3Q = script$3Q;
 /* template */
 
@@ -7168,7 +8090,7 @@ var __vue_inject_styles__$3Q = undefined;
 var __vue_scope_id__$3Q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3Q = "data-v-2b4d38e3";
+var __vue_module_identifier__$3Q = "data-v-6c91860a";
 /* functional template */
 
 var __vue_is_functional_template__$3Q = true;
@@ -7182,9 +8104,15 @@ var __vue_component__$3Q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3Q,
   staticRenderFns: __vue_staticRenderFns__$3Q
 }, __vue_inject_styles__$3Q, __vue_script__$3Q, __vue_scope_id__$3Q, __vue_is_functional_template__$3Q, __vue_module_identifier__$3Q, false, undefined, undefined, undefined);//
-var script$3P = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$3P = {
   name: 'HeadingH5Icon'
-});/* script */
+};/* script */
 var __vue_script__$3P = script$3P;
 /* template */
 
@@ -7210,7 +8138,7 @@ var __vue_inject_styles__$3P = undefined;
 var __vue_scope_id__$3P = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3P = "data-v-58db52dc";
+var __vue_module_identifier__$3P = "data-v-e630ad3c";
 /* functional template */
 
 var __vue_is_functional_template__$3P = true;
@@ -7224,9 +8152,15 @@ var __vue_component__$3P = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3P,
   staticRenderFns: __vue_staticRenderFns__$3P
 }, __vue_inject_styles__$3P, __vue_script__$3P, __vue_scope_id__$3P, __vue_is_functional_template__$3P, __vue_module_identifier__$3P, false, undefined, undefined, undefined);//
-var script$3O = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$3O = {
   name: 'HeadingH6Icon'
-});/* script */
+};/* script */
 var __vue_script__$3O = script$3O;
 /* template */
 
@@ -7252,7 +8186,7 @@ var __vue_inject_styles__$3O = undefined;
 var __vue_scope_id__$3O = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3O = "data-v-335f7f45";
+var __vue_module_identifier__$3O = "data-v-3a62d959";
 /* functional template */
 
 var __vue_is_functional_template__$3O = true;
@@ -7266,9 +8200,14 @@ var __vue_component__$3O = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3O,
   staticRenderFns: __vue_staticRenderFns__$3O
 }, __vue_inject_styles__$3O, __vue_script__$3O, __vue_scope_id__$3O, __vue_is_functional_template__$3O, __vue_module_identifier__$3O, false, undefined, undefined, undefined);//
-var script$3N = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3N = {
   name: 'HeadingIcon'
-});/* script */
+};/* script */
 var __vue_script__$3N = script$3N;
 /* template */
 
@@ -7294,7 +8233,7 @@ var __vue_inject_styles__$3N = undefined;
 var __vue_scope_id__$3N = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3N = "data-v-4e69e6bb";
+var __vue_module_identifier__$3N = "data-v-86d9913a";
 /* functional template */
 
 var __vue_is_functional_template__$3N = true;
@@ -7308,9 +8247,14 @@ var __vue_component__$3N = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3N,
   staticRenderFns: __vue_staticRenderFns__$3N
 }, __vue_inject_styles__$3N, __vue_script__$3N, __vue_scope_id__$3N, __vue_is_functional_template__$3N, __vue_module_identifier__$3N, false, undefined, undefined, undefined);//
-var script$3M = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3M = {
   name: 'HeartFillIcon'
-});/* script */
+};/* script */
 var __vue_script__$3M = script$3M;
 /* template */
 
@@ -7336,7 +8280,7 @@ var __vue_inject_styles__$3M = undefined;
 var __vue_scope_id__$3M = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3M = "data-v-4af17840";
+var __vue_module_identifier__$3M = "data-v-98cc2004";
 /* functional template */
 
 var __vue_is_functional_template__$3M = true;
@@ -7350,9 +8294,14 @@ var __vue_component__$3M = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3M,
   staticRenderFns: __vue_staticRenderFns__$3M
 }, __vue_inject_styles__$3M, __vue_script__$3M, __vue_scope_id__$3M, __vue_is_functional_template__$3M, __vue_module_identifier__$3M, false, undefined, undefined, undefined);//
-var script$3L = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3L = {
   name: 'HeartOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$3L = script$3L;
 /* template */
 
@@ -7378,7 +8327,7 @@ var __vue_inject_styles__$3L = undefined;
 var __vue_scope_id__$3L = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3L = "data-v-749179a5";
+var __vue_module_identifier__$3L = "data-v-11b997c7";
 /* functional template */
 
 var __vue_is_functional_template__$3L = true;
@@ -7392,9 +8341,14 @@ var __vue_component__$3L = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3L,
   staticRenderFns: __vue_staticRenderFns__$3L
 }, __vue_inject_styles__$3L, __vue_script__$3L, __vue_scope_id__$3L, __vue_is_functional_template__$3L, __vue_module_identifier__$3L, false, undefined, undefined, undefined);//
-var script$3K = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3K = {
   name: 'HelpCircleOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$3K = script$3K;
 /* template */
 
@@ -7420,7 +8374,7 @@ var __vue_inject_styles__$3K = undefined;
 var __vue_scope_id__$3K = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3K = "data-v-12d79a3f";
+var __vue_module_identifier__$3K = "data-v-05223142";
 /* functional template */
 
 var __vue_is_functional_template__$3K = true;
@@ -7434,9 +8388,14 @@ var __vue_component__$3K = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3K,
   staticRenderFns: __vue_staticRenderFns__$3K
 }, __vue_inject_styles__$3K, __vue_script__$3K, __vue_scope_id__$3K, __vue_is_functional_template__$3K, __vue_module_identifier__$3K, false, undefined, undefined, undefined);//
-var script$3J = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3J = {
   name: 'HelpCircleIcon'
-});/* script */
+};/* script */
 var __vue_script__$3J = script$3J;
 /* template */
 
@@ -7462,7 +8421,7 @@ var __vue_inject_styles__$3J = undefined;
 var __vue_scope_id__$3J = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3J = "data-v-057951ea";
+var __vue_module_identifier__$3J = "data-v-5f0afe22";
 /* functional template */
 
 var __vue_is_functional_template__$3J = true;
@@ -7476,9 +8435,14 @@ var __vue_component__$3J = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3J,
   staticRenderFns: __vue_staticRenderFns__$3J
 }, __vue_inject_styles__$3J, __vue_script__$3J, __vue_scope_id__$3J, __vue_is_functional_template__$3J, __vue_module_identifier__$3J, false, undefined, undefined, undefined);//
-var script$3I = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3I = {
   name: 'HelpQuestionmarkIcon'
-});/* script */
+};/* script */
 var __vue_script__$3I = script$3I;
 /* template */
 
@@ -7504,7 +8468,7 @@ var __vue_inject_styles__$3I = undefined;
 var __vue_scope_id__$3I = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3I = "data-v-d41e3d60";
+var __vue_module_identifier__$3I = "data-v-48b19a7c";
 /* functional template */
 
 var __vue_is_functional_template__$3I = true;
@@ -7518,9 +8482,14 @@ var __vue_component__$3I = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3I,
   staticRenderFns: __vue_staticRenderFns__$3I
 }, __vue_inject_styles__$3I, __vue_script__$3I, __vue_scope_id__$3I, __vue_is_functional_template__$3I, __vue_module_identifier__$3I, false, undefined, undefined, undefined);//
-var script$3H = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3H = {
   name: 'HideIcon'
-});/* script */
+};/* script */
 var __vue_script__$3H = script$3H;
 /* template */
 
@@ -7546,7 +8515,7 @@ var __vue_inject_styles__$3H = undefined;
 var __vue_scope_id__$3H = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3H = "data-v-280a9c89";
+var __vue_module_identifier__$3H = "data-v-75c9263a";
 /* functional template */
 
 var __vue_is_functional_template__$3H = true;
@@ -7560,9 +8529,14 @@ var __vue_component__$3H = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3H,
   staticRenderFns: __vue_staticRenderFns__$3H
 }, __vue_inject_styles__$3H, __vue_script__$3H, __vue_scope_id__$3H, __vue_is_functional_template__$3H, __vue_module_identifier__$3H, false, undefined, undefined, undefined);//
-var script$3G = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3G = {
   name: 'HomeAltCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$3G = script$3G;
 /* template */
 
@@ -7588,7 +8562,7 @@ var __vue_inject_styles__$3G = undefined;
 var __vue_scope_id__$3G = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3G = "data-v-7a2f8805";
+var __vue_module_identifier__$3G = "data-v-ee809632";
 /* functional template */
 
 var __vue_is_functional_template__$3G = true;
@@ -7602,9 +8576,14 @@ var __vue_component__$3G = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3G,
   staticRenderFns: __vue_staticRenderFns__$3G
 }, __vue_inject_styles__$3G, __vue_script__$3G, __vue_scope_id__$3G, __vue_is_functional_template__$3G, __vue_module_identifier__$3G, false, undefined, undefined, undefined);//
-var script$3F = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3F = {
   name: 'HomeAltFillIcon'
-});/* script */
+};/* script */
 var __vue_script__$3F = script$3F;
 /* template */
 
@@ -7630,7 +8609,7 @@ var __vue_inject_styles__$3F = undefined;
 var __vue_scope_id__$3F = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3F = "data-v-787703ad";
+var __vue_module_identifier__$3F = "data-v-78e32071";
 /* functional template */
 
 var __vue_is_functional_template__$3F = true;
@@ -7644,9 +8623,14 @@ var __vue_component__$3F = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3F,
   staticRenderFns: __vue_staticRenderFns__$3F
 }, __vue_inject_styles__$3F, __vue_script__$3F, __vue_scope_id__$3F, __vue_is_functional_template__$3F, __vue_module_identifier__$3F, false, undefined, undefined, undefined);//
-var script$3E = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3E = {
   name: 'HomeAltMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$3E = script$3E;
 /* template */
 
@@ -7672,7 +8656,7 @@ var __vue_inject_styles__$3E = undefined;
 var __vue_scope_id__$3E = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3E = "data-v-426d0a0d";
+var __vue_module_identifier__$3E = "data-v-367bb5df";
 /* functional template */
 
 var __vue_is_functional_template__$3E = true;
@@ -7686,9 +8670,14 @@ var __vue_component__$3E = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3E,
   staticRenderFns: __vue_staticRenderFns__$3E
 }, __vue_inject_styles__$3E, __vue_script__$3E, __vue_scope_id__$3E, __vue_is_functional_template__$3E, __vue_module_identifier__$3E, false, undefined, undefined, undefined);//
-var script$3D = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3D = {
   name: 'HomeAltOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$3D = script$3D;
 /* template */
 
@@ -7714,7 +8703,7 @@ var __vue_inject_styles__$3D = undefined;
 var __vue_scope_id__$3D = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3D = "data-v-1e8872d3";
+var __vue_module_identifier__$3D = "data-v-4ae43c99";
 /* functional template */
 
 var __vue_is_functional_template__$3D = true;
@@ -7728,9 +8717,14 @@ var __vue_component__$3D = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3D,
   staticRenderFns: __vue_staticRenderFns__$3D
 }, __vue_inject_styles__$3D, __vue_script__$3D, __vue_scope_id__$3D, __vue_is_functional_template__$3D, __vue_module_identifier__$3D, false, undefined, undefined, undefined);//
-var script$3C = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3C = {
   name: 'HomeAltPlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$3C = script$3C;
 /* template */
 
@@ -7756,7 +8750,7 @@ var __vue_inject_styles__$3C = undefined;
 var __vue_scope_id__$3C = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3C = "data-v-1f1823a9";
+var __vue_module_identifier__$3C = "data-v-2f812c35";
 /* functional template */
 
 var __vue_is_functional_template__$3C = true;
@@ -7770,9 +8764,14 @@ var __vue_component__$3C = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3C,
   staticRenderFns: __vue_staticRenderFns__$3C
 }, __vue_inject_styles__$3C, __vue_script__$3C, __vue_scope_id__$3C, __vue_is_functional_template__$3C, __vue_module_identifier__$3C, false, undefined, undefined, undefined);//
-var script$3B = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3B = {
   name: 'HomeAltXIcon'
-});/* script */
+};/* script */
 var __vue_script__$3B = script$3B;
 /* template */
 
@@ -7798,7 +8797,7 @@ var __vue_inject_styles__$3B = undefined;
 var __vue_scope_id__$3B = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3B = "data-v-f8da7520";
+var __vue_module_identifier__$3B = "data-v-4e1142dc";
 /* functional template */
 
 var __vue_is_functional_template__$3B = true;
@@ -7812,9 +8811,14 @@ var __vue_component__$3B = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3B,
   staticRenderFns: __vue_staticRenderFns__$3B
 }, __vue_inject_styles__$3B, __vue_script__$3B, __vue_scope_id__$3B, __vue_is_functional_template__$3B, __vue_module_identifier__$3B, false, undefined, undefined, undefined);//
-var script$3A = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3A = {
   name: 'HomeCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$3A = script$3A;
 /* template */
 
@@ -7840,7 +8844,7 @@ var __vue_inject_styles__$3A = undefined;
 var __vue_scope_id__$3A = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3A = "data-v-170d741c";
+var __vue_module_identifier__$3A = "data-v-120e30e8";
 /* functional template */
 
 var __vue_is_functional_template__$3A = true;
@@ -7854,9 +8858,14 @@ var __vue_component__$3A = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3A,
   staticRenderFns: __vue_staticRenderFns__$3A
 }, __vue_inject_styles__$3A, __vue_script__$3A, __vue_scope_id__$3A, __vue_is_functional_template__$3A, __vue_module_identifier__$3A, false, undefined, undefined, undefined);//
-var script$3z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3z = {
   name: 'HomeFillIcon'
-});/* script */
+};/* script */
 var __vue_script__$3z = script$3z;
 /* template */
 
@@ -7882,7 +8891,7 @@ var __vue_inject_styles__$3z = undefined;
 var __vue_scope_id__$3z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3z = "data-v-c7521e56";
+var __vue_module_identifier__$3z = "data-v-dddaced2";
 /* functional template */
 
 var __vue_is_functional_template__$3z = true;
@@ -7896,9 +8905,14 @@ var __vue_component__$3z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3z,
   staticRenderFns: __vue_staticRenderFns__$3z
 }, __vue_inject_styles__$3z, __vue_script__$3z, __vue_scope_id__$3z, __vue_is_functional_template__$3z, __vue_module_identifier__$3z, false, undefined, undefined, undefined);//
-var script$3y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3y = {
   name: 'HomeHeart1Icon'
-});/* script */
+};/* script */
 var __vue_script__$3y = script$3y;
 /* template */
 
@@ -7924,7 +8938,7 @@ var __vue_inject_styles__$3y = undefined;
 var __vue_scope_id__$3y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3y = "data-v-33dd756a";
+var __vue_module_identifier__$3y = "data-v-2b510c62";
 /* functional template */
 
 var __vue_is_functional_template__$3y = true;
@@ -7938,9 +8952,14 @@ var __vue_component__$3y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3y,
   staticRenderFns: __vue_staticRenderFns__$3y
 }, __vue_inject_styles__$3y, __vue_script__$3y, __vue_scope_id__$3y, __vue_is_functional_template__$3y, __vue_module_identifier__$3y, false, undefined, undefined, undefined);//
-var script$3x = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3x = {
   name: 'HomeHeartIcon'
-});/* script */
+};/* script */
 var __vue_script__$3x = script$3x;
 /* template */
 
@@ -7966,7 +8985,7 @@ var __vue_inject_styles__$3x = undefined;
 var __vue_scope_id__$3x = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3x = "data-v-36caf760";
+var __vue_module_identifier__$3x = "data-v-35c02e6e";
 /* functional template */
 
 var __vue_is_functional_template__$3x = true;
@@ -7980,9 +8999,14 @@ var __vue_component__$3x = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3x,
   staticRenderFns: __vue_staticRenderFns__$3x
 }, __vue_inject_styles__$3x, __vue_script__$3x, __vue_scope_id__$3x, __vue_is_functional_template__$3x, __vue_module_identifier__$3x, false, undefined, undefined, undefined);//
-var script$3w = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3w = {
   name: 'HomeMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$3w = script$3w;
 /* template */
 
@@ -8008,7 +9032,7 @@ var __vue_inject_styles__$3w = undefined;
 var __vue_scope_id__$3w = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3w = "data-v-1291a487";
+var __vue_module_identifier__$3w = "data-v-a45fa9d2";
 /* functional template */
 
 var __vue_is_functional_template__$3w = true;
@@ -8022,9 +9046,14 @@ var __vue_component__$3w = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3w,
   staticRenderFns: __vue_staticRenderFns__$3w
 }, __vue_inject_styles__$3w, __vue_script__$3w, __vue_scope_id__$3w, __vue_is_functional_template__$3w, __vue_module_identifier__$3w, false, undefined, undefined, undefined);//
-var script$3v = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3v = {
   name: 'HomeOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$3v = script$3v;
 /* template */
 
@@ -8050,7 +9079,7 @@ var __vue_inject_styles__$3v = undefined;
 var __vue_scope_id__$3v = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3v = "data-v-4d53a3c7";
+var __vue_module_identifier__$3v = "data-v-380d4117";
 /* functional template */
 
 var __vue_is_functional_template__$3v = true;
@@ -8064,9 +9093,14 @@ var __vue_component__$3v = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3v,
   staticRenderFns: __vue_staticRenderFns__$3v
 }, __vue_inject_styles__$3v, __vue_script__$3v, __vue_scope_id__$3v, __vue_is_functional_template__$3v, __vue_module_identifier__$3v, false, undefined, undefined, undefined);//
-var script$3u = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3u = {
   name: 'HomePlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$3u = script$3u;
 /* template */
 
@@ -8092,7 +9126,7 @@ var __vue_inject_styles__$3u = undefined;
 var __vue_scope_id__$3u = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3u = "data-v-6280bec2";
+var __vue_module_identifier__$3u = "data-v-e42bc166";
 /* functional template */
 
 var __vue_is_functional_template__$3u = true;
@@ -8106,9 +9140,14 @@ var __vue_component__$3u = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3u,
   staticRenderFns: __vue_staticRenderFns__$3u
 }, __vue_inject_styles__$3u, __vue_script__$3u, __vue_scope_id__$3u, __vue_is_functional_template__$3u, __vue_module_identifier__$3u, false, undefined, undefined, undefined);//
-var script$3t = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3t = {
   name: 'HomeXIcon'
-});/* script */
+};/* script */
 var __vue_script__$3t = script$3t;
 /* template */
 
@@ -8134,7 +9173,7 @@ var __vue_inject_styles__$3t = undefined;
 var __vue_scope_id__$3t = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3t = "data-v-68ef315c";
+var __vue_module_identifier__$3t = "data-v-607d12ac";
 /* functional template */
 
 var __vue_is_functional_template__$3t = true;
@@ -8148,9 +9187,14 @@ var __vue_component__$3t = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3t,
   staticRenderFns: __vue_staticRenderFns__$3t
 }, __vue_inject_styles__$3t, __vue_script__$3t, __vue_scope_id__$3t, __vue_is_functional_template__$3t, __vue_module_identifier__$3t, false, undefined, undefined, undefined);//
-var script$3s = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3s = {
   name: 'Html5Icon'
-});/* script */
+};/* script */
 var __vue_script__$3s = script$3s;
 /* template */
 
@@ -8176,7 +9220,7 @@ var __vue_inject_styles__$3s = undefined;
 var __vue_scope_id__$3s = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3s = "data-v-d8bd5ea8";
+var __vue_module_identifier__$3s = "data-v-5a09eb52";
 /* functional template */
 
 var __vue_is_functional_template__$3s = true;
@@ -8190,9 +9234,14 @@ var __vue_component__$3s = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3s,
   staticRenderFns: __vue_staticRenderFns__$3s
 }, __vue_inject_styles__$3s, __vue_script__$3s, __vue_scope_id__$3s, __vue_is_functional_template__$3s, __vue_module_identifier__$3s, false, undefined, undefined, undefined);//
-var script$3r = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3r = {
   name: 'IdCardIcon'
-});/* script */
+};/* script */
 var __vue_script__$3r = script$3r;
 /* template */
 
@@ -8218,7 +9267,7 @@ var __vue_inject_styles__$3r = undefined;
 var __vue_scope_id__$3r = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3r = "data-v-7429f5f7";
+var __vue_module_identifier__$3r = "data-v-0ed79635";
 /* functional template */
 
 var __vue_is_functional_template__$3r = true;
@@ -8232,9 +9281,17 @@ var __vue_component__$3r = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3r,
   staticRenderFns: __vue_staticRenderFns__$3r
 }, __vue_inject_styles__$3r, __vue_script__$3r, __vue_scope_id__$3r, __vue_is_functional_template__$3r, __vue_module_identifier__$3r, false, undefined, undefined, undefined);//
-var script$3q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$3q = {
   name: 'ImageAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$3q = script$3q;
 /* template */
 
@@ -8260,7 +9317,7 @@ var __vue_inject_styles__$3q = undefined;
 var __vue_scope_id__$3q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3q = "data-v-b1e943be";
+var __vue_module_identifier__$3q = "data-v-33f9e86a";
 /* functional template */
 
 var __vue_is_functional_template__$3q = true;
@@ -8274,9 +9331,14 @@ var __vue_component__$3q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3q,
   staticRenderFns: __vue_staticRenderFns__$3q
 }, __vue_inject_styles__$3q, __vue_script__$3q, __vue_scope_id__$3q, __vue_is_functional_template__$3q, __vue_module_identifier__$3q, false, undefined, undefined, undefined);//
-var script$3p = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3p = {
   name: 'ImageIcon'
-});/* script */
+};/* script */
 var __vue_script__$3p = script$3p;
 /* template */
 
@@ -8302,7 +9364,7 @@ var __vue_inject_styles__$3p = undefined;
 var __vue_scope_id__$3p = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3p = "data-v-4f234464";
+var __vue_module_identifier__$3p = "data-v-2807d65a";
 /* functional template */
 
 var __vue_is_functional_template__$3p = true;
@@ -8316,9 +9378,14 @@ var __vue_component__$3p = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3p,
   staticRenderFns: __vue_staticRenderFns__$3p
 }, __vue_inject_styles__$3p, __vue_script__$3p, __vue_scope_id__$3p, __vue_is_functional_template__$3p, __vue_module_identifier__$3p, false, undefined, undefined, undefined);//
-var script$3o = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3o = {
   name: 'InfoCircleOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$3o = script$3o;
 /* template */
 
@@ -8344,7 +9411,7 @@ var __vue_inject_styles__$3o = undefined;
 var __vue_scope_id__$3o = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3o = "data-v-aaef6564";
+var __vue_module_identifier__$3o = "data-v-41b80420";
 /* functional template */
 
 var __vue_is_functional_template__$3o = true;
@@ -8358,9 +9425,14 @@ var __vue_component__$3o = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3o,
   staticRenderFns: __vue_staticRenderFns__$3o
 }, __vue_inject_styles__$3o, __vue_script__$3o, __vue_scope_id__$3o, __vue_is_functional_template__$3o, __vue_module_identifier__$3o, false, undefined, undefined, undefined);//
-var script$3n = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3n = {
   name: 'InfoCircleIcon'
-});/* script */
+};/* script */
 var __vue_script__$3n = script$3n;
 /* template */
 
@@ -8386,7 +9458,7 @@ var __vue_inject_styles__$3n = undefined;
 var __vue_scope_id__$3n = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3n = "data-v-99515890";
+var __vue_module_identifier__$3n = "data-v-ad7ac858";
 /* functional template */
 
 var __vue_is_functional_template__$3n = true;
@@ -8400,9 +9472,14 @@ var __vue_component__$3n = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3n,
   staticRenderFns: __vue_staticRenderFns__$3n
 }, __vue_inject_styles__$3n, __vue_script__$3n, __vue_scope_id__$3n, __vue_is_functional_template__$3n, __vue_module_identifier__$3n, false, undefined, undefined, undefined);//
-var script$3m = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3m = {
   name: 'InfoSquareOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$3m = script$3m;
 /* template */
 
@@ -8428,7 +9505,7 @@ var __vue_inject_styles__$3m = undefined;
 var __vue_scope_id__$3m = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3m = "data-v-66c89e6f";
+var __vue_module_identifier__$3m = "data-v-7202dfaf";
 /* functional template */
 
 var __vue_is_functional_template__$3m = true;
@@ -8442,9 +9519,14 @@ var __vue_component__$3m = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3m,
   staticRenderFns: __vue_staticRenderFns__$3m
 }, __vue_inject_styles__$3m, __vue_script__$3m, __vue_scope_id__$3m, __vue_is_functional_template__$3m, __vue_module_identifier__$3m, false, undefined, undefined, undefined);//
-var script$3l = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3l = {
   name: 'InfoSquareIcon'
-});/* script */
+};/* script */
 var __vue_script__$3l = script$3l;
 /* template */
 
@@ -8470,7 +9552,7 @@ var __vue_inject_styles__$3l = undefined;
 var __vue_scope_id__$3l = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3l = "data-v-2c953008";
+var __vue_module_identifier__$3l = "data-v-234ce378";
 /* functional template */
 
 var __vue_is_functional_template__$3l = true;
@@ -8484,9 +9566,14 @@ var __vue_component__$3l = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3l,
   staticRenderFns: __vue_staticRenderFns__$3l
 }, __vue_inject_styles__$3l, __vue_script__$3l, __vue_scope_id__$3l, __vue_is_functional_template__$3l, __vue_module_identifier__$3l, false, undefined, undefined, undefined);//
-var script$3k = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3k = {
   name: 'InstagramIcon'
-});/* script */
+};/* script */
 var __vue_script__$3k = script$3k;
 /* template */
 
@@ -8512,7 +9599,7 @@ var __vue_inject_styles__$3k = undefined;
 var __vue_scope_id__$3k = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3k = "data-v-69336a52";
+var __vue_module_identifier__$3k = "data-v-43486628";
 /* functional template */
 
 var __vue_is_functional_template__$3k = true;
@@ -8526,9 +9613,14 @@ var __vue_component__$3k = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3k,
   staticRenderFns: __vue_staticRenderFns__$3k
 }, __vue_inject_styles__$3k, __vue_script__$3k, __vue_scope_id__$3k, __vue_is_functional_template__$3k, __vue_module_identifier__$3k, false, undefined, undefined, undefined);//
-var script$3j = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3j = {
   name: 'InvisionIcon'
-});/* script */
+};/* script */
 var __vue_script__$3j = script$3j;
 /* template */
 
@@ -8554,7 +9646,7 @@ var __vue_inject_styles__$3j = undefined;
 var __vue_scope_id__$3j = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3j = "data-v-5fd23be5";
+var __vue_module_identifier__$3j = "data-v-3e2394c7";
 /* functional template */
 
 var __vue_is_functional_template__$3j = true;
@@ -8568,9 +9660,14 @@ var __vue_component__$3j = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3j,
   staticRenderFns: __vue_staticRenderFns__$3j
 }, __vue_inject_styles__$3j, __vue_script__$3j, __vue_scope_id__$3j, __vue_is_functional_template__$3j, __vue_module_identifier__$3j, false, undefined, undefined, undefined);//
-var script$3i = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3i = {
   name: 'ItalicIcon'
-});/* script */
+};/* script */
 var __vue_script__$3i = script$3i;
 /* template */
 
@@ -8596,7 +9693,7 @@ var __vue_inject_styles__$3i = undefined;
 var __vue_scope_id__$3i = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3i = "data-v-51bdede3";
+var __vue_module_identifier__$3i = "data-v-19c83c89";
 /* functional template */
 
 var __vue_is_functional_template__$3i = true;
@@ -8610,9 +9707,14 @@ var __vue_component__$3i = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3i,
   staticRenderFns: __vue_staticRenderFns__$3i
 }, __vue_inject_styles__$3i, __vue_script__$3i, __vue_scope_id__$3i, __vue_is_functional_template__$3i, __vue_module_identifier__$3i, false, undefined, undefined, undefined);//
-var script$3h = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3h = {
   name: 'JavascriptIcon'
-});/* script */
+};/* script */
 var __vue_script__$3h = script$3h;
 /* template */
 
@@ -8638,7 +9740,7 @@ var __vue_inject_styles__$3h = undefined;
 var __vue_scope_id__$3h = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3h = "data-v-76f4ea85";
+var __vue_module_identifier__$3h = "data-v-c22f0f32";
 /* functional template */
 
 var __vue_is_functional_template__$3h = true;
@@ -8652,9 +9754,14 @@ var __vue_component__$3h = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3h,
   staticRenderFns: __vue_staticRenderFns__$3h
 }, __vue_inject_styles__$3h, __vue_script__$3h, __vue_scope_id__$3h, __vue_is_functional_template__$3h, __vue_module_identifier__$3h, false, undefined, undefined, undefined);//
-var script$3g = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3g = {
   name: 'LabelIcon'
-});/* script */
+};/* script */
 var __vue_script__$3g = script$3g;
 /* template */
 
@@ -8680,7 +9787,7 @@ var __vue_inject_styles__$3g = undefined;
 var __vue_scope_id__$3g = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3g = "data-v-5bdd94fa";
+var __vue_module_identifier__$3g = "data-v-6e0faf5b";
 /* functional template */
 
 var __vue_is_functional_template__$3g = true;
@@ -8694,9 +9801,14 @@ var __vue_component__$3g = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3g,
   staticRenderFns: __vue_staticRenderFns__$3g
 }, __vue_inject_styles__$3g, __vue_script__$3g, __vue_scope_id__$3g, __vue_is_functional_template__$3g, __vue_module_identifier__$3g, false, undefined, undefined, undefined);//
-var script$3f = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3f = {
   name: 'LaptopIcon'
-});/* script */
+};/* script */
 var __vue_script__$3f = script$3f;
 /* template */
 
@@ -8722,7 +9834,7 @@ var __vue_inject_styles__$3f = undefined;
 var __vue_scope_id__$3f = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3f = "data-v-25650850";
+var __vue_module_identifier__$3f = "data-v-50af22bc";
 /* functional template */
 
 var __vue_is_functional_template__$3f = true;
@@ -8736,9 +9848,14 @@ var __vue_component__$3f = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3f,
   staticRenderFns: __vue_staticRenderFns__$3f
 }, __vue_inject_styles__$3f, __vue_script__$3f, __vue_scope_id__$3f, __vue_is_functional_template__$3f, __vue_module_identifier__$3f, false, undefined, undefined, undefined);//
-var script$3e = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3e = {
   name: 'LastPageIcon'
-});/* script */
+};/* script */
 var __vue_script__$3e = script$3e;
 /* template */
 
@@ -8764,7 +9881,7 @@ var __vue_inject_styles__$3e = undefined;
 var __vue_scope_id__$3e = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3e = "data-v-1aecda93";
+var __vue_module_identifier__$3e = "data-v-76dcaed9";
 /* functional template */
 
 var __vue_is_functional_template__$3e = true;
@@ -8778,9 +9895,14 @@ var __vue_component__$3e = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3e,
   staticRenderFns: __vue_staticRenderFns__$3e
 }, __vue_inject_styles__$3e, __vue_script__$3e, __vue_scope_id__$3e, __vue_is_functional_template__$3e, __vue_module_identifier__$3e, false, undefined, undefined, undefined);//
-var script$3d = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3d = {
   name: 'LayersAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$3d = script$3d;
 /* template */
 
@@ -8806,7 +9928,7 @@ var __vue_inject_styles__$3d = undefined;
 var __vue_scope_id__$3d = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3d = "data-v-515f6b8c";
+var __vue_module_identifier__$3d = "data-v-cead2e9c";
 /* functional template */
 
 var __vue_is_functional_template__$3d = true;
@@ -8820,9 +9942,14 @@ var __vue_component__$3d = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3d,
   staticRenderFns: __vue_staticRenderFns__$3d
 }, __vue_inject_styles__$3d, __vue_script__$3d, __vue_scope_id__$3d, __vue_is_functional_template__$3d, __vue_module_identifier__$3d, false, undefined, undefined, undefined);//
-var script$3c = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3c = {
   name: 'LayersIcon'
-});/* script */
+};/* script */
 var __vue_script__$3c = script$3c;
 /* template */
 
@@ -8848,7 +9975,7 @@ var __vue_inject_styles__$3c = undefined;
 var __vue_scope_id__$3c = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3c = "data-v-276da6ee";
+var __vue_module_identifier__$3c = "data-v-efed3244";
 /* functional template */
 
 var __vue_is_functional_template__$3c = true;
@@ -8862,9 +9989,14 @@ var __vue_component__$3c = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3c,
   staticRenderFns: __vue_staticRenderFns__$3c
 }, __vue_inject_styles__$3c, __vue_script__$3c, __vue_scope_id__$3c, __vue_is_functional_template__$3c, __vue_module_identifier__$3c, false, undefined, undefined, undefined);//
-var script$3b = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3b = {
   name: 'LineBreakIcon'
-});/* script */
+};/* script */
 var __vue_script__$3b = script$3b;
 /* template */
 
@@ -8890,7 +10022,7 @@ var __vue_inject_styles__$3b = undefined;
 var __vue_scope_id__$3b = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3b = "data-v-517169d5";
+var __vue_module_identifier__$3b = "data-v-70333a09";
 /* functional template */
 
 var __vue_is_functional_template__$3b = true;
@@ -8904,9 +10036,14 @@ var __vue_component__$3b = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3b,
   staticRenderFns: __vue_staticRenderFns__$3b
 }, __vue_inject_styles__$3b, __vue_script__$3b, __vue_scope_id__$3b, __vue_is_functional_template__$3b, __vue_module_identifier__$3b, false, undefined, undefined, undefined);//
-var script$3a = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3a = {
   name: 'LineChartDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$3a = script$3a;
 /* template */
 
@@ -8932,7 +10069,7 @@ var __vue_inject_styles__$3a = undefined;
 var __vue_scope_id__$3a = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3a = "data-v-1d6f2e2e";
+var __vue_module_identifier__$3a = "data-v-580c2296";
 /* functional template */
 
 var __vue_is_functional_template__$3a = true;
@@ -8946,9 +10083,14 @@ var __vue_component__$3a = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3a,
   staticRenderFns: __vue_staticRenderFns__$3a
 }, __vue_inject_styles__$3a, __vue_script__$3a, __vue_scope_id__$3a, __vue_is_functional_template__$3a, __vue_module_identifier__$3a, false, undefined, undefined, undefined);//
-var script$39 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$39 = {
   name: 'LineChartUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$39 = script$39;
 /* template */
 
@@ -8974,7 +10116,7 @@ var __vue_inject_styles__$39 = undefined;
 var __vue_scope_id__$39 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$39 = "data-v-0cadc68e";
+var __vue_module_identifier__$39 = "data-v-de092636";
 /* functional template */
 
 var __vue_is_functional_template__$39 = true;
@@ -8988,9 +10130,14 @@ var __vue_component__$39 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$39,
   staticRenderFns: __vue_staticRenderFns__$39
 }, __vue_inject_styles__$39, __vue_script__$39, __vue_scope_id__$39, __vue_is_functional_template__$39, __vue_module_identifier__$39, false, undefined, undefined, undefined);//
-var script$38 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$38 = {
   name: 'LineLIcon'
-});/* script */
+};/* script */
 var __vue_script__$38 = script$38;
 /* template */
 
@@ -9016,7 +10163,7 @@ var __vue_inject_styles__$38 = undefined;
 var __vue_scope_id__$38 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$38 = "data-v-0d099afe";
+var __vue_module_identifier__$38 = "data-v-590d921d";
 /* functional template */
 
 var __vue_is_functional_template__$38 = true;
@@ -9030,9 +10177,14 @@ var __vue_component__$38 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$38,
   staticRenderFns: __vue_staticRenderFns__$38
 }, __vue_inject_styles__$38, __vue_script__$38, __vue_scope_id__$38, __vue_is_functional_template__$38, __vue_module_identifier__$38, false, undefined, undefined, undefined);//
-var script$37 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$37 = {
   name: 'LineMIcon'
-});/* script */
+};/* script */
 var __vue_script__$37 = script$37;
 /* template */
 
@@ -9058,7 +10210,7 @@ var __vue_inject_styles__$37 = undefined;
 var __vue_scope_id__$37 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$37 = "data-v-1a3a2dca";
+var __vue_module_identifier__$37 = "data-v-7b37df34";
 /* functional template */
 
 var __vue_is_functional_template__$37 = true;
@@ -9072,9 +10224,14 @@ var __vue_component__$37 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$37,
   staticRenderFns: __vue_staticRenderFns__$37
 }, __vue_inject_styles__$37, __vue_script__$37, __vue_scope_id__$37, __vue_is_functional_template__$37, __vue_module_identifier__$37, false, undefined, undefined, undefined);//
-var script$36 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$36 = {
   name: 'LineSIcon'
-});/* script */
+};/* script */
 var __vue_script__$36 = script$36;
 /* template */
 
@@ -9100,7 +10257,7 @@ var __vue_inject_styles__$36 = undefined;
 var __vue_scope_id__$36 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$36 = "data-v-23cbd7c8";
+var __vue_module_identifier__$36 = "data-v-291dac76";
 /* functional template */
 
 var __vue_is_functional_template__$36 = true;
@@ -9114,9 +10271,14 @@ var __vue_component__$36 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$36,
   staticRenderFns: __vue_staticRenderFns__$36
 }, __vue_inject_styles__$36, __vue_script__$36, __vue_scope_id__$36, __vue_is_functional_template__$36, __vue_module_identifier__$36, false, undefined, undefined, undefined);//
-var script$35 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$35 = {
   name: 'LineSxIcon'
-});/* script */
+};/* script */
 var __vue_script__$35 = script$35;
 /* template */
 
@@ -9142,7 +10304,7 @@ var __vue_inject_styles__$35 = undefined;
 var __vue_scope_id__$35 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$35 = "data-v-90a75620";
+var __vue_module_identifier__$35 = "data-v-1043725c";
 /* functional template */
 
 var __vue_is_functional_template__$35 = true;
@@ -9156,9 +10318,14 @@ var __vue_component__$35 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$35,
   staticRenderFns: __vue_staticRenderFns__$35
 }, __vue_inject_styles__$35, __vue_script__$35, __vue_scope_id__$35, __vue_is_functional_template__$35, __vue_module_identifier__$35, false, undefined, undefined, undefined);//
-var script$34 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$34 = {
   name: 'LineXlIcon'
-});/* script */
+};/* script */
 var __vue_script__$34 = script$34;
 /* template */
 
@@ -9184,7 +10351,7 @@ var __vue_inject_styles__$34 = undefined;
 var __vue_scope_id__$34 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$34 = "data-v-2da0aafd";
+var __vue_module_identifier__$34 = "data-v-0da147af";
 /* functional template */
 
 var __vue_is_functional_template__$34 = true;
@@ -9198,9 +10365,14 @@ var __vue_component__$34 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$34,
   staticRenderFns: __vue_staticRenderFns__$34
 }, __vue_inject_styles__$34, __vue_script__$34, __vue_scope_id__$34, __vue_is_functional_template__$34, __vue_module_identifier__$34, false, undefined, undefined, undefined);//
-var script$33 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$33 = {
   name: 'Link02Icon'
-});/* script */
+};/* script */
 var __vue_script__$33 = script$33;
 /* template */
 
@@ -9226,7 +10398,7 @@ var __vue_inject_styles__$33 = undefined;
 var __vue_scope_id__$33 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$33 = "data-v-1489e66a";
+var __vue_module_identifier__$33 = "data-v-2699d3a1";
 /* functional template */
 
 var __vue_is_functional_template__$33 = true;
@@ -9240,9 +10412,14 @@ var __vue_component__$33 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$33,
   staticRenderFns: __vue_staticRenderFns__$33
 }, __vue_inject_styles__$33, __vue_script__$33, __vue_scope_id__$33, __vue_is_functional_template__$33, __vue_module_identifier__$33, false, undefined, undefined, undefined);//
-var script$32 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$32 = {
   name: 'LinkIcon'
-});/* script */
+};/* script */
 var __vue_script__$32 = script$32;
 /* template */
 
@@ -9268,7 +10445,7 @@ var __vue_inject_styles__$32 = undefined;
 var __vue_scope_id__$32 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$32 = "data-v-27168832";
+var __vue_module_identifier__$32 = "data-v-e693d776";
 /* functional template */
 
 var __vue_is_functional_template__$32 = true;
@@ -9282,9 +10459,14 @@ var __vue_component__$32 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$32,
   staticRenderFns: __vue_staticRenderFns__$32
 }, __vue_inject_styles__$32, __vue_script__$32, __vue_scope_id__$32, __vue_is_functional_template__$32, __vue_module_identifier__$32, false, undefined, undefined, undefined);//
-var script$31 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$31 = {
   name: 'LinkedinIcon'
-});/* script */
+};/* script */
 var __vue_script__$31 = script$31;
 /* template */
 
@@ -9310,7 +10492,7 @@ var __vue_inject_styles__$31 = undefined;
 var __vue_scope_id__$31 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$31 = "data-v-09513d5e";
+var __vue_module_identifier__$31 = "data-v-5b342aca";
 /* functional template */
 
 var __vue_is_functional_template__$31 = true;
@@ -9324,9 +10506,14 @@ var __vue_component__$31 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$31,
   staticRenderFns: __vue_staticRenderFns__$31
 }, __vue_inject_styles__$31, __vue_script__$31, __vue_scope_id__$31, __vue_is_functional_template__$31, __vue_module_identifier__$31, false, undefined, undefined, undefined);//
-var script$30 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$30 = {
   name: 'LinkpathIcon'
-});/* script */
+};/* script */
 var __vue_script__$30 = script$30;
 /* template */
 
@@ -9352,7 +10539,7 @@ var __vue_inject_styles__$30 = undefined;
 var __vue_scope_id__$30 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$30 = "data-v-124e1efc";
+var __vue_module_identifier__$30 = "data-v-6d21d090";
 /* functional template */
 
 var __vue_is_functional_template__$30 = true;
@@ -9366,9 +10553,14 @@ var __vue_component__$30 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$30,
   staticRenderFns: __vue_staticRenderFns__$30
 }, __vue_inject_styles__$30, __vue_script__$30, __vue_scope_id__$30, __vue_is_functional_template__$30, __vue_module_identifier__$30, false, undefined, undefined, undefined);//
-var script$2$ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2$ = {
   name: 'ListCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$2$ = script$2$;
 /* template */
 
@@ -9394,7 +10586,7 @@ var __vue_inject_styles__$2$ = undefined;
 var __vue_scope_id__$2$ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2$ = "data-v-7f1045f2";
+var __vue_module_identifier__$2$ = "data-v-0b6d8168";
 /* functional template */
 
 var __vue_is_functional_template__$2$ = true;
@@ -9408,9 +10600,14 @@ var __vue_component__$2$ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2$,
   staticRenderFns: __vue_staticRenderFns__$2$
 }, __vue_inject_styles__$2$, __vue_script__$2$, __vue_scope_id__$2$, __vue_is_functional_template__$2$, __vue_module_identifier__$2$, false, undefined, undefined, undefined);//
-var script$2_ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2_ = {
   name: 'ListChecklistAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$2_ = script$2_;
 /* template */
 
@@ -9436,7 +10633,7 @@ var __vue_inject_styles__$2_ = undefined;
 var __vue_scope_id__$2_ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2_ = "data-v-a33e3374";
+var __vue_module_identifier__$2_ = "data-v-70627e06";
 /* functional template */
 
 var __vue_is_functional_template__$2_ = true;
@@ -9450,9 +10647,14 @@ var __vue_component__$2_ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2_,
   staticRenderFns: __vue_staticRenderFns__$2_
 }, __vue_inject_styles__$2_, __vue_script__$2_, __vue_scope_id__$2_, __vue_is_functional_template__$2_, __vue_module_identifier__$2_, false, undefined, undefined, undefined);//
-var script$2Z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2Z = {
   name: 'ListChecklistIcon'
-});/* script */
+};/* script */
 var __vue_script__$2Z = script$2Z;
 /* template */
 
@@ -9478,7 +10680,7 @@ var __vue_inject_styles__$2Z = undefined;
 var __vue_scope_id__$2Z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2Z = "data-v-03813de4";
+var __vue_module_identifier__$2Z = "data-v-0ce6e09a";
 /* functional template */
 
 var __vue_is_functional_template__$2Z = true;
@@ -9492,9 +10694,14 @@ var __vue_component__$2Z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2Z,
   staticRenderFns: __vue_staticRenderFns__$2Z
 }, __vue_inject_styles__$2Z, __vue_script__$2Z, __vue_scope_id__$2Z, __vue_is_functional_template__$2Z, __vue_module_identifier__$2Z, false, undefined, undefined, undefined);//
-var script$2Y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2Y = {
   name: 'ListMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$2Y = script$2Y;
 /* template */
 
@@ -9520,7 +10727,7 @@ var __vue_inject_styles__$2Y = undefined;
 var __vue_scope_id__$2Y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2Y = "data-v-2d62737d";
+var __vue_module_identifier__$2Y = "data-v-144ca0be";
 /* functional template */
 
 var __vue_is_functional_template__$2Y = true;
@@ -9534,9 +10741,14 @@ var __vue_component__$2Y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2Y,
   staticRenderFns: __vue_staticRenderFns__$2Y
 }, __vue_inject_styles__$2Y, __vue_script__$2Y, __vue_scope_id__$2Y, __vue_is_functional_template__$2Y, __vue_module_identifier__$2Y, false, undefined, undefined, undefined);//
-var script$2X = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2X = {
   name: 'ListOlIcon'
-});/* script */
+};/* script */
 var __vue_script__$2X = script$2X;
 /* template */
 
@@ -9562,7 +10774,7 @@ var __vue_inject_styles__$2X = undefined;
 var __vue_scope_id__$2X = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2X = "data-v-56a7cdf2";
+var __vue_module_identifier__$2X = "data-v-7b550db6";
 /* functional template */
 
 var __vue_is_functional_template__$2X = true;
@@ -9576,9 +10788,14 @@ var __vue_component__$2X = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2X,
   staticRenderFns: __vue_staticRenderFns__$2X
 }, __vue_inject_styles__$2X, __vue_script__$2X, __vue_scope_id__$2X, __vue_is_functional_template__$2X, __vue_module_identifier__$2X, false, undefined, undefined, undefined);//
-var script$2W = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2W = {
   name: 'ListPlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$2W = script$2W;
 /* template */
 
@@ -9604,7 +10821,7 @@ var __vue_inject_styles__$2W = undefined;
 var __vue_scope_id__$2W = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2W = "data-v-1929da93";
+var __vue_module_identifier__$2W = "data-v-44f32a19";
 /* functional template */
 
 var __vue_is_functional_template__$2W = true;
@@ -9618,9 +10835,14 @@ var __vue_component__$2W = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2W,
   staticRenderFns: __vue_staticRenderFns__$2W
 }, __vue_inject_styles__$2W, __vue_script__$2W, __vue_scope_id__$2W, __vue_is_functional_template__$2W, __vue_module_identifier__$2W, false, undefined, undefined, undefined);//
-var script$2V = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2V = {
   name: 'ListUlIcon'
-});/* script */
+};/* script */
 var __vue_script__$2V = script$2V;
 /* template */
 
@@ -9646,7 +10868,7 @@ var __vue_inject_styles__$2V = undefined;
 var __vue_scope_id__$2V = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2V = "data-v-a5b54f6e";
+var __vue_module_identifier__$2V = "data-v-aaebcaba";
 /* functional template */
 
 var __vue_is_functional_template__$2V = true;
@@ -9660,9 +10882,14 @@ var __vue_component__$2V = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2V,
   staticRenderFns: __vue_staticRenderFns__$2V
 }, __vue_inject_styles__$2V, __vue_script__$2V, __vue_scope_id__$2V, __vue_is_functional_template__$2V, __vue_module_identifier__$2V, false, undefined, undefined, undefined);//
-var script$2U = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2U = {
   name: 'LoadingIcon'
-});/* script */
+};/* script */
 var __vue_script__$2U = script$2U;
 /* template */
 
@@ -9688,7 +10915,7 @@ var __vue_inject_styles__$2U = undefined;
 var __vue_scope_id__$2U = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2U = "data-v-912515ec";
+var __vue_module_identifier__$2U = "data-v-224a18f4";
 /* functional template */
 
 var __vue_is_functional_template__$2U = true;
@@ -9702,9 +10929,14 @@ var __vue_component__$2U = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2U,
   staticRenderFns: __vue_staticRenderFns__$2U
 }, __vue_inject_styles__$2U, __vue_script__$2U, __vue_scope_id__$2U, __vue_is_functional_template__$2U, __vue_module_identifier__$2U, false, undefined, undefined, undefined);//
-var script$2T = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2T = {
   name: 'LocationOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$2T = script$2T;
 /* template */
 
@@ -9730,7 +10962,7 @@ var __vue_inject_styles__$2T = undefined;
 var __vue_scope_id__$2T = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2T = "data-v-0af4aff9";
+var __vue_module_identifier__$2T = "data-v-2f312325";
 /* functional template */
 
 var __vue_is_functional_template__$2T = true;
@@ -9744,9 +10976,14 @@ var __vue_component__$2T = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2T,
   staticRenderFns: __vue_staticRenderFns__$2T
 }, __vue_inject_styles__$2T, __vue_script__$2T, __vue_scope_id__$2T, __vue_is_functional_template__$2T, __vue_module_identifier__$2T, false, undefined, undefined, undefined);//
-var script$2S = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2S = {
   name: 'LocationIcon'
-});/* script */
+};/* script */
 var __vue_script__$2S = script$2S;
 /* template */
 
@@ -9772,7 +11009,7 @@ var __vue_inject_styles__$2S = undefined;
 var __vue_scope_id__$2S = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2S = "data-v-304cf1a4";
+var __vue_module_identifier__$2S = "data-v-4a17b81e";
 /* functional template */
 
 var __vue_is_functional_template__$2S = true;
@@ -9786,9 +11023,14 @@ var __vue_component__$2S = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2S,
   staticRenderFns: __vue_staticRenderFns__$2S
 }, __vue_inject_styles__$2S, __vue_script__$2S, __vue_scope_id__$2S, __vue_is_functional_template__$2S, __vue_module_identifier__$2S, false, undefined, undefined, undefined);//
-var script$2R = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2R = {
   name: 'LogOutIcon'
-});/* script */
+};/* script */
 var __vue_script__$2R = script$2R;
 /* template */
 
@@ -9814,7 +11056,7 @@ var __vue_inject_styles__$2R = undefined;
 var __vue_scope_id__$2R = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2R = "data-v-3e87ee77";
+var __vue_module_identifier__$2R = "data-v-87c6f416";
 /* functional template */
 
 var __vue_is_functional_template__$2R = true;
@@ -9828,9 +11070,14 @@ var __vue_component__$2R = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2R,
   staticRenderFns: __vue_staticRenderFns__$2R
 }, __vue_inject_styles__$2R, __vue_script__$2R, __vue_scope_id__$2R, __vue_is_functional_template__$2R, __vue_module_identifier__$2R, false, undefined, undefined, undefined);//
-var script$2Q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2Q = {
   name: 'LongBottomDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$2Q = script$2Q;
 /* template */
 
@@ -9856,7 +11103,7 @@ var __vue_inject_styles__$2Q = undefined;
 var __vue_scope_id__$2Q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2Q = "data-v-5b5faa2a";
+var __vue_module_identifier__$2Q = "data-v-0edfa462";
 /* functional template */
 
 var __vue_is_functional_template__$2Q = true;
@@ -9870,9 +11117,14 @@ var __vue_component__$2Q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2Q,
   staticRenderFns: __vue_staticRenderFns__$2Q
 }, __vue_inject_styles__$2Q, __vue_script__$2Q, __vue_scope_id__$2Q, __vue_is_functional_template__$2Q, __vue_module_identifier__$2Q, false, undefined, undefined, undefined);//
-var script$2P = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2P = {
   name: 'LongBottomUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$2P = script$2P;
 /* template */
 
@@ -9898,7 +11150,7 @@ var __vue_inject_styles__$2P = undefined;
 var __vue_scope_id__$2P = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2P = "data-v-d692439a";
+var __vue_module_identifier__$2P = "data-v-7faa0c79";
 /* functional template */
 
 var __vue_is_functional_template__$2P = true;
@@ -9912,9 +11164,14 @@ var __vue_component__$2P = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2P,
   staticRenderFns: __vue_staticRenderFns__$2P
 }, __vue_inject_styles__$2P, __vue_script__$2P, __vue_scope_id__$2P, __vue_is_functional_template__$2P, __vue_module_identifier__$2P, false, undefined, undefined, undefined);//
-var script$2O = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2O = {
   name: 'LongDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$2O = script$2O;
 /* template */
 
@@ -9940,7 +11197,7 @@ var __vue_inject_styles__$2O = undefined;
 var __vue_scope_id__$2O = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2O = "data-v-5c1bbcf5";
+var __vue_module_identifier__$2O = "data-v-3d6a3177";
 /* functional template */
 
 var __vue_is_functional_template__$2O = true;
@@ -9954,9 +11211,14 @@ var __vue_component__$2O = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2O,
   staticRenderFns: __vue_staticRenderFns__$2O
 }, __vue_inject_styles__$2O, __vue_script__$2O, __vue_scope_id__$2O, __vue_is_functional_template__$2O, __vue_module_identifier__$2O, false, undefined, undefined, undefined);//
-var script$2N = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2N = {
   name: 'LongLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$2N = script$2N;
 /* template */
 
@@ -9982,7 +11244,7 @@ var __vue_inject_styles__$2N = undefined;
 var __vue_scope_id__$2N = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2N = "data-v-d0c0c838";
+var __vue_module_identifier__$2N = "data-v-0e2488b0";
 /* functional template */
 
 var __vue_is_functional_template__$2N = true;
@@ -9996,9 +11258,14 @@ var __vue_component__$2N = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2N,
   staticRenderFns: __vue_staticRenderFns__$2N
 }, __vue_inject_styles__$2N, __vue_script__$2N, __vue_scope_id__$2N, __vue_is_functional_template__$2N, __vue_module_identifier__$2N, false, undefined, undefined, undefined);//
-var script$2M = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2M = {
   name: 'LongRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$2M = script$2M;
 /* template */
 
@@ -10024,7 +11291,7 @@ var __vue_inject_styles__$2M = undefined;
 var __vue_scope_id__$2M = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2M = "data-v-0990bb03";
+var __vue_module_identifier__$2M = "data-v-57294a5b";
 /* functional template */
 
 var __vue_is_functional_template__$2M = true;
@@ -10038,9 +11305,14 @@ var __vue_component__$2M = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2M,
   staticRenderFns: __vue_staticRenderFns__$2M
 }, __vue_inject_styles__$2M, __vue_script__$2M, __vue_scope_id__$2M, __vue_is_functional_template__$2M, __vue_module_identifier__$2M, false, undefined, undefined, undefined);//
-var script$2L = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2L = {
   name: 'LongUpLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$2L = script$2L;
 /* template */
 
@@ -10066,7 +11338,7 @@ var __vue_inject_styles__$2L = undefined;
 var __vue_scope_id__$2L = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2L = "data-v-b10913d2";
+var __vue_module_identifier__$2L = "data-v-f3bbfc56";
 /* functional template */
 
 var __vue_is_functional_template__$2L = true;
@@ -10080,9 +11352,14 @@ var __vue_component__$2L = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2L,
   staticRenderFns: __vue_staticRenderFns__$2L
 }, __vue_inject_styles__$2L, __vue_script__$2L, __vue_scope_id__$2L, __vue_is_functional_template__$2L, __vue_module_identifier__$2L, false, undefined, undefined, undefined);//
-var script$2K = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2K = {
   name: 'LongUpRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$2K = script$2K;
 /* template */
 
@@ -10108,7 +11385,7 @@ var __vue_inject_styles__$2K = undefined;
 var __vue_scope_id__$2K = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2K = "data-v-10fa860e";
+var __vue_module_identifier__$2K = "data-v-58244ca5";
 /* functional template */
 
 var __vue_is_functional_template__$2K = true;
@@ -10122,9 +11399,14 @@ var __vue_component__$2K = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2K,
   staticRenderFns: __vue_staticRenderFns__$2K
 }, __vue_inject_styles__$2K, __vue_script__$2K, __vue_scope_id__$2K, __vue_is_functional_template__$2K, __vue_module_identifier__$2K, false, undefined, undefined, undefined);//
-var script$2J = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2J = {
   name: 'LongUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$2J = script$2J;
 /* template */
 
@@ -10150,7 +11432,7 @@ var __vue_inject_styles__$2J = undefined;
 var __vue_scope_id__$2J = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2J = "data-v-08c99a84";
+var __vue_module_identifier__$2J = "data-v-6cfaafce";
 /* functional template */
 
 var __vue_is_functional_template__$2J = true;
@@ -10164,9 +11446,14 @@ var __vue_component__$2J = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2J,
   staticRenderFns: __vue_staticRenderFns__$2J
 }, __vue_inject_styles__$2J, __vue_script__$2J, __vue_scope_id__$2J, __vue_is_functional_template__$2J, __vue_module_identifier__$2J, false, undefined, undefined, undefined);//
-var script$2I = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2I = {
   name: 'MailOpenIcon'
-});/* script */
+};/* script */
 var __vue_script__$2I = script$2I;
 /* template */
 
@@ -10192,7 +11479,7 @@ var __vue_inject_styles__$2I = undefined;
 var __vue_scope_id__$2I = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2I = "data-v-1392ad1c";
+var __vue_module_identifier__$2I = "data-v-39eb115a";
 /* functional template */
 
 var __vue_is_functional_template__$2I = true;
@@ -10206,9 +11493,14 @@ var __vue_component__$2I = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2I,
   staticRenderFns: __vue_staticRenderFns__$2I
 }, __vue_inject_styles__$2I, __vue_script__$2I, __vue_scope_id__$2I, __vue_is_functional_template__$2I, __vue_module_identifier__$2I, false, undefined, undefined, undefined);//
-var script$2H = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2H = {
   name: 'MailIcon'
-});/* script */
+};/* script */
 var __vue_script__$2H = script$2H;
 /* template */
 
@@ -10234,7 +11526,7 @@ var __vue_inject_styles__$2H = undefined;
 var __vue_scope_id__$2H = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2H = "data-v-78b49ae9";
+var __vue_module_identifier__$2H = "data-v-3d0aa57a";
 /* functional template */
 
 var __vue_is_functional_template__$2H = true;
@@ -10248,9 +11540,14 @@ var __vue_component__$2H = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2H,
   staticRenderFns: __vue_staticRenderFns__$2H
 }, __vue_inject_styles__$2H, __vue_script__$2H, __vue_scope_id__$2H, __vue_is_functional_template__$2H, __vue_module_identifier__$2H, false, undefined, undefined, undefined);//
-var script$2G = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2G = {
   name: 'MapIcon'
-});/* script */
+};/* script */
 var __vue_script__$2G = script$2G;
 /* template */
 
@@ -10276,7 +11573,7 @@ var __vue_inject_styles__$2G = undefined;
 var __vue_scope_id__$2G = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2G = "data-v-36f278de";
+var __vue_module_identifier__$2G = "data-v-789e4bc0";
 /* functional template */
 
 var __vue_is_functional_template__$2G = true;
@@ -10290,9 +11587,14 @@ var __vue_component__$2G = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2G,
   staticRenderFns: __vue_staticRenderFns__$2G
 }, __vue_inject_styles__$2G, __vue_script__$2G, __vue_scope_id__$2G, __vue_is_functional_template__$2G, __vue_module_identifier__$2G, false, undefined, undefined, undefined);//
-var script$2F = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2F = {
   name: 'MentionIcon'
-});/* script */
+};/* script */
 var __vue_script__$2F = script$2F;
 /* template */
 
@@ -10318,7 +11620,7 @@ var __vue_inject_styles__$2F = undefined;
 var __vue_scope_id__$2F = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2F = "data-v-a58a70e8";
+var __vue_module_identifier__$2F = "data-v-b4731b9c";
 /* functional template */
 
 var __vue_is_functional_template__$2F = true;
@@ -10332,9 +11634,14 @@ var __vue_component__$2F = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2F,
   staticRenderFns: __vue_staticRenderFns__$2F
 }, __vue_inject_styles__$2F, __vue_script__$2F, __vue_scope_id__$2F, __vue_is_functional_template__$2F, __vue_module_identifier__$2F, false, undefined, undefined, undefined);//
-var script$2E = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2E = {
   name: 'MenuAlt01Icon'
-});/* script */
+};/* script */
 var __vue_script__$2E = script$2E;
 /* template */
 
@@ -10360,7 +11667,7 @@ var __vue_inject_styles__$2E = undefined;
 var __vue_scope_id__$2E = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2E = "data-v-134c1a02";
+var __vue_module_identifier__$2E = "data-v-7149b11f";
 /* functional template */
 
 var __vue_is_functional_template__$2E = true;
@@ -10374,9 +11681,14 @@ var __vue_component__$2E = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2E,
   staticRenderFns: __vue_staticRenderFns__$2E
 }, __vue_inject_styles__$2E, __vue_script__$2E, __vue_scope_id__$2E, __vue_is_functional_template__$2E, __vue_module_identifier__$2E, false, undefined, undefined, undefined);//
-var script$2D = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2D = {
   name: 'MenuAlt02Icon'
-});/* script */
+};/* script */
 var __vue_script__$2D = script$2D;
 /* template */
 
@@ -10402,7 +11714,7 @@ var __vue_inject_styles__$2D = undefined;
 var __vue_scope_id__$2D = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2D = "data-v-1d7e9f7d";
+var __vue_module_identifier__$2D = "data-v-54444d21";
 /* functional template */
 
 var __vue_is_functional_template__$2D = true;
@@ -10416,9 +11728,14 @@ var __vue_component__$2D = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2D,
   staticRenderFns: __vue_staticRenderFns__$2D
 }, __vue_inject_styles__$2D, __vue_script__$2D, __vue_scope_id__$2D, __vue_is_functional_template__$2D, __vue_module_identifier__$2D, false, undefined, undefined, undefined);//
-var script$2C = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2C = {
   name: 'MenuAlt03Icon'
-});/* script */
+};/* script */
 var __vue_script__$2C = script$2C;
 /* template */
 
@@ -10444,7 +11761,7 @@ var __vue_inject_styles__$2C = undefined;
 var __vue_scope_id__$2C = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2C = "data-v-3e20131d";
+var __vue_module_identifier__$2C = "data-v-37ca3d41";
 /* functional template */
 
 var __vue_is_functional_template__$2C = true;
@@ -10458,9 +11775,14 @@ var __vue_component__$2C = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2C,
   staticRenderFns: __vue_staticRenderFns__$2C
 }, __vue_inject_styles__$2C, __vue_script__$2C, __vue_scope_id__$2C, __vue_is_functional_template__$2C, __vue_module_identifier__$2C, false, undefined, undefined, undefined);//
-var script$2B = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2B = {
   name: 'MenuAlt04Icon'
-});/* script */
+};/* script */
 var __vue_script__$2B = script$2B;
 /* template */
 
@@ -10486,7 +11808,7 @@ var __vue_inject_styles__$2B = undefined;
 var __vue_scope_id__$2B = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2B = "data-v-1400c23d";
+var __vue_module_identifier__$2B = "data-v-fb8ebc3e";
 /* functional template */
 
 var __vue_is_functional_template__$2B = true;
@@ -10500,9 +11822,14 @@ var __vue_component__$2B = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2B,
   staticRenderFns: __vue_staticRenderFns__$2B
 }, __vue_inject_styles__$2B, __vue_script__$2B, __vue_scope_id__$2B, __vue_is_functional_template__$2B, __vue_module_identifier__$2B, false, undefined, undefined, undefined);//
-var script$2A = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2A = {
   name: 'MenuAlt05Icon'
-});/* script */
+};/* script */
 var __vue_script__$2A = script$2A;
 /* template */
 
@@ -10528,7 +11855,7 @@ var __vue_inject_styles__$2A = undefined;
 var __vue_scope_id__$2A = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2A = "data-v-622fbf7b";
+var __vue_module_identifier__$2A = "data-v-3f34b5ba";
 /* functional template */
 
 var __vue_is_functional_template__$2A = true;
@@ -10542,9 +11869,14 @@ var __vue_component__$2A = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2A,
   staticRenderFns: __vue_staticRenderFns__$2A
 }, __vue_inject_styles__$2A, __vue_script__$2A, __vue_scope_id__$2A, __vue_is_functional_template__$2A, __vue_module_identifier__$2A, false, undefined, undefined, undefined);//
-var script$2z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2z = {
   name: 'MenuDuoIcon'
-});/* script */
+};/* script */
 var __vue_script__$2z = script$2z;
 /* template */
 
@@ -10570,7 +11902,7 @@ var __vue_inject_styles__$2z = undefined;
 var __vue_scope_id__$2z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2z = "data-v-41996a8a";
+var __vue_module_identifier__$2z = "data-v-36090c23";
 /* functional template */
 
 var __vue_is_functional_template__$2z = true;
@@ -10584,9 +11916,14 @@ var __vue_component__$2z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2z,
   staticRenderFns: __vue_staticRenderFns__$2z
 }, __vue_inject_styles__$2z, __vue_script__$2z, __vue_scope_id__$2z, __vue_is_functional_template__$2z, __vue_module_identifier__$2z, false, undefined, undefined, undefined);//
-var script$2y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2y = {
   name: 'MessageCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$2y = script$2y;
 /* template */
 
@@ -10612,7 +11949,7 @@ var __vue_inject_styles__$2y = undefined;
 var __vue_scope_id__$2y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2y = "data-v-17648bac";
+var __vue_module_identifier__$2y = "data-v-2ed5f5e0";
 /* functional template */
 
 var __vue_is_functional_template__$2y = true;
@@ -10626,9 +11963,14 @@ var __vue_component__$2y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2y,
   staticRenderFns: __vue_staticRenderFns__$2y
 }, __vue_inject_styles__$2y, __vue_script__$2y, __vue_scope_id__$2y, __vue_is_functional_template__$2y, __vue_module_identifier__$2y, false, undefined, undefined, undefined);//
-var script$2x = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2x = {
   name: 'MessageCircleIcon'
-});/* script */
+};/* script */
 var __vue_script__$2x = script$2x;
 /* template */
 
@@ -10654,7 +11996,7 @@ var __vue_inject_styles__$2x = undefined;
 var __vue_scope_id__$2x = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2x = "data-v-b7848b44";
+var __vue_module_identifier__$2x = "data-v-61654ac0";
 /* functional template */
 
 var __vue_is_functional_template__$2x = true;
@@ -10668,9 +12010,15 @@ var __vue_component__$2x = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2x,
   staticRenderFns: __vue_staticRenderFns__$2x
 }, __vue_inject_styles__$2x, __vue_script__$2x, __vue_scope_id__$2x, __vue_is_functional_template__$2x, __vue_module_identifier__$2x, false, undefined, undefined, undefined);//
-var script$2w = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$2w = {
   name: 'MessageCloseIcon'
-});/* script */
+};/* script */
 var __vue_script__$2w = script$2w;
 /* template */
 
@@ -10696,7 +12044,7 @@ var __vue_inject_styles__$2w = undefined;
 var __vue_scope_id__$2w = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2w = "data-v-1f313843";
+var __vue_module_identifier__$2w = "data-v-7aca90a9";
 /* functional template */
 
 var __vue_is_functional_template__$2w = true;
@@ -10710,9 +12058,14 @@ var __vue_component__$2w = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2w,
   staticRenderFns: __vue_staticRenderFns__$2w
 }, __vue_inject_styles__$2w, __vue_script__$2w, __vue_scope_id__$2w, __vue_is_functional_template__$2w, __vue_module_identifier__$2w, false, undefined, undefined, undefined);//
-var script$2v = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2v = {
   name: 'MessageMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$2v = script$2v;
 /* template */
 
@@ -10738,7 +12091,7 @@ var __vue_inject_styles__$2v = undefined;
 var __vue_scope_id__$2v = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2v = "data-v-25880273";
+var __vue_module_identifier__$2v = "data-v-877bd30e";
 /* functional template */
 
 var __vue_is_functional_template__$2v = true;
@@ -10752,9 +12105,15 @@ var __vue_component__$2v = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2v,
   staticRenderFns: __vue_staticRenderFns__$2v
 }, __vue_inject_styles__$2v, __vue_script__$2v, __vue_scope_id__$2v, __vue_is_functional_template__$2v, __vue_module_identifier__$2v, false, undefined, undefined, undefined);//
-var script$2u = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$2u = {
   name: 'MessagePlusAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$2u = script$2u;
 /* template */
 
@@ -10780,7 +12139,7 @@ var __vue_inject_styles__$2u = undefined;
 var __vue_scope_id__$2u = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2u = "data-v-4ecf66ca";
+var __vue_module_identifier__$2u = "data-v-06d013d1";
 /* functional template */
 
 var __vue_is_functional_template__$2u = true;
@@ -10794,9 +12153,14 @@ var __vue_component__$2u = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2u,
   staticRenderFns: __vue_staticRenderFns__$2u
 }, __vue_inject_styles__$2u, __vue_script__$2u, __vue_scope_id__$2u, __vue_is_functional_template__$2u, __vue_module_identifier__$2u, false, undefined, undefined, undefined);//
-var script$2t = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2t = {
   name: 'MessagePlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$2t = script$2t;
 /* template */
 
@@ -10822,7 +12186,7 @@ var __vue_inject_styles__$2t = undefined;
 var __vue_scope_id__$2t = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2t = "data-v-35c1a58b";
+var __vue_module_identifier__$2t = "data-v-a1fea35a";
 /* functional template */
 
 var __vue_is_functional_template__$2t = true;
@@ -10836,9 +12200,14 @@ var __vue_component__$2t = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2t,
   staticRenderFns: __vue_staticRenderFns__$2t
 }, __vue_inject_styles__$2t, __vue_script__$2t, __vue_scope_id__$2t, __vue_is_functional_template__$2t, __vue_module_identifier__$2t, false, undefined, undefined, undefined);//
-var script$2s = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2s = {
   name: 'MessageRoundIcon'
-});/* script */
+};/* script */
 var __vue_script__$2s = script$2s;
 /* template */
 
@@ -10864,7 +12233,7 @@ var __vue_inject_styles__$2s = undefined;
 var __vue_scope_id__$2s = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2s = "data-v-ef7cf8d4";
+var __vue_module_identifier__$2s = "data-v-38a14cb6";
 /* functional template */
 
 var __vue_is_functional_template__$2s = true;
@@ -10878,9 +12247,17 @@ var __vue_component__$2s = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2s,
   staticRenderFns: __vue_staticRenderFns__$2s
 }, __vue_inject_styles__$2s, __vue_script__$2s, __vue_scope_id__$2s, __vue_is_functional_template__$2s, __vue_module_identifier__$2s, false, undefined, undefined, undefined);//
-var script$2r = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$2r = {
   name: 'MessageWritingIcon'
-});/* script */
+};/* script */
 var __vue_script__$2r = script$2r;
 /* template */
 
@@ -10906,7 +12283,7 @@ var __vue_inject_styles__$2r = undefined;
 var __vue_scope_id__$2r = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2r = "data-v-0d57cd84";
+var __vue_module_identifier__$2r = "data-v-4c947448";
 /* functional template */
 
 var __vue_is_functional_template__$2r = true;
@@ -10920,9 +12297,14 @@ var __vue_component__$2r = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2r,
   staticRenderFns: __vue_staticRenderFns__$2r
 }, __vue_inject_styles__$2r, __vue_script__$2r, __vue_scope_id__$2r, __vue_is_functional_template__$2r, __vue_module_identifier__$2r, false, undefined, undefined, undefined);//
-var script$2q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2q = {
   name: 'MessageIcon'
-});/* script */
+};/* script */
 var __vue_script__$2q = script$2q;
 /* template */
 
@@ -10948,7 +12330,7 @@ var __vue_inject_styles__$2q = undefined;
 var __vue_scope_id__$2q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2q = "data-v-28f7b5bb";
+var __vue_module_identifier__$2q = "data-v-d4b6f1ba";
 /* functional template */
 
 var __vue_is_functional_template__$2q = true;
@@ -10962,9 +12344,14 @@ var __vue_component__$2q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2q,
   staticRenderFns: __vue_staticRenderFns__$2q
 }, __vue_inject_styles__$2q, __vue_script__$2q, __vue_scope_id__$2q, __vue_is_functional_template__$2q, __vue_module_identifier__$2q, false, undefined, undefined, undefined);//
-var script$2p = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2p = {
   name: 'MessengerIcon'
-});/* script */
+};/* script */
 var __vue_script__$2p = script$2p;
 /* template */
 
@@ -10990,7 +12377,7 @@ var __vue_inject_styles__$2p = undefined;
 var __vue_scope_id__$2p = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2p = "data-v-2807cf26";
+var __vue_module_identifier__$2p = "data-v-346c0871";
 /* functional template */
 
 var __vue_is_functional_template__$2p = true;
@@ -11004,9 +12391,14 @@ var __vue_component__$2p = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2p,
   staticRenderFns: __vue_staticRenderFns__$2p
 }, __vue_inject_styles__$2p, __vue_script__$2p, __vue_scope_id__$2p, __vue_is_functional_template__$2p, __vue_module_identifier__$2p, false, undefined, undefined, undefined);//
-var script$2o = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2o = {
   name: 'MinusCircleOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$2o = script$2o;
 /* template */
 
@@ -11032,7 +12424,7 @@ var __vue_inject_styles__$2o = undefined;
 var __vue_scope_id__$2o = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2o = "data-v-17e44bd0";
+var __vue_module_identifier__$2o = "data-v-4407fd18";
 /* functional template */
 
 var __vue_is_functional_template__$2o = true;
@@ -11046,9 +12438,14 @@ var __vue_component__$2o = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2o,
   staticRenderFns: __vue_staticRenderFns__$2o
 }, __vue_inject_styles__$2o, __vue_script__$2o, __vue_scope_id__$2o, __vue_is_functional_template__$2o, __vue_module_identifier__$2o, false, undefined, undefined, undefined);//
-var script$2n = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2n = {
   name: 'MinusCircleIcon'
-});/* script */
+};/* script */
 var __vue_script__$2n = script$2n;
 /* template */
 
@@ -11074,7 +12471,7 @@ var __vue_inject_styles__$2n = undefined;
 var __vue_scope_id__$2n = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2n = "data-v-3bf0bc54";
+var __vue_module_identifier__$2n = "data-v-dfa8cbb0";
 /* functional template */
 
 var __vue_is_functional_template__$2n = true;
@@ -11088,9 +12485,14 @@ var __vue_component__$2n = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2n,
   staticRenderFns: __vue_staticRenderFns__$2n
 }, __vue_inject_styles__$2n, __vue_script__$2n, __vue_scope_id__$2n, __vue_is_functional_template__$2n, __vue_module_identifier__$2n, false, undefined, undefined, undefined);//
-var script$2m = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2m = {
   name: 'MinusSquareIcon'
-});/* script */
+};/* script */
 var __vue_script__$2m = script$2m;
 /* template */
 
@@ -11116,7 +12518,7 @@ var __vue_inject_styles__$2m = undefined;
 var __vue_scope_id__$2m = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2m = "data-v-0f3ed21d";
+var __vue_module_identifier__$2m = "data-v-e9110ffe";
 /* functional template */
 
 var __vue_is_functional_template__$2m = true;
@@ -11130,9 +12532,14 @@ var __vue_component__$2m = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2m,
   staticRenderFns: __vue_staticRenderFns__$2m
 }, __vue_inject_styles__$2m, __vue_script__$2m, __vue_scope_id__$2m, __vue_is_functional_template__$2m, __vue_module_identifier__$2m, false, undefined, undefined, undefined);//
-var script$2l = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2l = {
   name: 'MinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$2l = script$2l;
 /* template */
 
@@ -11158,7 +12565,7 @@ var __vue_inject_styles__$2l = undefined;
 var __vue_scope_id__$2l = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2l = "data-v-6b6679ee";
+var __vue_module_identifier__$2l = "data-v-1fa08895";
 /* functional template */
 
 var __vue_is_functional_template__$2l = true;
@@ -11172,9 +12579,14 @@ var __vue_component__$2l = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2l,
   staticRenderFns: __vue_staticRenderFns__$2l
 }, __vue_inject_styles__$2l, __vue_script__$2l, __vue_scope_id__$2l, __vue_is_functional_template__$2l, __vue_module_identifier__$2l, false, undefined, undefined, undefined);//
-var script$2k = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2k = {
   name: 'MobileAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$2k = script$2k;
 /* template */
 
@@ -11200,7 +12612,7 @@ var __vue_inject_styles__$2k = undefined;
 var __vue_scope_id__$2k = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2k = "data-v-7e71a8f1";
+var __vue_module_identifier__$2k = "data-v-21b59d26";
 /* functional template */
 
 var __vue_is_functional_template__$2k = true;
@@ -11214,9 +12626,14 @@ var __vue_component__$2k = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2k,
   staticRenderFns: __vue_staticRenderFns__$2k
 }, __vue_inject_styles__$2k, __vue_script__$2k, __vue_scope_id__$2k, __vue_is_functional_template__$2k, __vue_module_identifier__$2k, false, undefined, undefined, undefined);//
-var script$2j = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2j = {
   name: 'MobileIcon'
-});/* script */
+};/* script */
 var __vue_script__$2j = script$2j;
 /* template */
 
@@ -11242,7 +12659,7 @@ var __vue_inject_styles__$2j = undefined;
 var __vue_scope_id__$2j = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2j = "data-v-7c2581f6";
+var __vue_module_identifier__$2j = "data-v-f207abb2";
 /* functional template */
 
 var __vue_is_functional_template__$2j = true;
@@ -11256,9 +12673,14 @@ var __vue_component__$2j = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2j,
   staticRenderFns: __vue_staticRenderFns__$2j
 }, __vue_inject_styles__$2j, __vue_script__$2j, __vue_scope_id__$2j, __vue_is_functional_template__$2j, __vue_module_identifier__$2j, false, undefined, undefined, undefined);//
-var script$2i = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2i = {
   name: 'MonitorIcon'
-});/* script */
+};/* script */
 var __vue_script__$2i = script$2i;
 /* template */
 
@@ -11284,7 +12706,7 @@ var __vue_inject_styles__$2i = undefined;
 var __vue_scope_id__$2i = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2i = "data-v-1ddf23ad";
+var __vue_module_identifier__$2i = "data-v-2ce151b1";
 /* functional template */
 
 var __vue_is_functional_template__$2i = true;
@@ -11298,9 +12720,14 @@ var __vue_component__$2i = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2i,
   staticRenderFns: __vue_staticRenderFns__$2i
 }, __vue_inject_styles__$2i, __vue_script__$2i, __vue_scope_id__$2i, __vue_is_functional_template__$2i, __vue_module_identifier__$2i, false, undefined, undefined, undefined);//
-var script$2h = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2h = {
   name: 'MoonIcon'
-});/* script */
+};/* script */
 var __vue_script__$2h = script$2h;
 /* template */
 
@@ -11326,7 +12753,7 @@ var __vue_inject_styles__$2h = undefined;
 var __vue_scope_id__$2h = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2h = "data-v-03530c21";
+var __vue_module_identifier__$2h = "data-v-e98a56ea";
 /* functional template */
 
 var __vue_is_functional_template__$2h = true;
@@ -11340,9 +12767,14 @@ var __vue_component__$2h = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2h,
   staticRenderFns: __vue_staticRenderFns__$2h
 }, __vue_inject_styles__$2h, __vue_script__$2h, __vue_scope_id__$2h, __vue_is_functional_template__$2h, __vue_module_identifier__$2h, false, undefined, undefined, undefined);//
-var script$2g = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2g = {
   name: 'MoreHorizontalIcon'
-});/* script */
+};/* script */
 var __vue_script__$2g = script$2g;
 /* template */
 
@@ -11368,7 +12800,7 @@ var __vue_inject_styles__$2g = undefined;
 var __vue_scope_id__$2g = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2g = "data-v-63724aa6";
+var __vue_module_identifier__$2g = "data-v-6d40ca82";
 /* functional template */
 
 var __vue_is_functional_template__$2g = true;
@@ -11382,9 +12814,14 @@ var __vue_component__$2g = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2g,
   staticRenderFns: __vue_staticRenderFns__$2g
 }, __vue_inject_styles__$2g, __vue_script__$2g, __vue_scope_id__$2g, __vue_is_functional_template__$2g, __vue_module_identifier__$2g, false, undefined, undefined, undefined);//
-var script$2f = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2f = {
   name: 'MoreVerticalIcon'
-});/* script */
+};/* script */
 var __vue_script__$2f = script$2f;
 /* template */
 
@@ -11410,7 +12847,7 @@ var __vue_inject_styles__$2f = undefined;
 var __vue_scope_id__$2f = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2f = "data-v-d6aaadb6";
+var __vue_module_identifier__$2f = "data-v-a875b6f2";
 /* functional template */
 
 var __vue_is_functional_template__$2f = true;
@@ -11424,9 +12861,14 @@ var __vue_component__$2f = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2f,
   staticRenderFns: __vue_staticRenderFns__$2f
 }, __vue_inject_styles__$2f, __vue_script__$2f, __vue_scope_id__$2f, __vue_is_functional_template__$2f, __vue_module_identifier__$2f, false, undefined, undefined, undefined);//
-var script$2e = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2e = {
   name: 'MoveHorizontalIcon'
-});/* script */
+};/* script */
 var __vue_script__$2e = script$2e;
 /* template */
 
@@ -11452,7 +12894,7 @@ var __vue_inject_styles__$2e = undefined;
 var __vue_scope_id__$2e = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2e = "data-v-7f553128";
+var __vue_module_identifier__$2e = "data-v-00f07940";
 /* functional template */
 
 var __vue_is_functional_template__$2e = true;
@@ -11466,9 +12908,14 @@ var __vue_component__$2e = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2e,
   staticRenderFns: __vue_staticRenderFns__$2e
 }, __vue_inject_styles__$2e, __vue_script__$2e, __vue_scope_id__$2e, __vue_is_functional_template__$2e, __vue_module_identifier__$2e, false, undefined, undefined, undefined);//
-var script$2d = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2d = {
   name: 'MoveVerticalIcon'
-});/* script */
+};/* script */
 var __vue_script__$2d = script$2d;
 /* template */
 
@@ -11494,7 +12941,7 @@ var __vue_inject_styles__$2d = undefined;
 var __vue_scope_id__$2d = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2d = "data-v-3ea47ffc";
+var __vue_module_identifier__$2d = "data-v-067dda10";
 /* functional template */
 
 var __vue_is_functional_template__$2d = true;
@@ -11508,9 +12955,14 @@ var __vue_component__$2d = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2d,
   staticRenderFns: __vue_staticRenderFns__$2d
 }, __vue_inject_styles__$2d, __vue_script__$2d, __vue_scope_id__$2d, __vue_is_functional_template__$2d, __vue_module_identifier__$2d, false, undefined, undefined, undefined);//
-var script$2c = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2c = {
   name: 'MoveIcon'
-});/* script */
+};/* script */
 var __vue_script__$2c = script$2c;
 /* template */
 
@@ -11536,7 +12988,7 @@ var __vue_inject_styles__$2c = undefined;
 var __vue_scope_id__$2c = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2c = "data-v-4e6815a1";
+var __vue_module_identifier__$2c = "data-v-5767f1ea";
 /* functional template */
 
 var __vue_is_functional_template__$2c = true;
@@ -11550,9 +13002,14 @@ var __vue_component__$2c = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2c,
   staticRenderFns: __vue_staticRenderFns__$2c
 }, __vue_inject_styles__$2c, __vue_script__$2c, __vue_scope_id__$2c, __vue_is_functional_template__$2c, __vue_module_identifier__$2c, false, undefined, undefined, undefined);//
-var script$2b = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2b = {
   name: 'NoteIcon'
-});/* script */
+};/* script */
 var __vue_script__$2b = script$2b;
 /* template */
 
@@ -11578,7 +13035,7 @@ var __vue_inject_styles__$2b = undefined;
 var __vue_scope_id__$2b = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2b = "data-v-20105540";
+var __vue_module_identifier__$2b = "data-v-86251928";
 /* functional template */
 
 var __vue_is_functional_template__$2b = true;
@@ -11592,9 +13049,14 @@ var __vue_component__$2b = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2b,
   staticRenderFns: __vue_staticRenderFns__$2b
 }, __vue_inject_styles__$2b, __vue_script__$2b, __vue_scope_id__$2b, __vue_is_functional_template__$2b, __vue_module_identifier__$2b, false, undefined, undefined, undefined);//
-var script$2a = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2a = {
   name: 'NotificationActiveIcon'
-});/* script */
+};/* script */
 var __vue_script__$2a = script$2a;
 /* template */
 
@@ -11620,7 +13082,7 @@ var __vue_inject_styles__$2a = undefined;
 var __vue_scope_id__$2a = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2a = "data-v-687deed5";
+var __vue_module_identifier__$2a = "data-v-71373617";
 /* functional template */
 
 var __vue_is_functional_template__$2a = true;
@@ -11634,9 +13096,14 @@ var __vue_component__$2a = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2a,
   staticRenderFns: __vue_staticRenderFns__$2a
 }, __vue_inject_styles__$2a, __vue_script__$2a, __vue_scope_id__$2a, __vue_is_functional_template__$2a, __vue_module_identifier__$2a, false, undefined, undefined, undefined);//
-var script$29 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$29 = {
   name: 'NotificationDeactivatedIcon'
-});/* script */
+};/* script */
 var __vue_script__$29 = script$29;
 /* template */
 
@@ -11662,7 +13129,7 @@ var __vue_inject_styles__$29 = undefined;
 var __vue_scope_id__$29 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$29 = "data-v-24c53baa";
+var __vue_module_identifier__$29 = "data-v-9c71c19a";
 /* functional template */
 
 var __vue_is_functional_template__$29 = true;
@@ -11676,9 +13143,14 @@ var __vue_component__$29 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$29,
   staticRenderFns: __vue_staticRenderFns__$29
 }, __vue_inject_styles__$29, __vue_script__$29, __vue_scope_id__$29, __vue_is_functional_template__$29, __vue_module_identifier__$29, false, undefined, undefined, undefined);//
-var script$28 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$28 = {
   name: 'NotificationDotIcon'
-});/* script */
+};/* script */
 var __vue_script__$28 = script$28;
 /* template */
 
@@ -11704,7 +13176,7 @@ var __vue_inject_styles__$28 = undefined;
 var __vue_scope_id__$28 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$28 = "data-v-77a965f9";
+var __vue_module_identifier__$28 = "data-v-72b5ee36";
 /* functional template */
 
 var __vue_is_functional_template__$28 = true;
@@ -11718,9 +13190,14 @@ var __vue_component__$28 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$28,
   staticRenderFns: __vue_staticRenderFns__$28
 }, __vue_inject_styles__$28, __vue_script__$28, __vue_scope_id__$28, __vue_is_functional_template__$28, __vue_module_identifier__$28, false, undefined, undefined, undefined);//
-var script$27 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$27 = {
   name: 'NotificationMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$27 = script$27;
 /* template */
 
@@ -11746,7 +13223,7 @@ var __vue_inject_styles__$27 = undefined;
 var __vue_scope_id__$27 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$27 = "data-v-2c331d58";
+var __vue_module_identifier__$27 = "data-v-cf6ea12c";
 /* functional template */
 
 var __vue_is_functional_template__$27 = true;
@@ -11760,9 +13237,14 @@ var __vue_component__$27 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$27,
   staticRenderFns: __vue_staticRenderFns__$27
 }, __vue_inject_styles__$27, __vue_script__$27, __vue_scope_id__$27, __vue_is_functional_template__$27, __vue_module_identifier__$27, false, undefined, undefined, undefined);//
-var script$26 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$26 = {
   name: 'NotificationOutlineDotIcon'
-});/* script */
+};/* script */
 var __vue_script__$26 = script$26;
 /* template */
 
@@ -11788,7 +13270,7 @@ var __vue_inject_styles__$26 = undefined;
 var __vue_scope_id__$26 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$26 = "data-v-e3472a06";
+var __vue_module_identifier__$26 = "data-v-c87681a2";
 /* functional template */
 
 var __vue_is_functional_template__$26 = true;
@@ -11802,9 +13284,14 @@ var __vue_component__$26 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$26,
   staticRenderFns: __vue_staticRenderFns__$26
 }, __vue_inject_styles__$26, __vue_script__$26, __vue_scope_id__$26, __vue_is_functional_template__$26, __vue_module_identifier__$26, false, undefined, undefined, undefined);//
-var script$25 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$25 = {
   name: 'NotificationOutlineMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$25 = script$25;
 /* template */
 
@@ -11830,7 +13317,7 @@ var __vue_inject_styles__$25 = undefined;
 var __vue_scope_id__$25 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$25 = "data-v-56e6b552";
+var __vue_module_identifier__$25 = "data-v-0f18b57a";
 /* functional template */
 
 var __vue_is_functional_template__$25 = true;
@@ -11844,9 +13331,14 @@ var __vue_component__$25 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$25,
   staticRenderFns: __vue_staticRenderFns__$25
 }, __vue_inject_styles__$25, __vue_script__$25, __vue_scope_id__$25, __vue_is_functional_template__$25, __vue_module_identifier__$25, false, undefined, undefined, undefined);//
-var script$24 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$24 = {
   name: 'NotificationOutlinePlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$24 = script$24;
 /* template */
 
@@ -11872,7 +13364,7 @@ var __vue_inject_styles__$24 = undefined;
 var __vue_scope_id__$24 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$24 = "data-v-3b940ec2";
+var __vue_module_identifier__$24 = "data-v-4e0052fc";
 /* functional template */
 
 var __vue_is_functional_template__$24 = true;
@@ -11886,9 +13378,14 @@ var __vue_component__$24 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$24,
   staticRenderFns: __vue_staticRenderFns__$24
 }, __vue_inject_styles__$24, __vue_script__$24, __vue_scope_id__$24, __vue_is_functional_template__$24, __vue_module_identifier__$24, false, undefined, undefined, undefined);//
-var script$23 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$23 = {
   name: 'NotificationOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$23 = script$23;
 /* template */
 
@@ -11914,7 +13411,7 @@ var __vue_inject_styles__$23 = undefined;
 var __vue_scope_id__$23 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$23 = "data-v-3dee5152";
+var __vue_module_identifier__$23 = "data-v-3c52c187";
 /* functional template */
 
 var __vue_is_functional_template__$23 = true;
@@ -11928,9 +13425,14 @@ var __vue_component__$23 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$23,
   staticRenderFns: __vue_staticRenderFns__$23
 }, __vue_inject_styles__$23, __vue_script__$23, __vue_scope_id__$23, __vue_is_functional_template__$23, __vue_module_identifier__$23, false, undefined, undefined, undefined);//
-var script$22 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$22 = {
   name: 'NotificationPlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$22 = script$22;
 /* template */
 
@@ -11956,7 +13458,7 @@ var __vue_inject_styles__$22 = undefined;
 var __vue_scope_id__$22 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$22 = "data-v-13b8b8e6";
+var __vue_module_identifier__$22 = "data-v-ef1a1dc2";
 /* functional template */
 
 var __vue_is_functional_template__$22 = true;
@@ -11970,9 +13472,14 @@ var __vue_component__$22 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$22,
   staticRenderFns: __vue_staticRenderFns__$22
 }, __vue_inject_styles__$22, __vue_script__$22, __vue_scope_id__$22, __vue_is_functional_template__$22, __vue_module_identifier__$22, false, undefined, undefined, undefined);//
-var script$21 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$21 = {
   name: 'NotificationIcon'
-});/* script */
+};/* script */
 var __vue_script__$21 = script$21;
 /* template */
 
@@ -11998,7 +13505,7 @@ var __vue_inject_styles__$21 = undefined;
 var __vue_scope_id__$21 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$21 = "data-v-a37f8136";
+var __vue_module_identifier__$21 = "data-v-7ee31372";
 /* functional template */
 
 var __vue_is_functional_template__$21 = true;
@@ -12012,9 +13519,14 @@ var __vue_component__$21 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$21,
   staticRenderFns: __vue_staticRenderFns__$21
 }, __vue_inject_styles__$21, __vue_script__$21, __vue_scope_id__$21, __vue_is_functional_template__$21, __vue_module_identifier__$21, false, undefined, undefined, undefined);//
-var script$20 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$20 = {
   name: 'OffCloseIcon'
-});/* script */
+};/* script */
 var __vue_script__$20 = script$20;
 /* template */
 
@@ -12040,7 +13552,7 @@ var __vue_inject_styles__$20 = undefined;
 var __vue_scope_id__$20 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$20 = "data-v-5a7fee22";
+var __vue_module_identifier__$20 = "data-v-6ff22cfd";
 /* functional template */
 
 var __vue_is_functional_template__$20 = true;
@@ -12054,9 +13566,14 @@ var __vue_component__$20 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$20,
   staticRenderFns: __vue_staticRenderFns__$20
 }, __vue_inject_styles__$20, __vue_script__$20, __vue_scope_id__$20, __vue_is_functional_template__$20, __vue_module_identifier__$20, false, undefined, undefined, undefined);//
-var script$1$ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1$ = {
   name: 'OffOutlineCloseIcon'
-});/* script */
+};/* script */
 var __vue_script__$1$ = script$1$;
 /* template */
 
@@ -12082,7 +13599,7 @@ var __vue_inject_styles__$1$ = undefined;
 var __vue_scope_id__$1$ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1$ = "data-v-0cafe337";
+var __vue_module_identifier__$1$ = "data-v-e184aab2";
 /* functional template */
 
 var __vue_is_functional_template__$1$ = true;
@@ -12096,9 +13613,14 @@ var __vue_component__$1$ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1$,
   staticRenderFns: __vue_staticRenderFns__$1$
 }, __vue_inject_styles__$1$, __vue_script__$1$, __vue_scope_id__$1$, __vue_is_functional_template__$1$, __vue_module_identifier__$1$, false, undefined, undefined, undefined);//
-var script$1_ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1_ = {
   name: 'ParagraphIcon'
-});/* script */
+};/* script */
 var __vue_script__$1_ = script$1_;
 /* template */
 
@@ -12124,7 +13646,7 @@ var __vue_inject_styles__$1_ = undefined;
 var __vue_scope_id__$1_ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1_ = "data-v-0d1f1589";
+var __vue_module_identifier__$1_ = "data-v-aa7d8bd6";
 /* functional template */
 
 var __vue_is_functional_template__$1_ = true;
@@ -12138,9 +13660,14 @@ var __vue_component__$1_ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1_,
   staticRenderFns: __vue_staticRenderFns__$1_
 }, __vue_inject_styles__$1_, __vue_script__$1_, __vue_scope_id__$1_, __vue_is_functional_template__$1_, __vue_module_identifier__$1_, false, undefined, undefined, undefined);//
-var script$1Z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1Z = {
   name: 'PathIcon'
-});/* script */
+};/* script */
 var __vue_script__$1Z = script$1Z;
 /* template */
 
@@ -12166,7 +13693,7 @@ var __vue_inject_styles__$1Z = undefined;
 var __vue_scope_id__$1Z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1Z = "data-v-7e3e54d6";
+var __vue_module_identifier__$1Z = "data-v-550d1a14";
 /* functional template */
 
 var __vue_is_functional_template__$1Z = true;
@@ -12180,9 +13707,14 @@ var __vue_component__$1Z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1Z,
   staticRenderFns: __vue_staticRenderFns__$1Z
 }, __vue_inject_styles__$1Z, __vue_script__$1Z, __vue_scope_id__$1Z, __vue_is_functional_template__$1Z, __vue_module_identifier__$1Z, false, undefined, undefined, undefined);//
-var script$1Y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1Y = {
   name: 'PauseCircleFilledIcon'
-});/* script */
+};/* script */
 var __vue_script__$1Y = script$1Y;
 /* template */
 
@@ -12208,7 +13740,7 @@ var __vue_inject_styles__$1Y = undefined;
 var __vue_scope_id__$1Y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1Y = "data-v-54aa053a";
+var __vue_module_identifier__$1Y = "data-v-602e7484";
 /* functional template */
 
 var __vue_is_functional_template__$1Y = true;
@@ -12222,9 +13754,14 @@ var __vue_component__$1Y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1Y,
   staticRenderFns: __vue_staticRenderFns__$1Y
 }, __vue_inject_styles__$1Y, __vue_script__$1Y, __vue_scope_id__$1Y, __vue_is_functional_template__$1Y, __vue_module_identifier__$1Y, false, undefined, undefined, undefined);//
-var script$1X = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1X = {
   name: 'PauseCircleOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$1X = script$1X;
 /* template */
 
@@ -12250,7 +13787,7 @@ var __vue_inject_styles__$1X = undefined;
 var __vue_scope_id__$1X = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1X = "data-v-11b71e2f";
+var __vue_module_identifier__$1X = "data-v-529ee23d";
 /* functional template */
 
 var __vue_is_functional_template__$1X = true;
@@ -12264,9 +13801,14 @@ var __vue_component__$1X = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1X,
   staticRenderFns: __vue_staticRenderFns__$1X
 }, __vue_inject_styles__$1X, __vue_script__$1X, __vue_scope_id__$1X, __vue_is_functional_template__$1X, __vue_module_identifier__$1X, false, undefined, undefined, undefined);//
-var script$1W = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1W = {
   name: 'PaypalIcon'
-});/* script */
+};/* script */
 var __vue_script__$1W = script$1W;
 /* template */
 
@@ -12292,7 +13834,7 @@ var __vue_inject_styles__$1W = undefined;
 var __vue_scope_id__$1W = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1W = "data-v-1e31d1e8";
+var __vue_module_identifier__$1W = "data-v-98dc1180";
 /* functional template */
 
 var __vue_is_functional_template__$1W = true;
@@ -12306,9 +13848,14 @@ var __vue_component__$1W = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1W,
   staticRenderFns: __vue_staticRenderFns__$1W
 }, __vue_inject_styles__$1W, __vue_script__$1W, __vue_scope_id__$1W, __vue_is_functional_template__$1W, __vue_module_identifier__$1W, false, undefined, undefined, undefined);//
-var script$1V = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1V = {
   name: 'PhoneOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$1V = script$1V;
 /* template */
 
@@ -12334,7 +13881,7 @@ var __vue_inject_styles__$1V = undefined;
 var __vue_scope_id__$1V = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1V = "data-v-e4ecd114";
+var __vue_module_identifier__$1V = "data-v-1c813996";
 /* functional template */
 
 var __vue_is_functional_template__$1V = true;
@@ -12348,9 +13895,14 @@ var __vue_component__$1V = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1V,
   staticRenderFns: __vue_staticRenderFns__$1V
 }, __vue_inject_styles__$1V, __vue_script__$1V, __vue_scope_id__$1V, __vue_is_functional_template__$1V, __vue_module_identifier__$1V, false, undefined, undefined, undefined);//
-var script$1U = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1U = {
   name: 'PhoneIcon'
-});/* script */
+};/* script */
 var __vue_script__$1U = script$1U;
 /* template */
 
@@ -12376,7 +13928,7 @@ var __vue_inject_styles__$1U = undefined;
 var __vue_scope_id__$1U = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1U = "data-v-5a56c4b7";
+var __vue_module_identifier__$1U = "data-v-c28ac3b2";
 /* functional template */
 
 var __vue_is_functional_template__$1U = true;
@@ -12390,9 +13942,14 @@ var __vue_component__$1U = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1U,
   staticRenderFns: __vue_staticRenderFns__$1U
 }, __vue_inject_styles__$1U, __vue_script__$1U, __vue_scope_id__$1U, __vue_is_functional_template__$1U, __vue_module_identifier__$1U, false, undefined, undefined, undefined);//
-var script$1T = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1T = {
   name: 'PieChart25Icon'
-});/* script */
+};/* script */
 var __vue_script__$1T = script$1T;
 /* template */
 
@@ -12418,7 +13975,7 @@ var __vue_inject_styles__$1T = undefined;
 var __vue_scope_id__$1T = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1T = "data-v-7204c771";
+var __vue_module_identifier__$1T = "data-v-57e11e0a";
 /* functional template */
 
 var __vue_is_functional_template__$1T = true;
@@ -12432,9 +13989,14 @@ var __vue_component__$1T = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1T,
   staticRenderFns: __vue_staticRenderFns__$1T
 }, __vue_inject_styles__$1T, __vue_script__$1T, __vue_scope_id__$1T, __vue_is_functional_template__$1T, __vue_module_identifier__$1T, false, undefined, undefined, undefined);//
-var script$1S = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1S = {
   name: 'PieChart50Icon'
-});/* script */
+};/* script */
 var __vue_script__$1S = script$1S;
 /* template */
 
@@ -12460,7 +14022,7 @@ var __vue_inject_styles__$1S = undefined;
 var __vue_scope_id__$1S = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1S = "data-v-a0038ea4";
+var __vue_module_identifier__$1S = "data-v-774306de";
 /* functional template */
 
 var __vue_is_functional_template__$1S = true;
@@ -12474,9 +14036,14 @@ var __vue_component__$1S = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1S,
   staticRenderFns: __vue_staticRenderFns__$1S
 }, __vue_inject_styles__$1S, __vue_script__$1S, __vue_scope_id__$1S, __vue_is_functional_template__$1S, __vue_module_identifier__$1S, false, undefined, undefined, undefined);//
-var script$1R = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1R = {
   name: 'PieChart75Icon'
-});/* script */
+};/* script */
 var __vue_script__$1R = script$1R;
 /* template */
 
@@ -12502,7 +14069,7 @@ var __vue_inject_styles__$1R = undefined;
 var __vue_scope_id__$1R = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1R = "data-v-25749fad";
+var __vue_module_identifier__$1R = "data-v-3b098b7f";
 /* functional template */
 
 var __vue_is_functional_template__$1R = true;
@@ -12516,9 +14083,14 @@ var __vue_component__$1R = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1R,
   staticRenderFns: __vue_staticRenderFns__$1R
 }, __vue_inject_styles__$1R, __vue_script__$1R, __vue_scope_id__$1R, __vue_is_functional_template__$1R, __vue_module_identifier__$1R, false, undefined, undefined, undefined);//
-var script$1Q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1Q = {
   name: 'PieChartOutline25Icon'
-});/* script */
+};/* script */
 var __vue_script__$1Q = script$1Q;
 /* template */
 
@@ -12544,7 +14116,7 @@ var __vue_inject_styles__$1Q = undefined;
 var __vue_scope_id__$1Q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1Q = "data-v-2acaa3af";
+var __vue_module_identifier__$1Q = "data-v-e3414922";
 /* functional template */
 
 var __vue_is_functional_template__$1Q = true;
@@ -12558,9 +14130,14 @@ var __vue_component__$1Q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1Q,
   staticRenderFns: __vue_staticRenderFns__$1Q
 }, __vue_inject_styles__$1Q, __vue_script__$1Q, __vue_scope_id__$1Q, __vue_is_functional_template__$1Q, __vue_module_identifier__$1Q, false, undefined, undefined, undefined);//
-var script$1P = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1P = {
   name: 'PieChartOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$1P = script$1P;
 /* template */
 
@@ -12586,7 +14163,7 @@ var __vue_inject_styles__$1P = undefined;
 var __vue_scope_id__$1P = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1P = "data-v-25bacafc";
+var __vue_module_identifier__$1P = "data-v-7ca51f08";
 /* functional template */
 
 var __vue_is_functional_template__$1P = true;
@@ -12600,9 +14177,14 @@ var __vue_component__$1P = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1P,
   staticRenderFns: __vue_staticRenderFns__$1P
 }, __vue_inject_styles__$1P, __vue_script__$1P, __vue_scope_id__$1P, __vue_is_functional_template__$1P, __vue_module_identifier__$1P, false, undefined, undefined, undefined);//
-var script$1O = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1O = {
   name: 'PlayArrowIcon'
-});/* script */
+};/* script */
 var __vue_script__$1O = script$1O;
 /* template */
 
@@ -12628,7 +14210,7 @@ var __vue_inject_styles__$1O = undefined;
 var __vue_scope_id__$1O = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1O = "data-v-4d98ac67";
+var __vue_module_identifier__$1O = "data-v-1bb21637";
 /* functional template */
 
 var __vue_is_functional_template__$1O = true;
@@ -12642,9 +14224,14 @@ var __vue_component__$1O = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1O,
   staticRenderFns: __vue_staticRenderFns__$1O
 }, __vue_inject_styles__$1O, __vue_script__$1O, __vue_scope_id__$1O, __vue_is_functional_template__$1O, __vue_module_identifier__$1O, false, undefined, undefined, undefined);//
-var script$1N = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1N = {
   name: 'PlayCircleFilledIcon'
-});/* script */
+};/* script */
 var __vue_script__$1N = script$1N;
 /* template */
 
@@ -12670,7 +14257,7 @@ var __vue_inject_styles__$1N = undefined;
 var __vue_scope_id__$1N = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1N = "data-v-431fb1e8";
+var __vue_module_identifier__$1N = "data-v-5b85ec64";
 /* functional template */
 
 var __vue_is_functional_template__$1N = true;
@@ -12684,9 +14271,14 @@ var __vue_component__$1N = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1N,
   staticRenderFns: __vue_staticRenderFns__$1N
 }, __vue_inject_styles__$1N, __vue_script__$1N, __vue_scope_id__$1N, __vue_is_functional_template__$1N, __vue_module_identifier__$1N, false, undefined, undefined, undefined);//
-var script$1M = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1M = {
   name: 'PlayCircleOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$1M = script$1M;
 /* template */
 
@@ -12712,7 +14304,7 @@ var __vue_inject_styles__$1M = undefined;
 var __vue_scope_id__$1M = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1M = "data-v-4b85bee9";
+var __vue_module_identifier__$1M = "data-v-33432096";
 /* functional template */
 
 var __vue_is_functional_template__$1M = true;
@@ -12726,9 +14318,14 @@ var __vue_component__$1M = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1M,
   staticRenderFns: __vue_staticRenderFns__$1M
 }, __vue_inject_styles__$1M, __vue_script__$1M, __vue_scope_id__$1M, __vue_is_functional_template__$1M, __vue_module_identifier__$1M, false, undefined, undefined, undefined);//
-var script$1L = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1L = {
   name: 'PlayStoreIcon'
-});/* script */
+};/* script */
 var __vue_script__$1L = script$1L;
 /* template */
 
@@ -12754,7 +14351,7 @@ var __vue_inject_styles__$1L = undefined;
 var __vue_scope_id__$1L = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1L = "data-v-5dee82ac";
+var __vue_module_identifier__$1L = "data-v-395f6412";
 /* functional template */
 
 var __vue_is_functional_template__$1L = true;
@@ -12768,9 +14365,14 @@ var __vue_component__$1L = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1L,
   staticRenderFns: __vue_staticRenderFns__$1L
 }, __vue_inject_styles__$1L, __vue_script__$1L, __vue_scope_id__$1L, __vue_is_functional_template__$1L, __vue_module_identifier__$1L, false, undefined, undefined, undefined);//
-var script$1K = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1K = {
   name: 'PlusCircleOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$1K = script$1K;
 /* template */
 
@@ -12796,7 +14398,7 @@ var __vue_inject_styles__$1K = undefined;
 var __vue_scope_id__$1K = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1K = "data-v-1bab8bbd";
+var __vue_module_identifier__$1K = "data-v-4e1f4ce1";
 /* functional template */
 
 var __vue_is_functional_template__$1K = true;
@@ -12810,9 +14412,14 @@ var __vue_component__$1K = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1K,
   staticRenderFns: __vue_staticRenderFns__$1K
 }, __vue_inject_styles__$1K, __vue_script__$1K, __vue_scope_id__$1K, __vue_is_functional_template__$1K, __vue_module_identifier__$1K, false, undefined, undefined, undefined);//
-var script$1J = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1J = {
   name: 'PlusCircleIcon'
-});/* script */
+};/* script */
 var __vue_script__$1J = script$1J;
 /* template */
 
@@ -12838,7 +14445,7 @@ var __vue_inject_styles__$1J = undefined;
 var __vue_scope_id__$1J = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1J = "data-v-6eb1a2a3";
+var __vue_module_identifier__$1J = "data-v-72c0746e";
 /* functional template */
 
 var __vue_is_functional_template__$1J = true;
@@ -12852,9 +14459,14 @@ var __vue_component__$1J = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1J,
   staticRenderFns: __vue_staticRenderFns__$1J
 }, __vue_inject_styles__$1J, __vue_script__$1J, __vue_scope_id__$1J, __vue_is_functional_template__$1J, __vue_module_identifier__$1J, false, undefined, undefined, undefined);//
-var script$1I = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1I = {
   name: 'PlusSquareIcon'
-});/* script */
+};/* script */
 var __vue_script__$1I = script$1I;
 /* template */
 
@@ -12880,7 +14492,7 @@ var __vue_inject_styles__$1I = undefined;
 var __vue_scope_id__$1I = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1I = "data-v-c6346ad0";
+var __vue_module_identifier__$1I = "data-v-1e6442b4";
 /* functional template */
 
 var __vue_is_functional_template__$1I = true;
@@ -12894,9 +14506,14 @@ var __vue_component__$1I = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1I,
   staticRenderFns: __vue_staticRenderFns__$1I
 }, __vue_inject_styles__$1I, __vue_script__$1I, __vue_scope_id__$1I, __vue_is_functional_template__$1I, __vue_module_identifier__$1I, false, undefined, undefined, undefined);//
-var script$1H = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1H = {
   name: 'PlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$1H = script$1H;
 /* template */
 
@@ -12922,7 +14539,7 @@ var __vue_inject_styles__$1H = undefined;
 var __vue_scope_id__$1H = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1H = "data-v-5c1a365f";
+var __vue_module_identifier__$1H = "data-v-38e424cd";
 /* functional template */
 
 var __vue_is_functional_template__$1H = true;
@@ -12936,9 +14553,17 @@ var __vue_component__$1H = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1H,
   staticRenderFns: __vue_staticRenderFns__$1H
 }, __vue_inject_styles__$1H, __vue_script__$1H, __vue_scope_id__$1H, __vue_is_functional_template__$1H, __vue_module_identifier__$1H, false, undefined, undefined, undefined);//
-var script$1G = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+var script$1G = {
   name: 'QrCode1Icon'
-});/* script */
+};/* script */
 var __vue_script__$1G = script$1G;
 /* template */
 
@@ -12964,7 +14589,7 @@ var __vue_inject_styles__$1G = undefined;
 var __vue_scope_id__$1G = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1G = "data-v-21a915b4";
+var __vue_module_identifier__$1G = "data-v-3e067c98";
 /* functional template */
 
 var __vue_is_functional_template__$1G = true;
@@ -12978,9 +14603,21 @@ var __vue_component__$1G = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1G,
   staticRenderFns: __vue_staticRenderFns__$1G
 }, __vue_inject_styles__$1G, __vue_script__$1G, __vue_scope_id__$1G, __vue_is_functional_template__$1G, __vue_module_identifier__$1G, false, undefined, undefined, undefined);//
-var script$1F = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$1F = {
   name: 'QrCodeIcon'
-});/* script */
+};/* script */
 var __vue_script__$1F = script$1F;
 /* template */
 
@@ -13006,7 +14643,7 @@ var __vue_inject_styles__$1F = undefined;
 var __vue_scope_id__$1F = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1F = "data-v-576e6c78";
+var __vue_module_identifier__$1F = "data-v-30cfb0c8";
 /* functional template */
 
 var __vue_is_functional_template__$1F = true;
@@ -13020,9 +14657,14 @@ var __vue_component__$1F = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1F,
   staticRenderFns: __vue_staticRenderFns__$1F
 }, __vue_inject_styles__$1F, __vue_script__$1F, __vue_scope_id__$1F, __vue_is_functional_template__$1F, __vue_module_identifier__$1F, false, undefined, undefined, undefined);//
-var script$1E = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1E = {
   name: 'RadioFilledIcon'
-});/* script */
+};/* script */
 var __vue_script__$1E = script$1E;
 /* template */
 
@@ -13048,7 +14690,7 @@ var __vue_inject_styles__$1E = undefined;
 var __vue_scope_id__$1E = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1E = "data-v-1a0ed83a";
+var __vue_module_identifier__$1E = "data-v-f98151f8";
 /* functional template */
 
 var __vue_is_functional_template__$1E = true;
@@ -13062,9 +14704,14 @@ var __vue_component__$1E = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1E,
   staticRenderFns: __vue_staticRenderFns__$1E
 }, __vue_inject_styles__$1E, __vue_script__$1E, __vue_scope_id__$1E, __vue_is_functional_template__$1E, __vue_module_identifier__$1E, false, undefined, undefined, undefined);//
-var script$1D = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1D = {
   name: 'RadioIcon'
-});/* script */
+};/* script */
 var __vue_script__$1D = script$1D;
 /* template */
 
@@ -13090,7 +14737,7 @@ var __vue_inject_styles__$1D = undefined;
 var __vue_scope_id__$1D = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1D = "data-v-4fcbcd01";
+var __vue_module_identifier__$1D = "data-v-75770246";
 /* functional template */
 
 var __vue_is_functional_template__$1D = true;
@@ -13104,9 +14751,14 @@ var __vue_component__$1D = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1D,
   staticRenderFns: __vue_staticRenderFns__$1D
 }, __vue_inject_styles__$1D, __vue_script__$1D, __vue_scope_id__$1D, __vue_is_functional_template__$1D, __vue_module_identifier__$1D, false, undefined, undefined, undefined);//
-var script$1C = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1C = {
   name: 'RedditIcon'
-});/* script */
+};/* script */
 var __vue_script__$1C = script$1C;
 /* template */
 
@@ -13132,7 +14784,7 @@ var __vue_inject_styles__$1C = undefined;
 var __vue_scope_id__$1C = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1C = "data-v-2ef23538";
+var __vue_module_identifier__$1C = "data-v-77560d28";
 /* functional template */
 
 var __vue_is_functional_template__$1C = true;
@@ -13146,9 +14798,14 @@ var __vue_component__$1C = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1C,
   staticRenderFns: __vue_staticRenderFns__$1C
 }, __vue_inject_styles__$1C, __vue_script__$1C, __vue_scope_id__$1C, __vue_is_functional_template__$1C, __vue_module_identifier__$1C, false, undefined, undefined, undefined);//
-var script$1B = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1B = {
   name: 'RedoIcon'
-});/* script */
+};/* script */
 var __vue_script__$1B = script$1B;
 /* template */
 
@@ -13174,7 +14831,7 @@ var __vue_inject_styles__$1B = undefined;
 var __vue_scope_id__$1B = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1B = "data-v-3ef3e0e4";
+var __vue_module_identifier__$1B = "data-v-c1e34604";
 /* functional template */
 
 var __vue_is_functional_template__$1B = true;
@@ -13188,9 +14845,14 @@ var __vue_component__$1B = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1B,
   staticRenderFns: __vue_staticRenderFns__$1B
 }, __vue_inject_styles__$1B, __vue_script__$1B, __vue_scope_id__$1B, __vue_is_functional_template__$1B, __vue_module_identifier__$1B, false, undefined, undefined, undefined);//
-var script$1A = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1A = {
   name: 'Refresh02Icon'
-});/* script */
+};/* script */
 var __vue_script__$1A = script$1A;
 /* template */
 
@@ -13216,7 +14878,7 @@ var __vue_inject_styles__$1A = undefined;
 var __vue_scope_id__$1A = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1A = "data-v-60d395e0";
+var __vue_module_identifier__$1A = "data-v-04f6d82e";
 /* functional template */
 
 var __vue_is_functional_template__$1A = true;
@@ -13230,9 +14892,14 @@ var __vue_component__$1A = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1A,
   staticRenderFns: __vue_staticRenderFns__$1A
 }, __vue_inject_styles__$1A, __vue_script__$1A, __vue_scope_id__$1A, __vue_is_functional_template__$1A, __vue_module_identifier__$1A, false, undefined, undefined, undefined);//
-var script$1z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1z = {
   name: 'RefreshIcon'
-});/* script */
+};/* script */
 var __vue_script__$1z = script$1z;
 /* template */
 
@@ -13258,7 +14925,7 @@ var __vue_inject_styles__$1z = undefined;
 var __vue_scope_id__$1z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1z = "data-v-55c323d0";
+var __vue_module_identifier__$1z = "data-v-454b0ae6";
 /* functional template */
 
 var __vue_is_functional_template__$1z = true;
@@ -13272,9 +14939,14 @@ var __vue_component__$1z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1z,
   staticRenderFns: __vue_staticRenderFns__$1z
 }, __vue_inject_styles__$1z, __vue_script__$1z, __vue_scope_id__$1z, __vue_is_functional_template__$1z, __vue_module_identifier__$1z, false, undefined, undefined, undefined);//
-var script$1y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1y = {
   name: 'RepeatIcon'
-});/* script */
+};/* script */
 var __vue_script__$1y = script$1y;
 /* template */
 
@@ -13300,7 +14972,7 @@ var __vue_inject_styles__$1y = undefined;
 var __vue_scope_id__$1y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1y = "data-v-6b9f4e7e";
+var __vue_module_identifier__$1y = "data-v-25b0dbab";
 /* functional template */
 
 var __vue_is_functional_template__$1y = true;
@@ -13314,9 +14986,14 @@ var __vue_component__$1y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1y,
   staticRenderFns: __vue_staticRenderFns__$1y
 }, __vue_inject_styles__$1y, __vue_script__$1y, __vue_scope_id__$1y, __vue_is_functional_template__$1y, __vue_module_identifier__$1y, false, undefined, undefined, undefined);//
-var script$1x = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1x = {
   name: 'SadIcon'
-});/* script */
+};/* script */
 var __vue_script__$1x = script$1x;
 /* template */
 
@@ -13342,7 +15019,7 @@ var __vue_inject_styles__$1x = undefined;
 var __vue_scope_id__$1x = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1x = "data-v-eda55ad2";
+var __vue_module_identifier__$1x = "data-v-0f0c4087";
 /* functional template */
 
 var __vue_is_functional_template__$1x = true;
@@ -13356,9 +15033,14 @@ var __vue_component__$1x = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1x,
   staticRenderFns: __vue_staticRenderFns__$1x
 }, __vue_inject_styles__$1x, __vue_script__$1x, __vue_scope_id__$1x, __vue_is_functional_template__$1x, __vue_module_identifier__$1x, false, undefined, undefined, undefined);//
-var script$1w = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1w = {
   name: 'SearchSmallMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$1w = script$1w;
 /* template */
 
@@ -13384,7 +15066,7 @@ var __vue_inject_styles__$1w = undefined;
 var __vue_scope_id__$1w = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1w = "data-v-2b2c5926";
+var __vue_module_identifier__$1w = "data-v-7ceb1326";
 /* functional template */
 
 var __vue_is_functional_template__$1w = true;
@@ -13398,9 +15080,14 @@ var __vue_component__$1w = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1w,
   staticRenderFns: __vue_staticRenderFns__$1w
 }, __vue_inject_styles__$1w, __vue_script__$1w, __vue_scope_id__$1w, __vue_is_functional_template__$1w, __vue_module_identifier__$1w, false, undefined, undefined, undefined);//
-var script$1v = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1v = {
   name: 'SearchSmallPlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$1v = script$1v;
 /* template */
 
@@ -13426,7 +15113,7 @@ var __vue_inject_styles__$1v = undefined;
 var __vue_scope_id__$1v = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1v = "data-v-2a4adfd4";
+var __vue_module_identifier__$1v = "data-v-1af3e22a";
 /* functional template */
 
 var __vue_is_functional_template__$1v = true;
@@ -13440,9 +15127,14 @@ var __vue_component__$1v = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1v,
   staticRenderFns: __vue_staticRenderFns__$1v
 }, __vue_inject_styles__$1v, __vue_script__$1v, __vue_scope_id__$1v, __vue_is_functional_template__$1v, __vue_module_identifier__$1v, false, undefined, undefined, undefined);//
-var script$1u = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1u = {
   name: 'SearchSmallIcon'
-});/* script */
+};/* script */
 var __vue_script__$1u = script$1u;
 /* template */
 
@@ -13468,7 +15160,7 @@ var __vue_inject_styles__$1u = undefined;
 var __vue_scope_id__$1u = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1u = "data-v-e6ec506e";
+var __vue_module_identifier__$1u = "data-v-5fab5d55";
 /* functional template */
 
 var __vue_is_functional_template__$1u = true;
@@ -13482,9 +15174,14 @@ var __vue_component__$1u = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1u,
   staticRenderFns: __vue_staticRenderFns__$1u
 }, __vue_inject_styles__$1u, __vue_script__$1u, __vue_scope_id__$1u, __vue_is_functional_template__$1u, __vue_module_identifier__$1u, false, undefined, undefined, undefined);//
-var script$1t = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1t = {
   name: 'SearchIcon'
-});/* script */
+};/* script */
 var __vue_script__$1t = script$1t;
 /* template */
 
@@ -13510,7 +15207,7 @@ var __vue_inject_styles__$1t = undefined;
 var __vue_scope_id__$1t = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1t = "data-v-7c8b5a87";
+var __vue_module_identifier__$1t = "data-v-995f7736";
 /* functional template */
 
 var __vue_is_functional_template__$1t = true;
@@ -13524,9 +15221,14 @@ var __vue_component__$1t = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1t,
   staticRenderFns: __vue_staticRenderFns__$1t
 }, __vue_inject_styles__$1t, __vue_script__$1t, __vue_scope_id__$1t, __vue_is_functional_template__$1t, __vue_module_identifier__$1t, false, undefined, undefined, undefined);//
-var script$1s = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1s = {
   name: 'SelectMultipleIcon'
-});/* script */
+};/* script */
 var __vue_script__$1s = script$1s;
 /* template */
 
@@ -13552,7 +15254,7 @@ var __vue_inject_styles__$1s = undefined;
 var __vue_scope_id__$1s = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1s = "data-v-2519dac4";
+var __vue_module_identifier__$1s = "data-v-3e821948";
 /* functional template */
 
 var __vue_is_functional_template__$1s = true;
@@ -13566,9 +15268,14 @@ var __vue_component__$1s = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1s,
   staticRenderFns: __vue_staticRenderFns__$1s
 }, __vue_inject_styles__$1s, __vue_script__$1s, __vue_scope_id__$1s, __vue_is_functional_template__$1s, __vue_module_identifier__$1s, false, undefined, undefined, undefined);//
-var script$1r = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1r = {
   name: 'SettingsFilledIcon'
-});/* script */
+};/* script */
 var __vue_script__$1r = script$1r;
 /* template */
 
@@ -13594,7 +15301,7 @@ var __vue_inject_styles__$1r = undefined;
 var __vue_scope_id__$1r = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1r = "data-v-19ac4a0a";
+var __vue_module_identifier__$1r = "data-v-5b081b9e";
 /* functional template */
 
 var __vue_is_functional_template__$1r = true;
@@ -13608,9 +15315,14 @@ var __vue_component__$1r = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1r,
   staticRenderFns: __vue_staticRenderFns__$1r
 }, __vue_inject_styles__$1r, __vue_script__$1r, __vue_scope_id__$1r, __vue_is_functional_template__$1r, __vue_module_identifier__$1r, false, undefined, undefined, undefined);//
-var script$1q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1q = {
   name: 'SettingsFutureIcon'
-});/* script */
+};/* script */
 var __vue_script__$1q = script$1q;
 /* template */
 
@@ -13636,7 +15348,7 @@ var __vue_inject_styles__$1q = undefined;
 var __vue_scope_id__$1q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1q = "data-v-765ed96c";
+var __vue_module_identifier__$1q = "data-v-8baed5c0";
 /* functional template */
 
 var __vue_is_functional_template__$1q = true;
@@ -13650,9 +15362,14 @@ var __vue_component__$1q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1q,
   staticRenderFns: __vue_staticRenderFns__$1q
 }, __vue_inject_styles__$1q, __vue_script__$1q, __vue_scope_id__$1q, __vue_is_functional_template__$1q, __vue_module_identifier__$1q, false, undefined, undefined, undefined);//
-var script$1p = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1p = {
   name: 'SettingsIcon'
-});/* script */
+};/* script */
 var __vue_script__$1p = script$1p;
 /* template */
 
@@ -13678,7 +15395,7 @@ var __vue_inject_styles__$1p = undefined;
 var __vue_scope_id__$1p = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1p = "data-v-372f5750";
+var __vue_module_identifier__$1p = "data-v-8941f088";
 /* functional template */
 
 var __vue_is_functional_template__$1p = true;
@@ -13692,9 +15409,14 @@ var __vue_component__$1p = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1p,
   staticRenderFns: __vue_staticRenderFns__$1p
 }, __vue_inject_styles__$1p, __vue_script__$1p, __vue_scope_id__$1p, __vue_is_functional_template__$1p, __vue_module_identifier__$1p, false, undefined, undefined, undefined);//
-var script$1o = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1o = {
   name: 'ShareOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$1o = script$1o;
 /* template */
 
@@ -13720,7 +15442,7 @@ var __vue_inject_styles__$1o = undefined;
 var __vue_scope_id__$1o = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1o = "data-v-12da5290";
+var __vue_module_identifier__$1o = "data-v-64842dd4";
 /* functional template */
 
 var __vue_is_functional_template__$1o = true;
@@ -13734,9 +15456,14 @@ var __vue_component__$1o = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1o,
   staticRenderFns: __vue_staticRenderFns__$1o
 }, __vue_inject_styles__$1o, __vue_script__$1o, __vue_scope_id__$1o, __vue_is_functional_template__$1o, __vue_module_identifier__$1o, false, undefined, undefined, undefined);//
-var script$1n = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1n = {
   name: 'ShareIcon'
-});/* script */
+};/* script */
 var __vue_script__$1n = script$1n;
 /* template */
 
@@ -13762,7 +15489,7 @@ var __vue_inject_styles__$1n = undefined;
 var __vue_scope_id__$1n = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1n = "data-v-f7bcdf32";
+var __vue_module_identifier__$1n = "data-v-26c05792";
 /* functional template */
 
 var __vue_is_functional_template__$1n = true;
@@ -13776,9 +15503,14 @@ var __vue_component__$1n = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1n,
   staticRenderFns: __vue_staticRenderFns__$1n
 }, __vue_inject_styles__$1n, __vue_script__$1n, __vue_scope_id__$1n, __vue_is_functional_template__$1n, __vue_module_identifier__$1n, false, undefined, undefined, undefined);//
-var script$1m = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1m = {
   name: 'ShortDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$1m = script$1m;
 /* template */
 
@@ -13804,7 +15536,7 @@ var __vue_inject_styles__$1m = undefined;
 var __vue_scope_id__$1m = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1m = "data-v-611c7081";
+var __vue_module_identifier__$1m = "data-v-6569a3c6";
 /* functional template */
 
 var __vue_is_functional_template__$1m = true;
@@ -13818,9 +15550,14 @@ var __vue_component__$1m = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1m,
   staticRenderFns: __vue_staticRenderFns__$1m
 }, __vue_inject_styles__$1m, __vue_script__$1m, __vue_scope_id__$1m, __vue_is_functional_template__$1m, __vue_module_identifier__$1m, false, undefined, undefined, undefined);//
-var script$1l = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1l = {
   name: 'ShortLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$1l = script$1l;
 /* template */
 
@@ -13846,7 +15583,7 @@ var __vue_inject_styles__$1l = undefined;
 var __vue_scope_id__$1l = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1l = "data-v-a9d67f70";
+var __vue_module_identifier__$1l = "data-v-01a65676";
 /* functional template */
 
 var __vue_is_functional_template__$1l = true;
@@ -13860,9 +15597,14 @@ var __vue_component__$1l = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1l,
   staticRenderFns: __vue_staticRenderFns__$1l
 }, __vue_inject_styles__$1l, __vue_script__$1l, __vue_scope_id__$1l, __vue_is_functional_template__$1l, __vue_module_identifier__$1l, false, undefined, undefined, undefined);//
-var script$1k = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1k = {
   name: 'ShortRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$1k = script$1k;
 /* template */
 
@@ -13888,7 +15630,7 @@ var __vue_inject_styles__$1k = undefined;
 var __vue_scope_id__$1k = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1k = "data-v-866f4822";
+var __vue_module_identifier__$1k = "data-v-7a987b06";
 /* functional template */
 
 var __vue_is_functional_template__$1k = true;
@@ -13902,9 +15644,14 @@ var __vue_component__$1k = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1k,
   staticRenderFns: __vue_staticRenderFns__$1k
 }, __vue_inject_styles__$1k, __vue_script__$1k, __vue_scope_id__$1k, __vue_is_functional_template__$1k, __vue_module_identifier__$1k, false, undefined, undefined, undefined);//
-var script$1j = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1j = {
   name: 'ShortUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$1j = script$1j;
 /* template */
 
@@ -13930,7 +15677,7 @@ var __vue_inject_styles__$1j = undefined;
 var __vue_scope_id__$1j = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1j = "data-v-eeaaef2c";
+var __vue_module_identifier__$1j = "data-v-9ae37a58";
 /* functional template */
 
 var __vue_is_functional_template__$1j = true;
@@ -13944,9 +15691,14 @@ var __vue_component__$1j = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1j,
   staticRenderFns: __vue_staticRenderFns__$1j
 }, __vue_inject_styles__$1j, __vue_script__$1j, __vue_scope_id__$1j, __vue_is_functional_template__$1j, __vue_module_identifier__$1j, false, undefined, undefined, undefined);//
-var script$1i = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1i = {
   name: 'ShowIcon'
-});/* script */
+};/* script */
 var __vue_script__$1i = script$1i;
 /* template */
 
@@ -13972,7 +15724,7 @@ var __vue_inject_styles__$1i = undefined;
 var __vue_scope_id__$1i = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1i = "data-v-1fa26002";
+var __vue_module_identifier__$1i = "data-v-6c745326";
 /* functional template */
 
 var __vue_is_functional_template__$1i = true;
@@ -13986,9 +15738,14 @@ var __vue_component__$1i = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1i,
   staticRenderFns: __vue_staticRenderFns__$1i
 }, __vue_inject_styles__$1i, __vue_script__$1i, __vue_scope_id__$1i, __vue_is_functional_template__$1i, __vue_module_identifier__$1i, false, undefined, undefined, undefined);//
-var script$1h = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1h = {
   name: 'ShrinkIcon'
-});/* script */
+};/* script */
 var __vue_script__$1h = script$1h;
 /* template */
 
@@ -14014,7 +15771,7 @@ var __vue_inject_styles__$1h = undefined;
 var __vue_scope_id__$1h = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1h = "data-v-61a9e4a3";
+var __vue_module_identifier__$1h = "data-v-3d53f0ee";
 /* functional template */
 
 var __vue_is_functional_template__$1h = true;
@@ -14028,9 +15785,14 @@ var __vue_component__$1h = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1h,
   staticRenderFns: __vue_staticRenderFns__$1h
 }, __vue_inject_styles__$1h, __vue_script__$1h, __vue_scope_id__$1h, __vue_is_functional_template__$1h, __vue_module_identifier__$1h, false, undefined, undefined, undefined);//
-var script$1g = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1g = {
   name: 'ShuffleIcon'
-});/* script */
+};/* script */
 var __vue_script__$1g = script$1g;
 /* template */
 
@@ -14056,7 +15818,7 @@ var __vue_inject_styles__$1g = undefined;
 var __vue_scope_id__$1g = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1g = "data-v-9a9a0dc2";
+var __vue_module_identifier__$1g = "data-v-3eb8d1bf";
 /* functional template */
 
 var __vue_is_functional_template__$1g = true;
@@ -14070,9 +15832,14 @@ var __vue_component__$1g = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1g,
   staticRenderFns: __vue_staticRenderFns__$1g
 }, __vue_inject_styles__$1g, __vue_script__$1g, __vue_scope_id__$1g, __vue_is_functional_template__$1g, __vue_module_identifier__$1g, false, undefined, undefined, undefined);//
-var script$1f = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1f = {
   name: 'SingleQuotesLIcon'
-});/* script */
+};/* script */
 var __vue_script__$1f = script$1f;
 /* template */
 
@@ -14098,7 +15865,7 @@ var __vue_inject_styles__$1f = undefined;
 var __vue_scope_id__$1f = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1f = "data-v-75f022ba";
+var __vue_module_identifier__$1f = "data-v-65001a44";
 /* functional template */
 
 var __vue_is_functional_template__$1f = true;
@@ -14112,9 +15879,14 @@ var __vue_component__$1f = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1f,
   staticRenderFns: __vue_staticRenderFns__$1f
 }, __vue_inject_styles__$1f, __vue_script__$1f, __vue_scope_id__$1f, __vue_is_functional_template__$1f, __vue_module_identifier__$1f, false, undefined, undefined, undefined);//
-var script$1e = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1e = {
   name: 'SingleQuotesRIcon'
-});/* script */
+};/* script */
 var __vue_script__$1e = script$1e;
 /* template */
 
@@ -14140,7 +15912,7 @@ var __vue_inject_styles__$1e = undefined;
 var __vue_scope_id__$1e = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1e = "data-v-23f95918";
+var __vue_module_identifier__$1e = "data-v-829191b4";
 /* functional template */
 
 var __vue_is_functional_template__$1e = true;
@@ -14154,9 +15926,14 @@ var __vue_component__$1e = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1e,
   staticRenderFns: __vue_staticRenderFns__$1e
 }, __vue_inject_styles__$1e, __vue_script__$1e, __vue_scope_id__$1e, __vue_is_functional_template__$1e, __vue_module_identifier__$1e, false, undefined, undefined, undefined);//
-var script$1d = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1d = {
   name: 'SketchIcon'
-});/* script */
+};/* script */
 var __vue_script__$1d = script$1d;
 /* template */
 
@@ -14182,7 +15959,7 @@ var __vue_inject_styles__$1d = undefined;
 var __vue_scope_id__$1d = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1d = "data-v-f392f5fa";
+var __vue_module_identifier__$1d = "data-v-67b21a69";
 /* functional template */
 
 var __vue_is_functional_template__$1d = true;
@@ -14196,9 +15973,14 @@ var __vue_component__$1d = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1d,
   staticRenderFns: __vue_staticRenderFns__$1d
 }, __vue_inject_styles__$1d, __vue_script__$1d, __vue_scope_id__$1d, __vue_is_functional_template__$1d, __vue_module_identifier__$1d, false, undefined, undefined, undefined);//
-var script$1c = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1c = {
   name: 'SkipNextIcon'
-});/* script */
+};/* script */
 var __vue_script__$1c = script$1c;
 /* template */
 
@@ -14224,7 +16006,7 @@ var __vue_inject_styles__$1c = undefined;
 var __vue_scope_id__$1c = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1c = "data-v-6a421cf8";
+var __vue_module_identifier__$1c = "data-v-c9e57158";
 /* functional template */
 
 var __vue_is_functional_template__$1c = true;
@@ -14238,9 +16020,14 @@ var __vue_component__$1c = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1c,
   staticRenderFns: __vue_staticRenderFns__$1c
 }, __vue_inject_styles__$1c, __vue_script__$1c, __vue_scope_id__$1c, __vue_is_functional_template__$1c, __vue_module_identifier__$1c, false, undefined, undefined, undefined);//
-var script$1b = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1b = {
   name: 'SkipPreviousIcon'
-});/* script */
+};/* script */
 var __vue_script__$1b = script$1b;
 /* template */
 
@@ -14266,7 +16053,7 @@ var __vue_inject_styles__$1b = undefined;
 var __vue_scope_id__$1b = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1b = "data-v-3d4c34b9";
+var __vue_module_identifier__$1b = "data-v-be1c329a";
 /* functional template */
 
 var __vue_is_functional_template__$1b = true;
@@ -14280,9 +16067,14 @@ var __vue_component__$1b = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1b,
   staticRenderFns: __vue_staticRenderFns__$1b
 }, __vue_inject_styles__$1b, __vue_script__$1b, __vue_scope_id__$1b, __vue_is_functional_template__$1b, __vue_module_identifier__$1b, false, undefined, undefined, undefined);//
-var script$1a = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1a = {
   name: 'SlackIcon'
-});/* script */
+};/* script */
 var __vue_script__$1a = script$1a;
 /* template */
 
@@ -14308,7 +16100,7 @@ var __vue_inject_styles__$1a = undefined;
 var __vue_scope_id__$1a = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1a = "data-v-46cbfc59";
+var __vue_module_identifier__$1a = "data-v-56a54945";
 /* functional template */
 
 var __vue_is_functional_template__$1a = true;
@@ -14322,9 +16114,14 @@ var __vue_component__$1a = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1a,
   staticRenderFns: __vue_staticRenderFns__$1a
 }, __vue_inject_styles__$1a, __vue_script__$1a, __vue_scope_id__$1a, __vue_is_functional_template__$1a, __vue_module_identifier__$1a, false, undefined, undefined, undefined);//
-var script$19 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$19 = {
   name: 'Slider01Icon'
-});/* script */
+};/* script */
 var __vue_script__$19 = script$19;
 /* template */
 
@@ -14350,7 +16147,7 @@ var __vue_inject_styles__$19 = undefined;
 var __vue_scope_id__$19 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$19 = "data-v-b1e907ac";
+var __vue_module_identifier__$19 = "data-v-7e0c4d3c";
 /* functional template */
 
 var __vue_is_functional_template__$19 = true;
@@ -14364,9 +16161,14 @@ var __vue_component__$19 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$19,
   staticRenderFns: __vue_staticRenderFns__$19
 }, __vue_inject_styles__$19, __vue_script__$19, __vue_scope_id__$19, __vue_is_functional_template__$19, __vue_module_identifier__$19, false, undefined, undefined, undefined);//
-var script$18 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$18 = {
   name: 'Slider02Icon'
-});/* script */
+};/* script */
 var __vue_script__$18 = script$18;
 /* template */
 
@@ -14392,7 +16194,7 @@ var __vue_inject_styles__$18 = undefined;
 var __vue_scope_id__$18 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$18 = "data-v-16a95a35";
+var __vue_module_identifier__$18 = "data-v-dff4fa12";
 /* functional template */
 
 var __vue_is_functional_template__$18 = true;
@@ -14406,9 +16208,14 @@ var __vue_component__$18 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$18,
   staticRenderFns: __vue_staticRenderFns__$18
 }, __vue_inject_styles__$18, __vue_script__$18, __vue_scope_id__$18, __vue_is_functional_template__$18, __vue_module_identifier__$18, false, undefined, undefined, undefined);//
-var script$17 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$17 = {
   name: 'Slider03Icon'
-});/* script */
+};/* script */
 var __vue_script__$17 = script$17;
 /* template */
 
@@ -14434,7 +16241,7 @@ var __vue_inject_styles__$17 = undefined;
 var __vue_scope_id__$17 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$17 = "data-v-5485fff7";
+var __vue_module_identifier__$17 = "data-v-3a078796";
 /* functional template */
 
 var __vue_is_functional_template__$17 = true;
@@ -14448,9 +16255,14 @@ var __vue_component__$17 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$17,
   staticRenderFns: __vue_staticRenderFns__$17
 }, __vue_inject_styles__$17, __vue_script__$17, __vue_scope_id__$17, __vue_is_functional_template__$17, __vue_module_identifier__$17, false, undefined, undefined, undefined);//
-var script$16 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$16 = {
   name: 'SmallLongDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$16 = script$16;
 /* template */
 
@@ -14476,7 +16288,7 @@ var __vue_inject_styles__$16 = undefined;
 var __vue_scope_id__$16 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$16 = "data-v-a7bcd032";
+var __vue_module_identifier__$16 = "data-v-1b2b4237";
 /* functional template */
 
 var __vue_is_functional_template__$16 = true;
@@ -14490,9 +16302,14 @@ var __vue_component__$16 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$16,
   staticRenderFns: __vue_staticRenderFns__$16
 }, __vue_inject_styles__$16, __vue_script__$16, __vue_scope_id__$16, __vue_is_functional_template__$16, __vue_module_identifier__$16, false, undefined, undefined, undefined);//
-var script$15 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$15 = {
   name: 'SmallLongLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$15 = script$15;
 /* template */
 
@@ -14518,7 +16335,7 @@ var __vue_inject_styles__$15 = undefined;
 var __vue_scope_id__$15 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$15 = "data-v-7a4f8ef4";
+var __vue_module_identifier__$15 = "data-v-1c3fae90";
 /* functional template */
 
 var __vue_is_functional_template__$15 = true;
@@ -14532,9 +16349,14 @@ var __vue_component__$15 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$15,
   staticRenderFns: __vue_staticRenderFns__$15
 }, __vue_inject_styles__$15, __vue_script__$15, __vue_scope_id__$15, __vue_is_functional_template__$15, __vue_module_identifier__$15, false, undefined, undefined, undefined);//
-var script$14 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$14 = {
   name: 'SmallLongRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$14 = script$14;
 /* template */
 
@@ -14560,7 +16382,7 @@ var __vue_inject_styles__$14 = undefined;
 var __vue_scope_id__$14 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$14 = "data-v-726f966c";
+var __vue_module_identifier__$14 = "data-v-3405f1c2";
 /* functional template */
 
 var __vue_is_functional_template__$14 = true;
@@ -14574,9 +16396,14 @@ var __vue_component__$14 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$14,
   staticRenderFns: __vue_staticRenderFns__$14
 }, __vue_inject_styles__$14, __vue_script__$14, __vue_scope_id__$14, __vue_is_functional_template__$14, __vue_module_identifier__$14, false, undefined, undefined, undefined);//
-var script$13 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$13 = {
   name: 'SmallLongUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$13 = script$13;
 /* template */
 
@@ -14602,7 +16429,7 @@ var __vue_inject_styles__$13 = undefined;
 var __vue_scope_id__$13 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$13 = "data-v-54f3cd6f";
+var __vue_module_identifier__$13 = "data-v-356fe9af";
 /* functional template */
 
 var __vue_is_functional_template__$13 = true;
@@ -14616,9 +16443,14 @@ var __vue_component__$13 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$13,
   staticRenderFns: __vue_staticRenderFns__$13
 }, __vue_inject_styles__$13, __vue_script__$13, __vue_scope_id__$13, __vue_is_functional_template__$13, __vue_module_identifier__$13, false, undefined, undefined, undefined);//
-var script$12 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$12 = {
   name: 'SnapchatIcon'
-});/* script */
+};/* script */
 var __vue_script__$12 = script$12;
 /* template */
 
@@ -14644,7 +16476,7 @@ var __vue_inject_styles__$12 = undefined;
 var __vue_scope_id__$12 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$12 = "data-v-1fcf2219";
+var __vue_module_identifier__$12 = "data-v-3298945a";
 /* functional template */
 
 var __vue_is_functional_template__$12 = true;
@@ -14658,9 +16490,14 @@ var __vue_component__$12 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$12,
   staticRenderFns: __vue_staticRenderFns__$12
 }, __vue_inject_styles__$12, __vue_script__$12, __vue_scope_id__$12, __vue_is_functional_template__$12, __vue_module_identifier__$12, false, undefined, undefined, undefined);//
-var script$11 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$11 = {
   name: 'SpectrumIcon'
-});/* script */
+};/* script */
 var __vue_script__$11 = script$11;
 /* template */
 
@@ -14686,7 +16523,7 @@ var __vue_inject_styles__$11 = undefined;
 var __vue_scope_id__$11 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$11 = "data-v-451ab251";
+var __vue_module_identifier__$11 = "data-v-8769764a";
 /* functional template */
 
 var __vue_is_functional_template__$11 = true;
@@ -14700,9 +16537,14 @@ var __vue_component__$11 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$11,
   staticRenderFns: __vue_staticRenderFns__$11
 }, __vue_inject_styles__$11, __vue_script__$11, __vue_scope_id__$11, __vue_is_functional_template__$11, __vue_module_identifier__$11, false, undefined, undefined, undefined);//
-var script$10 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$10 = {
   name: 'SpotifyIcon'
-});/* script */
+};/* script */
 var __vue_script__$10 = script$10;
 /* template */
 
@@ -14728,7 +16570,7 @@ var __vue_inject_styles__$10 = undefined;
 var __vue_scope_id__$10 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$10 = "data-v-b4f122b2";
+var __vue_module_identifier__$10 = "data-v-189fb8f7";
 /* functional template */
 
 var __vue_is_functional_template__$10 = true;
@@ -14742,9 +16584,14 @@ var __vue_component__$10 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$10,
   staticRenderFns: __vue_staticRenderFns__$10
 }, __vue_inject_styles__$10, __vue_script__$10, __vue_scope_id__$10, __vue_is_functional_template__$10, __vue_module_identifier__$10, false, undefined, undefined, undefined);//
-var script$$ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$$ = {
   name: 'StackOverflowIcon'
-});/* script */
+};/* script */
 var __vue_script__$$ = script$$;
 /* template */
 
@@ -14770,7 +16617,7 @@ var __vue_inject_styles__$$ = undefined;
 var __vue_scope_id__$$ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$$ = "data-v-6639850e";
+var __vue_module_identifier__$$ = "data-v-103f5da0";
 /* functional template */
 
 var __vue_is_functional_template__$$ = true;
@@ -14784,9 +16631,14 @@ var __vue_component__$$ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$$,
   staticRenderFns: __vue_staticRenderFns__$$
 }, __vue_inject_styles__$$, __vue_script__$$, __vue_scope_id__$$, __vue_is_functional_template__$$, __vue_module_identifier__$$, false, undefined, undefined, undefined);//
-var script$_ = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$_ = {
   name: 'StopwatchIcon'
-});/* script */
+};/* script */
 var __vue_script__$_ = script$_;
 /* template */
 
@@ -14812,7 +16664,7 @@ var __vue_inject_styles__$_ = undefined;
 var __vue_scope_id__$_ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$_ = "data-v-4a45ea48";
+var __vue_module_identifier__$_ = "data-v-4a69dc14";
 /* functional template */
 
 var __vue_is_functional_template__$_ = true;
@@ -14826,9 +16678,15 @@ var __vue_component__$_ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$_,
   staticRenderFns: __vue_staticRenderFns__$_
 }, __vue_inject_styles__$_, __vue_script__$_, __vue_scope_id__$_, __vue_is_functional_template__$_, __vue_module_identifier__$_, false, undefined, undefined, undefined);//
-var script$Z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$Z = {
   name: 'StrikethroughIcon'
-});/* script */
+};/* script */
 var __vue_script__$Z = script$Z;
 /* template */
 
@@ -14854,7 +16712,7 @@ var __vue_inject_styles__$Z = undefined;
 var __vue_scope_id__$Z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$Z = "data-v-a1aab004";
+var __vue_module_identifier__$Z = "data-v-cbe9ec00";
 /* functional template */
 
 var __vue_is_functional_template__$Z = true;
@@ -14868,9 +16726,14 @@ var __vue_component__$Z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$Z,
   staticRenderFns: __vue_staticRenderFns__$Z
 }, __vue_inject_styles__$Z, __vue_script__$Z, __vue_scope_id__$Z, __vue_is_functional_template__$Z, __vue_module_identifier__$Z, false, undefined, undefined, undefined);//
-var script$Y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$Y = {
   name: 'SubLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$Y = script$Y;
 /* template */
 
@@ -14896,7 +16759,7 @@ var __vue_inject_styles__$Y = undefined;
 var __vue_scope_id__$Y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$Y = "data-v-56143ada";
+var __vue_module_identifier__$Y = "data-v-34315d6a";
 /* functional template */
 
 var __vue_is_functional_template__$Y = true;
@@ -14910,9 +16773,14 @@ var __vue_component__$Y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$Y,
   staticRenderFns: __vue_staticRenderFns__$Y
 }, __vue_inject_styles__$Y, __vue_script__$Y, __vue_scope_id__$Y, __vue_is_functional_template__$Y, __vue_module_identifier__$Y, false, undefined, undefined, undefined);//
-var script$X = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$X = {
   name: 'SubRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$X = script$X;
 /* template */
 
@@ -14938,7 +16806,7 @@ var __vue_inject_styles__$X = undefined;
 var __vue_scope_id__$X = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$X = "data-v-0c89378f";
+var __vue_module_identifier__$X = "data-v-06a7459d";
 /* functional template */
 
 var __vue_is_functional_template__$X = true;
@@ -14952,9 +16820,14 @@ var __vue_component__$X = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$X,
   staticRenderFns: __vue_staticRenderFns__$X
 }, __vue_inject_styles__$X, __vue_script__$X, __vue_scope_id__$X, __vue_is_functional_template__$X, __vue_module_identifier__$X, false, undefined, undefined, undefined);//
-var script$W = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$W = {
   name: 'SunIcon'
-});/* script */
+};/* script */
 var __vue_script__$W = script$W;
 /* template */
 
@@ -14980,7 +16853,7 @@ var __vue_inject_styles__$W = undefined;
 var __vue_scope_id__$W = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$W = "data-v-0bd44ab5";
+var __vue_module_identifier__$W = "data-v-0f9757a9";
 /* functional template */
 
 var __vue_is_functional_template__$W = true;
@@ -14994,9 +16867,15 @@ var __vue_component__$W = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$W,
   staticRenderFns: __vue_staticRenderFns__$W
 }, __vue_inject_styles__$W, __vue_script__$W, __vue_scope_id__$W, __vue_is_functional_template__$W, __vue_module_identifier__$W, false, undefined, undefined, undefined);//
-var script$V = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$V = {
   name: 'TableAddIcon'
-});/* script */
+};/* script */
 var __vue_script__$V = script$V;
 /* template */
 
@@ -15022,7 +16901,7 @@ var __vue_inject_styles__$V = undefined;
 var __vue_scope_id__$V = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$V = "data-v-b8a0d336";
+var __vue_module_identifier__$V = "data-v-6ff3a0c7";
 /* functional template */
 
 var __vue_is_functional_template__$V = true;
@@ -15036,9 +16915,15 @@ var __vue_component__$V = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$V,
   staticRenderFns: __vue_staticRenderFns__$V
 }, __vue_inject_styles__$V, __vue_script__$V, __vue_scope_id__$V, __vue_is_functional_template__$V, __vue_module_identifier__$V, false, undefined, undefined, undefined);//
-var script$U = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$U = {
   name: 'TableDeleteIcon'
-});/* script */
+};/* script */
 var __vue_script__$U = script$U;
 /* template */
 
@@ -15064,7 +16949,7 @@ var __vue_inject_styles__$U = undefined;
 var __vue_scope_id__$U = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$U = "data-v-c53f7f24";
+var __vue_module_identifier__$U = "data-v-7573b450";
 /* functional template */
 
 var __vue_is_functional_template__$U = true;
@@ -15078,9 +16963,14 @@ var __vue_component__$U = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$U,
   staticRenderFns: __vue_staticRenderFns__$U
 }, __vue_inject_styles__$U, __vue_script__$U, __vue_scope_id__$U, __vue_is_functional_template__$U, __vue_module_identifier__$U, false, undefined, undefined, undefined);//
-var script$T = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$T = {
   name: 'TableIcon'
-});/* script */
+};/* script */
 var __vue_script__$T = script$T;
 /* template */
 
@@ -15106,7 +16996,7 @@ var __vue_inject_styles__$T = undefined;
 var __vue_scope_id__$T = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$T = "data-v-5421b919";
+var __vue_module_identifier__$T = "data-v-88c795f6";
 /* functional template */
 
 var __vue_is_functional_template__$T = true;
@@ -15120,9 +17010,14 @@ var __vue_component__$T = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$T,
   staticRenderFns: __vue_staticRenderFns__$T
 }, __vue_inject_styles__$T, __vue_script__$T, __vue_scope_id__$T, __vue_is_functional_template__$T, __vue_module_identifier__$T, false, undefined, undefined, undefined);//
-var script$S = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$S = {
   name: 'TabletIcon'
-});/* script */
+};/* script */
 var __vue_script__$S = script$S;
 /* template */
 
@@ -15148,7 +17043,7 @@ var __vue_inject_styles__$S = undefined;
 var __vue_scope_id__$S = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$S = "data-v-4f1e8db1";
+var __vue_module_identifier__$S = "data-v-20a1cc0a";
 /* functional template */
 
 var __vue_is_functional_template__$S = true;
@@ -15162,9 +17057,14 @@ var __vue_component__$S = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$S,
   staticRenderFns: __vue_staticRenderFns__$S
 }, __vue_inject_styles__$S, __vue_script__$S, __vue_scope_id__$S, __vue_is_functional_template__$S, __vue_module_identifier__$S, false, undefined, undefined, undefined);//
-var script$R = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$R = {
   name: 'TagOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$R = script$R;
 /* template */
 
@@ -15190,7 +17090,7 @@ var __vue_inject_styles__$R = undefined;
 var __vue_scope_id__$R = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$R = "data-v-1d7a11bf";
+var __vue_module_identifier__$R = "data-v-527fe6a6";
 /* functional template */
 
 var __vue_is_functional_template__$R = true;
@@ -15204,9 +17104,14 @@ var __vue_component__$R = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$R,
   staticRenderFns: __vue_staticRenderFns__$R
 }, __vue_inject_styles__$R, __vue_script__$R, __vue_scope_id__$R, __vue_is_functional_template__$R, __vue_module_identifier__$R, false, undefined, undefined, undefined);//
-var script$Q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$Q = {
   name: 'TagIcon'
-});/* script */
+};/* script */
 var __vue_script__$Q = script$Q;
 /* template */
 
@@ -15232,7 +17137,7 @@ var __vue_inject_styles__$Q = undefined;
 var __vue_scope_id__$Q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$Q = "data-v-f6f9251e";
+var __vue_module_identifier__$Q = "data-v-19a66a26";
 /* functional template */
 
 var __vue_is_functional_template__$Q = true;
@@ -15246,9 +17151,15 @@ var __vue_component__$Q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$Q,
   staticRenderFns: __vue_staticRenderFns__$Q
 }, __vue_inject_styles__$Q, __vue_script__$Q, __vue_scope_id__$Q, __vue_is_functional_template__$Q, __vue_module_identifier__$Q, false, undefined, undefined, undefined);//
-var script$P = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$P = {
   name: 'TennisMatchAltIcon'
-});/* script */
+};/* script */
 var __vue_script__$P = script$P;
 /* template */
 
@@ -15274,7 +17185,7 @@ var __vue_inject_styles__$P = undefined;
 var __vue_scope_id__$P = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$P = "data-v-7867e8da";
+var __vue_module_identifier__$P = "data-v-1edb7e32";
 /* functional template */
 
 var __vue_is_functional_template__$P = true;
@@ -15288,9 +17199,15 @@ var __vue_component__$P = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$P,
   staticRenderFns: __vue_staticRenderFns__$P
 }, __vue_inject_styles__$P, __vue_script__$P, __vue_scope_id__$P, __vue_is_functional_template__$P, __vue_module_identifier__$P, false, undefined, undefined, undefined);//
-var script$O = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$O = {
   name: 'TennisMatchIcon'
-});/* script */
+};/* script */
 var __vue_script__$O = script$O;
 /* template */
 
@@ -15316,7 +17233,7 @@ var __vue_inject_styles__$O = undefined;
 var __vue_scope_id__$O = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$O = "data-v-7476519f";
+var __vue_module_identifier__$O = "data-v-473db07f";
 /* functional template */
 
 var __vue_is_functional_template__$O = true;
@@ -15330,9 +17247,14 @@ var __vue_component__$O = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$O,
   staticRenderFns: __vue_staticRenderFns__$O
 }, __vue_inject_styles__$O, __vue_script__$O, __vue_scope_id__$O, __vue_is_functional_template__$O, __vue_module_identifier__$O, false, undefined, undefined, undefined);//
-var script$N = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$N = {
   name: 'TennisIcon'
-});/* script */
+};/* script */
 var __vue_script__$N = script$N;
 /* template */
 
@@ -15358,7 +17280,7 @@ var __vue_inject_styles__$N = undefined;
 var __vue_scope_id__$N = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$N = "data-v-11acce0c";
+var __vue_module_identifier__$N = "data-v-6ca48bdc";
 /* functional template */
 
 var __vue_is_functional_template__$N = true;
@@ -15372,9 +17294,14 @@ var __vue_component__$N = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$N,
   staticRenderFns: __vue_staticRenderFns__$N
 }, __vue_inject_styles__$N, __vue_script__$N, __vue_scope_id__$N, __vue_is_functional_template__$N, __vue_module_identifier__$N, false, undefined, undefined, undefined);//
-var script$M = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$M = {
   name: 'TerminalIcon'
-});/* script */
+};/* script */
 var __vue_script__$M = script$M;
 /* template */
 
@@ -15400,7 +17327,7 @@ var __vue_inject_styles__$M = undefined;
 var __vue_scope_id__$M = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$M = "data-v-5659f77c";
+var __vue_module_identifier__$M = "data-v-607f31ca";
 /* functional template */
 
 var __vue_is_functional_template__$M = true;
@@ -15414,9 +17341,14 @@ var __vue_component__$M = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$M,
   staticRenderFns: __vue_staticRenderFns__$M
 }, __vue_inject_styles__$M, __vue_script__$M, __vue_scope_id__$M, __vue_is_functional_template__$M, __vue_module_identifier__$M, false, undefined, undefined, undefined);//
-var script$L = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$L = {
   name: 'TextAlignCenterIcon'
-});/* script */
+};/* script */
 var __vue_script__$L = script$L;
 /* template */
 
@@ -15442,7 +17374,7 @@ var __vue_inject_styles__$L = undefined;
 var __vue_scope_id__$L = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$L = "data-v-903c58dc";
+var __vue_module_identifier__$L = "data-v-53866ba8";
 /* functional template */
 
 var __vue_is_functional_template__$L = true;
@@ -15456,9 +17388,14 @@ var __vue_component__$L = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$L,
   staticRenderFns: __vue_staticRenderFns__$L
 }, __vue_inject_styles__$L, __vue_script__$L, __vue_scope_id__$L, __vue_is_functional_template__$L, __vue_module_identifier__$L, false, undefined, undefined, undefined);//
-var script$K = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$K = {
   name: 'TextAlignJustifyIcon'
-});/* script */
+};/* script */
 var __vue_script__$K = script$K;
 /* template */
 
@@ -15484,7 +17421,7 @@ var __vue_inject_styles__$K = undefined;
 var __vue_scope_id__$K = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$K = "data-v-654d485c";
+var __vue_module_identifier__$K = "data-v-41af138c";
 /* functional template */
 
 var __vue_is_functional_template__$K = true;
@@ -15498,9 +17435,14 @@ var __vue_component__$K = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$K,
   staticRenderFns: __vue_staticRenderFns__$K
 }, __vue_inject_styles__$K, __vue_script__$K, __vue_scope_id__$K, __vue_is_functional_template__$K, __vue_module_identifier__$K, false, undefined, undefined, undefined);//
-var script$J = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$J = {
   name: 'TextAlignLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$J = script$J;
 /* template */
 
@@ -15526,7 +17468,7 @@ var __vue_inject_styles__$J = undefined;
 var __vue_scope_id__$J = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$J = "data-v-4dcb494e";
+var __vue_module_identifier__$J = "data-v-4f985fb0";
 /* functional template */
 
 var __vue_is_functional_template__$J = true;
@@ -15540,9 +17482,14 @@ var __vue_component__$J = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$J,
   staticRenderFns: __vue_staticRenderFns__$J
 }, __vue_inject_styles__$J, __vue_script__$J, __vue_scope_id__$J, __vue_is_functional_template__$J, __vue_module_identifier__$J, false, undefined, undefined, undefined);//
-var script$I = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$I = {
   name: 'TextAlignRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$I = script$I;
 /* template */
 
@@ -15568,7 +17515,7 @@ var __vue_inject_styles__$I = undefined;
 var __vue_scope_id__$I = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$I = "data-v-00346974";
+var __vue_module_identifier__$I = "data-v-e8537bf4";
 /* functional template */
 
 var __vue_is_functional_template__$I = true;
@@ -15582,9 +17529,14 @@ var __vue_component__$I = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$I,
   staticRenderFns: __vue_staticRenderFns__$I
 }, __vue_inject_styles__$I, __vue_script__$I, __vue_scope_id__$I, __vue_is_functional_template__$I, __vue_module_identifier__$I, false, undefined, undefined, undefined);//
-var script$H = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$H = {
   name: 'ThinBigDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$H = script$H;
 /* template */
 
@@ -15610,7 +17562,7 @@ var __vue_inject_styles__$H = undefined;
 var __vue_scope_id__$H = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$H = "data-v-349a32e7";
+var __vue_module_identifier__$H = "data-v-4c676477";
 /* functional template */
 
 var __vue_is_functional_template__$H = true;
@@ -15624,9 +17576,14 @@ var __vue_component__$H = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$H,
   staticRenderFns: __vue_staticRenderFns__$H
 }, __vue_inject_styles__$H, __vue_script__$H, __vue_scope_id__$H, __vue_is_functional_template__$H, __vue_module_identifier__$H, false, undefined, undefined, undefined);//
-var script$G = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$G = {
   name: 'ThinBigLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$G = script$G;
 /* template */
 
@@ -15652,7 +17609,7 @@ var __vue_inject_styles__$G = undefined;
 var __vue_scope_id__$G = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$G = "data-v-5894ab3e";
+var __vue_module_identifier__$G = "data-v-44952380";
 /* functional template */
 
 var __vue_is_functional_template__$G = true;
@@ -15666,9 +17623,14 @@ var __vue_component__$G = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$G,
   staticRenderFns: __vue_staticRenderFns__$G
 }, __vue_inject_styles__$G, __vue_script__$G, __vue_scope_id__$G, __vue_is_functional_template__$G, __vue_module_identifier__$G, false, undefined, undefined, undefined);//
-var script$F = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$F = {
   name: 'ThinBigRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$F = script$F;
 /* template */
 
@@ -15694,7 +17656,7 @@ var __vue_inject_styles__$F = undefined;
 var __vue_scope_id__$F = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$F = "data-v-2e1d0aaf";
+var __vue_module_identifier__$F = "data-v-02cae4bd";
 /* functional template */
 
 var __vue_is_functional_template__$F = true;
@@ -15708,9 +17670,21 @@ var __vue_component__$F = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$F,
   staticRenderFns: __vue_staticRenderFns__$F
 }, __vue_inject_styles__$F, __vue_script__$F, __vue_scope_id__$F, __vue_is_functional_template__$F, __vue_module_identifier__$F, false, undefined, undefined, undefined);//
-var script$E = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var script$E = {
   name: 'ThinBigUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$E = script$E;
 /* template */
 
@@ -15736,7 +17710,7 @@ var __vue_inject_styles__$E = undefined;
 var __vue_scope_id__$E = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$E = "data-v-28e46a19";
+var __vue_module_identifier__$E = "data-v-161fa285";
 /* functional template */
 
 var __vue_is_functional_template__$E = true;
@@ -15750,9 +17724,14 @@ var __vue_component__$E = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$E,
   staticRenderFns: __vue_staticRenderFns__$E
 }, __vue_inject_styles__$E, __vue_script__$E, __vue_scope_id__$E, __vue_is_functional_template__$E, __vue_module_identifier__$E, false, undefined, undefined, undefined);//
-var script$D = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$D = {
   name: 'ThinLong02DownIcon'
-});/* script */
+};/* script */
 var __vue_script__$D = script$D;
 /* template */
 
@@ -15778,7 +17757,7 @@ var __vue_inject_styles__$D = undefined;
 var __vue_scope_id__$D = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$D = "data-v-0b4f07fd";
+var __vue_module_identifier__$D = "data-v-474b576f";
 /* functional template */
 
 var __vue_is_functional_template__$D = true;
@@ -15792,9 +17771,14 @@ var __vue_component__$D = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$D,
   staticRenderFns: __vue_staticRenderFns__$D
 }, __vue_inject_styles__$D, __vue_script__$D, __vue_scope_id__$D, __vue_is_functional_template__$D, __vue_module_identifier__$D, false, undefined, undefined, undefined);//
-var script$C = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$C = {
   name: 'ThinLong02LeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$C = script$C;
 /* template */
 
@@ -15820,7 +17804,7 @@ var __vue_inject_styles__$C = undefined;
 var __vue_scope_id__$C = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$C = "data-v-5bfbd54e";
+var __vue_module_identifier__$C = "data-v-095a9e53";
 /* functional template */
 
 var __vue_is_functional_template__$C = true;
@@ -15834,9 +17818,14 @@ var __vue_component__$C = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$C,
   staticRenderFns: __vue_staticRenderFns__$C
 }, __vue_inject_styles__$C, __vue_script__$C, __vue_scope_id__$C, __vue_is_functional_template__$C, __vue_module_identifier__$C, false, undefined, undefined, undefined);//
-var script$B = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$B = {
   name: 'ThinLong02RightIcon'
-});/* script */
+};/* script */
 var __vue_script__$B = script$B;
 /* template */
 
@@ -15862,7 +17851,7 @@ var __vue_inject_styles__$B = undefined;
 var __vue_scope_id__$B = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$B = "data-v-a0519114";
+var __vue_module_identifier__$B = "data-v-633b4a70";
 /* functional template */
 
 var __vue_is_functional_template__$B = true;
@@ -15876,9 +17865,14 @@ var __vue_component__$B = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$B,
   staticRenderFns: __vue_staticRenderFns__$B
 }, __vue_inject_styles__$B, __vue_script__$B, __vue_scope_id__$B, __vue_is_functional_template__$B, __vue_module_identifier__$B, false, undefined, undefined, undefined);//
-var script$A = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$A = {
   name: 'ThinLong02UpIcon'
-});/* script */
+};/* script */
 var __vue_script__$A = script$A;
 /* template */
 
@@ -15904,7 +17898,7 @@ var __vue_inject_styles__$A = undefined;
 var __vue_scope_id__$A = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$A = "data-v-2ad097f5";
+var __vue_module_identifier__$A = "data-v-a93af412";
 /* functional template */
 
 var __vue_is_functional_template__$A = true;
@@ -15918,9 +17912,14 @@ var __vue_component__$A = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$A,
   staticRenderFns: __vue_staticRenderFns__$A
 }, __vue_inject_styles__$A, __vue_script__$A, __vue_scope_id__$A, __vue_is_functional_template__$A, __vue_module_identifier__$A, false, undefined, undefined, undefined);//
-var script$z = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$z = {
   name: 'ThinLongDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$z = script$z;
 /* template */
 
@@ -15946,7 +17945,7 @@ var __vue_inject_styles__$z = undefined;
 var __vue_scope_id__$z = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$z = "data-v-1df919a0";
+var __vue_module_identifier__$z = "data-v-1d2ce228";
 /* functional template */
 
 var __vue_is_functional_template__$z = true;
@@ -15960,9 +17959,14 @@ var __vue_component__$z = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$z,
   staticRenderFns: __vue_staticRenderFns__$z
 }, __vue_inject_styles__$z, __vue_script__$z, __vue_scope_id__$z, __vue_is_functional_template__$z, __vue_module_identifier__$z, false, undefined, undefined, undefined);//
-var script$y = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$y = {
   name: 'ThinLongLeftIcon'
-});/* script */
+};/* script */
 var __vue_script__$y = script$y;
 /* template */
 
@@ -15988,7 +17992,7 @@ var __vue_inject_styles__$y = undefined;
 var __vue_scope_id__$y = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$y = "data-v-5df653c4";
+var __vue_module_identifier__$y = "data-v-0631fe08";
 /* functional template */
 
 var __vue_is_functional_template__$y = true;
@@ -16002,9 +18006,14 @@ var __vue_component__$y = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$y,
   staticRenderFns: __vue_staticRenderFns__$y
 }, __vue_inject_styles__$y, __vue_script__$y, __vue_scope_id__$y, __vue_is_functional_template__$y, __vue_module_identifier__$y, false, undefined, undefined, undefined);//
-var script$x = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$x = {
   name: 'ThinLongRightIcon'
-});/* script */
+};/* script */
 var __vue_script__$x = script$x;
 /* template */
 
@@ -16030,7 +18039,7 @@ var __vue_inject_styles__$x = undefined;
 var __vue_scope_id__$x = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$x = "data-v-23ccc524";
+var __vue_module_identifier__$x = "data-v-750f1ccc";
 /* functional template */
 
 var __vue_is_functional_template__$x = true;
@@ -16044,9 +18053,14 @@ var __vue_component__$x = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$x,
   staticRenderFns: __vue_staticRenderFns__$x
 }, __vue_inject_styles__$x, __vue_script__$x, __vue_scope_id__$x, __vue_is_functional_template__$x, __vue_module_identifier__$x, false, undefined, undefined, undefined);//
-var script$w = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$w = {
   name: 'ThinLongUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$w = script$w;
 /* template */
 
@@ -16072,7 +18086,7 @@ var __vue_inject_styles__$w = undefined;
 var __vue_scope_id__$w = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$w = "data-v-52b61014";
+var __vue_module_identifier__$w = "data-v-20042f10";
 /* functional template */
 
 var __vue_is_functional_template__$w = true;
@@ -16086,9 +18100,14 @@ var __vue_component__$w = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$w,
   staticRenderFns: __vue_staticRenderFns__$w
 }, __vue_inject_styles__$w, __vue_script__$w, __vue_scope_id__$w, __vue_is_functional_template__$w, __vue_module_identifier__$w, false, undefined, undefined, undefined);//
-var script$v = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$v = {
   name: 'TransferIcon'
-});/* script */
+};/* script */
 var __vue_script__$v = script$v;
 /* template */
 
@@ -16114,7 +18133,7 @@ var __vue_inject_styles__$v = undefined;
 var __vue_scope_id__$v = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$v = "data-v-84b6287a";
+var __vue_module_identifier__$v = "data-v-96bffbae";
 /* functional template */
 
 var __vue_is_functional_template__$v = true;
@@ -16128,9 +18147,14 @@ var __vue_component__$v = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$v,
   staticRenderFns: __vue_staticRenderFns__$v
 }, __vue_inject_styles__$v, __vue_script__$v, __vue_scope_id__$v, __vue_is_functional_template__$v, __vue_module_identifier__$v, false, undefined, undefined, undefined);//
-var script$u = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$u = {
   name: 'TrashEmptyIcon'
-});/* script */
+};/* script */
 var __vue_script__$u = script$u;
 /* template */
 
@@ -16156,7 +18180,7 @@ var __vue_inject_styles__$u = undefined;
 var __vue_scope_id__$u = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$u = "data-v-5ff81180";
+var __vue_module_identifier__$u = "data-v-3b141d4c";
 /* functional template */
 
 var __vue_is_functional_template__$u = true;
@@ -16170,9 +18194,14 @@ var __vue_component__$u = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$u,
   staticRenderFns: __vue_staticRenderFns__$u
 }, __vue_inject_styles__$u, __vue_script__$u, __vue_scope_id__$u, __vue_is_functional_template__$u, __vue_module_identifier__$u, false, undefined, undefined, undefined);//
-var script$t = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$t = {
   name: 'TrashFullIcon'
-});/* script */
+};/* script */
 var __vue_script__$t = script$t;
 /* template */
 
@@ -16198,7 +18227,7 @@ var __vue_inject_styles__$t = undefined;
 var __vue_scope_id__$t = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$t = "data-v-83c82dc6";
+var __vue_module_identifier__$t = "data-v-5c3f00c1";
 /* functional template */
 
 var __vue_is_functional_template__$t = true;
@@ -16212,9 +18241,14 @@ var __vue_component__$t = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$t,
   staticRenderFns: __vue_staticRenderFns__$t
 }, __vue_inject_styles__$t, __vue_script__$t, __vue_scope_id__$t, __vue_is_functional_template__$t, __vue_module_identifier__$t, false, undefined, undefined, undefined);//
-var script$s = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$s = {
   name: 'TrelloIcon'
-});/* script */
+};/* script */
 var __vue_script__$s = script$s;
 /* template */
 
@@ -16240,7 +18274,7 @@ var __vue_inject_styles__$s = undefined;
 var __vue_scope_id__$s = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$s = "data-v-5402165e";
+var __vue_module_identifier__$s = "data-v-480da65b";
 /* functional template */
 
 var __vue_is_functional_template__$s = true;
@@ -16254,9 +18288,14 @@ var __vue_component__$s = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$s,
   staticRenderFns: __vue_staticRenderFns__$s
 }, __vue_inject_styles__$s, __vue_script__$s, __vue_scope_id__$s, __vue_is_functional_template__$s, __vue_module_identifier__$s, false, undefined, undefined, undefined);//
-var script$r = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$r = {
   name: 'TrendingDownIcon'
-});/* script */
+};/* script */
 var __vue_script__$r = script$r;
 /* template */
 
@@ -16282,7 +18321,7 @@ var __vue_inject_styles__$r = undefined;
 var __vue_scope_id__$r = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$r = "data-v-0c4f2a04";
+var __vue_module_identifier__$r = "data-v-00f94d08";
 /* functional template */
 
 var __vue_is_functional_template__$r = true;
@@ -16296,9 +18335,14 @@ var __vue_component__$r = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$r,
   staticRenderFns: __vue_staticRenderFns__$r
 }, __vue_inject_styles__$r, __vue_script__$r, __vue_scope_id__$r, __vue_is_functional_template__$r, __vue_module_identifier__$r, false, undefined, undefined, undefined);//
-var script$q = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$q = {
   name: 'TrendingUpIcon'
-});/* script */
+};/* script */
 var __vue_script__$q = script$q;
 /* template */
 
@@ -16324,7 +18368,7 @@ var __vue_inject_styles__$q = undefined;
 var __vue_scope_id__$q = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$q = "data-v-18b5df80";
+var __vue_module_identifier__$q = "data-v-01f82868";
 /* functional template */
 
 var __vue_is_functional_template__$q = true;
@@ -16338,9 +18382,14 @@ var __vue_component__$q = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$q,
   staticRenderFns: __vue_staticRenderFns__$q
 }, __vue_inject_styles__$q, __vue_script__$q, __vue_scope_id__$q, __vue_is_functional_template__$q, __vue_module_identifier__$q, false, undefined, undefined, undefined);//
-var script$p = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$p = {
   name: 'TwitterIcon'
-});/* script */
+};/* script */
 var __vue_script__$p = script$p;
 /* template */
 
@@ -16366,7 +18415,7 @@ var __vue_inject_styles__$p = undefined;
 var __vue_scope_id__$p = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$p = "data-v-6c8a1e46";
+var __vue_module_identifier__$p = "data-v-75e1db78";
 /* functional template */
 
 var __vue_is_functional_template__$p = true;
@@ -16380,9 +18429,15 @@ var __vue_component__$p = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$p,
   staticRenderFns: __vue_staticRenderFns__$p
 }, __vue_inject_styles__$p, __vue_script__$p, __vue_scope_id__$p, __vue_is_functional_template__$p, __vue_module_identifier__$p, false, undefined, undefined, undefined);//
-var script$o = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$o = {
   name: 'UnderlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$o = script$o;
 /* template */
 
@@ -16408,7 +18463,7 @@ var __vue_inject_styles__$o = undefined;
 var __vue_scope_id__$o = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$o = "data-v-66361673";
+var __vue_module_identifier__$o = "data-v-23bcf1eb";
 /* functional template */
 
 var __vue_is_functional_template__$o = true;
@@ -16422,9 +18477,14 @@ var __vue_component__$o = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$o,
   staticRenderFns: __vue_staticRenderFns__$o
 }, __vue_inject_styles__$o, __vue_script__$o, __vue_scope_id__$o, __vue_is_functional_template__$o, __vue_module_identifier__$o, false, undefined, undefined, undefined);//
-var script$n = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$n = {
   name: 'UndoIcon'
-});/* script */
+};/* script */
 var __vue_script__$n = script$n;
 /* template */
 
@@ -16450,7 +18510,7 @@ var __vue_inject_styles__$n = undefined;
 var __vue_scope_id__$n = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$n = "data-v-28a738d2";
+var __vue_module_identifier__$n = "data-v-fdadde8c";
 /* functional template */
 
 var __vue_is_functional_template__$n = true;
@@ -16464,9 +18524,14 @@ var __vue_component__$n = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$n,
   staticRenderFns: __vue_staticRenderFns__$n
 }, __vue_inject_styles__$n, __vue_script__$n, __vue_scope_id__$n, __vue_is_functional_template__$n, __vue_module_identifier__$n, false, undefined, undefined, undefined);//
-var script$m = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$m = {
   name: 'UnfoldLessIcon'
-});/* script */
+};/* script */
 var __vue_script__$m = script$m;
 /* template */
 
@@ -16492,7 +18557,7 @@ var __vue_inject_styles__$m = undefined;
 var __vue_scope_id__$m = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$m = "data-v-11c5557e";
+var __vue_module_identifier__$m = "data-v-86d7cae4";
 /* functional template */
 
 var __vue_is_functional_template__$m = true;
@@ -16506,9 +18571,14 @@ var __vue_component__$m = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$m,
   staticRenderFns: __vue_staticRenderFns__$m
 }, __vue_inject_styles__$m, __vue_script__$m, __vue_scope_id__$m, __vue_is_functional_template__$m, __vue_module_identifier__$m, false, undefined, undefined, undefined);//
-var script$l = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$l = {
   name: 'UnfoldMoreIcon'
-});/* script */
+};/* script */
 var __vue_script__$l = script$l;
 /* template */
 
@@ -16534,7 +18604,7 @@ var __vue_inject_styles__$l = undefined;
 var __vue_scope_id__$l = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$l = "data-v-7a13b6ee";
+var __vue_module_identifier__$l = "data-v-778d801e";
 /* functional template */
 
 var __vue_is_functional_template__$l = true;
@@ -16548,9 +18618,14 @@ var __vue_component__$l = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$l,
   staticRenderFns: __vue_staticRenderFns__$l
 }, __vue_inject_styles__$l, __vue_script__$l, __vue_scope_id__$l, __vue_is_functional_template__$l, __vue_module_identifier__$l, false, undefined, undefined, undefined);//
-var script$k = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$k = {
   name: 'UnlinkIcon'
-});/* script */
+};/* script */
 var __vue_script__$k = script$k;
 /* template */
 
@@ -16576,7 +18651,7 @@ var __vue_inject_styles__$k = undefined;
 var __vue_scope_id__$k = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$k = "data-v-55322088";
+var __vue_module_identifier__$k = "data-v-5536d490";
 /* functional template */
 
 var __vue_is_functional_template__$k = true;
@@ -16590,9 +18665,14 @@ var __vue_component__$k = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$k,
   staticRenderFns: __vue_staticRenderFns__$k
 }, __vue_inject_styles__$k, __vue_script__$k, __vue_scope_id__$k, __vue_is_functional_template__$k, __vue_module_identifier__$k, false, undefined, undefined, undefined);//
-var script$j = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$j = {
   name: 'UnsplashIcon'
-});/* script */
+};/* script */
 var __vue_script__$j = script$j;
 /* template */
 
@@ -16618,7 +18698,7 @@ var __vue_inject_styles__$j = undefined;
 var __vue_scope_id__$j = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$j = "data-v-7ed13d89";
+var __vue_module_identifier__$j = "data-v-0e94ee3a";
 /* functional template */
 
 var __vue_is_functional_template__$j = true;
@@ -16632,9 +18712,14 @@ var __vue_component__$j = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$j,
   staticRenderFns: __vue_staticRenderFns__$j
 }, __vue_inject_styles__$j, __vue_script__$j, __vue_scope_id__$j, __vue_is_functional_template__$j, __vue_module_identifier__$j, false, undefined, undefined, undefined);//
-var script$i = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$i = {
   name: 'UserCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$i = script$i;
 /* template */
 
@@ -16660,7 +18745,7 @@ var __vue_inject_styles__$i = undefined;
 var __vue_scope_id__$i = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$i = "data-v-3468dd64";
+var __vue_module_identifier__$i = "data-v-98b72f4c";
 /* functional template */
 
 var __vue_is_functional_template__$i = true;
@@ -16674,9 +18759,14 @@ var __vue_component__$i = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$i,
   staticRenderFns: __vue_staticRenderFns__$i
 }, __vue_inject_styles__$i, __vue_script__$i, __vue_scope_id__$i, __vue_is_functional_template__$i, __vue_module_identifier__$i, false, undefined, undefined, undefined);//
-var script$h = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$h = {
   name: 'UserCircleIcon'
-});/* script */
+};/* script */
 var __vue_script__$h = script$h;
 /* template */
 
@@ -16702,7 +18792,7 @@ var __vue_inject_styles__$h = undefined;
 var __vue_scope_id__$h = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$h = "data-v-4bb76116";
+var __vue_module_identifier__$h = "data-v-3c14abf6";
 /* functional template */
 
 var __vue_is_functional_template__$h = true;
@@ -16716,9 +18806,14 @@ var __vue_component__$h = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$h,
   staticRenderFns: __vue_staticRenderFns__$h
 }, __vue_inject_styles__$h, __vue_script__$h, __vue_scope_id__$h, __vue_is_functional_template__$h, __vue_module_identifier__$h, false, undefined, undefined, undefined);//
-var script$g = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$g = {
   name: 'UserCloseIcon'
-});/* script */
+};/* script */
 var __vue_script__$g = script$g;
 /* template */
 
@@ -16744,7 +18839,7 @@ var __vue_inject_styles__$g = undefined;
 var __vue_scope_id__$g = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$g = "data-v-009f6ca4";
+var __vue_module_identifier__$g = "data-v-0d72e760";
 /* functional template */
 
 var __vue_is_functional_template__$g = true;
@@ -16758,9 +18853,16 @@ var __vue_component__$g = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$g,
   staticRenderFns: __vue_staticRenderFns__$g
 }, __vue_inject_styles__$g, __vue_script__$g, __vue_scope_id__$g, __vue_is_functional_template__$g, __vue_module_identifier__$g, false, undefined, undefined, undefined);//
-var script$f = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+//
+var script$f = {
   name: 'UserHeartIcon'
-});/* script */
+};/* script */
 var __vue_script__$f = script$f;
 /* template */
 
@@ -16786,7 +18888,7 @@ var __vue_inject_styles__$f = undefined;
 var __vue_scope_id__$f = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$f = "data-v-308ec496";
+var __vue_module_identifier__$f = "data-v-5bccf230";
 /* functional template */
 
 var __vue_is_functional_template__$f = true;
@@ -16800,9 +18902,14 @@ var __vue_component__$f = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$f,
   staticRenderFns: __vue_staticRenderFns__$f
 }, __vue_inject_styles__$f, __vue_script__$f, __vue_scope_id__$f, __vue_is_functional_template__$f, __vue_module_identifier__$f, false, undefined, undefined, undefined);//
-var script$e = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$e = {
   name: 'UserMinusIcon'
-});/* script */
+};/* script */
 var __vue_script__$e = script$e;
 /* template */
 
@@ -16828,7 +18935,7 @@ var __vue_inject_styles__$e = undefined;
 var __vue_scope_id__$e = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$e = "data-v-472ce3db";
+var __vue_module_identifier__$e = "data-v-8ec2517a";
 /* functional template */
 
 var __vue_is_functional_template__$e = true;
@@ -16842,9 +18949,14 @@ var __vue_component__$e = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$e,
   staticRenderFns: __vue_staticRenderFns__$e
 }, __vue_inject_styles__$e, __vue_script__$e, __vue_scope_id__$e, __vue_is_functional_template__$e, __vue_module_identifier__$e, false, undefined, undefined, undefined);//
-var script$d = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$d = {
   name: 'UserPinIcon'
-});/* script */
+};/* script */
 var __vue_script__$d = script$d;
 /* template */
 
@@ -16870,7 +18982,7 @@ var __vue_inject_styles__$d = undefined;
 var __vue_scope_id__$d = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$d = "data-v-06e21b22";
+var __vue_module_identifier__$d = "data-v-a131b3a2";
 /* functional template */
 
 var __vue_is_functional_template__$d = true;
@@ -16884,9 +18996,14 @@ var __vue_component__$d = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$d,
   staticRenderFns: __vue_staticRenderFns__$d
 }, __vue_inject_styles__$d, __vue_script__$d, __vue_scope_id__$d, __vue_is_functional_template__$d, __vue_module_identifier__$d, false, undefined, undefined, undefined);//
-var script$c = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$c = {
   name: 'UserPlusIcon'
-});/* script */
+};/* script */
 var __vue_script__$c = script$c;
 /* template */
 
@@ -16912,7 +19029,7 @@ var __vue_inject_styles__$c = undefined;
 var __vue_scope_id__$c = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$c = "data-v-bda098a6";
+var __vue_module_identifier__$c = "data-v-605cb802";
 /* functional template */
 
 var __vue_is_functional_template__$c = true;
@@ -16926,9 +19043,15 @@ var __vue_component__$c = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$c,
   staticRenderFns: __vue_staticRenderFns__$c
 }, __vue_inject_styles__$c, __vue_script__$c, __vue_scope_id__$c, __vue_is_functional_template__$c, __vue_module_identifier__$c, false, undefined, undefined, undefined);//
-var script$b = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$b = {
   name: 'UserSquareIcon'
-});/* script */
+};/* script */
 var __vue_script__$b = script$b;
 /* template */
 
@@ -16954,7 +19077,7 @@ var __vue_inject_styles__$b = undefined;
 var __vue_scope_id__$b = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$b = "data-v-81f91552";
+var __vue_module_identifier__$b = "data-v-15215fd6";
 /* functional template */
 
 var __vue_is_functional_template__$b = true;
@@ -16968,9 +19091,14 @@ var __vue_component__$b = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$b,
   staticRenderFns: __vue_staticRenderFns__$b
 }, __vue_inject_styles__$b, __vue_script__$b, __vue_scope_id__$b, __vue_is_functional_template__$b, __vue_module_identifier__$b, false, undefined, undefined, undefined);//
-var script$a = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$a = {
   name: 'UserVoiceIcon'
-});/* script */
+};/* script */
 var __vue_script__$a = script$a;
 /* template */
 
@@ -16996,7 +19124,7 @@ var __vue_inject_styles__$a = undefined;
 var __vue_scope_id__$a = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$a = "data-v-8bd64f1c";
+var __vue_module_identifier__$a = "data-v-abdc94e8";
 /* functional template */
 
 var __vue_is_functional_template__$a = true;
@@ -17010,9 +19138,15 @@ var __vue_component__$a = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$a,
   staticRenderFns: __vue_staticRenderFns__$a
 }, __vue_inject_styles__$a, __vue_script__$a, __vue_scope_id__$a, __vue_is_functional_template__$a, __vue_module_identifier__$a, false, undefined, undefined, undefined);//
-var script$9 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$9 = {
   name: 'UserIcon'
-});/* script */
+};/* script */
 var __vue_script__$9 = script$9;
 /* template */
 
@@ -17038,7 +19172,7 @@ var __vue_inject_styles__$9 = undefined;
 var __vue_scope_id__$9 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$9 = "data-v-85694d4e";
+var __vue_module_identifier__$9 = "data-v-18dfbfd3";
 /* functional template */
 
 var __vue_is_functional_template__$9 = true;
@@ -17052,9 +19186,15 @@ var __vue_component__$9 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$9,
   staticRenderFns: __vue_staticRenderFns__$9
 }, __vue_inject_styles__$9, __vue_script__$9, __vue_scope_id__$9, __vue_is_functional_template__$9, __vue_module_identifier__$9, false, undefined, undefined, undefined);//
-var script$8 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+//
+var script$8 = {
   name: 'WarningOutlineIcon'
-});/* script */
+};/* script */
 var __vue_script__$8 = script$8;
 /* template */
 
@@ -17080,7 +19220,7 @@ var __vue_inject_styles__$8 = undefined;
 var __vue_scope_id__$8 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$8 = "data-v-0c836b6a";
+var __vue_module_identifier__$8 = "data-v-092cabe2";
 /* functional template */
 
 var __vue_is_functional_template__$8 = true;
@@ -17094,9 +19234,14 @@ var __vue_component__$8 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$8,
   staticRenderFns: __vue_staticRenderFns__$8
 }, __vue_inject_styles__$8, __vue_script__$8, __vue_scope_id__$8, __vue_is_functional_template__$8, __vue_module_identifier__$8, false, undefined, undefined, undefined);//
-var script$7 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$7 = {
   name: 'WarningIcon'
-});/* script */
+};/* script */
 var __vue_script__$7 = script$7;
 /* template */
 
@@ -17122,7 +19267,7 @@ var __vue_inject_styles__$7 = undefined;
 var __vue_scope_id__$7 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$7 = "data-v-55a52cf6";
+var __vue_module_identifier__$7 = "data-v-267b0088";
 /* functional template */
 
 var __vue_is_functional_template__$7 = true;
@@ -17136,9 +19281,14 @@ var __vue_component__$7 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$7,
   staticRenderFns: __vue_staticRenderFns__$7
 }, __vue_inject_styles__$7, __vue_script__$7, __vue_scope_id__$7, __vue_is_functional_template__$7, __vue_module_identifier__$7, false, undefined, undefined, undefined);//
-var script$6 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$6 = {
   name: 'WindowCheckIcon'
-});/* script */
+};/* script */
 var __vue_script__$6 = script$6;
 /* template */
 
@@ -17164,7 +19314,7 @@ var __vue_inject_styles__$6 = undefined;
 var __vue_scope_id__$6 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$6 = "data-v-6131552e";
+var __vue_module_identifier__$6 = "data-v-a6b45516";
 /* functional template */
 
 var __vue_is_functional_template__$6 = true;
@@ -17178,9 +19328,14 @@ var __vue_component__$6 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$6,
   staticRenderFns: __vue_staticRenderFns__$6
 }, __vue_inject_styles__$6, __vue_script__$6, __vue_scope_id__$6, __vue_is_functional_template__$6, __vue_module_identifier__$6, false, undefined, undefined, undefined);//
-var script$5 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$5 = {
   name: 'WindowCloseIcon'
-});/* script */
+};/* script */
 var __vue_script__$5 = script$5;
 /* template */
 
@@ -17206,7 +19361,7 @@ var __vue_inject_styles__$5 = undefined;
 var __vue_scope_id__$5 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$5 = "data-v-9b02bddc";
+var __vue_module_identifier__$5 = "data-v-5ef4b26c";
 /* functional template */
 
 var __vue_is_functional_template__$5 = true;
@@ -17220,9 +19375,14 @@ var __vue_component__$5 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$5,
   staticRenderFns: __vue_staticRenderFns__$5
 }, __vue_inject_styles__$5, __vue_script__$5, __vue_scope_id__$5, __vue_is_functional_template__$5, __vue_module_identifier__$5, false, undefined, undefined, undefined);//
-var script$4 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$4 = {
   name: 'WindowCodeBlockIcon'
-});/* script */
+};/* script */
 var __vue_script__$4 = script$4;
 /* template */
 
@@ -17248,7 +19408,7 @@ var __vue_inject_styles__$4 = undefined;
 var __vue_scope_id__$4 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$4 = "data-v-00507334";
+var __vue_module_identifier__$4 = "data-v-1119c50a";
 /* functional template */
 
 var __vue_is_functional_template__$4 = true;
@@ -17262,9 +19422,14 @@ var __vue_component__$4 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$4,
   staticRenderFns: __vue_staticRenderFns__$4
 }, __vue_inject_styles__$4, __vue_script__$4, __vue_scope_id__$4, __vue_is_functional_template__$4, __vue_module_identifier__$4, false, undefined, undefined, undefined);//
-var script$3 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$3 = {
   name: 'WindowSidebarIcon'
-});/* script */
+};/* script */
 var __vue_script__$3 = script$3;
 /* template */
 
@@ -17290,7 +19455,7 @@ var __vue_inject_styles__$3 = undefined;
 var __vue_scope_id__$3 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$3 = "data-v-aeaaa640";
+var __vue_module_identifier__$3 = "data-v-d68acbc4";
 /* functional template */
 
 var __vue_is_functional_template__$3 = true;
@@ -17304,9 +19469,14 @@ var __vue_component__$3 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$3,
   staticRenderFns: __vue_staticRenderFns__$3
 }, __vue_inject_styles__$3, __vue_script__$3, __vue_scope_id__$3, __vue_is_functional_template__$3, __vue_module_identifier__$3, false, undefined, undefined, undefined);//
-var script$2 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$2 = {
   name: 'WindowTerminalIcon'
-});/* script */
+};/* script */
 var __vue_script__$2 = script$2;
 /* template */
 
@@ -17332,7 +19502,7 @@ var __vue_inject_styles__$2 = undefined;
 var __vue_scope_id__$2 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$2 = "data-v-55749944";
+var __vue_module_identifier__$2 = "data-v-a4365224";
 /* functional template */
 
 var __vue_is_functional_template__$2 = true;
@@ -17346,9 +19516,14 @@ var __vue_component__$2 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$2,
   staticRenderFns: __vue_staticRenderFns__$2
 }, __vue_inject_styles__$2, __vue_script__$2, __vue_scope_id__$2, __vue_is_functional_template__$2, __vue_module_identifier__$2, false, undefined, undefined, undefined);//
-var script$1 = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script$1 = {
   name: 'WindowIcon'
-});/* script */
+};/* script */
 var __vue_script__$1 = script$1;
 /* template */
 
@@ -17374,7 +19549,7 @@ var __vue_inject_styles__$1 = undefined;
 var __vue_scope_id__$1 = undefined;
 /* module identifier */
 
-var __vue_module_identifier__$1 = "data-v-a6b84976";
+var __vue_module_identifier__$1 = "data-v-f036bb32";
 /* functional template */
 
 var __vue_is_functional_template__$1 = true;
@@ -17388,9 +19563,14 @@ var __vue_component__$1 = /*#__PURE__*/normalizeComponent({
   render: __vue_render__$1,
   staticRenderFns: __vue_staticRenderFns__$1
 }, __vue_inject_styles__$1, __vue_script__$1, __vue_scope_id__$1, __vue_is_functional_template__$1, __vue_module_identifier__$1, false, undefined, undefined, undefined);//
-var script = Vue__default['default'].extend({
+//
+//
+//
+//
+//
+var script = {
   name: 'YoutubeIcon'
-});/* script */
+};/* script */
 var __vue_script__ = script;
 /* template */
 
@@ -17416,7 +19596,7 @@ var __vue_inject_styles__ = undefined;
 var __vue_scope_id__ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__ = "data-v-1666bfc7";
+var __vue_module_identifier__ = "data-v-54b8bcd2";
 /* functional template */
 
 var __vue_is_functional_template__ = true;
@@ -17429,7 +19609,7 @@ var __vue_is_functional_template__ = true;
 var __vue_component__ = /*#__PURE__*/normalizeComponent({
   render: __vue_render__,
   staticRenderFns: __vue_staticRenderFns__
-}, __vue_inject_styles__, __vue_script__, __vue_scope_id__, __vue_is_functional_template__, __vue_module_identifier__, false, undefined, undefined, undefined);var components$1=/*#__PURE__*/Object.freeze({__proto__:null,AddColumnIcon: __vue_component__$6r,AddRowIcon: __vue_component__$6q,AddToQueueIcon: __vue_component__$6p,AdobeXdIcon: __vue_component__$6o,AirplayIcon: __vue_component__$6n,AlarmAddIcon: __vue_component__$6m,AlarmIcon: __vue_component__$6l,AppStoreIcon: __vue_component__$6k,AppleIcon: __vue_component__$6j,BarBottomIcon: __vue_component__$6i,BarChartAltIcon: __vue_component__$6h,BarChartCircleIcon: __vue_component__$6g,BarChartHorizontalIcon: __vue_component__$6f,BarChartSquareIcon: __vue_component__$6e,BarChartIcon: __vue_component__$6d,BarLeftIcon: __vue_component__$6c,BarRightIcon: __vue_component__$6b,BarTopIcon: __vue_component__$6a,BarcodeIcon: __vue_component__$69,BehanceIcon: __vue_component__$68,BlackLivesMatterIcon: __vue_component__$67,BoldIcon: __vue_component__$66,BuildingIcon: __vue_component__$65,BulbIcon: __vue_component__$64,CalendarCalendarIcon: __vue_component__$63,CalendarCheckIcon: __vue_component__$62,CalendarEditIcon: __vue_component__$61,CalendarEventIcon: __vue_component__$60,CalendarMinusIcon: __vue_component__$5$,CalendarPlusIcon: __vue_component__$5_,CalendarWeekIcon: __vue_component__$5Z,CalendarXIcon: __vue_component__$5Y,CalendarIcon: __vue_component__$5X,CaretDownIcon: __vue_component__$5W,CaretLeftIcon: __vue_component__$5V,CaretRightIcon: __vue_component__$5U,CaretUpIcon: __vue_component__$5T,CastIcon: __vue_component__$5S,ChatAltIcon: __vue_component__$5R,ChatIcon: __vue_component__$5Q,CheckAllBigIcon: __vue_component__$5P,CheckAllIcon: __vue_component__$5O,CheckBigIcon: __vue_component__$5N,CheckBoldIcon: __vue_component__$5M,CheckIcon: __vue_component__$5L,CheckboxCheckedIcon: __vue_component__$5K,CheckboxSquareIcon: __vue_component__$5J,CheckboxIcon: __vue_component__$5I,ChevronBigDownIcon: __vue_component__$5H,ChevronBigLeftIcon: __vue_component__$5G,ChevronBigRightIcon: __vue_component__$5F,ChevronBigUpIcon: __vue_component__$5E,ChevronDownIcon: __vue_component__$5D,ChevronDuoDownIcon: __vue_component__$5C,ChevronDuoLeftIcon: __vue_component__$5B,ChevronDuoRightIcon: __vue_component__$5A,ChevronDuoUpIcon: __vue_component__$5z,ChevronLeftIcon: __vue_component__$5y,ChevronRightIcon: __vue_component__$5x,ChevronUpIcon: __vue_component__$5w,CircleCheckOutlineIcon: __vue_component__$5v,CircleCheckIcon: __vue_component__$5u,CircleChevronDownIcon: __vue_component__$5t,CircleChevronLeftIcon: __vue_component__$5s,CircleChevronRightIcon: __vue_component__$5r,CircleChevronUpIcon: __vue_component__$5q,CircleDownIcon: __vue_component__$5p,CircleLeftIcon: __vue_component__$5o,CircleRightIcon: __vue_component__$5n,CircleUpIcon: __vue_component__$5m,ClockIcon: __vue_component__$5l,CloseBigIcon: __vue_component__$5k,CloseSmallIcon: __vue_component__$5j,CloudCheckIcon: __vue_component__$5i,CloudCloseIcon: __vue_component__$5h,CloudDownIcon: __vue_component__$5g,CloudOffIcon: __vue_component__$5f,CloudOutlineIcon: __vue_component__$5e,CloudUpIcon: __vue_component__$5d,CloudIcon: __vue_component__$5c,CodeIcon: __vue_component__$5b,CoffeeTogoIcon: __vue_component__$5a,ColorIcon: __vue_component__$59,CombineCellsIcon: __vue_component__$58,CommandIcon: __vue_component__$57,ConfusedIcon: __vue_component__$56,CookieIcon: __vue_component__$55,CooliconsIcon: __vue_component__$54,CopyIcon: __vue_component__$53,CreditCardAltIcon: __vue_component__$52,CreditCardIcon: __vue_component__$51,Css3Icon: __vue_component__$50,CupcakeIcon: __vue_component__$4$,CylinderIcon: __vue_component__$4_,Dashboard02Icon: __vue_component__$4Z,DashboardIcon: __vue_component__$4Y,DataIcon: __vue_component__$4X,DeleteColumnIcon: __vue_component__$4W,DeleteRowIcon: __vue_component__$4V,DevicesIcon: __vue_component__$4U,DiscordIcon: __vue_component__$4T,Dot01XsIcon: __vue_component__$4S,Dot02SIcon: __vue_component__$4R,Dot03MIcon: __vue_component__$4Q,Dot04LIcon: __vue_component__$4P,Dot05XlIcon: __vue_component__$4O,DoubleQuotesLIcon: __vue_component__$4N,DoubleQuotesRIcon: __vue_component__$4M,DoughnutChartIcon: __vue_component__$4L,DownloadDoneIcon: __vue_component__$4K,DownloadIcon: __vue_component__$4J,DribbbleIcon: __vue_component__$4I,DropboxIcon: __vue_component__$4H,EditIcon: __vue_component__$4G,ErrorOutlineIcon: __vue_component__$4F,ErrorIcon: __vue_component__$4E,ExitIcon: __vue_component__$4D,ExpandIcon: __vue_component__$4C,ExternalLinkIcon: __vue_component__$4B,FacebookIcon: __vue_component__$4A,FastForwardIcon: __vue_component__$4z,FastRewindIcon: __vue_component__$4y,FigmaIcon: __vue_component__$4x,FileArchiveIcon: __vue_component__$4w,FileBlankFillIcon: __vue_component__$4v,FileBlankOutlineIcon: __vue_component__$4u,FileCssIcon: __vue_component__$4t,FileFindIcon: __vue_component__$4s,FileHtmlIcon: __vue_component__$4r,FileImageIcon: __vue_component__$4q,FileJpgIcon: __vue_component__$4p,FileJsIcon: __vue_component__$4o,FileMinusIcon: __vue_component__$4n,FileNewIcon: __vue_component__$4m,FilePdfIcon: __vue_component__$4l,FilePngIcon: __vue_component__$4k,FileSvgIcon: __vue_component__$4j,FilterOffOutlineIcon: __vue_component__$4i,FilterOffIcon: __vue_component__$4h,FilterOutlineIcon: __vue_component__$4g,FilterIcon: __vue_component__$4f,FirstPageIcon: __vue_component__$4e,FlagFillIcon: __vue_component__$4d,FlagOutlineIcon: __vue_component__$4c,FolderMinusIcon: __vue_component__$4b,FolderOpenIcon: __vue_component__$4a,FolderPlusIcon: __vue_component__$49,FolderIcon: __vue_component__$48,GithubIcon: __vue_component__$47,GoogleIcon: __vue_component__$46,GridBigRoundIcon: __vue_component__$45,GridBigIcon: __vue_component__$44,GridHorizontalRoundIcon: __vue_component__$43,GridHorizontalIcon: __vue_component__$42,GridRoundIcon: __vue_component__$41,GridSmallRoundIcon: __vue_component__$40,GridSmallIcon: __vue_component__$3$,GridVerticalRoundIcon: __vue_component__$3_,GridVerticalIcon: __vue_component__$3Z,GridIcon: __vue_component__$3Y,GroupAltIcon: __vue_component__$3X,GroupIcon: __vue_component__$3W,HamburgerIcon: __vue_component__$3V,HappyIcon: __vue_component__$3U,HeadingH1Icon: __vue_component__$3T,HeadingH2Icon: __vue_component__$3S,HeadingH3Icon: __vue_component__$3R,HeadingH4Icon: __vue_component__$3Q,HeadingH5Icon: __vue_component__$3P,HeadingH6Icon: __vue_component__$3O,HeadingIcon: __vue_component__$3N,HeartFillIcon: __vue_component__$3M,HeartOutlineIcon: __vue_component__$3L,HelpCircleOutlineIcon: __vue_component__$3K,HelpCircleIcon: __vue_component__$3J,HelpQuestionmarkIcon: __vue_component__$3I,HideIcon: __vue_component__$3H,HomeAltCheckIcon: __vue_component__$3G,HomeAltFillIcon: __vue_component__$3F,HomeAltMinusIcon: __vue_component__$3E,HomeAltOutlineIcon: __vue_component__$3D,HomeAltPlusIcon: __vue_component__$3C,HomeAltXIcon: __vue_component__$3B,HomeCheckIcon: __vue_component__$3A,HomeFillIcon: __vue_component__$3z,HomeHeart1Icon: __vue_component__$3y,HomeHeartIcon: __vue_component__$3x,HomeMinusIcon: __vue_component__$3w,HomeOutlineIcon: __vue_component__$3v,HomePlusIcon: __vue_component__$3u,HomeXIcon: __vue_component__$3t,Html5Icon: __vue_component__$3s,IdCardIcon: __vue_component__$3r,ImageAltIcon: __vue_component__$3q,ImageIcon: __vue_component__$3p,InfoCircleOutlineIcon: __vue_component__$3o,InfoCircleIcon: __vue_component__$3n,InfoSquareOutlineIcon: __vue_component__$3m,InfoSquareIcon: __vue_component__$3l,InstagramIcon: __vue_component__$3k,InvisionIcon: __vue_component__$3j,ItalicIcon: __vue_component__$3i,JavascriptIcon: __vue_component__$3h,LabelIcon: __vue_component__$3g,LaptopIcon: __vue_component__$3f,LastPageIcon: __vue_component__$3e,LayersAltIcon: __vue_component__$3d,LayersIcon: __vue_component__$3c,LineBreakIcon: __vue_component__$3b,LineChartDownIcon: __vue_component__$3a,LineChartUpIcon: __vue_component__$39,LineLIcon: __vue_component__$38,LineMIcon: __vue_component__$37,LineSIcon: __vue_component__$36,LineSxIcon: __vue_component__$35,LineXlIcon: __vue_component__$34,Link02Icon: __vue_component__$33,LinkIcon: __vue_component__$32,LinkedinIcon: __vue_component__$31,LinkpathIcon: __vue_component__$30,ListCheckIcon: __vue_component__$2$,ListChecklistAltIcon: __vue_component__$2_,ListChecklistIcon: __vue_component__$2Z,ListMinusIcon: __vue_component__$2Y,ListOlIcon: __vue_component__$2X,ListPlusIcon: __vue_component__$2W,ListUlIcon: __vue_component__$2V,LoadingIcon: __vue_component__$2U,LocationOutlineIcon: __vue_component__$2T,LocationIcon: __vue_component__$2S,LogOutIcon: __vue_component__$2R,LongBottomDownIcon: __vue_component__$2Q,LongBottomUpIcon: __vue_component__$2P,LongDownIcon: __vue_component__$2O,LongLeftIcon: __vue_component__$2N,LongRightIcon: __vue_component__$2M,LongUpLeftIcon: __vue_component__$2L,LongUpRightIcon: __vue_component__$2K,LongUpIcon: __vue_component__$2J,MailOpenIcon: __vue_component__$2I,MailIcon: __vue_component__$2H,MapIcon: __vue_component__$2G,MentionIcon: __vue_component__$2F,MenuAlt01Icon: __vue_component__$2E,MenuAlt02Icon: __vue_component__$2D,MenuAlt03Icon: __vue_component__$2C,MenuAlt04Icon: __vue_component__$2B,MenuAlt05Icon: __vue_component__$2A,MenuDuoIcon: __vue_component__$2z,MessageCheckIcon: __vue_component__$2y,MessageCircleIcon: __vue_component__$2x,MessageCloseIcon: __vue_component__$2w,MessageMinusIcon: __vue_component__$2v,MessagePlusAltIcon: __vue_component__$2u,MessagePlusIcon: __vue_component__$2t,MessageRoundIcon: __vue_component__$2s,MessageWritingIcon: __vue_component__$2r,MessageIcon: __vue_component__$2q,MessengerIcon: __vue_component__$2p,MinusCircleOutlineIcon: __vue_component__$2o,MinusCircleIcon: __vue_component__$2n,MinusSquareIcon: __vue_component__$2m,MinusIcon: __vue_component__$2l,MobileAltIcon: __vue_component__$2k,MobileIcon: __vue_component__$2j,MonitorIcon: __vue_component__$2i,MoonIcon: __vue_component__$2h,MoreHorizontalIcon: __vue_component__$2g,MoreVerticalIcon: __vue_component__$2f,MoveHorizontalIcon: __vue_component__$2e,MoveVerticalIcon: __vue_component__$2d,MoveIcon: __vue_component__$2c,NoteIcon: __vue_component__$2b,NotificationActiveIcon: __vue_component__$2a,NotificationDeactivatedIcon: __vue_component__$29,NotificationDotIcon: __vue_component__$28,NotificationMinusIcon: __vue_component__$27,NotificationOutlineDotIcon: __vue_component__$26,NotificationOutlineMinusIcon: __vue_component__$25,NotificationOutlinePlusIcon: __vue_component__$24,NotificationOutlineIcon: __vue_component__$23,NotificationPlusIcon: __vue_component__$22,NotificationIcon: __vue_component__$21,OffCloseIcon: __vue_component__$20,OffOutlineCloseIcon: __vue_component__$1$,ParagraphIcon: __vue_component__$1_,PathIcon: __vue_component__$1Z,PauseCircleFilledIcon: __vue_component__$1Y,PauseCircleOutlineIcon: __vue_component__$1X,PaypalIcon: __vue_component__$1W,PhoneOutlineIcon: __vue_component__$1V,PhoneIcon: __vue_component__$1U,PieChart25Icon: __vue_component__$1T,PieChart50Icon: __vue_component__$1S,PieChart75Icon: __vue_component__$1R,PieChartOutline25Icon: __vue_component__$1Q,PieChartOutlineIcon: __vue_component__$1P,PlayArrowIcon: __vue_component__$1O,PlayCircleFilledIcon: __vue_component__$1N,PlayCircleOutlineIcon: __vue_component__$1M,PlayStoreIcon: __vue_component__$1L,PlusCircleOutlineIcon: __vue_component__$1K,PlusCircleIcon: __vue_component__$1J,PlusSquareIcon: __vue_component__$1I,PlusIcon: __vue_component__$1H,QrCode1Icon: __vue_component__$1G,QrCodeIcon: __vue_component__$1F,RadioFilledIcon: __vue_component__$1E,RadioIcon: __vue_component__$1D,RedditIcon: __vue_component__$1C,RedoIcon: __vue_component__$1B,Refresh02Icon: __vue_component__$1A,RefreshIcon: __vue_component__$1z,RepeatIcon: __vue_component__$1y,SadIcon: __vue_component__$1x,SearchSmallMinusIcon: __vue_component__$1w,SearchSmallPlusIcon: __vue_component__$1v,SearchSmallIcon: __vue_component__$1u,SearchIcon: __vue_component__$1t,SelectMultipleIcon: __vue_component__$1s,SettingsFilledIcon: __vue_component__$1r,SettingsFutureIcon: __vue_component__$1q,SettingsIcon: __vue_component__$1p,ShareOutlineIcon: __vue_component__$1o,ShareIcon: __vue_component__$1n,ShortDownIcon: __vue_component__$1m,ShortLeftIcon: __vue_component__$1l,ShortRightIcon: __vue_component__$1k,ShortUpIcon: __vue_component__$1j,ShowIcon: __vue_component__$1i,ShrinkIcon: __vue_component__$1h,ShuffleIcon: __vue_component__$1g,SingleQuotesLIcon: __vue_component__$1f,SingleQuotesRIcon: __vue_component__$1e,SketchIcon: __vue_component__$1d,SkipNextIcon: __vue_component__$1c,SkipPreviousIcon: __vue_component__$1b,SlackIcon: __vue_component__$1a,Slider01Icon: __vue_component__$19,Slider02Icon: __vue_component__$18,Slider03Icon: __vue_component__$17,SmallLongDownIcon: __vue_component__$16,SmallLongLeftIcon: __vue_component__$15,SmallLongRightIcon: __vue_component__$14,SmallLongUpIcon: __vue_component__$13,SnapchatIcon: __vue_component__$12,SpectrumIcon: __vue_component__$11,SpotifyIcon: __vue_component__$10,StackOverflowIcon: __vue_component__$$,StopwatchIcon: __vue_component__$_,StrikethroughIcon: __vue_component__$Z,SubLeftIcon: __vue_component__$Y,SubRightIcon: __vue_component__$X,SunIcon: __vue_component__$W,TableAddIcon: __vue_component__$V,TableDeleteIcon: __vue_component__$U,TableIcon: __vue_component__$T,TabletIcon: __vue_component__$S,TagOutlineIcon: __vue_component__$R,TagIcon: __vue_component__$Q,TennisMatchAltIcon: __vue_component__$P,TennisMatchIcon: __vue_component__$O,TennisIcon: __vue_component__$N,TerminalIcon: __vue_component__$M,TextAlignCenterIcon: __vue_component__$L,TextAlignJustifyIcon: __vue_component__$K,TextAlignLeftIcon: __vue_component__$J,TextAlignRightIcon: __vue_component__$I,ThinBigDownIcon: __vue_component__$H,ThinBigLeftIcon: __vue_component__$G,ThinBigRightIcon: __vue_component__$F,ThinBigUpIcon: __vue_component__$E,ThinLong02DownIcon: __vue_component__$D,ThinLong02LeftIcon: __vue_component__$C,ThinLong02RightIcon: __vue_component__$B,ThinLong02UpIcon: __vue_component__$A,ThinLongDownIcon: __vue_component__$z,ThinLongLeftIcon: __vue_component__$y,ThinLongRightIcon: __vue_component__$x,ThinLongUpIcon: __vue_component__$w,TransferIcon: __vue_component__$v,TrashEmptyIcon: __vue_component__$u,TrashFullIcon: __vue_component__$t,TrelloIcon: __vue_component__$s,TrendingDownIcon: __vue_component__$r,TrendingUpIcon: __vue_component__$q,TwitterIcon: __vue_component__$p,UnderlineIcon: __vue_component__$o,UndoIcon: __vue_component__$n,UnfoldLessIcon: __vue_component__$m,UnfoldMoreIcon: __vue_component__$l,UnlinkIcon: __vue_component__$k,UnsplashIcon: __vue_component__$j,UserCheckIcon: __vue_component__$i,UserCircleIcon: __vue_component__$h,UserCloseIcon: __vue_component__$g,UserHeartIcon: __vue_component__$f,UserMinusIcon: __vue_component__$e,UserPinIcon: __vue_component__$d,UserPlusIcon: __vue_component__$c,UserSquareIcon: __vue_component__$b,UserVoiceIcon: __vue_component__$a,UserIcon: __vue_component__$9,WarningOutlineIcon: __vue_component__$8,WarningIcon: __vue_component__$7,WindowCheckIcon: __vue_component__$6,WindowCloseIcon: __vue_component__$5,WindowCodeBlockIcon: __vue_component__$4,WindowSidebarIcon: __vue_component__$3,WindowTerminalIcon: __vue_component__$2,WindowIcon: __vue_component__$1,YoutubeIcon: __vue_component__});var install = function installVueCoolicons(Vue) {
+}, __vue_inject_styles__, __vue_script__, __vue_scope_id__, __vue_is_functional_template__, __vue_module_identifier__, false, undefined, undefined, undefined);/* eslint-disable import/prefer-default-export */var components$1=/*#__PURE__*/Object.freeze({__proto__:null,AddColumnIcon: __vue_component__$6r,AddRowIcon: __vue_component__$6q,AddToQueueIcon: __vue_component__$6p,AdobeXdIcon: __vue_component__$6o,AirplayIcon: __vue_component__$6n,AlarmAddIcon: __vue_component__$6m,AlarmIcon: __vue_component__$6l,AppStoreIcon: __vue_component__$6k,AppleIcon: __vue_component__$6j,BarBottomIcon: __vue_component__$6i,BarChartAltIcon: __vue_component__$6h,BarChartCircleIcon: __vue_component__$6g,BarChartHorizontalIcon: __vue_component__$6f,BarChartSquareIcon: __vue_component__$6e,BarChartIcon: __vue_component__$6d,BarLeftIcon: __vue_component__$6c,BarRightIcon: __vue_component__$6b,BarTopIcon: __vue_component__$6a,BarcodeIcon: __vue_component__$69,BehanceIcon: __vue_component__$68,BlackLivesMatterIcon: __vue_component__$67,BoldIcon: __vue_component__$66,BuildingIcon: __vue_component__$65,BulbIcon: __vue_component__$64,CalendarCalendarIcon: __vue_component__$63,CalendarCheckIcon: __vue_component__$62,CalendarEditIcon: __vue_component__$61,CalendarEventIcon: __vue_component__$60,CalendarMinusIcon: __vue_component__$5$,CalendarPlusIcon: __vue_component__$5_,CalendarWeekIcon: __vue_component__$5Z,CalendarXIcon: __vue_component__$5Y,CalendarIcon: __vue_component__$5X,CaretDownIcon: __vue_component__$5W,CaretLeftIcon: __vue_component__$5V,CaretRightIcon: __vue_component__$5U,CaretUpIcon: __vue_component__$5T,CastIcon: __vue_component__$5S,ChatAltIcon: __vue_component__$5R,ChatIcon: __vue_component__$5Q,CheckAllBigIcon: __vue_component__$5P,CheckAllIcon: __vue_component__$5O,CheckBigIcon: __vue_component__$5N,CheckBoldIcon: __vue_component__$5M,CheckIcon: __vue_component__$5L,CheckboxCheckedIcon: __vue_component__$5K,CheckboxSquareIcon: __vue_component__$5J,CheckboxIcon: __vue_component__$5I,ChevronBigDownIcon: __vue_component__$5H,ChevronBigLeftIcon: __vue_component__$5G,ChevronBigRightIcon: __vue_component__$5F,ChevronBigUpIcon: __vue_component__$5E,ChevronDownIcon: __vue_component__$5D,ChevronDuoDownIcon: __vue_component__$5C,ChevronDuoLeftIcon: __vue_component__$5B,ChevronDuoRightIcon: __vue_component__$5A,ChevronDuoUpIcon: __vue_component__$5z,ChevronLeftIcon: __vue_component__$5y,ChevronRightIcon: __vue_component__$5x,ChevronUpIcon: __vue_component__$5w,CircleCheckOutlineIcon: __vue_component__$5v,CircleCheckIcon: __vue_component__$5u,CircleChevronDownIcon: __vue_component__$5t,CircleChevronLeftIcon: __vue_component__$5s,CircleChevronRightIcon: __vue_component__$5r,CircleChevronUpIcon: __vue_component__$5q,CircleDownIcon: __vue_component__$5p,CircleLeftIcon: __vue_component__$5o,CircleRightIcon: __vue_component__$5n,CircleUpIcon: __vue_component__$5m,ClockIcon: __vue_component__$5l,CloseBigIcon: __vue_component__$5k,CloseSmallIcon: __vue_component__$5j,CloudCheckIcon: __vue_component__$5i,CloudCloseIcon: __vue_component__$5h,CloudDownIcon: __vue_component__$5g,CloudOffIcon: __vue_component__$5f,CloudOutlineIcon: __vue_component__$5e,CloudUpIcon: __vue_component__$5d,CloudIcon: __vue_component__$5c,CodeIcon: __vue_component__$5b,CoffeeTogoIcon: __vue_component__$5a,ColorIcon: __vue_component__$59,CombineCellsIcon: __vue_component__$58,CommandIcon: __vue_component__$57,ConfusedIcon: __vue_component__$56,CookieIcon: __vue_component__$55,CooliconsIcon: __vue_component__$54,CopyIcon: __vue_component__$53,CreditCardAltIcon: __vue_component__$52,CreditCardIcon: __vue_component__$51,Css3Icon: __vue_component__$50,CupcakeIcon: __vue_component__$4$,CylinderIcon: __vue_component__$4_,Dashboard02Icon: __vue_component__$4Z,DashboardIcon: __vue_component__$4Y,DataIcon: __vue_component__$4X,DeleteColumnIcon: __vue_component__$4W,DeleteRowIcon: __vue_component__$4V,DevicesIcon: __vue_component__$4U,DiscordIcon: __vue_component__$4T,Dot01XsIcon: __vue_component__$4S,Dot02SIcon: __vue_component__$4R,Dot03MIcon: __vue_component__$4Q,Dot04LIcon: __vue_component__$4P,Dot05XlIcon: __vue_component__$4O,DoubleQuotesLIcon: __vue_component__$4N,DoubleQuotesRIcon: __vue_component__$4M,DoughnutChartIcon: __vue_component__$4L,DownloadDoneIcon: __vue_component__$4K,DownloadIcon: __vue_component__$4J,DribbbleIcon: __vue_component__$4I,DropboxIcon: __vue_component__$4H,EditIcon: __vue_component__$4G,ErrorOutlineIcon: __vue_component__$4F,ErrorIcon: __vue_component__$4E,ExitIcon: __vue_component__$4D,ExpandIcon: __vue_component__$4C,ExternalLinkIcon: __vue_component__$4B,FacebookIcon: __vue_component__$4A,FastForwardIcon: __vue_component__$4z,FastRewindIcon: __vue_component__$4y,FigmaIcon: __vue_component__$4x,FileArchiveIcon: __vue_component__$4w,FileBlankFillIcon: __vue_component__$4v,FileBlankOutlineIcon: __vue_component__$4u,FileCssIcon: __vue_component__$4t,FileFindIcon: __vue_component__$4s,FileHtmlIcon: __vue_component__$4r,FileImageIcon: __vue_component__$4q,FileJpgIcon: __vue_component__$4p,FileJsIcon: __vue_component__$4o,FileMinusIcon: __vue_component__$4n,FileNewIcon: __vue_component__$4m,FilePdfIcon: __vue_component__$4l,FilePngIcon: __vue_component__$4k,FileSvgIcon: __vue_component__$4j,FilterOffOutlineIcon: __vue_component__$4i,FilterOffIcon: __vue_component__$4h,FilterOutlineIcon: __vue_component__$4g,FilterIcon: __vue_component__$4f,FirstPageIcon: __vue_component__$4e,FlagFillIcon: __vue_component__$4d,FlagOutlineIcon: __vue_component__$4c,FolderMinusIcon: __vue_component__$4b,FolderOpenIcon: __vue_component__$4a,FolderPlusIcon: __vue_component__$49,FolderIcon: __vue_component__$48,GithubIcon: __vue_component__$47,GoogleIcon: __vue_component__$46,GridBigRoundIcon: __vue_component__$45,GridBigIcon: __vue_component__$44,GridHorizontalRoundIcon: __vue_component__$43,GridHorizontalIcon: __vue_component__$42,GridRoundIcon: __vue_component__$41,GridSmallRoundIcon: __vue_component__$40,GridSmallIcon: __vue_component__$3$,GridVerticalRoundIcon: __vue_component__$3_,GridVerticalIcon: __vue_component__$3Z,GridIcon: __vue_component__$3Y,GroupAltIcon: __vue_component__$3X,GroupIcon: __vue_component__$3W,HamburgerIcon: __vue_component__$3V,HappyIcon: __vue_component__$3U,HeadingH1Icon: __vue_component__$3T,HeadingH2Icon: __vue_component__$3S,HeadingH3Icon: __vue_component__$3R,HeadingH4Icon: __vue_component__$3Q,HeadingH5Icon: __vue_component__$3P,HeadingH6Icon: __vue_component__$3O,HeadingIcon: __vue_component__$3N,HeartFillIcon: __vue_component__$3M,HeartOutlineIcon: __vue_component__$3L,HelpCircleOutlineIcon: __vue_component__$3K,HelpCircleIcon: __vue_component__$3J,HelpQuestionmarkIcon: __vue_component__$3I,HideIcon: __vue_component__$3H,HomeAltCheckIcon: __vue_component__$3G,HomeAltFillIcon: __vue_component__$3F,HomeAltMinusIcon: __vue_component__$3E,HomeAltOutlineIcon: __vue_component__$3D,HomeAltPlusIcon: __vue_component__$3C,HomeAltXIcon: __vue_component__$3B,HomeCheckIcon: __vue_component__$3A,HomeFillIcon: __vue_component__$3z,HomeHeart1Icon: __vue_component__$3y,HomeHeartIcon: __vue_component__$3x,HomeMinusIcon: __vue_component__$3w,HomeOutlineIcon: __vue_component__$3v,HomePlusIcon: __vue_component__$3u,HomeXIcon: __vue_component__$3t,Html5Icon: __vue_component__$3s,IdCardIcon: __vue_component__$3r,ImageAltIcon: __vue_component__$3q,ImageIcon: __vue_component__$3p,InfoCircleOutlineIcon: __vue_component__$3o,InfoCircleIcon: __vue_component__$3n,InfoSquareOutlineIcon: __vue_component__$3m,InfoSquareIcon: __vue_component__$3l,InstagramIcon: __vue_component__$3k,InvisionIcon: __vue_component__$3j,ItalicIcon: __vue_component__$3i,JavascriptIcon: __vue_component__$3h,LabelIcon: __vue_component__$3g,LaptopIcon: __vue_component__$3f,LastPageIcon: __vue_component__$3e,LayersAltIcon: __vue_component__$3d,LayersIcon: __vue_component__$3c,LineBreakIcon: __vue_component__$3b,LineChartDownIcon: __vue_component__$3a,LineChartUpIcon: __vue_component__$39,LineLIcon: __vue_component__$38,LineMIcon: __vue_component__$37,LineSIcon: __vue_component__$36,LineSxIcon: __vue_component__$35,LineXlIcon: __vue_component__$34,Link02Icon: __vue_component__$33,LinkIcon: __vue_component__$32,LinkedinIcon: __vue_component__$31,LinkpathIcon: __vue_component__$30,ListCheckIcon: __vue_component__$2$,ListChecklistAltIcon: __vue_component__$2_,ListChecklistIcon: __vue_component__$2Z,ListMinusIcon: __vue_component__$2Y,ListOlIcon: __vue_component__$2X,ListPlusIcon: __vue_component__$2W,ListUlIcon: __vue_component__$2V,LoadingIcon: __vue_component__$2U,LocationOutlineIcon: __vue_component__$2T,LocationIcon: __vue_component__$2S,LogOutIcon: __vue_component__$2R,LongBottomDownIcon: __vue_component__$2Q,LongBottomUpIcon: __vue_component__$2P,LongDownIcon: __vue_component__$2O,LongLeftIcon: __vue_component__$2N,LongRightIcon: __vue_component__$2M,LongUpLeftIcon: __vue_component__$2L,LongUpRightIcon: __vue_component__$2K,LongUpIcon: __vue_component__$2J,MailOpenIcon: __vue_component__$2I,MailIcon: __vue_component__$2H,MapIcon: __vue_component__$2G,MentionIcon: __vue_component__$2F,MenuAlt01Icon: __vue_component__$2E,MenuAlt02Icon: __vue_component__$2D,MenuAlt03Icon: __vue_component__$2C,MenuAlt04Icon: __vue_component__$2B,MenuAlt05Icon: __vue_component__$2A,MenuDuoIcon: __vue_component__$2z,MessageCheckIcon: __vue_component__$2y,MessageCircleIcon: __vue_component__$2x,MessageCloseIcon: __vue_component__$2w,MessageMinusIcon: __vue_component__$2v,MessagePlusAltIcon: __vue_component__$2u,MessagePlusIcon: __vue_component__$2t,MessageRoundIcon: __vue_component__$2s,MessageWritingIcon: __vue_component__$2r,MessageIcon: __vue_component__$2q,MessengerIcon: __vue_component__$2p,MinusCircleOutlineIcon: __vue_component__$2o,MinusCircleIcon: __vue_component__$2n,MinusSquareIcon: __vue_component__$2m,MinusIcon: __vue_component__$2l,MobileAltIcon: __vue_component__$2k,MobileIcon: __vue_component__$2j,MonitorIcon: __vue_component__$2i,MoonIcon: __vue_component__$2h,MoreHorizontalIcon: __vue_component__$2g,MoreVerticalIcon: __vue_component__$2f,MoveHorizontalIcon: __vue_component__$2e,MoveVerticalIcon: __vue_component__$2d,MoveIcon: __vue_component__$2c,NoteIcon: __vue_component__$2b,NotificationActiveIcon: __vue_component__$2a,NotificationDeactivatedIcon: __vue_component__$29,NotificationDotIcon: __vue_component__$28,NotificationMinusIcon: __vue_component__$27,NotificationOutlineDotIcon: __vue_component__$26,NotificationOutlineMinusIcon: __vue_component__$25,NotificationOutlinePlusIcon: __vue_component__$24,NotificationOutlineIcon: __vue_component__$23,NotificationPlusIcon: __vue_component__$22,NotificationIcon: __vue_component__$21,OffCloseIcon: __vue_component__$20,OffOutlineCloseIcon: __vue_component__$1$,ParagraphIcon: __vue_component__$1_,PathIcon: __vue_component__$1Z,PauseCircleFilledIcon: __vue_component__$1Y,PauseCircleOutlineIcon: __vue_component__$1X,PaypalIcon: __vue_component__$1W,PhoneOutlineIcon: __vue_component__$1V,PhoneIcon: __vue_component__$1U,PieChart25Icon: __vue_component__$1T,PieChart50Icon: __vue_component__$1S,PieChart75Icon: __vue_component__$1R,PieChartOutline25Icon: __vue_component__$1Q,PieChartOutlineIcon: __vue_component__$1P,PlayArrowIcon: __vue_component__$1O,PlayCircleFilledIcon: __vue_component__$1N,PlayCircleOutlineIcon: __vue_component__$1M,PlayStoreIcon: __vue_component__$1L,PlusCircleOutlineIcon: __vue_component__$1K,PlusCircleIcon: __vue_component__$1J,PlusSquareIcon: __vue_component__$1I,PlusIcon: __vue_component__$1H,QrCode1Icon: __vue_component__$1G,QrCodeIcon: __vue_component__$1F,RadioFilledIcon: __vue_component__$1E,RadioIcon: __vue_component__$1D,RedditIcon: __vue_component__$1C,RedoIcon: __vue_component__$1B,Refresh02Icon: __vue_component__$1A,RefreshIcon: __vue_component__$1z,RepeatIcon: __vue_component__$1y,SadIcon: __vue_component__$1x,SearchSmallMinusIcon: __vue_component__$1w,SearchSmallPlusIcon: __vue_component__$1v,SearchSmallIcon: __vue_component__$1u,SearchIcon: __vue_component__$1t,SelectMultipleIcon: __vue_component__$1s,SettingsFilledIcon: __vue_component__$1r,SettingsFutureIcon: __vue_component__$1q,SettingsIcon: __vue_component__$1p,ShareOutlineIcon: __vue_component__$1o,ShareIcon: __vue_component__$1n,ShortDownIcon: __vue_component__$1m,ShortLeftIcon: __vue_component__$1l,ShortRightIcon: __vue_component__$1k,ShortUpIcon: __vue_component__$1j,ShowIcon: __vue_component__$1i,ShrinkIcon: __vue_component__$1h,ShuffleIcon: __vue_component__$1g,SingleQuotesLIcon: __vue_component__$1f,SingleQuotesRIcon: __vue_component__$1e,SketchIcon: __vue_component__$1d,SkipNextIcon: __vue_component__$1c,SkipPreviousIcon: __vue_component__$1b,SlackIcon: __vue_component__$1a,Slider01Icon: __vue_component__$19,Slider02Icon: __vue_component__$18,Slider03Icon: __vue_component__$17,SmallLongDownIcon: __vue_component__$16,SmallLongLeftIcon: __vue_component__$15,SmallLongRightIcon: __vue_component__$14,SmallLongUpIcon: __vue_component__$13,SnapchatIcon: __vue_component__$12,SpectrumIcon: __vue_component__$11,SpotifyIcon: __vue_component__$10,StackOverflowIcon: __vue_component__$$,StopwatchIcon: __vue_component__$_,StrikethroughIcon: __vue_component__$Z,SubLeftIcon: __vue_component__$Y,SubRightIcon: __vue_component__$X,SunIcon: __vue_component__$W,TableAddIcon: __vue_component__$V,TableDeleteIcon: __vue_component__$U,TableIcon: __vue_component__$T,TabletIcon: __vue_component__$S,TagOutlineIcon: __vue_component__$R,TagIcon: __vue_component__$Q,TennisMatchAltIcon: __vue_component__$P,TennisMatchIcon: __vue_component__$O,TennisIcon: __vue_component__$N,TerminalIcon: __vue_component__$M,TextAlignCenterIcon: __vue_component__$L,TextAlignJustifyIcon: __vue_component__$K,TextAlignLeftIcon: __vue_component__$J,TextAlignRightIcon: __vue_component__$I,ThinBigDownIcon: __vue_component__$H,ThinBigLeftIcon: __vue_component__$G,ThinBigRightIcon: __vue_component__$F,ThinBigUpIcon: __vue_component__$E,ThinLong02DownIcon: __vue_component__$D,ThinLong02LeftIcon: __vue_component__$C,ThinLong02RightIcon: __vue_component__$B,ThinLong02UpIcon: __vue_component__$A,ThinLongDownIcon: __vue_component__$z,ThinLongLeftIcon: __vue_component__$y,ThinLongRightIcon: __vue_component__$x,ThinLongUpIcon: __vue_component__$w,TransferIcon: __vue_component__$v,TrashEmptyIcon: __vue_component__$u,TrashFullIcon: __vue_component__$t,TrelloIcon: __vue_component__$s,TrendingDownIcon: __vue_component__$r,TrendingUpIcon: __vue_component__$q,TwitterIcon: __vue_component__$p,UnderlineIcon: __vue_component__$o,UndoIcon: __vue_component__$n,UnfoldLessIcon: __vue_component__$m,UnfoldMoreIcon: __vue_component__$l,UnlinkIcon: __vue_component__$k,UnsplashIcon: __vue_component__$j,UserCheckIcon: __vue_component__$i,UserCircleIcon: __vue_component__$h,UserCloseIcon: __vue_component__$g,UserHeartIcon: __vue_component__$f,UserMinusIcon: __vue_component__$e,UserPinIcon: __vue_component__$d,UserPlusIcon: __vue_component__$c,UserSquareIcon: __vue_component__$b,UserVoiceIcon: __vue_component__$a,UserIcon: __vue_component__$9,WarningOutlineIcon: __vue_component__$8,WarningIcon: __vue_component__$7,WindowCheckIcon: __vue_component__$6,WindowCloseIcon: __vue_component__$5,WindowCodeBlockIcon: __vue_component__$4,WindowSidebarIcon: __vue_component__$3,WindowTerminalIcon: __vue_component__$2,WindowIcon: __vue_component__$1,YoutubeIcon: __vue_component__});var install = function installVueCoolicons(Vue) {
   Object.entries(components$1).forEach(function (_ref) {
     var _ref2 = _slicedToArray(_ref, 2),
         componentName = _ref2[0],
