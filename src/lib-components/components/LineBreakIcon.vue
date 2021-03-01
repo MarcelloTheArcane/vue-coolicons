@@ -1,11 +1,11 @@
-<template functional>
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M18 6V12H7.83L10.41 9.41L9 8L4 13L9 18L10.41 16.59L7.83 14H20V6H18Z" fill="black"/>
-</svg>
-</template>
-
 <script>
 export default {
   name: 'LineBreakIcon',
+  functional: true,
+  render (h, ctx) {
+    return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...ctx.data}>
+<path d="M18 6V12H7.83L10.41 9.41L9 8L4 13L9 18L10.41 16.59L7.83 14H20V6H18Z" fill="currentColor"/>
+</svg>)
+  },
 }
 </script>

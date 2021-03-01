@@ -1,11 +1,11 @@
-<template functional>
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8 6H11V22H13V6H16L12 2L8 6Z" fill="black"/>
-</svg>
-</template>
-
 <script>
 export default {
   name: 'SmallLongUpIcon',
+  functional: true,
+  render (h, ctx) {
+    return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...ctx.data}>
+<path d="M8 6H11V22H13V6H16L12 2L8 6Z" fill="currentColor"/>
+</svg>)
+  },
 }
 </script>

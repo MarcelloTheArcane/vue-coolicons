@@ -1,11 +1,11 @@
-<template functional>
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M18 19H6V17H18V19ZM21 15H3V13H21V15ZM18 11H6V9H18V11ZM21 7H3V5H21V7Z" fill="black"/>
-</svg>
-</template>
-
 <script>
 export default {
   name: 'TextAlignCenterIcon',
+  functional: true,
+  render (h, ctx) {
+    return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...ctx.data}>
+<path d="M18 19H6V17H18V19ZM21 15H3V13H21V15ZM18 11H6V9H18V11ZM21 7H3V5H21V7Z" fill="currentColor"/>
+</svg>)
+  },
 }
 </script>

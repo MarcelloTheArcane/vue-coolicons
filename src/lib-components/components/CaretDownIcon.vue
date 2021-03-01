@@ -1,11 +1,11 @@
-<template functional>
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12 14.5L17 9.5H7L12 14.5Z" fill="black"/>
-</svg>
-</template>
-
 <script>
 export default {
   name: 'CaretDownIcon',
+  functional: true,
+  render (h, ctx) {
+    return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...ctx.data}>
+<path d="M12 14.5L17 9.5H7L12 14.5Z" fill="currentColor"/>
+</svg>)
+  },
 }
 </script>
