@@ -38,15 +38,14 @@ function toPascalCase (string: string): string {
 }
 
 function wrapSVGInTemplate (name: string, svg: string): string {
-  return `
-<template functional>
-${svg.trim()}
-</template>
-
-<script>
+  return `<script>
 export default {
   name: '${name}',
+  functional: true,
+  render (h, ctx) {
+    return (${svg.replace(/<svg([^>]+)>/, '<svg$1 {...ctx.data}>').trim()})
+  },
 }
 </script>
-`.trim()
+`
 }
