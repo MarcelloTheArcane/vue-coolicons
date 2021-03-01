@@ -38,6 +38,7 @@ const baseConfig = {
     ],
     replace: {
       'process.env.NODE_ENV': JSON.stringify('production'),
+      preventAssignment: true,
     },
     vue: {
       css: true,
