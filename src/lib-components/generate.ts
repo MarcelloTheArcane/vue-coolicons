@@ -6,12 +6,17 @@ const files: string[] = fs.readdirSync(directory)
 
 Promise.all(files.map(generateSVG))
   .then((iconNames) => {
-    const index: string = iconNames.reduce((index, iconName) => {
-      index += `export { default as ${iconName} } from './components/${iconName}.vue'\n`
-      return index
-    }, '/* eslint-disable import/prefer-default-export */\n')
+    const { index, types } = iconNames.reduce((files, iconName) => {
+      files.index += `export { default as ${iconName} } from './components/${iconName}.vue'\n`
+      files.types += `export const ${iconName}: VueConstructor<Vue>;\n`
+      return files
+    }, {
+      index: '/* eslint-disable import/prefer-default-export */\n',
+      types: `import Vue, { PluginFunction, VueConstructor } from 'vue';\n\ndeclare const VueCoolicons: PluginFunction<any>;\nexport default VueCoolicons;\n\n`,
+    })
 
     fs.writeFileSync(path.join(__dirname, 'index.ts'), index)
+    fs.writeFileSync(path.join(__dirname, '../../vue-coolicons.d.ts'), types)
   })
 
 async function generateSVG (iconFilename: string): Promise<string> {
