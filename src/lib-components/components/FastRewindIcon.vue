@@ -4,7 +4,7 @@ export default {
   functional: true,
   render (h, ctx) {
     return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...ctx.data}>
-<path d="M20 18L11.5 12L20 6V18ZM11 18L2.5 12L11 6V18Z" fill="currentColor"/>
+<path d="M20 18L11.5 12L20 6V18ZM11 18L2.5 12L11 6V18Z"/>
 </svg>)
   },
 }
