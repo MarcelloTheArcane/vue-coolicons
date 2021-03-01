@@ -1,6 +1,6 @@
 {
   "name": "vue-coolicons",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Wrapper for https://coolicons.cool in Vue + Typescript!",
   "main": "dist/vue-coolicons.ssr.js",
   "browser": "dist/vue-coolicons.esm.js",
